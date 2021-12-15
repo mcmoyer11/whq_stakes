@@ -1,0 +1,61 @@
+story,report,code
+high_inspector,'Restaurants A, B, C, D, and E.',exh
+high_inspector,'Restaurant A.',mo-h
+high_inspector,'Restaurants A and B.',ms-h
+high_inspector,'Restaurants C and E.',ms-l
+high_inspector,'Restaurant E.',mo-l
+high_inspector,'Restaurant F.',f
+high_firefighter,'The first, second, third, fourth and fifth floors.',exh
+high_firefighter,'The first floor.',mo-h
+high_firefighter,'The first and second floors.',ms-h
+high_firefighter,'The fourth and fifth floors.',ms-l
+high_firefighter,'The fifth floor.',mo-l
+high_firefighter,'The sixth floor.',f
+high_protest,'The Northeast, Southwest, South, Southeast and North districts.',exh
+high_operative,'The Northeast district.',mo-h
+high_operative,'The Northeast and Southwest districts.',ms-h
+high_operative,'The South and North districts.',ms-l
+high_operative,'The North district.',mo-l
+high_operative,'The West district.',f
+high_terrorism,'Stores A, B, C, D, and E.',exh
+high_terrorism,'Store A.',mo-h
+high_terrorism,'Stores A and B.',ms-h
+high_terrorism,'Stores D and E.',ms-l
+high_terrorism,'Store E.',mo-l
+high_terrorism,'Store F.',f
+high_fbi,'Places A, B, C, D, and E.',exh
+high_fbi,'Place A.',mo-h
+high_fbi,'Places A and B.',ms-h
+high_fbi,'Places D and E.',ms-l
+high_fbi,'Place E.',mo-l
+high_fbi,'Place F.',f
+low_pic,'Locations A, B, C, D, and E.',exh
+low_pic,'Location A.',mo-h
+low_pic,'Locations A and B.',ms-h
+low_pic,'Locations D and E.',ms-l
+low_pic,'Location E.',mo-l
+low_pic,'Location F.',f
+low_la,'Diners A, B, C, D, and E.',exh
+low_la,'Diner A.',mo-h
+low_la,'Diners A and B.',ms-h
+low_la,'Diners D and E.',ms-l
+low_la,'Diner E.',mo-l
+low_la,'Diner F.',f
+low_coffee,'Cafes A, B, C, D, and E.',exh
+low_coffee,'Cafe A.',mo-h
+low_coffee,'Cafes A and B.',ms-h
+low_coffee,'Cafes D and E.',ms-l
+low_coffee,'Cafe E.',mo-l
+low_coffee,'Cafe F.',f
+low_yoga,'Studios A, B, C, D, and E.',exh
+low_yoga,'Studio A.',mo-h
+low_yoga,'Studios A and B.',ms-h
+low_yoga,'Studios D and E.',ms-l
+low_yoga,'Studio E.',mo-l
+low_yoga,'Studio F.',f
+low_brother,'Stalls A, B, C, D, and E.',exh
+low_brother,'Stall A.',mo-h
+low_brother,'Stalls A and B.',ms-h
+low_brother,'Stalls D and E.',ms-l
+low_brother,'Stall E.',mo-l
+low_brother,'Stall F.',f

@@ -1,0 +1,577 @@
+subject,native_lang,age,gender,trial,story,reaction_time,response_a,response_b,response_c,response_d,report_a,report_b,report_c,tag_a,tag_b,tag_c,exhaustive_seen,mention_one_high_seen,mention_one_low_seen,mention_some_high_seen,mention_some_low_seen,false_report_seen,none_of_above_seen,exhaustive_chosen,mention_one_high_chosen,mention_one_low_chosen,mention_some_high_chosen,mention_some_low_chosen,false_report_chosen,none_of_above_chosen
+A3KTUKOVGWE9CF,english,27,female,consent,NA,44870,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3KTUKOVGWE9CF,english,27,female,train,train_m,13974,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3KTUKOVGWE9CF,english,27,female,train,train_f,42782,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3KTUKOVGWE9CF,english,27,female,low,low_la,40349,1,0,0,0,Diner B.,Diner C.,Diners C and F.,f,mo-h,ms-h,0,1,0,1,0,1,1,0,0,0,0,0,1,0
+A3KTUKOVGWE9CF,english,27,female,high,high_operative,4413,1,0,0,0,The West district.,The Northeast district.,The North district.,f,mo-h,mo-l,0,1,1,0,0,1,1,0,0,0,0,0,1,0
+A3KTUKOVGWE9CF,english,27,female,low,low_pic,9205,0,1,0,0,Locations D and F.,Location B.,Location F.,ms-l,f,mo-l,0,0,1,0,1,1,1,0,0,0,0,0,1,0
+A3KTUKOVGWE9CF,english,27,female,control,control_when,2799,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,1,1,0,0,0,0,0,1,0
+A3KTUKOVGWE9CF,english,27,female,high,high_fbi,4286,0,0,1,0,"Places F, A, B, C and E.",Place F.,Places B and E.,exh,mo-h,ms-l,1,1,0,0,1,0,1,0,0,0,0,1,0,0
+A3KTUKOVGWE9CF,english,27,female,low,low_yoga,3608,0,1,0,0,Studio F.,Studio B.,Studios C and B.,mo-h,mo-l,ms-l,0,1,1,0,1,0,1,0,0,1,0,0,0,0
+A3KTUKOVGWE9CF,english,27,female,control,control_why,2197,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,0,1,0,0,0,0
+A3KTUKOVGWE9CF,english,27,female,high,high_firefighter,7733,0,0,1,0,The fifth floor.,The fourth and sixth floors.,The fifth and second floors.,mo-h,ms-l,ms-h,0,1,0,1,1,0,1,0,0,0,1,0,0,0
+A3KTUKOVGWE9CF,english,27,female,low,low_brother,2942,0,1,0,0,"Stalls C, D, A, F and B.",Stall C.,Stalls A and B.,exh,mo-h,ms-l,1,1,0,0,1,0,1,0,1,0,0,0,0,0
+A3KTUKOVGWE9CF,english,27,female,high,high_terrorism,4358,0,0,1,0,Store E.,Store F.,Store C.,mo-h,mo-l,f,0,1,1,0,0,1,1,0,0,0,0,0,1,0
+A3KTUKOVGWE9CF,english,27,female,control,control_how,6626,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,1,0,0,0,0,0,1,0
+A3KTUKOVGWE9CF,english,27,female,low,low_coffee,4630,0,1,0,0,Cafe A.,Cafes E and B.,"Cafes E, B, F, C and D.",f,ms-h,exh,1,0,0,1,0,1,1,0,0,0,1,0,0,0
+A3KTUKOVGWE9CF,english,27,female,high,high_inspector,2493,0,1,0,0,Restaurant E.,Restaurants A and B.,Restaurant F.,mo-l,ms-h,f,0,0,1,1,0,1,1,0,0,0,1,0,0,0
+A3KTUKOVGWE9CF,english,27,female,control,control_what,8866,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,1,1,0,0,0,1,0,0,0
+A3KTUKOVGWE9CF,english,27,female,exit_quest,NA,125893,yes,yes,good thing,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3BS3RZIWQMB9G,English ,42,male,consent,NA,30087,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3BS3RZIWQMB9G,English ,42,male,train,train_f,36323,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3BS3RZIWQMB9G,English ,42,male,train,train_m,28745,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3BS3RZIWQMB9G,English ,42,male,low,low_coffee,42161,1,0,0,0,"Cafes E, B, F, C and D.",Cafe E.,Cafe D.,exh,mo-h,mo-l,1,1,1,0,0,0,1,1,0,0,0,0,0,0
+A3BS3RZIWQMB9G,English ,42,male,high,high_inspector,50168,1,0,0,0,Restaurants C and E.,Restaurants A and B.,Restaurant E.,ms-l,ms-h,mo-l,0,0,1,1,1,0,1,0,0,0,0,1,0,0
+A3BS3RZIWQMB9G,English ,42,male,low,low_yoga,25191,1,0,1,0,"Studios F, E, D, C and B.",Studio A.,Studios F and E.,exh,f,ms-h,1,0,0,1,0,1,1,1,0,0,1,0,0,0
+A3BS3RZIWQMB9G,English ,42,male,control,control_what,15025,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,1,0,0,1,0,0,0
+A3BS3RZIWQMB9G,English ,42,male,high,high_terrorism,34168,1,1,1,0,Store F.,"Stores E, B, A, D, and F.",Stores A and F.,mo-l,exh,ms-l,1,0,1,0,1,0,1,1,0,1,0,1,0,0
+A3BS3RZIWQMB9G,English ,42,male,low,low_pic,16630,1,1,0,0,Locations D and F.,"Locations A, D, E, and F.",Location B.,ms-l,exh,f,1,0,0,0,1,1,1,1,0,0,0,1,0,0
+A3BS3RZIWQMB9G,English ,42,male,control,control_when,38464,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,1,0,0,0,1,0,0
+A3BS3RZIWQMB9G,English ,42,male,high,high_firefighter,23955,1,1,1,0,The sixth floor.,"The fifth, second, fourth, third and sixth floors.",The fourth and sixth floors.,mo-l,exh,ms-l,1,0,1,0,1,0,1,1,0,1,0,1,0,0
+A3BS3RZIWQMB9G,English ,42,male,low,low_la,31119,1,1,1,0,Diners A and E.,"Diners C, F, A, D, and E.",Diners C and F.,ms-l,exh,ms-h,1,0,0,1,1,0,1,1,0,0,1,1,0,0
+A3BS3RZIWQMB9G,English ,42,male,high,high_operative,28953,1,0,1,0,The West district.,The North district.,The Northeast and Southwest districts.,f,mo-l,ms-h,0,0,1,1,0,1,1,0,0,0,1,0,1,0
+A3BS3RZIWQMB9G,English ,42,male,control,control_how,32072,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,1,1,0,0,0,1,0,1,0
+A3BS3RZIWQMB9G,English ,42,male,low,low_brother,16989,1,0,1,0,"Stalls C, D, A, F and B.",Stall E.,Stalls C and D.,exh,f,ms-h,1,0,0,1,0,1,1,1,0,0,1,0,0,0
+A3BS3RZIWQMB9G,English ,42,male,high,high_fbi,13352,1,0,1,0,Places B and E.,Place E.,Places F and A.,ms-l,mo-l,ms-h,0,0,1,1,1,0,1,0,0,0,1,1,0,0
+A3BS3RZIWQMB9G,English ,42,male,control,control_why,25109,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,1,1,0,0
+A3BS3RZIWQMB9G,English ,42,male,exit_quest,NA,45617,The coffee shop or grocery store ,No,Nope ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AKMQH2MGTUWO9,English,22,male,consent,NA,21022,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AKMQH2MGTUWO9,English,22,male,train,train_m,37292,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AKMQH2MGTUWO9,English,22,male,train,train_f,29058,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AKMQH2MGTUWO9,English,22,male,low,low_la,37324,1,0,0,0,Diner C.,Diners C and F.,Diners A and E.,mo-h,ms-h,ms-l,0,1,0,1,1,0,1,0,1,0,0,0,0,0
+AKMQH2MGTUWO9,English,22,male,high,high_inspector,45584,1,0,1,0,Restaurant E.,Restaurant F.,Restaurants A and B.,mo-l,f,ms-h,0,0,1,1,0,1,1,0,0,1,1,0,0,0
+AKMQH2MGTUWO9,English,22,male,low,low_coffee,44372,1,1,1,0,Cafe D.,Cafe E.,Cafes E and B.,mo-l,mo-h,ms-h,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+AKMQH2MGTUWO9,English,22,male,control,control_when,31554,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,1,1,1,0,0,0
+AKMQH2MGTUWO9,English,22,male,high,high_firefighter,47724,1,1,1,1,The fifth floor.,The sixth floor.,The fourth and sixth floors.,mo-h,mo-l,ms-l,0,1,1,0,1,0,1,0,1,1,0,1,0,1
+AKMQH2MGTUWO9,English,22,male,low,low_yoga,31150,1,1,1,0,Studios C and B.,Studios F and E.,Studio B.,ms-l,ms-h,mo-l,0,0,1,1,1,0,1,0,0,1,1,1,0,0
+AKMQH2MGTUWO9,English,22,male,control,control_why,20144,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,1,1,1,0,0
+AKMQH2MGTUWO9,English,22,male,high,high_fbi,26572,0,1,1,0,Place D.,Place F.,Places F and A.,f,mo-h,ms-h,0,1,0,1,0,1,1,0,1,0,1,0,0,0
+AKMQH2MGTUWO9,English,22,male,low,low_pic,24808,0,1,1,0,Location B.,Locations D and F.,Locations A and D.,f,ms-l,ms-h,0,0,0,1,1,1,1,0,0,0,1,1,0,0
+AKMQH2MGTUWO9,English,22,male,high,high_operative,47402,0,0,1,0,The North district.,The South and North districts.,"The Northeast, Southwest, South, Southeast and North districts.",mo-l,ms-l,exh,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+AKMQH2MGTUWO9,English,22,male,control,control_how,69136,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,1,0,0,0,0,0,0
+AKMQH2MGTUWO9,English,22,male,low,low_brother,27912,1,1,0,0,Stalls A and B.,Stall C.,Stall E.,ms-l,mo-h,f,0,1,0,0,1,1,1,0,1,0,0,1,0,0
+AKMQH2MGTUWO9,English,22,male,high,high_terrorism,21602,0,1,0,0,Store F.,"Stores E, B, A, D, and F.",Store C.,mo-l,exh,f,1,0,1,0,0,1,1,1,0,0,0,0,0,0
+AKMQH2MGTUWO9,English,22,male,control,control_what,15914,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,1,0,0,0,0,0,0
+AKMQH2MGTUWO9,English,22,male,exit_quest,NA,48790,at any grocery store,Yes%2C it was bizarre.  Not enough information to guide you through.,N.A.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3A8P4UR9A0DWQ,english,42,female,consent,NA,24210,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3A8P4UR9A0DWQ,english,42,female,train,train_f,30494,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3A8P4UR9A0DWQ,english,42,female,train,train_m,43200,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3A8P4UR9A0DWQ,english,42,female,high,high_fbi,30587,0,0,1,0,Place E.,Places B and E.,Place F.,mo-l,ms-l,mo-h,0,1,1,0,1,0,1,0,1,0,0,0,0,0
+A3A8P4UR9A0DWQ,english,42,female,low,low_coffee,56633,0,1,0,0,Cafes F and D.,Cafes E and B.,Cafe E.,ms-l,ms-h,mo-h,0,1,0,1,1,0,1,0,0,0,1,0,0,0
+A3A8P4UR9A0DWQ,english,42,female,high,high_terrorism,25813,0,1,0,0,Store E.,Stores E and B.,Store F.,mo-h,ms-h,mo-l,0,1,1,1,0,0,1,0,0,0,1,0,0,0
+A3A8P4UR9A0DWQ,english,42,female,control,control_what,36448,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,0,0,1,0,0,0
+A3A8P4UR9A0DWQ,english,42,female,low,low_brother,26307,0,0,1,0,Stalls A and B.,Stall C.,"Stalls C, D, A, F and B.",ms-l,mo-h,exh,1,1,0,0,1,0,1,1,0,0,0,0,0,0
+A3A8P4UR9A0DWQ,english,42,female,high,high_inspector,23851,0,0,1,0,Restaurants C and E.,Restaurant F.,Restaurant A.,ms-l,f,mo-h,0,1,0,0,1,1,1,0,1,0,0,0,0,0
+A3A8P4UR9A0DWQ,english,42,female,control,control_how,36712,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,1,1,0,1,0,0,0,0,0
+A3A8P4UR9A0DWQ,english,42,female,low,low_yoga,22163,0,1,0,0,Studios C and B.,Studios F and E.,Studio B.,ms-l,ms-h,mo-l,0,0,1,1,1,0,1,0,0,0,1,0,0,0
+A3A8P4UR9A0DWQ,english,42,female,high,high_operative,23088,0,0,1,0,The Northeast and Southwest districts.,The South and North districts.,The Northeast district.,ms-h,ms-l,mo-h,0,1,0,1,1,0,1,0,1,0,0,0,0,0
+A3A8P4UR9A0DWQ,english,42,female,low,low_la,11674,0,0,1,0,Diner E.,Diners C and F.,"Diners C, F, A, D, and E.",mo-l,ms-h,exh,1,0,1,1,0,0,1,1,0,0,0,0,0,0
+A3A8P4UR9A0DWQ,english,42,female,control,control_why,25609,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,1,0,0,0,0,0,0
+A3A8P4UR9A0DWQ,english,42,female,high,high_firefighter,24322,1,0,0,0,The fifth floor.,The fifth and second floors.,The fourth and sixth floors.,mo-h,ms-h,ms-l,0,1,0,1,1,0,1,0,1,0,0,0,0,0
+A3A8P4UR9A0DWQ,english,42,female,low,low_pic,17994,0,1,0,0,Location A.,"Locations A, D, E, and F.",Location F.,mo-h,exh,mo-l,1,1,1,0,0,0,1,1,0,0,0,0,0,0
+A3A8P4UR9A0DWQ,english,42,female,control,control_when,36500,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,1,0,0,0,0,0,0
+A3A8P4UR9A0DWQ,english,42,female,exit_quest,NA,40508,He found coffee in the cupboard.,no,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1P47Q6LZPLQ6P,English,27,male,consent,NA,53494,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1P47Q6LZPLQ6P,English,27,male,train,train_f,25058,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1P47Q6LZPLQ6P,English,27,male,train,train_m,22156,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1P47Q6LZPLQ6P,English,27,male,high,high_operative,55896,0,0,1,0,The Northeast district.,The South and North districts.,"The Northeast, Southwest, South, Southeast and North districts.",mo-h,ms-l,exh,1,1,0,0,1,0,1,1,0,0,0,0,0,0
+A1P47Q6LZPLQ6P,English,27,male,low,low_la,37696,1,1,0,0,Diners C and F.,Diner C.,Diner B.,ms-h,mo-h,f,0,1,0,1,0,1,1,0,1,0,1,0,0,0
+A1P47Q6LZPLQ6P,English,27,male,high,high_firefighter,27020,0,0,0,1,The fifth floor.,The sixth floor.,The fifth and second floors.,mo-h,mo-l,ms-h,0,1,1,1,0,0,1,0,0,0,0,0,0,1
+A1P47Q6LZPLQ6P,English,27,male,control,control_what,18730,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,0,0,0,0,0,1
+A1P47Q6LZPLQ6P,English,27,male,low,low_brother,14058,0,0,0,1,Stall B.,Stall C.,Stalls C and D.,mo-l,mo-h,ms-h,0,1,1,1,0,0,1,0,0,0,0,0,0,1
+A1P47Q6LZPLQ6P,English,27,male,high,high_inspector,20722,0,0,0,1,Restaurants C and E.,Restaurants A and B.,Restaurant F.,ms-l,ms-h,f,0,0,0,1,1,1,1,0,0,0,0,0,0,1
+A1P47Q6LZPLQ6P,English,27,male,control,control_how,29288,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,1,1,0,0,0,0,0,0,1
+A1P47Q6LZPLQ6P,English,27,male,low,low_coffee,116418,0,0,0,1,Cafes F and D.,Cafe D.,Cafe A.,ms-l,mo-l,f,0,0,1,0,1,1,1,0,0,0,0,0,0,1
+A1P47Q6LZPLQ6P,English,27,male,high,high_fbi,14840,0,0,0,1,Place D.,Place E.,Place F.,f,mo-l,mo-h,0,1,1,0,0,1,1,0,0,0,0,0,0,1
+A1P47Q6LZPLQ6P,English,27,male,low,low_pic,13466,0,0,0,1,Locations D and F.,Location B.,Location F.,ms-l,f,mo-l,0,0,1,0,1,1,1,0,0,0,0,0,0,1
+A1P47Q6LZPLQ6P,English,27,male,control,control_why,22148,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,1,1,0,0,0,0,0,0,1
+A1P47Q6LZPLQ6P,English,27,male,high,high_terrorism,14842,0,0,0,1,Store C.,Stores E and B.,Store E.,f,ms-h,mo-h,0,1,0,1,0,1,1,0,0,0,0,0,0,1
+A1P47Q6LZPLQ6P,English,27,male,low,low_yoga,14160,0,0,0,1,Studio A.,Studio B.,Studios F and E.,f,mo-l,ms-h,0,0,1,1,0,1,1,0,0,0,0,0,0,1
+A1P47Q6LZPLQ6P,English,27,male,control,control_when,20082,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,1,1,0,0,0,0,0,0,1
+A1P47Q6LZPLQ6P,English,27,male,exit_quest,NA,40104,John can find coffee at the store.,Not really%2C pretty simple.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1WOCD9SAYI07V,English,59,female,consent,NA,95143,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1WOCD9SAYI07V,English,59,female,train,train_m,51310,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1WOCD9SAYI07V,English,59,female,train,train_f,25557,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1WOCD9SAYI07V,English,59,female,low,low_la,40086,0,1,0,0,Diners A and E.,"Diners C, F, A, D, and E.",Diners C and F.,ms-l,exh,ms-h,1,0,0,1,1,0,1,1,0,0,0,0,0,0
+A1WOCD9SAYI07V,English,59,female,high,high_operative,26692,0,0,1,0,The South and North districts.,The North district.,"The Northeast, Southwest, South, Southeast and North districts.",ms-l,mo-l,exh,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+A1WOCD9SAYI07V,English,59,female,control,control_what,24928,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,1,0,0,0,0,0,0
+A1WOCD9SAYI07V,English,59,female,low,low_brother,10094,0,1,0,0,Stall E.,"Stalls C, D, A, F and B.",Stalls A and B.,f,exh,ms-l,1,0,0,0,1,1,1,1,0,0,0,0,0,0
+A1WOCD9SAYI07V,English,59,female,high,high_inspector,16919,0,0,0,1,Restaurants C and E.,Restaurant A.,Restaurant E.,ms-l,mo-h,mo-l,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+A1WOCD9SAYI07V,English,59,female,control,control_when,20618,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,0,0,0,0,0,1
+A1WOCD9SAYI07V,English,59,female,low,low_yoga,9236,0,0,0,1,Studios C and B.,Studio F.,Studios F and E.,ms-l,mo-h,ms-h,0,1,0,1,1,0,1,0,0,0,0,0,0,1
+A1WOCD9SAYI07V,English,59,female,high,high_terrorism,16780,0,0,0,1,Store F.,Store C.,Store E.,mo-l,f,mo-h,0,1,1,0,0,1,1,0,0,0,0,0,0,1
+A1WOCD9SAYI07V,English,59,female,low,low_pic,20714,0,0,0,1,Location A.,Location F.,Locations A and D.,mo-h,mo-l,ms-h,0,1,1,1,0,0,1,0,0,0,0,0,0,1
+A1WOCD9SAYI07V,English,59,female,control,control_how,15366,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,0,0,0,0,0,1
+A1WOCD9SAYI07V,English,59,female,high,high_fbi,12764,0,0,1,1,Places B and E.,Place D.,Place F.,ms-l,f,mo-h,0,1,0,0,1,1,1,0,1,0,0,0,0,1
+A1WOCD9SAYI07V,English,59,female,low,low_coffee,12509,0,0,0,1,Cafes F and D.,Cafes E and B.,Cafe A.,ms-l,ms-h,f,0,0,0,1,1,1,1,0,0,0,0,0,0,1
+A1WOCD9SAYI07V,English,59,female,high,high_firefighter,11768,0,0,1,0,The fourth and sixth floors.,The fifth floor.,"The fifth, second, fourth, third and sixth floors.",ms-l,mo-h,exh,1,1,0,0,1,0,1,1,0,0,0,0,0,0
+A1WOCD9SAYI07V,English,59,female,control,control_why,14821,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,1,0,0,0,0,0,0
+A1WOCD9SAYI07V,English,59,female,exit_quest,NA,97533,I would answer in present tense because I am explaining where John can find the coffee right now.,I think this task was a bit strange%2C but not really all that difficult. It mostly just involved reading comprehension.,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2EA2PN47ZWILX,English,41,female,consent,NA,64642,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2EA2PN47ZWILX,English,41,female,train,train_m,49741,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2EA2PN47ZWILX,English,41,female,train,train_f,72561,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2EA2PN47ZWILX,English,41,female,low,low_brother,67199,0,0,1,0,Stalls A and B.,Stall E.,"Stalls C, D, A, F and B.",ms-l,f,exh,1,0,0,0,1,1,1,1,0,0,0,0,0,0
+A2EA2PN47ZWILX,English,41,female,high,high_operative,113916,0,0,0,1,The South and North districts.,The West district.,The Northeast and Southwest districts.,ms-l,f,ms-h,0,0,0,1,1,1,1,0,0,0,0,0,0,1
+A2EA2PN47ZWILX,English,41,female,control,control_why,42407,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,1,1,0,0,0,0,0,0,1
+A2EA2PN47ZWILX,English,41,female,low,low_pic,44908,0,0,0,1,Locations D and F.,Locations A and D.,Location F.,ms-l,ms-h,mo-l,0,0,1,1,1,0,1,0,0,0,0,0,0,1
+A2EA2PN47ZWILX,English,41,female,high,high_inspector,15497,0,0,0,1,Restaurant A.,Restaurants A and B.,Restaurant E.,mo-h,ms-h,mo-l,0,1,1,1,0,0,1,0,0,0,0,0,0,1
+A2EA2PN47ZWILX,English,41,female,control,control_when,29816,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,0,0,0,0,0,1
+A2EA2PN47ZWILX,English,41,female,low,low_la,18971,1,0,0,0,"Diners C, F, A, D, and E.",Diner C.,Diners A and E.,exh,mo-h,ms-l,1,1,0,0,1,0,1,1,0,0,0,0,0,0
+A2EA2PN47ZWILX,English,41,female,high,high_fbi,13139,0,0,0,1,Place F.,Places B and E.,Place E.,mo-h,ms-l,mo-l,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+A2EA2PN47ZWILX,English,41,female,low,low_coffee,42006,0,0,0,1,Cafe E.,Cafes E and B.,Cafes F and D.,mo-h,ms-h,ms-l,0,1,0,1,1,0,1,0,0,0,0,0,0,1
+A2EA2PN47ZWILX,English,41,female,control,control_how,30884,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,0,0,0,0,0,1
+A2EA2PN47ZWILX,English,41,female,high,high_terrorism,12763,0,0,1,0,Stores E and B.,Stores A and F.,"Stores E, B, A, D, and F.",ms-h,ms-l,exh,1,0,0,1,1,0,1,1,0,0,0,0,0,0
+A2EA2PN47ZWILX,English,41,female,low,low_yoga,9865,0,0,0,1,Studio B.,Studio F.,Studios F and E.,mo-l,mo-h,ms-h,0,1,1,1,0,0,1,0,0,0,0,0,0,1
+A2EA2PN47ZWILX,English,41,female,high,high_firefighter,29391,0,1,0,0,The fourth and sixth floors.,"The fifth, second, fourth, third and sixth floors.",The sixth floor.,ms-l,exh,mo-l,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+A2EA2PN47ZWILX,English,41,female,control,control_what,33142,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,1,0,0,0,0,0,0
+A2EA2PN47ZWILX,English,41,female,exit_quest,NA,46591,John can find the coffee in the pantry.,It was not too difficult,No%2C everything was straightforward.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1HIQZEC2ER7GS,ENGLISH,29,male,consent,NA,15699,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1HIQZEC2ER7GS,ENGLISH,29,male,train,train_f,46364,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1HIQZEC2ER7GS,ENGLISH,29,male,train,train_m,48947,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1HIQZEC2ER7GS,ENGLISH,29,male,low,low_yoga,24711,1,1,1,0,Studios C and B.,Studios F and E.,Studio B.,ms-l,ms-h,mo-l,0,0,1,1,1,0,1,0,0,1,1,1,0,0
+A1HIQZEC2ER7GS,ENGLISH,29,male,high,high_operative,24602,1,1,1,0,The South and North districts.,The West district.,The North district.,ms-l,f,mo-l,0,0,1,0,1,1,1,0,0,1,0,1,1,0
+A1HIQZEC2ER7GS,ENGLISH,29,male,low,low_la,2796,0,1,0,0,Diner B.,Diner C.,Diners A and E.,f,mo-h,ms-l,0,1,0,0,1,1,1,0,1,0,0,0,0,0
+A1HIQZEC2ER7GS,ENGLISH,29,male,control,control_what,2469,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,1,1,0,1,0,0,0,0,0
+A1HIQZEC2ER7GS,ENGLISH,29,male,high,high_inspector,2673,0,1,0,0,Restaurants A and B.,Restaurant A.,Restaurant E.,ms-h,mo-h,mo-l,0,1,1,1,0,0,1,0,1,0,0,0,0,0
+A1HIQZEC2ER7GS,ENGLISH,29,male,low,low_brother,2134,0,1,0,0,Stalls A and B.,Stall C.,Stalls C and D.,ms-l,mo-h,ms-h,0,1,0,1,1,0,1,0,1,0,0,0,0,0
+A1HIQZEC2ER7GS,ENGLISH,29,male,control,control_how,3361,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,0,0,0,0
+A1HIQZEC2ER7GS,ENGLISH,29,male,high,high_firefighter,2537,0,1,0,0,The sixth floor.,The first floor.,The fourth and sixth floors.,mo-l,f,ms-l,0,0,1,0,1,1,1,0,0,0,0,0,1,0
+A1HIQZEC2ER7GS,ENGLISH,29,male,low,low_pic,1294,0,0,0,0,Locations D and F.,Location B.,Location A.,ms-l,f,mo-h,0,1,0,0,1,1,1,0,0,0,0,0,0,0
+A1HIQZEC2ER7GS,ENGLISH,29,male,high,high_fbi,3442,0,1,0,0,Place E.,Places F and A.,Place F.,mo-l,ms-h,mo-h,0,1,1,1,0,0,1,0,0,0,1,0,0,0
+A1HIQZEC2ER7GS,ENGLISH,29,male,control,control_why,2404,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,0,0,1,0,0,0
+A1HIQZEC2ER7GS,ENGLISH,29,male,low,low_coffee,2570,0,1,0,0,Cafe D.,Cafes F and D.,Cafe E.,mo-l,ms-l,mo-h,0,1,1,0,1,0,1,0,0,0,0,1,0,0
+A1HIQZEC2ER7GS,ENGLISH,29,male,high,high_terrorism,2089,0,1,0,0,Stores A and F.,Store C.,Store F.,ms-l,f,mo-l,0,0,1,0,1,1,1,0,0,0,0,0,1,0
+A1HIQZEC2ER7GS,ENGLISH,29,male,control,control_when,2859,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,1,1,0,0,0,0,0,1,0
+A1HIQZEC2ER7GS,ENGLISH,29,male,exit_quest,NA,23760,HE CAN FIND IT OVER THERE,SOME ,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AP4FDDWBJW470,English,53,female,consent,NA,45200,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AP4FDDWBJW470,English,53,female,train,train_f,45546,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AP4FDDWBJW470,English,53,female,train,train_m,40593,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AP4FDDWBJW470,English,53,female,low,low_yoga,42671,0,1,0,0,Studio F.,Studios F and E.,Studio B.,mo-h,ms-h,mo-l,0,1,1,1,0,0,1,0,0,0,1,0,0,0
+AP4FDDWBJW470,English,53,female,high,high_operative,53869,0,0,1,0,The South and North districts.,The North district.,The Northeast district.,ms-l,mo-l,mo-h,0,1,1,0,1,0,1,0,1,0,0,0,0,0
+AP4FDDWBJW470,English,53,female,low,low_pic,50668,1,1,0,0,Locations A and D.,Location F.,Location A.,ms-h,mo-l,mo-h,0,1,1,1,0,0,1,0,0,1,1,0,0,0
+AP4FDDWBJW470,English,53,female,control,control_what,39004,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,0,1,1,0,0,0
+AP4FDDWBJW470,English,53,female,high,high_terrorism,19227,1,0,0,0,"Stores E, B, A, D, and F.",Stores E and B.,Store E.,exh,ms-h,mo-h,1,1,0,1,0,0,1,1,0,0,0,0,0,0
+AP4FDDWBJW470,English,53,female,low,low_la,44975,1,1,1,0,Diner E.,Diner C.,Diners A and E.,mo-l,mo-h,ms-l,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+AP4FDDWBJW470,English,53,female,control,control_when,31910,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,1,0,1,0,0
+AP4FDDWBJW470,English,53,female,high,high_firefighter,14210,1,1,0,0,The fourth and sixth floors.,The sixth floor.,The first floor.,ms-l,mo-l,f,0,0,1,0,1,1,1,0,0,1,0,1,0,0
+AP4FDDWBJW470,English,53,female,low,low_coffee,23669,1,1,0,0,Cafe E.,Cafes E and B.,Cafe A.,mo-h,ms-h,f,0,1,0,1,0,1,1,0,1,0,1,0,0,0
+AP4FDDWBJW470,English,53,female,high,high_fbi,34765,1,0,0,0,"Places F, A, B, C and E.",Place E.,Place F.,exh,mo-l,mo-h,1,1,1,0,0,0,1,1,0,0,0,0,0,0
+AP4FDDWBJW470,English,53,female,control,control_why,11645,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,1,0,0,0,0,0,0
+AP4FDDWBJW470,English,53,female,low,low_brother,13788,1,0,0,0,"Stalls C, D, A, F and B.",Stall B.,Stalls A and B.,exh,mo-l,ms-l,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+AP4FDDWBJW470,English,53,female,high,high_inspector,17897,0,0,1,0,Restaurant A.,Restaurants A and B.,"Restaurants A, B, C, D, and E.",mo-h,ms-h,exh,1,1,0,1,0,0,1,1,0,0,0,0,0,0
+AP4FDDWBJW470,English,53,female,control,control_how,42496,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,1,0,0,0,0,0,0
+AP4FDDWBJW470,English,53,female,exit_quest,NA,68615,John can find coffee at the corner cafe.,Did not find it difficult.,Found the task fun and innovative.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AQSB97UW88SO2,English,30,male,consent,NA,81025,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AQSB97UW88SO2,English,30,male,train,train_f,54457,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AQSB97UW88SO2,English,30,male,train,train_m,45354,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AQSB97UW88SO2,English,30,male,low,low_coffee,56393,0,1,0,0,Cafe A.,"Cafes E, B, F, C and D.",Cafe D.,f,exh,mo-l,1,0,1,0,0,1,1,1,0,0,0,0,0,0
+AQSB97UW88SO2,English,30,male,high,high_operative,50713,1,0,0,0,"The Northeast, Southwest, South, Southeast and North districts.",The Northeast and Southwest districts.,The South and North districts.,exh,ms-h,ms-l,1,0,0,1,1,0,1,1,0,0,0,0,0,0
+AQSB97UW88SO2,English,30,male,low,low_yoga,14409,0,0,0,1,Studio A.,Studios F and E.,Studio F.,f,ms-h,mo-h,0,1,0,1,0,1,1,0,0,0,0,0,0,1
+AQSB97UW88SO2,English,30,male,control,control_how,64348,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,1,1,0,0,0,0,0,0,1
+AQSB97UW88SO2,English,30,male,high,high_fbi,23104,0,0,1,0,Place F.,Places F and A.,"Places F, A, B, C and E.",mo-h,ms-h,exh,1,1,0,1,0,0,1,1,0,0,0,0,0,0
+AQSB97UW88SO2,English,30,male,low,low_la,24074,0,1,0,0,Diner E.,"Diners C, F, A, D, and E.",Diners A and E.,mo-l,exh,ms-l,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+AQSB97UW88SO2,English,30,male,control,control_what,32081,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,1,0,0,0,0,0,0
+AQSB97UW88SO2,English,30,male,high,high_inspector,11615,0,0,0,1,Restaurant E.,Restaurant F.,Restaurants C and E.,mo-l,f,ms-l,0,0,1,0,1,1,1,0,0,0,0,0,0,1
+AQSB97UW88SO2,English,30,male,low,low_brother,14556,0,0,1,0,Stall C.,Stalls A and B.,"Stalls C, D, A, F and B.",mo-h,ms-l,exh,1,1,0,0,1,0,1,1,0,0,0,0,0,0
+AQSB97UW88SO2,English,30,male,high,high_firefighter,21600,0,0,0,1,The sixth floor.,The fourth and sixth floors.,The fifth and second floors.,mo-l,ms-l,ms-h,0,0,1,1,1,0,1,0,0,0,0,0,0,1
+AQSB97UW88SO2,English,30,male,control,control_when,55895,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,0,0,0,1
+AQSB97UW88SO2,English,30,male,low,low_pic,10248,0,0,0,1,Location B.,Location A.,Location F.,f,mo-h,mo-l,0,1,1,0,0,1,1,0,0,0,0,0,0,1
+AQSB97UW88SO2,English,30,male,high,high_terrorism,9893,0,0,0,1,Store F.,Stores A and F.,Stores E and B.,mo-l,ms-l,ms-h,0,0,1,1,1,0,1,0,0,0,0,0,0,1
+AQSB97UW88SO2,English,30,male,control,control_why,31316,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,0,0,0,1
+AQSB97UW88SO2,English,30,male,exit_quest,NA,275505,John could probably find coffee at any coffee shop in his area but%2C since I don't have a specific answer and because I don't know where John lives%2C I'm not exactly sure how to answer your question%2C sorry.,No%2C I didn't find this task difficult at all. It was easy because people either know something or they don't. A person only knows something if they give the exact%2C correct answer. While some people in the exercises gave partially correct answers%2C since they didn't know the whole truth%2C they technically didn't really know.,I wish you good luck with the study.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1T9KDKDFO114S,english,65,female,consent,NA,41191,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1T9KDKDFO114S,english,65,female,train,train_f,27767,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1T9KDKDFO114S,english,65,female,train,train_m,33283,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1T9KDKDFO114S,english,65,female,high,high_operative,59237,1,1,1,0,The Northeast and Southwest districts.,The North district.,"The Northeast, Southwest, South, Southeast and North districts.",ms-h,mo-l,exh,1,0,1,1,0,0,1,1,0,1,1,0,0,0
+A1T9KDKDFO114S,english,65,female,low,low_pic,1834,0,0,0,0,Location A.,Locations D and F.,"Locations A, D, E, and F.",mo-h,ms-l,exh,1,1,0,0,1,0,1,0,0,0,0,0,0,0
+A1T9KDKDFO114S,english,65,female,control,control_how,50149,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,0,0,0,0,0,0
+A1T9KDKDFO114S,english,65,female,high,high_terrorism,36269,1,1,0,0,Store F.,Stores E and B.,Store C.,mo-l,ms-h,f,0,0,1,1,0,1,1,0,0,1,1,0,0,0
+A1T9KDKDFO114S,english,65,female,low,low_coffee,44668,1,1,1,0,Cafes E and B.,Cafes F and D.,Cafe E.,ms-h,ms-l,mo-h,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+A1T9KDKDFO114S,english,65,female,control,control_why,30863,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,1,1,0,0
+A1T9KDKDFO114S,english,65,female,high,high_fbi,31754,1,1,1,0,Places F and A.,Place F.,Place E.,ms-h,mo-h,mo-l,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+A1T9KDKDFO114S,english,65,female,low,low_brother,45437,0,1,1,0,Stall B.,Stalls A and B.,Stalls C and D.,mo-l,ms-l,ms-h,0,0,1,1,1,0,1,0,0,0,1,1,0,0
+A1T9KDKDFO114S,english,65,female,high,high_firefighter,32824,0,1,1,0,The first floor.,The fifth floor.,The fourth and sixth floors.,f,mo-h,ms-l,0,1,0,0,1,1,1,0,1,0,0,1,0,0
+A1T9KDKDFO114S,english,65,female,control,control_when,50444,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,1,1,0,1,0,0,1,0,0
+A1T9KDKDFO114S,english,65,female,low,low_yoga,26337,1,1,1,0,Studio F.,Studio B.,Studios C and B.,mo-h,mo-l,ms-l,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A1T9KDKDFO114S,english,65,female,high,high_inspector,31408,1,0,1,0,Restaurant A.,Restaurant F.,Restaurants A and B.,mo-h,f,ms-h,0,1,0,1,0,1,1,0,1,0,1,0,0,0
+A1T9KDKDFO114S,english,65,female,low,low_la,45205,0,1,1,0,Diner B.,"Diners C, F, A, D, and E.",Diners A and E.,f,exh,ms-l,1,0,0,0,1,1,1,1,0,0,0,1,0,0
+A1T9KDKDFO114S,english,65,female,control,control_what,24604,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,1,0,0,0,1,0,0
+A1T9KDKDFO114S,english,65,female,exit_quest,NA,65556,He can find it on the first floor of this building.,not at all. fun!,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3FAH5S2RGZ5AK,English,29,female,consent,NA,34112,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3FAH5S2RGZ5AK,English,29,female,train,train_f,4758,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3FAH5S2RGZ5AK,English,29,female,train,train_m,3470,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3FAH5S2RGZ5AK,English,29,female,high,high_terrorism,4008,1,0,0,0,Store E.,Store C.,Store F.,mo-h,f,mo-l,0,1,1,0,0,1,1,0,1,0,0,0,0,0
+A3FAH5S2RGZ5AK,English,29,female,low,low_pic,2930,0,1,0,0,Locations D and F.,Locations A and D.,Location F.,ms-l,ms-h,mo-l,0,0,1,1,1,0,1,0,0,0,1,0,0,0
+A3FAH5S2RGZ5AK,English,29,female,control,control_when,4463,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,1,0,0,0
+A3FAH5S2RGZ5AK,English,29,female,high,high_inspector,3702,0,0,1,0,"Restaurants A, B, C, D, and E.",Restaurant E.,Restaurants C and E.,exh,mo-l,ms-l,1,0,1,0,1,0,1,0,0,0,0,1,0,0
+A3FAH5S2RGZ5AK,English,29,female,low,low_coffee,4707,1,0,0,0,Cafe D.,Cafes F and D.,Cafes E and B.,mo-l,ms-l,ms-h,0,0,1,1,1,0,1,0,0,1,0,0,0,0
+A3FAH5S2RGZ5AK,English,29,female,control,control_what,3921,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,1,0,0,0,0
+A3FAH5S2RGZ5AK,English,29,female,high,high_firefighter,4552,1,0,0,0,The fifth and second floors.,The sixth floor.,The first floor.,ms-h,mo-l,f,0,0,1,1,0,1,1,0,0,0,1,0,0,0
+A3FAH5S2RGZ5AK,English,29,female,low,low_la,4712,1,0,0,0,Diner C.,Diners A and E.,Diners C and F.,mo-h,ms-l,ms-h,0,1,0,1,1,0,1,0,1,0,0,0,0,0
+A3FAH5S2RGZ5AK,English,29,female,high,high_operative,5182,0,0,1,0,The Northeast and Southwest districts.,"The Northeast, Southwest, South, Southeast and North districts.",The Northeast district.,ms-h,exh,mo-h,1,1,0,1,0,0,1,0,1,0,0,0,0,0
+A3FAH5S2RGZ5AK,English,29,female,control,control_how,11081,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,1,0,0,0,0,0
+A3FAH5S2RGZ5AK,English,29,female,low,low_yoga,4800,1,0,0,0,Studio B.,Studios F and E.,Studio F.,mo-l,ms-h,mo-h,0,1,1,1,0,0,1,0,0,1,0,0,0,0
+A3FAH5S2RGZ5AK,English,29,female,high,high_fbi,4318,1,0,0,0,Place E.,"Places F, A, B, C and E.",Place F.,mo-l,exh,mo-h,1,1,1,0,0,0,1,0,0,1,0,0,0,0
+A3FAH5S2RGZ5AK,English,29,female,low,low_brother,3795,0,1,0,0,Stall C.,"Stalls C, D, A, F and B.",Stall B.,mo-h,exh,mo-l,1,1,1,0,0,0,1,1,0,0,0,0,0,0
+A3FAH5S2RGZ5AK,English,29,female,control,control_why,2897,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,1,0,0,0,0,0,0
+A3FAH5S2RGZ5AK,English,29,female,exit_quest,NA,32580,I don't know.,No,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3TM9RWWBPQBVM,English,32,female,consent,NA,31898,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3TM9RWWBPQBVM,English,32,female,train,train_f,50653,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3TM9RWWBPQBVM,English,32,female,train,train_m,41156,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3TM9RWWBPQBVM,English,32,female,high,high_firefighter,86389,1,1,1,0,"The fifth, second, fourth, third and sixth floors.",The sixth floor.,The fourth and sixth floors.,exh,mo-l,ms-l,1,0,1,0,1,0,1,1,0,1,0,1,0,0
+A3TM9RWWBPQBVM,English,32,female,low,low_brother,73507,1,0,1,0,Stall C.,Stalls A and B.,Stalls C and D.,mo-h,ms-l,ms-h,0,1,0,1,1,0,1,0,1,0,1,0,0,0
+A3TM9RWWBPQBVM,English,32,female,high,high_fbi,101724,1,1,1,0,"Places F, A, B, C and E.",Place F.,Places B and E.,exh,mo-h,ms-l,1,1,0,0,1,0,1,1,1,0,0,1,0,0
+A3TM9RWWBPQBVM,English,32,female,control,control_why,35614,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,1,1,0,0,1,0,0
+A3TM9RWWBPQBVM,English,32,female,low,low_yoga,45285,1,0,1,0,Studio F.,Studio A.,Studios F and E.,mo-h,f,ms-h,0,1,0,1,0,1,1,0,1,0,1,0,0,0
+A3TM9RWWBPQBVM,English,32,female,high,high_inspector,81660,1,1,1,0,"Restaurants A, B, C, D, and E.",Restaurant A.,Restaurants C and E.,exh,mo-h,ms-l,1,1,0,0,1,0,1,1,1,0,0,1,0,0
+A3TM9RWWBPQBVM,English,32,female,control,control_when,71342,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,1,1,0,0,1,0,0
+A3TM9RWWBPQBVM,English,32,female,low,low_coffee,33748,1,1,1,0,Cafes E and B.,Cafe E.,Cafes F and D.,ms-h,mo-h,ms-l,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+A3TM9RWWBPQBVM,English,32,female,high,high_terrorism,26389,1,1,1,0,Store C.,Stores E and B.,Store F.,f,ms-h,mo-l,0,0,1,1,0,1,1,0,0,1,1,0,1,0
+A3TM9RWWBPQBVM,English,32,female,low,low_pic,430313,1,1,1,0,Location A.,Location F.,Locations A and D.,mo-h,mo-l,ms-h,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+A3TM9RWWBPQBVM,English,32,female,control,control_what,22886,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,1,1,1,0,0,0
+A3TM9RWWBPQBVM,English,32,female,high,high_operative,87476,1,1,1,0,The Northeast and Southwest districts.,The North district.,"The Northeast, Southwest, South, Southeast and North districts.",ms-h,mo-l,exh,1,0,1,1,0,0,1,1,0,1,1,0,0,0
+A3TM9RWWBPQBVM,English,32,female,low,low_la,53492,1,1,1,0,Diner E.,Diners A and E.,Diners C and F.,mo-l,ms-l,ms-h,0,0,1,1,1,0,1,0,0,1,1,1,0,0
+A3TM9RWWBPQBVM,English,32,female,control,control_how,66573,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,1,1,1,0,0
+A3TM9RWWBPQBVM,English,32,female,exit_quest,NA,237347,John can find the coffee at the pantry,It as confusing at first because I didn't quite understand the question. I did manage to figure it out after answering a couple of them.,none,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1WLFFB5SYP7OF,English,34,male,consent,NA,18508,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1WLFFB5SYP7OF,English,34,male,train,train_m,48863,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1WLFFB5SYP7OF,English,34,male,train,train_f,18109,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1WLFFB5SYP7OF,English,34,male,high,high_fbi,48749,0,1,1,0,Place D.,Place E.,Places F and A.,f,mo-l,ms-h,0,0,1,1,0,1,1,0,0,1,1,0,0,0
+A1WLFFB5SYP7OF,English,34,male,low,low_pic,25268,1,1,1,0,Location F.,Locations A and D.,Location A.,mo-l,ms-h,mo-h,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+A1WLFFB5SYP7OF,English,34,male,control,control_when,40974,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,1,1,1,0,0,0
+A1WLFFB5SYP7OF,English,34,male,high,high_operative,51677,1,0,0,0,The South and North districts.,"The Northeast, Southwest, South, Southeast and North districts.",The Northeast district.,ms-l,exh,mo-h,1,1,0,0,1,0,1,0,0,0,0,1,0,0
+A1WLFFB5SYP7OF,English,34,male,low,low_coffee,42564,0,0,0,1,Cafe D.,Cafe E.,Cafe A.,mo-l,mo-h,f,0,1,1,0,0,1,1,0,0,0,0,0,0,1
+A1WLFFB5SYP7OF,English,34,male,control,control_what,36954,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,1,0,0,0,0,0,0,1
+A1WLFFB5SYP7OF,English,34,male,high,high_terrorism,20909,1,1,1,0,Store F.,Store E.,Stores A and F.,mo-l,mo-h,ms-l,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A1WLFFB5SYP7OF,English,34,male,low,low_yoga,27644,1,1,1,0,Studios C and B.,"Studios F, E, D, C and B.",Studio F.,ms-l,exh,mo-h,1,1,0,0,1,0,1,1,1,0,0,1,0,0
+A1WLFFB5SYP7OF,English,34,male,high,high_inspector,36252,1,0,1,0,Restaurants A and B.,Restaurant F.,"Restaurants A, B, C, D, and E.",ms-h,f,exh,1,0,0,1,0,1,1,1,0,0,1,0,0,0
+A1WLFFB5SYP7OF,English,34,male,control,control_how,25399,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,1,0,0,1,0,0,0
+A1WLFFB5SYP7OF,English,34,male,low,low_brother,35065,1,0,1,0,Stalls C and D.,Stall E.,Stalls A and B.,ms-h,f,ms-l,0,0,0,1,1,1,1,0,0,0,1,1,0,0
+A1WLFFB5SYP7OF,English,34,male,high,high_firefighter,28982,1,0,1,0,The fifth and second floors.,The first floor.,The fourth and sixth floors.,ms-h,f,ms-l,0,0,0,1,1,1,1,0,0,0,1,1,0,0
+A1WLFFB5SYP7OF,English,34,male,low,low_la,27617,0,0,0,1,Diner E.,Diners C and F.,Diner B.,mo-l,ms-h,f,0,0,1,1,0,1,1,0,0,0,0,0,0,1
+A1WLFFB5SYP7OF,English,34,male,control,control_why,23752,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,1,1,0,0,0,0,0,0,1
+A1WLFFB5SYP7OF,English,34,male,exit_quest,NA,69156,John can find coffee in his pantry%2C at the store%2C and at the cafe.,No,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AH00EJ6PK1H3A,English,34,male,consent,NA,64536,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AH00EJ6PK1H3A,English,34,male,train,train_f,47190,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AH00EJ6PK1H3A,English,34,male,train,train_m,53488,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AH00EJ6PK1H3A,English,34,male,low,low_brother,96300,0,0,0,1,Stall B.,Stall C.,Stalls A and B.,mo-l,mo-h,ms-l,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+AH00EJ6PK1H3A,English,34,male,high,high_terrorism,65056,0,0,1,0,Stores E and B.,Store F.,"Stores E, B, A, D, and F.",ms-h,mo-l,exh,1,0,1,1,0,0,1,1,0,0,0,0,0,0
+AH00EJ6PK1H3A,English,34,male,low,low_la,24758,1,0,1,0,Diner C.,Diner B.,Diners C and F.,mo-h,f,ms-h,0,1,0,1,0,1,1,0,1,0,1,0,0,0
+AH00EJ6PK1H3A,English,34,male,control,control_why,27344,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,1,1,0,1,0,1,0,0,0
+AH00EJ6PK1H3A,English,34,male,high,high_operative,85170,1,1,0,0,The South and North districts.,The North district.,The West district.,ms-l,mo-l,f,0,0,1,0,1,1,1,0,0,1,0,1,0,0
+AH00EJ6PK1H3A,English,34,male,low,low_pic,36892,1,1,1,0,Locations D and F.,Location A.,Location F.,ms-l,mo-h,mo-l,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+AH00EJ6PK1H3A,English,34,male,control,control_what,26312,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,1,0,1,0,0
+AH00EJ6PK1H3A,English,34,male,high,high_firefighter,49546,0,1,1,0,The first floor.,The fifth floor.,The fourth and sixth floors.,f,mo-h,ms-l,0,1,0,0,1,1,1,0,1,0,0,1,0,0
+AH00EJ6PK1H3A,English,34,male,low,low_coffee,32102,1,1,1,0,Cafe D.,Cafe E.,Cafes E and B.,mo-l,mo-h,ms-h,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+AH00EJ6PK1H3A,English,34,male,high,high_inspector,31690,0,1,1,0,Restaurant F.,Restaurant A.,Restaurant E.,f,mo-h,mo-l,0,1,1,0,0,1,1,0,1,1,0,0,0,0
+AH00EJ6PK1H3A,English,34,male,control,control_how,39584,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,1,0,1,1,0,0,0,0
+AH00EJ6PK1H3A,English,34,male,low,low_yoga,29052,1,1,1,0,Studios C and B.,Studio F.,Studio B.,ms-l,mo-h,mo-l,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+AH00EJ6PK1H3A,English,34,male,high,high_fbi,48158,1,0,1,0,Place E.,Place D.,Places F and A.,mo-l,f,ms-h,0,0,1,1,0,1,1,0,0,1,1,0,0,0
+AH00EJ6PK1H3A,English,34,male,control,control_when,37744,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,1,1,0,0,1,1,0,0,0
+AH00EJ6PK1H3A,English,34,male,exit_quest,NA,114524,At the coffee shop.,I don't think I found it difficult... If I got a bunch of stuff wrong%2C then yes%2C it was difficult.,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3V8C77FN4FLUA,English,28,female,consent,NA,49312,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3V8C77FN4FLUA,English,28,female,train,train_m,35051,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3V8C77FN4FLUA,English,28,female,train,train_f,31240,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3V8C77FN4FLUA,English,28,female,high,high_operative,81317,1,1,1,0,The North district.,The Northeast and Southwest districts.,The South and North districts.,mo-l,ms-h,ms-l,0,0,1,1,1,0,1,0,0,1,1,1,0,0
+A3V8C77FN4FLUA,English,28,female,low,low_yoga,55535,1,1,1,0,Studio B.,Studio F.,Studios F and E.,mo-l,mo-h,ms-h,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+A3V8C77FN4FLUA,English,28,female,high,high_terrorism,39103,1,1,1,0,Stores A and F.,Store F.,Stores E and B.,ms-l,mo-l,ms-h,0,0,1,1,1,0,1,0,0,1,1,1,0,0
+A3V8C77FN4FLUA,English,28,female,control,control_when,39934,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,1,1,1,0,0
+A3V8C77FN4FLUA,English,28,female,low,low_brother,40616,1,0,0,0,"Stalls C, D, A, F and B.",Stall C.,Stalls A and B.,exh,mo-h,ms-l,1,1,0,0,1,0,1,1,0,0,0,0,0,0
+A3V8C77FN4FLUA,English,28,female,high,high_inspector,35830,1,1,1,0,Restaurant E.,Restaurants A and B.,Restaurants C and E.,mo-l,ms-h,ms-l,0,0,1,1,1,0,1,0,0,1,1,1,0,0
+A3V8C77FN4FLUA,English,28,female,control,control_why,42045,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,1,1,1,0,0
+A3V8C77FN4FLUA,English,28,female,low,low_pic,23923,1,1,1,0,Locations A and D.,"Locations A, D, E, and F.",Location F.,ms-h,exh,mo-l,1,0,1,1,0,0,1,1,0,1,1,0,0,0
+A3V8C77FN4FLUA,English,28,female,high,high_firefighter,17615,1,1,1,0,The fifth floor.,The fifth and second floors.,The fourth and sixth floors.,mo-h,ms-h,ms-l,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+A3V8C77FN4FLUA,English,28,female,low,low_coffee,19339,1,1,0,0,Cafes F and D.,Cafes E and B.,Cafe A.,ms-l,ms-h,f,0,0,0,1,1,1,1,0,0,0,1,1,0,0
+A3V8C77FN4FLUA,English,28,female,control,control_what,19466,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,1,1,0,0,0,1,1,0,0
+A3V8C77FN4FLUA,English,28,female,high,high_fbi,31674,1,1,1,0,"Places F, A, B, C and E.",Place F.,Places B and E.,exh,mo-h,ms-l,1,1,0,0,1,0,1,1,1,0,0,1,0,0
+A3V8C77FN4FLUA,English,28,female,low,low_la,19031,1,0,1,0,Diner C.,Diner B.,Diners A and E.,mo-h,f,ms-l,0,1,0,0,1,1,1,0,1,0,0,1,0,0
+A3V8C77FN4FLUA,English,28,female,control,control_how,37904,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,1,1,0,1,0,0,1,0,0
+A3V8C77FN4FLUA,English,28,female,exit_quest,NA,53156,I don't know where John could find coffee.,Not at all.,No thank you.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A203C9REA20IT3,English,26,male,consent,NA,17273,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A203C9REA20IT3,English,26,male,train,train_f,22939,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A203C9REA20IT3,English,26,male,train,train_m,48302,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A203C9REA20IT3,English,26,male,low,low_coffee,36335,0,0,1,0,Cafe D.,Cafe A.,"Cafes E, B, F, C and D.",mo-l,f,exh,1,0,1,0,0,1,1,1,0,0,0,0,0,0
+A203C9REA20IT3,English,26,male,high,high_firefighter,45384,1,0,0,0,The fifth floor.,The fourth and sixth floors.,The first floor.,mo-h,ms-l,f,0,1,0,0,1,1,1,0,1,0,0,0,0,0
+A203C9REA20IT3,English,26,male,low,low_brother,68707,1,1,1,0,Stall B.,Stall E.,Stalls C and D.,mo-l,f,ms-h,0,0,1,1,0,1,1,0,0,1,1,0,1,0
+A203C9REA20IT3,English,26,male,control,control_how,29146,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,1,1,0,0,1,1,0,1,0
+A203C9REA20IT3,English,26,male,high,high_operative,56206,1,1,1,0,The Northeast district.,"The Northeast, Southwest, South, Southeast and North districts.",The Northeast and Southwest districts.,mo-h,exh,ms-h,1,1,0,1,0,0,1,1,1,0,1,0,0,0
+A203C9REA20IT3,English,26,male,low,low_pic,24874,0,1,1,0,Location B.,"Locations A, D, E, and F.",Location F.,f,exh,mo-l,1,0,1,0,0,1,1,1,0,1,0,0,0,0
+A203C9REA20IT3,English,26,male,control,control_why,37658,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,1,0,1,0,0,0,0
+A203C9REA20IT3,English,26,male,high,high_fbi,39280,0,1,0,0,Place E.,"Places F, A, B, C and E.",Place F.,mo-l,exh,mo-h,1,1,1,0,0,0,1,1,0,0,0,0,0,0
+A203C9REA20IT3,English,26,male,low,low_yoga,16750,0,0,1,0,Studio B.,Studio F.,"Studios F, E, D, C and B.",mo-l,mo-h,exh,1,1,1,0,0,0,1,1,0,0,0,0,0,0
+A203C9REA20IT3,English,26,male,high,high_terrorism,18413,1,0,0,0,"Stores E, B, A, D, and F.",Store F.,Stores A and F.,exh,mo-l,ms-l,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+A203C9REA20IT3,English,26,male,control,control_what,18864,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,1,0,0,0,0,0,0
+A203C9REA20IT3,English,26,male,low,low_la,17886,1,0,0,0,"Diners C, F, A, D, and E.",Diner C.,Diner E.,exh,mo-h,mo-l,1,1,1,0,0,0,1,1,0,0,0,0,0,0
+A203C9REA20IT3,English,26,male,high,high_inspector,22934,1,0,0,0,Restaurants A and B.,Restaurant A.,Restaurant E.,ms-h,mo-h,mo-l,0,1,1,1,0,0,1,0,0,0,1,0,0,0
+A203C9REA20IT3,English,26,male,control,control_when,35628,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,0,0,1,0,0,0
+A203C9REA20IT3,English,26,male,exit_quest,NA,45440,At the coffee shop down the road.,On some of the questions it was%2C but most it wasn't,Nope,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1Y6YA93AFCHPY,English,58,female,consent,NA,105659,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1Y6YA93AFCHPY,English,58,female,train,train_f,54840,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1Y6YA93AFCHPY,English,58,female,train,train_m,64671,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1Y6YA93AFCHPY,English,58,female,high,high_operative,121091,1,1,1,0,The South and North districts.,The North district.,The Northeast district.,ms-l,mo-l,mo-h,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A1Y6YA93AFCHPY,English,58,female,low,low_yoga,50444,1,1,0,0,Studios C and B.,Studio B.,Studio A.,ms-l,mo-l,f,0,0,1,0,1,1,1,0,0,1,0,1,0,0
+A1Y6YA93AFCHPY,English,58,female,control,control_how,72860,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,1,1,0,0,1,0,1,0,0
+A1Y6YA93AFCHPY,English,58,female,high,high_terrorism,56949,1,1,1,0,Store E.,Store F.,Stores A and F.,mo-h,mo-l,ms-l,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A1Y6YA93AFCHPY,English,58,female,low,low_la,50588,1,1,1,0,Diners A and E.,Diners C and F.,Diner C.,ms-l,ms-h,mo-h,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+A1Y6YA93AFCHPY,English,58,female,control,control_when,56555,1,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,1,1,0,0
+A1Y6YA93AFCHPY,English,58,female,high,high_fbi,34314,1,1,1,0,Places B and E.,Place E.,Places F and A.,ms-l,mo-l,ms-h,0,0,1,1,1,0,1,0,0,1,1,1,0,0
+A1Y6YA93AFCHPY,English,58,female,low,low_coffee,44539,1,0,1,0,Cafes F and D.,Cafe A.,"Cafes E, B, F, C and D.",ms-l,f,exh,1,0,0,0,1,1,1,1,0,0,0,1,0,0
+A1Y6YA93AFCHPY,English,58,female,high,high_firefighter,55764,1,1,0,0,The fifth and second floors.,The sixth floor.,The first floor.,ms-h,mo-l,f,0,0,1,1,0,1,1,0,0,1,1,0,0,0
+A1Y6YA93AFCHPY,English,58,female,control,control_what,34972,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,1,1,0,0,1,1,0,0,0
+A1Y6YA93AFCHPY,English,58,female,low,low_pic,72346,1,1,1,0,"Locations A, D, E, and F.",Location F.,Locations A and D.,exh,mo-l,ms-h,1,0,1,1,0,0,1,1,0,1,1,0,0,0
+A1Y6YA93AFCHPY,English,58,female,high,high_inspector,45564,0,0,0,1,Restaurants A and B.,Restaurants C and E.,Restaurant E.,ms-h,ms-l,mo-l,0,0,1,1,1,0,1,0,0,0,0,0,0,1
+A1Y6YA93AFCHPY,English,58,female,low,low_brother,33164,1,1,0,0,Stall B.,Stalls C and D.,Stall E.,mo-l,ms-h,f,0,0,1,1,0,1,1,0,0,1,1,0,0,0
+A1Y6YA93AFCHPY,English,58,female,control,control_why,37136,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,1,1,0,0,1,1,0,0,0
+A1Y6YA93AFCHPY,English,58,female,exit_quest,NA,91194,John can find coffee at a restaurant.,A little.  You really have to think about each scenario.,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AOOGCOBAZBWJ2,english,68,male,consent,NA,30902,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AOOGCOBAZBWJ2,english,68,male,train,train_m,28904,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AOOGCOBAZBWJ2,english,68,male,train,train_f,45684,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AOOGCOBAZBWJ2,english,68,male,low,low_yoga,39838,1,0,0,0,"Studios F, E, D, C and B.",Studio F.,Studio A.,exh,mo-h,f,1,1,0,0,0,1,1,1,0,0,0,0,0,0
+AOOGCOBAZBWJ2,english,68,male,high,high_terrorism,21630,0,0,0,1,Store C.,Stores A and F.,Store E.,f,ms-l,mo-h,0,1,0,0,1,1,1,0,0,0,0,0,0,1
+AOOGCOBAZBWJ2,english,68,male,low,low_coffee,39050,1,1,1,0,Cafes F and D.,Cafe E.,Cafes E and B.,ms-l,mo-h,ms-h,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+AOOGCOBAZBWJ2,english,68,male,control,control_when,28924,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,1,1,0,0
+AOOGCOBAZBWJ2,english,68,male,high,high_firefighter,26861,1,1,1,0,The sixth floor.,"The fifth, second, fourth, third and sixth floors.",The fourth and sixth floors.,mo-l,exh,ms-l,1,0,1,0,1,0,1,1,0,1,0,1,0,0
+AOOGCOBAZBWJ2,english,68,male,low,low_brother,19024,1,1,1,0,Stall B.,Stalls A and B.,"Stalls C, D, A, F and B.",mo-l,ms-l,exh,1,0,1,0,1,0,1,1,0,1,0,1,0,0
+AOOGCOBAZBWJ2,english,68,male,control,control_why,50302,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,1,0,1,0,1,0,0
+AOOGCOBAZBWJ2,english,68,male,high,high_operative,38426,1,0,1,0,The West district.,The Northeast district.,The North district.,f,mo-h,mo-l,0,1,1,0,0,1,1,0,0,1,0,0,1,0
+AOOGCOBAZBWJ2,english,68,male,low,low_la,19346,0,1,1,0,Diner B.,Diners A and E.,Diner C.,f,ms-l,mo-h,0,1,0,0,1,1,1,0,1,0,0,1,0,0
+AOOGCOBAZBWJ2,english,68,male,high,high_fbi,21991,1,1,1,0,"Places F, A, B, C and E.",Places F and A.,Places B and E.,exh,ms-h,ms-l,1,0,0,1,1,0,1,1,0,0,1,1,0,0
+AOOGCOBAZBWJ2,english,68,male,control,control_what,20565,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,1,0,0,1,1,0,0
+AOOGCOBAZBWJ2,english,68,male,low,low_pic,16099,1,1,0,0,Locations A and D.,Locations D and F.,Location B.,ms-h,ms-l,f,0,0,0,1,1,1,1,0,0,0,1,1,0,0
+AOOGCOBAZBWJ2,english,68,male,high,high_inspector,17106,1,1,1,0,Restaurant E.,Restaurants C and E.,Restaurants A and B.,mo-l,ms-l,ms-h,0,0,1,1,1,0,1,0,0,1,1,1,0,0
+AOOGCOBAZBWJ2,english,68,male,control,control_how,26526,1,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,1,1,1,0,0
+AOOGCOBAZBWJ2,english,68,male,exit_quest,NA,69727,he can find it in the kitchen.,no not too bad ,good survey thanks,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A15FXOOCN5RT0,English,44,male,consent,NA,25606,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A15FXOOCN5RT0,English,44,male,train,train_f,33129,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A15FXOOCN5RT0,English,44,male,train,train_m,40025,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A15FXOOCN5RT0,English,44,male,high,high_operative,62667,0,1,1,0,The West district.,The South and North districts.,The North district.,f,ms-l,mo-l,0,0,1,0,1,1,1,0,0,1,0,1,0,0
+A15FXOOCN5RT0,English,44,male,low,low_la,38075,1,1,1,0,Diner C.,Diners C and F.,Diners A and E.,mo-h,ms-h,ms-l,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+A15FXOOCN5RT0,English,44,male,high,high_terrorism,37076,0,1,1,0,Store C.,Stores A and F.,Store E.,f,ms-l,mo-h,0,1,0,0,1,1,1,0,1,0,0,1,0,0
+A15FXOOCN5RT0,English,44,male,control,control_why,40297,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,1,1,0,1,0,0,1,0,0
+A15FXOOCN5RT0,English,44,male,low,low_pic,25186,1,1,1,0,Location A.,Location F.,Locations A and D.,mo-h,mo-l,ms-h,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+A15FXOOCN5RT0,English,44,male,high,high_inspector,17102,0,0,1,0,Restaurants A and B.,Restaurants C and E.,"Restaurants A, B, C, D, and E.",ms-h,ms-l,exh,1,0,0,1,1,0,1,1,0,0,0,0,0,0
+A15FXOOCN5RT0,English,44,male,control,control_how,36112,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,1,0,0,0,0,0,0
+A15FXOOCN5RT0,English,44,male,low,low_yoga,20852,0,1,1,0,Studio A.,Studio B.,Studios C and B.,f,mo-l,ms-l,0,0,1,0,1,1,1,0,0,1,0,1,0,0
+A15FXOOCN5RT0,English,44,male,high,high_fbi,20270,1,1,1,0,Places B and E.,Place F.,Place E.,ms-l,mo-h,mo-l,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A15FXOOCN5RT0,English,44,male,low,low_coffee,17847,1,1,1,0,Cafes E and B.,Cafe D.,Cafe E.,ms-h,mo-l,mo-h,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+A15FXOOCN5RT0,English,44,male,control,control_when,31184,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,1,1,1,0,0,0
+A15FXOOCN5RT0,English,44,male,high,high_firefighter,26251,1,1,1,0,The fifth and second floors.,The fourth and sixth floors.,The fifth floor.,ms-h,ms-l,mo-h,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+A15FXOOCN5RT0,English,44,male,low,low_brother,10957,1,1,1,0,Stalls C and D.,Stall C.,Stall B.,ms-h,mo-h,mo-l,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+A15FXOOCN5RT0,English,44,male,control,control_what,13550,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,1,1,1,0,0,0
+A15FXOOCN5RT0,English,44,male,exit_quest,NA,45818,At the coffee shop.,No.,No.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1WL3NZ50YEOWP,english,32,female,consent,NA,16023,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1WL3NZ50YEOWP,english,32,female,train,train_m,34537,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1WL3NZ50YEOWP,english,32,female,train,train_f,24661,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1WL3NZ50YEOWP,english,32,female,low,low_coffee,28526,1,1,1,0,Cafes F and D.,Cafes E and B.,Cafe E.,ms-l,ms-h,mo-h,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+A1WL3NZ50YEOWP,english,32,female,high,high_firefighter,43939,1,1,1,0,The fifth floor.,The sixth floor.,The fifth and second floors.,mo-h,mo-l,ms-h,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+A1WL3NZ50YEOWP,english,32,female,low,low_pic,21676,0,1,1,0,Location B.,Location A.,"Locations A, D, E, and F.",f,mo-h,exh,1,1,0,0,0,1,1,1,1,0,0,0,0,0
+A1WL3NZ50YEOWP,english,32,female,control,control_how,26172,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,1,1,1,1,0,0,0,0,0
+A1WL3NZ50YEOWP,english,32,female,high,high_terrorism,22797,1,0,1,0,Stores A and F.,Store C.,"Stores E, B, A, D, and F.",ms-l,f,exh,1,0,0,0,1,1,1,1,0,0,0,1,0,0
+A1WL3NZ50YEOWP,english,32,female,low,low_yoga,18483,1,1,1,0,Studio F.,"Studios F, E, D, C and B.",Studios C and B.,mo-h,exh,ms-l,1,1,0,0,1,0,1,1,1,0,0,1,0,0
+A1WL3NZ50YEOWP,english,32,female,control,control_why,15197,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,1,1,0,0,1,0,0
+A1WL3NZ50YEOWP,english,32,female,high,high_operative,40412,1,1,1,0,The North district.,The Northeast district.,The South and North districts.,mo-l,mo-h,ms-l,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A1WL3NZ50YEOWP,english,32,female,low,low_brother,43218,1,1,1,0,Stall B.,Stall C.,Stalls A and B.,mo-l,mo-h,ms-l,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A1WL3NZ50YEOWP,english,32,female,high,high_fbi,21146,1,1,0,0,Places F and A.,Places B and E.,Place D.,ms-h,ms-l,f,0,0,0,1,1,1,1,0,0,0,1,1,0,0
+A1WL3NZ50YEOWP,english,32,female,control,control_when,29244,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,1,1,0,0,0,1,1,0,0
+A1WL3NZ50YEOWP,english,32,female,low,low_la,13824,1,0,1,0,Diner C.,Diner B.,Diners A and E.,mo-h,f,ms-l,0,1,0,0,1,1,1,0,1,0,0,1,0,0
+A1WL3NZ50YEOWP,english,32,female,high,high_inspector,21926,1,0,1,0,Restaurants C and E.,Restaurant F.,Restaurant A.,ms-l,f,mo-h,0,1,0,0,1,1,1,0,1,0,0,1,0,0
+A1WL3NZ50YEOWP,english,32,female,control,control_what,22645,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,1,1,0,1,0,0,1,0,0
+A1WL3NZ50YEOWP,english,32,female,exit_quest,NA,74188,In the kitchen.,It was just really%2C really strange. Most of them knew parts of the information%2C which is knowing something...,You have GOT to pay us more for the time that this takes to complete.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2FLZP3C6U67JY,English,33,male,consent,NA,112994,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2FLZP3C6U67JY,English,33,male,train,train_f,38516,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2FLZP3C6U67JY,English,33,male,train,train_m,36321,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2FLZP3C6U67JY,English,33,male,low,low_coffee,57910,1,1,1,0,Cafe E.,Cafes F and D.,Cafe D.,mo-h,ms-l,mo-l,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A2FLZP3C6U67JY,English,33,male,high,high_fbi,67742,1,1,0,0,Places F and A.,Place F.,Place D.,ms-h,mo-h,f,0,1,0,1,0,1,1,0,1,0,1,0,0,0
+A2FLZP3C6U67JY,English,33,male,control,control_what,24512,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,1,1,0,1,0,1,0,0,0
+A2FLZP3C6U67JY,English,33,male,low,low_yoga,21684,1,1,1,0,Studios F and E.,Studio B.,Studio F.,ms-h,mo-l,mo-h,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+A2FLZP3C6U67JY,English,33,male,high,high_inspector,32112,1,1,0,0,Restaurants C and E.,Restaurant E.,Restaurant F.,ms-l,mo-l,f,0,0,1,0,1,1,1,0,0,1,0,1,0,0
+A2FLZP3C6U67JY,English,33,male,control,control_how,41769,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,1,1,0,0,1,0,1,0,0
+A2FLZP3C6U67JY,English,33,male,low,low_brother,40544,1,1,1,0,Stall B.,Stalls A and B.,"Stalls C, D, A, F and B.",mo-l,ms-l,exh,1,0,1,0,1,0,1,1,0,1,0,1,0,0
+A2FLZP3C6U67JY,English,33,male,high,high_operative,26490,1,1,1,0,The North district.,The South and North districts.,The Northeast district.,mo-l,ms-l,mo-h,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A2FLZP3C6U67JY,English,33,male,low,low_la,15607,1,1,1,0,Diner C.,"Diners C, F, A, D, and E.",Diner E.,mo-h,exh,mo-l,1,1,1,0,0,0,1,1,1,1,0,0,0,0
+A2FLZP3C6U67JY,English,33,male,control,control_why,16471,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,1,1,1,0,0,0,0
+A2FLZP3C6U67JY,English,33,male,high,high_terrorism,17466,1,1,1,0,Stores E and B.,"Stores E, B, A, D, and F.",Store F.,ms-h,exh,mo-l,1,0,1,1,0,0,1,1,0,1,1,0,0,0
+A2FLZP3C6U67JY,English,33,male,low,low_pic,19654,1,1,1,0,"Locations A, D, E, and F.",Locations A and D.,Location F.,exh,ms-h,mo-l,1,0,1,1,0,0,1,1,0,1,1,0,0,0
+A2FLZP3C6U67JY,English,33,male,high,high_firefighter,13844,1,0,1,0,The fifth and second floors.,The first floor.,The fourth and sixth floors.,ms-h,f,ms-l,0,0,0,1,1,1,1,0,0,0,1,1,0,0
+A2FLZP3C6U67JY,English,33,male,control,control_when,26938,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,1,1,0,0,0,1,1,0,0
+A2FLZP3C6U67JY,English,33,male,exit_quest,NA,88855,I would indicate where he could buy it.,I was a bit tricky.  There was a lot of information to process.,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A22ON3MIIG0IJA,English,38,male,consent,NA,32612,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A22ON3MIIG0IJA,English,38,male,train,train_m,69865,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A22ON3MIIG0IJA,English,38,male,train,train_f,29494,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A22ON3MIIG0IJA,English,38,male,high,high_terrorism,107894,1,1,1,0,Stores E and B.,Store C.,Store F.,ms-h,f,mo-l,0,0,1,1,0,1,1,0,0,1,1,0,1,0
+A22ON3MIIG0IJA,English,38,male,low,low_coffee,72523,1,1,1,0,"Cafes E, B, F, C and D.",Cafe A.,Cafes F and D.,exh,f,ms-l,1,0,0,0,1,1,1,1,0,0,0,1,1,0
+A22ON3MIIG0IJA,English,38,male,high,high_inspector,34666,1,1,1,0,Restaurant A.,Restaurants A and B.,Restaurants C and E.,mo-h,ms-h,ms-l,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+A22ON3MIIG0IJA,English,38,male,control,control_how,88289,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,1,1,0,0
+A22ON3MIIG0IJA,English,38,male,low,low_yoga,37608,0,0,0,1,Studios C and B.,Studio B.,Studio F.,ms-l,mo-l,mo-h,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+A22ON3MIIG0IJA,English,38,male,high,high_firefighter,39628,1,1,1,0,The fifth floor.,The fourth and sixth floors.,The sixth floor.,mo-h,ms-l,mo-l,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A22ON3MIIG0IJA,English,38,male,control,control_why,105387,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,1,0,1,0,0
+A22ON3MIIG0IJA,English,38,male,low,low_la,24891,0,1,0,0,Diners C and F.,"Diners C, F, A, D, and E.",Diner C.,ms-h,exh,mo-h,1,1,0,1,0,0,1,1,0,0,0,0,0,0
+A22ON3MIIG0IJA,English,38,male,high,high_operative,33225,1,0,1,0,The Northeast district.,The West district.,The North district.,mo-h,f,mo-l,0,1,1,0,0,1,1,0,1,1,0,0,0,0
+A22ON3MIIG0IJA,English,38,male,low,low_pic,25017,1,1,1,0,Locations D and F.,Location B.,Locations A and D.,ms-l,f,ms-h,0,0,0,1,1,1,1,0,0,0,1,1,1,0
+A22ON3MIIG0IJA,English,38,male,control,control_when,19982,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,1,1,0,0,0,1,1,1,0
+A22ON3MIIG0IJA,English,38,male,high,high_fbi,15112,1,1,1,0,Place E.,Places F and A.,Places B and E.,mo-l,ms-h,ms-l,0,0,1,1,1,0,1,0,0,1,1,1,0,0
+A22ON3MIIG0IJA,English,38,male,low,low_brother,12995,1,0,0,0,"Stalls C, D, A, F and B.",Stalls A and B.,Stalls C and D.,exh,ms-l,ms-h,1,0,0,1,1,0,1,1,0,0,0,0,0,0
+A22ON3MIIG0IJA,English,38,male,control,control_what,28123,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,1,0,0,0,0,0,0
+A22ON3MIIG0IJA,English,38,male,exit_quest,NA,64021,At the grocery store or a cafe.,It was kind of hard to determine the correct answer sometimes.,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AVXEDARJC5HLU,English,43,male,consent,NA,357995,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AVXEDARJC5HLU,English,43,male,train,train_f,22658,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AVXEDARJC5HLU,English,43,male,train,train_m,27703,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AVXEDARJC5HLU,English,43,male,low,low_pic,31931,1,1,1,0,Locations A and D.,Locations D and F.,Location F.,ms-h,ms-l,mo-l,0,0,1,1,1,0,1,0,0,1,1,1,0,0
+AVXEDARJC5HLU,English,43,male,high,high_inspector,88659,0,0,0,1,Restaurants A and B.,Restaurants C and E.,Restaurant A.,ms-h,ms-l,mo-h,0,1,0,1,1,0,1,0,0,0,0,0,0,1
+AVXEDARJC5HLU,English,43,male,low,low_coffee,15169,0,1,1,0,Cafe A.,Cafes E and B.,Cafe D.,f,ms-h,mo-l,0,0,1,1,0,1,1,0,0,1,1,0,0,0
+AVXEDARJC5HLU,English,43,male,control,control_what,106046,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,1,1,0,0,1,1,0,0,0
+AVXEDARJC5HLU,English,43,male,high,high_firefighter,26060,0,0,0,1,The sixth floor.,The fourth and sixth floors.,The fifth floor.,mo-l,ms-l,mo-h,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+AVXEDARJC5HLU,English,43,male,low,low_brother,31801,0,0,0,1,Stall C.,Stall E.,Stalls C and D.,mo-h,f,ms-h,0,1,0,1,0,1,1,0,0,0,0,0,0,1
+AVXEDARJC5HLU,English,43,male,control,control_how,102157,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,1,1,0,0,0,0,0,0,1
+AVXEDARJC5HLU,English,43,male,high,high_terrorism,11442,0,1,0,0,Store F.,"Stores E, B, A, D, and F.",Store C.,mo-l,exh,f,1,0,1,0,0,1,1,1,0,0,0,0,0,0
+AVXEDARJC5HLU,English,43,male,low,low_la,10943,0,0,0,1,Diner C.,Diners A and E.,Diner E.,mo-h,ms-l,mo-l,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+AVXEDARJC5HLU,English,43,male,high,high_operative,22104,0,1,0,0,The Northeast district.,"The Northeast, Southwest, South, Southeast and North districts.",The Northeast and Southwest districts.,mo-h,exh,ms-h,1,1,0,1,0,0,1,1,0,0,0,0,0,0
+AVXEDARJC5HLU,English,43,male,control,control_when,16108,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,1,0,0,0,0,0,0
+AVXEDARJC5HLU,English,43,male,low,low_yoga,9158,0,0,0,1,Studio F.,Studios F and E.,Studio B.,mo-h,ms-h,mo-l,0,1,1,1,0,0,1,0,0,0,0,0,0,1
+AVXEDARJC5HLU,English,43,male,high,high_fbi,44842,1,0,0,0,"Places F, A, B, C and E.",Place E.,Place F.,exh,mo-l,mo-h,1,1,1,0,0,0,1,1,0,0,0,0,0,0
+AVXEDARJC5HLU,English,43,male,control,control_why,60096,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,1,0,0,0,0,0,0
+AVXEDARJC5HLU,English,43,male,exit_quest,NA,41678,In the coffee pot,it was fine.. just easy,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2BRZKFG6WAVER,English,36,female,consent,NA,39325,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2BRZKFG6WAVER,English,36,female,train,train_f,68086,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2BRZKFG6WAVER,English,36,female,train,train_m,71185,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2BRZKFG6WAVER,English,36,female,high,high_inspector,228720,1,1,1,0,Restaurants A and B.,Restaurant A.,Restaurants C and E.,ms-h,mo-h,ms-l,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+A2BRZKFG6WAVER,English,36,female,low,low_yoga,91828,1,0,0,0,Studios F and E.,Studio F.,Studio B.,ms-h,mo-h,mo-l,0,1,1,1,0,0,1,0,0,0,1,0,0,0
+A2BRZKFG6WAVER,English,36,female,high,high_terrorism,46919,0,1,0,0,Store F.,Stores E and B.,Store E.,mo-l,ms-h,mo-h,0,1,1,1,0,0,1,0,0,0,1,0,0,0
+A2BRZKFG6WAVER,English,36,female,control,control_when,24784,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,0,0,1,0,0,0
+A2BRZKFG6WAVER,English,36,female,low,low_coffee,37695,0,0,1,0,Cafe D.,Cafes F and D.,Cafes E and B.,mo-l,ms-l,ms-h,0,0,1,1,1,0,1,0,0,0,1,0,0,0
+A2BRZKFG6WAVER,English,36,female,high,high_operative,42143,0,1,0,0,The South and North districts.,The Northeast and Southwest districts.,The Northeast district.,ms-l,ms-h,mo-h,0,1,0,1,1,0,1,0,0,0,1,0,0,0
+A2BRZKFG6WAVER,English,36,female,control,control_how,40495,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,0,0,1,0,0,0
+A2BRZKFG6WAVER,English,36,female,low,low_la,32857,0,0,1,0,Diner E.,Diner C.,Diners C and F.,mo-l,mo-h,ms-h,0,1,1,1,0,0,1,0,0,0,1,0,0,0
+A2BRZKFG6WAVER,English,36,female,high,high_fbi,34734,1,0,0,0,Places F and A.,Place D.,Place E.,ms-h,f,mo-l,0,0,1,1,0,1,1,0,0,0,1,0,0,0
+A2BRZKFG6WAVER,English,36,female,low,low_pic,13375,1,0,0,0,Location A.,Locations A and D.,Location B.,mo-h,ms-h,f,0,1,0,1,0,1,1,0,1,0,0,0,0,0
+A2BRZKFG6WAVER,English,36,female,control,control_what,29657,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,1,1,0,1,0,0,0,0,0
+A2BRZKFG6WAVER,English,36,female,high,high_firefighter,35669,1,0,0,0,The fifth and second floors.,The sixth floor.,The fifth floor.,ms-h,mo-l,mo-h,0,1,1,1,0,0,1,0,0,0,1,0,0,0
+A2BRZKFG6WAVER,English,36,female,low,low_brother,10559,1,0,0,0,Stall C.,Stall B.,Stalls A and B.,mo-h,mo-l,ms-l,0,1,1,0,1,0,1,0,1,0,0,0,0,0
+A2BRZKFG6WAVER,English,36,female,control,control_why,37010,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,0,0,0,0,0
+A2BRZKFG6WAVER,English,36,female,exit_quest,NA,92503,He can get some at the gas.,A little cause none of them where the right answer.,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A120PN22KW0VPY,English,63,female,consent,NA,105094,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A120PN22KW0VPY,English,63,female,train,train_f,51897,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A120PN22KW0VPY,English,63,female,train,train_m,233527,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A120PN22KW0VPY,English,63,female,low,low_yoga,139846,0,0,0,1,Studios F and E.,Studios C and B.,"Studios F, E, D, C and B.",ms-h,ms-l,exh,1,0,0,1,1,0,1,0,0,0,0,0,0,1
+A120PN22KW0VPY,English,63,female,high,high_fbi,83458,1,1,1,0,Place E.,Place D.,Places F and A.,mo-l,f,ms-h,0,0,1,1,0,1,1,0,0,1,1,0,1,0
+A120PN22KW0VPY,English,63,female,low,low_la,41864,0,1,1,0,Diner B.,Diner E.,Diners C and F.,f,mo-l,ms-h,0,0,1,1,0,1,1,0,0,1,1,0,0,0
+A120PN22KW0VPY,English,63,female,control,control_when,63241,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,1,1,0,0,1,1,0,0,0
+A120PN22KW0VPY,English,63,female,high,high_terrorism,72113,1,0,0,0,"Stores E, B, A, D, and F.",Stores E and B.,Store F.,exh,ms-h,mo-l,1,0,1,1,0,0,1,1,0,0,0,0,0,0
+A120PN22KW0VPY,English,63,female,low,low_brother,66922,0,1,0,0,Stalls A and B.,Stall B.,Stalls C and D.,ms-l,mo-l,ms-h,0,0,1,1,1,0,1,0,0,1,0,0,0,0
+A120PN22KW0VPY,English,63,female,control,control_how,63766,1,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,1,0,0,0,0
+A120PN22KW0VPY,English,63,female,high,high_firefighter,36101,1,0,0,0,The fifth and second floors.,The sixth floor.,The first floor.,ms-h,mo-l,f,0,0,1,1,0,1,1,0,0,0,1,0,0,0
+A120PN22KW0VPY,English,63,female,low,low_pic,29845,0,1,0,0,Location B.,"Locations A, D, E, and F.",Location F.,f,exh,mo-l,1,0,1,0,0,1,1,1,0,0,0,0,0,0
+A120PN22KW0VPY,English,63,female,high,high_operative,31590,0,1,0,0,The South and North districts.,The Northeast and Southwest districts.,The North district.,ms-l,ms-h,mo-l,0,0,1,1,1,0,1,0,0,0,1,0,0,0
+A120PN22KW0VPY,English,63,female,control,control_why,33967,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,1,0,0,0
+A120PN22KW0VPY,English,63,female,low,low_coffee,29341,0,1,0,0,Cafe D.,Cafe E.,Cafe A.,mo-l,mo-h,f,0,1,1,0,0,1,1,0,1,0,0,0,0,0
+A120PN22KW0VPY,English,63,female,high,high_inspector,38933,1,1,1,0,Restaurants C and E.,Restaurants A and B.,Restaurant E.,ms-l,ms-h,mo-l,0,0,1,1,1,0,1,0,0,1,1,1,0,0
+A120PN22KW0VPY,English,63,female,control,control_what,21985,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,1,1,1,0,0
+A120PN22KW0VPY,English,63,female,exit_quest,NA,86338,John can find coffee in the cupboard,Yes and No%2C I have spoke English all my life but I've never answered questions quite like these. ,Thanks for the interesting survey.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3LNB26JUZ53LA,English,30,female,consent,NA,35918,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3LNB26JUZ53LA,English,30,female,train,train_m,53765,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3LNB26JUZ53LA,English,30,female,train,train_f,44182,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3LNB26JUZ53LA,English,30,female,high,high_terrorism,197903,1,0,1,0,Stores A and F.,Store C.,Store E.,ms-l,f,mo-h,0,1,0,0,1,1,1,0,1,0,0,1,0,0
+A3LNB26JUZ53LA,English,30,female,low,low_brother,503570,0,1,0,0,"Stalls C, D, A, F and B.",Stalls C and D.,Stalls A and B.,exh,ms-h,ms-l,1,0,0,1,1,0,1,0,0,0,1,0,0,0
+A3LNB26JUZ53LA,English,30,female,high,high_operative,17569,0,1,0,0,The West district.,The Northeast and Southwest districts.,The Northeast district.,f,ms-h,mo-h,0,1,0,1,0,1,1,0,0,0,1,0,0,0
+A3LNB26JUZ53LA,English,30,female,control,control_what,34546,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,1,1,0,0,0,1,0,0,0
+A3LNB26JUZ53LA,English,30,female,low,low_la,13914,0,0,1,0,"Diners C, F, A, D, and E.",Diners C and F.,Diner C.,exh,ms-h,mo-h,1,1,0,1,0,0,1,0,1,0,0,0,0,0
+A3LNB26JUZ53LA,English,30,female,high,high_firefighter,4102,0,0,1,0,The fifth floor.,"The fifth, second, fourth, third and sixth floors.",The sixth floor.,mo-h,exh,mo-l,1,1,1,0,0,0,1,0,0,1,0,0,0,0
+A3LNB26JUZ53LA,English,30,female,control,control_why,36914,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,0,0,1,0,0,0,0
+A3LNB26JUZ53LA,English,30,female,low,low_coffee,5677,0,0,1,0,Cafe A.,Cafes E and B.,"Cafes E, B, F, C and D.",f,ms-h,exh,1,0,0,1,0,1,1,1,0,0,0,0,0,0
+A3LNB26JUZ53LA,English,30,female,high,high_inspector,3973,0,0,0,1,"Restaurants A, B, C, D, and E.",Restaurants A and B.,Restaurant E.,exh,ms-h,mo-l,1,0,1,1,0,0,1,0,0,0,0,0,0,1
+A3LNB26JUZ53LA,English,30,female,low,low_yoga,2254,0,1,0,0,Studio A.,Studios C and B.,Studio B.,f,ms-l,mo-l,0,0,1,0,1,1,1,0,0,0,0,1,0,0
+A3LNB26JUZ53LA,English,30,female,control,control_how,5223,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,1,1,0,0,0,0,1,0,0
+A3LNB26JUZ53LA,English,30,female,high,high_fbi,4242,0,1,0,0,Places B and E.,Place E.,Place D.,ms-l,mo-l,f,0,0,1,0,1,1,1,0,0,1,0,0,0,0
+A3LNB26JUZ53LA,English,30,female,low,low_pic,3411,0,0,1,0,"Locations A, D, E, and F.",Locations D and F.,Location B.,exh,ms-l,f,1,0,0,0,1,1,1,0,0,0,0,0,1,0
+A3LNB26JUZ53LA,English,30,female,control,control_when,3890,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0,0,0,0,1,0
+A3LNB26JUZ53LA,English,30,female,exit_quest,NA,53911,in the flask,notrhing,nothing,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1H72Y9Z5NJXDS,english,39,female,consent,NA,26351,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1H72Y9Z5NJXDS,english,39,female,train,train_f,38859,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1H72Y9Z5NJXDS,english,39,female,train,train_m,38769,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1H72Y9Z5NJXDS,english,39,female,low,low_brother,58742,1,0,0,0,"Stalls C, D, A, F and B.",Stalls C and D.,Stall C.,exh,ms-h,mo-h,1,1,0,1,0,0,1,1,0,0,0,0,0,0
+A1H72Y9Z5NJXDS,english,39,female,high,high_firefighter,38839,0,0,0,1,The fifth and second floors.,The fifth floor.,The fourth and sixth floors.,ms-h,mo-h,ms-l,0,1,0,1,1,0,1,0,0,0,0,0,0,1
+A1H72Y9Z5NJXDS,english,39,female,control,control_how,29427,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,0,0,0,0,0,1
+A1H72Y9Z5NJXDS,english,39,female,low,low_la,49194,1,1,1,0,Diners C and F.,Diner E.,Diner C.,ms-h,mo-l,mo-h,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+A1H72Y9Z5NJXDS,english,39,female,high,high_terrorism,28993,1,1,1,0,"Stores E, B, A, D, and F.",Store E.,Stores A and F.,exh,mo-h,ms-l,1,1,0,0,1,0,1,1,1,0,0,1,0,0
+A1H72Y9Z5NJXDS,english,39,female,control,control_what,28549,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,1,1,0,0,1,0,0
+A1H72Y9Z5NJXDS,english,39,female,low,low_pic,25120,1,1,1,0,"Locations A, D, E, and F.",Location F.,Locations D and F.,exh,mo-l,ms-l,1,0,1,0,1,0,1,1,0,1,0,1,0,0
+A1H72Y9Z5NJXDS,english,39,female,high,high_inspector,38546,0,0,0,1,Restaurant A.,Restaurants C and E.,Restaurants A and B.,mo-h,ms-l,ms-h,0,1,0,1,1,0,1,0,0,0,0,0,0,1
+A1H72Y9Z5NJXDS,english,39,female,low,low_coffee,24992,1,1,0,0,Cafes F and D.,Cafe D.,Cafe A.,ms-l,mo-l,f,0,0,1,0,1,1,1,0,0,1,0,1,0,0
+A1H72Y9Z5NJXDS,english,39,female,control,control_why,29454,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,1,1,0,0,1,0,1,0,0
+A1H72Y9Z5NJXDS,english,39,female,high,high_fbi,36190,0,0,0,1,Place F.,Places F and A.,Place E.,mo-h,ms-h,mo-l,0,1,1,1,0,0,1,0,0,0,0,0,0,1
+A1H72Y9Z5NJXDS,english,39,female,low,low_yoga,28992,0,1,1,0,Studio A.,Studio B.,Studio F.,f,mo-l,mo-h,0,1,1,0,0,1,1,0,1,1,0,0,0,0
+A1H72Y9Z5NJXDS,english,39,female,high,high_operative,40168,1,1,0,0,The South and North districts.,The Northeast district.,The West district.,ms-l,mo-h,f,0,1,0,0,1,1,1,0,1,0,0,1,0,0
+A1H72Y9Z5NJXDS,english,39,female,control,control_when,36963,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,1,1,0,1,0,0,1,0,0
+A1H72Y9Z5NJXDS,english,39,female,exit_quest,NA,77909,I would point out the nearest coffee shop to where I was asked.,Not difficult%2C but parsing out incomplete answers made me rethink some of the options.,none,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+fgfhg,fghfgh,31,male,consent,NA,29291,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+fgfhg,fghfgh,31,male,train,train_f,1169,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+fgfhg,fghfgh,31,male,train,train_m,1059,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+fgfhg,fghfgh,31,male,low,low_pic,869,0,0,0,0,Locations D and F.,"Locations A, D, E, and F.",Location A.,ms-l,exh,mo-h,1,1,0,0,1,0,1,0,0,0,0,0,0,0
+fgfhg,fghfgh,31,male,high,high_fbi,848,0,0,0,0,Place F.,Places B and E.,Place E.,mo-h,ms-l,mo-l,0,1,1,0,1,0,1,0,0,0,0,0,0,0
+fgfhg,fghfgh,31,male,control,control_why,784,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,0,0,0,0,0,0
+fgfhg,fghfgh,31,male,low,low_coffee,940,0,0,0,0,Cafes E and B.,Cafe E.,"Cafes E, B, F, C and D.",ms-h,mo-h,exh,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+fgfhg,fghfgh,31,male,high,high_firefighter,663,0,0,0,0,The fourth and sixth floors.,The fifth and second floors.,The sixth floor.,ms-l,ms-h,mo-l,0,0,1,1,1,0,1,0,0,0,0,0,0,0
+fgfhg,fghfgh,31,male,control,control_when,860,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,0,0,0,0
+fgfhg,fghfgh,31,male,low,low_brother,907,0,0,0,0,Stalls A and B.,"Stalls C, D, A, F and B.",Stalls C and D.,ms-l,exh,ms-h,1,0,0,1,1,0,1,0,0,0,0,0,0,0
+fgfhg,fghfgh,31,male,high,high_operative,918,0,0,0,0,The Northeast and Southwest districts.,The Northeast district.,The South and North districts.,ms-h,mo-h,ms-l,0,1,0,1,1,0,1,0,0,0,0,0,0,0
+fgfhg,fghfgh,31,male,low,low_la,736,0,0,0,0,Diner C.,Diner B.,"Diners C, F, A, D, and E.",mo-h,f,exh,1,1,0,0,0,1,1,0,0,0,0,0,0,0
+fgfhg,fghfgh,31,male,control,control_what,751,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,1,1,0,0,0,0,0,0,0
+fgfhg,fghfgh,31,male,high,high_inspector,888,0,0,0,0,Restaurants A and B.,Restaurant E.,Restaurants C and E.,ms-h,mo-l,ms-l,0,0,1,1,1,0,1,0,0,0,0,0,0,0
+fgfhg,fghfgh,31,male,low,low_yoga,685,0,0,0,0,Studio A.,Studios C and B.,Studios F and E.,f,ms-l,ms-h,0,0,0,1,1,1,1,0,0,0,0,0,0,0
+fgfhg,fghfgh,31,male,high,high_terrorism,859,0,0,0,0,Store E.,Stores E and B.,Store F.,mo-h,ms-h,mo-l,0,1,1,1,0,0,1,0,0,0,0,0,0,0
+fgfhg,fghfgh,31,male,control,control_how,721,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,0,0,0,0,0,0
+fgfhg,fghfgh,31,male,exit_quest,NA,19851,,,Wayyyy too much work for $1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A35P57XYNK927Y,english,53,female,consent,NA,31858,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A35P57XYNK927Y,english,53,female,train,train_f,51808,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A35P57XYNK927Y,english,53,female,train,train_m,69688,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A35P57XYNK927Y,english,53,female,high,high_inspector,91054,1,1,1,0,Restaurant E.,Restaurants C and E.,Restaurant A.,mo-l,ms-l,mo-h,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A35P57XYNK927Y,english,53,female,low,low_coffee,66927,1,1,1,0,Cafes E and B.,Cafe E.,"Cafes E, B, F, C and D.",ms-h,mo-h,exh,1,1,0,1,0,0,1,1,1,0,1,0,0,0
+A35P57XYNK927Y,english,53,female,control,control_when,62938,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,1,1,0,1,0,0,0
+A35P57XYNK927Y,english,53,female,high,high_firefighter,69512,1,1,1,0,The fifth and second floors.,The fourth and sixth floors.,The sixth floor.,ms-h,ms-l,mo-l,0,0,1,1,1,0,1,0,0,1,1,1,0,0
+A35P57XYNK927Y,english,53,female,low,low_yoga,28257,1,1,1,0,Studios C and B.,Studios F and E.,Studio F.,ms-l,ms-h,mo-h,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+A35P57XYNK927Y,english,53,female,control,control_what,26861,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,1,1,0,0
+A35P57XYNK927Y,english,53,female,high,high_fbi,51159,0,1,1,0,Place D.,"Places F, A, B, C and E.",Places B and E.,f,exh,ms-l,1,0,0,0,1,1,1,1,0,0,0,1,0,0
+A35P57XYNK927Y,english,53,female,low,low_brother,38938,1,1,1,0,Stalls C and D.,Stall B.,Stall C.,ms-h,mo-l,mo-h,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+A35P57XYNK927Y,english,53,female,high,high_terrorism,44543,1,1,1,0,Store E.,Store F.,Stores A and F.,mo-h,mo-l,ms-l,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A35P57XYNK927Y,english,53,female,control,control_how,65257,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,1,0,1,0,0
+A35P57XYNK927Y,english,53,female,low,low_la,42367,1,0,1,0,Diners C and F.,Diner B.,"Diners C, F, A, D, and E.",ms-h,f,exh,1,0,0,1,0,1,1,1,0,0,1,0,0,0
+A35P57XYNK927Y,english,53,female,high,high_operative,380745,1,1,1,0,The Northeast district.,The Northeast and Southwest districts.,The North district.,mo-h,ms-h,mo-l,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+A35P57XYNK927Y,english,53,female,low,low_pic,20325,1,1,1,0,Location F.,Locations A and D.,Locations D and F.,mo-l,ms-h,ms-l,0,0,1,1,1,0,1,0,0,1,1,1,0,0
+A35P57XYNK927Y,english,53,female,control,control_why,38794,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,1,1,1,0,0
+A35P57XYNK927Y,english,53,female,exit_quest,NA,150585,I do not recall the names of the shops in his city.,Hard%2C because I don't know if you are asking me to remember the names of the places in his scenerio or not?,It would have been helpful if this last page was better explained.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1UKAS30R0MFI6,english,25,male,consent,NA,26362,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1UKAS30R0MFI6,english,25,male,train,train_f,32255,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1UKAS30R0MFI6,english,25,male,train,train_m,32463,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1UKAS30R0MFI6,english,25,male,low,low_brother,155038,1,1,0,0,Stalls A and B.,Stall C.,Stall E.,ms-l,mo-h,f,0,1,0,0,1,1,1,0,1,0,0,1,0,0
+A1UKAS30R0MFI6,english,25,male,high,high_inspector,111218,1,0,0,0,"Restaurants A, B, C, D, and E.",Restaurant E.,Restaurants C and E.,exh,mo-l,ms-l,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+A1UKAS30R0MFI6,english,25,male,low,low_coffee,37226,1,1,0,0,Cafe D.,Cafe E.,Cafe A.,mo-l,mo-h,f,0,1,1,0,0,1,1,0,1,1,0,0,0,0
+A1UKAS30R0MFI6,english,25,male,control,control_how,35242,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,1,0,1,1,0,0,0,0
+A1UKAS30R0MFI6,english,25,male,high,high_firefighter,120878,1,1,1,0,The sixth floor.,The fifth floor.,The fifth and second floors.,mo-l,mo-h,ms-h,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+A1UKAS30R0MFI6,english,25,male,low,low_yoga,24286,1,1,1,0,Studios C and B.,Studio B.,Studios F and E.,ms-l,mo-l,ms-h,0,0,1,1,1,0,1,0,0,1,1,1,0,0
+A1UKAS30R0MFI6,english,25,male,control,control_why,44685,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,1,1,1,0,0
+A1UKAS30R0MFI6,english,25,male,high,high_fbi,90431,1,1,1,0,Places F and A.,"Places F, A, B, C and E.",Places B and E.,ms-h,exh,ms-l,1,0,0,1,1,0,1,1,0,0,1,1,0,0
+A1UKAS30R0MFI6,english,25,male,low,low_pic,25568,1,1,1,0,Location F.,Location A.,Locations A and D.,mo-l,mo-h,ms-h,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+A1UKAS30R0MFI6,english,25,male,high,high_operative,85934,1,0,1,0,The South and North districts.,The West district.,The Northeast and Southwest districts.,ms-l,f,ms-h,0,0,0,1,1,1,1,0,0,0,1,1,0,0
+A1UKAS30R0MFI6,english,25,male,control,control_when,32490,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,1,1,0,0,0,1,1,0,0
+A1UKAS30R0MFI6,english,25,male,low,low_la,16699,1,1,1,0,"Diners C, F, A, D, and E.",Diner E.,Diner C.,exh,mo-l,mo-h,1,1,1,0,0,0,1,1,1,1,0,0,0,0
+A1UKAS30R0MFI6,english,25,male,high,high_terrorism,47108,1,1,1,0,"Stores E, B, A, D, and F.",Stores A and F.,Store E.,exh,ms-l,mo-h,1,1,0,0,1,0,1,1,1,0,0,1,0,0
+A1UKAS30R0MFI6,english,25,male,control,control_what,11555,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,1,1,0,0,1,0,0
+A1UKAS30R0MFI6,english,25,male,exit_quest,NA,78065,John can get coffee at the gas station.,It was hard to determine who was truly right in some of the questions%2C i.e. they were still technically right if they said some of the right things and none of the wrong things (but still didn't say all of the right things),no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2NGMLBFZ3YQP5,English,58,female,consent,NA,201858,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2NGMLBFZ3YQP5,English,58,female,train,train_m,427027,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2NGMLBFZ3YQP5,English,58,female,train,train_f,53413,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2NGMLBFZ3YQP5,English,58,female,high,high_inspector,55788,1,1,1,0,Restaurant A.,Restaurants C and E.,Restaurant E.,mo-h,ms-l,mo-l,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A2NGMLBFZ3YQP5,English,58,female,low,low_coffee,27448,1,1,0,0,Cafes F and D.,Cafe D.,Cafe A.,ms-l,mo-l,f,0,0,1,0,1,1,1,0,0,1,0,1,0,0
+A2NGMLBFZ3YQP5,English,58,female,control,control_what,21628,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,1,1,0,0,1,0,1,0,0
+A2NGMLBFZ3YQP5,English,58,female,high,high_terrorism,61599,0,1,0,0,Store F.,"Stores E, B, A, D, and F.",Stores A and F.,mo-l,exh,ms-l,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+A2NGMLBFZ3YQP5,English,58,female,low,low_brother,22738,1,1,1,0,Stall C.,Stalls C and D.,Stalls A and B.,mo-h,ms-h,ms-l,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+A2NGMLBFZ3YQP5,English,58,female,control,control_how,42431,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,1,1,0,0
+A2NGMLBFZ3YQP5,English,58,female,high,high_fbi,65545,1,1,1,0,Place F.,Place D.,Places B and E.,mo-h,f,ms-l,0,1,0,0,1,1,1,0,1,0,0,1,1,0
+A2NGMLBFZ3YQP5,English,58,female,low,low_yoga,21609,1,1,1,0,Studio B.,"Studios F, E, D, C and B.",Studio F.,mo-l,exh,mo-h,1,1,1,0,0,0,1,1,1,1,0,0,0,0
+A2NGMLBFZ3YQP5,English,58,female,high,high_operative,115440,1,1,1,0,The North district.,The South and North districts.,The Northeast and Southwest districts.,mo-l,ms-l,ms-h,0,0,1,1,1,0,1,0,0,1,1,1,0,0
+A2NGMLBFZ3YQP5,English,58,female,control,control_when,41099,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,1,1,1,0,0
+A2NGMLBFZ3YQP5,English,58,female,low,low_la,254114,0,1,1,0,Diner B.,Diner C.,Diner E.,f,mo-h,mo-l,0,1,1,0,0,1,1,0,1,1,0,0,0,0
+A2NGMLBFZ3YQP5,English,58,female,high,high_firefighter,36485,1,1,1,0,The fifth floor.,The fifth and second floors.,The sixth floor.,mo-h,ms-h,mo-l,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+A2NGMLBFZ3YQP5,English,58,female,low,low_pic,168111,1,0,1,0,Location A.,Location B.,Locations A and D.,mo-h,f,ms-h,0,1,0,1,0,1,1,0,1,0,1,0,0,0
+A2NGMLBFZ3YQP5,English,58,female,control,control_why,148068,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,1,1,0,1,0,1,0,0,0
+A2NGMLBFZ3YQP5,English,58,female,exit_quest,NA,222083,John can find coffee at the local supermarket.,I got a little confused about whether people should know everything%2C or pieces of the answers%2C or what.,Nope.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

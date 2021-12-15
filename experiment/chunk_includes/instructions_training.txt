@@ -1,0 +1,9 @@
+In the following screens, you will read a series of short scenarios one by one.
+ 
+Read each one carefully. At the end, someone will deliver an utterance. This will be followed by a question asking whether that person was right.
+ 
+Your job is to respond YES or NO based on the corresponding scenario that you read.
+ 
+You will ONLY get credit if you surpass the minimum threshold of correct responses and time spent. Surveys taking less than 10 minutes will not get credit.
+ 
+We will now go through 2 examples.

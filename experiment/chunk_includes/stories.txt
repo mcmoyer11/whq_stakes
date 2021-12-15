@@ -1,0 +1,219 @@
+################################################################################################
+
+Scientists have discovered a new strain of a dangerous virus that has contaminated oysters in the Mid-Atlantic. The Center for Disease Control is trying to prevent as much contamination as possible by tracking down all the oysters.
+
+In this area, luckily only 6 restaurants usually buy oysters from the contaminated area:
+Restaurant A ordered 10 crates,
+Restaurant B ordered 8,
+Restaurant C ordered 5,
+Restaurant D ordered 2,
+Restaurant E ordered 1, and
+Restaurant F ordered 0.
+
+The supervisor for this county asks his inspectors, "Where should we check for contaminated oysters?”
+
+Inspector A says, “RANDOM ANSWER”
+Inspector B says, “RANDOM ANSWER”
+Inspector C says, “RANDOM ANSWER”
+
+Who knows where to look for oysters? (choose all that apply)
+
+Inspector A
+Inspector B
+Inspector C
+No one
+
+Answers:
+Restaurants A, B, C, D, and E.
+Restaurant A.
+Restaurants A and C.
+Restaurants A and E.
+Restaurants C and E.
+Restaurant E.
+Restaurant F.
+
+################################################################################################
+
+Homestead Farms has discovered that their latest batch of organic yogurt has been contaminated with a harmful pesticide which has made the yogurt unsafe for consumption.
+
+In this area, luckily only 6 restaurants usually buy oysters from the contaminated area:
+Shop A ordered 15 boxes,
+Shop B ordered 10,
+Shop C ordered 5,
+Shop D ordered 2,
+Shop E ordered 1, and
+Shop F ordered 0.
+
+The supervisor for this county asks his inspectors, “Where should we check for the ?”
+
+Inspector A says, “RANDOM ANSWER”
+Inspector B says, “RANDOM ANSWER”
+Inspector C says, “RANDOM ANSWER”
+
+Who knows where to look for oysters? (choose all that apply)
+
+Inspector A
+Inspector B
+Inspector C
+No one
+
+Answers:
+Restaurants A, B, C, D, and E.
+Restaurant A.
+Restaurants A and C.
+Restaurants A and E.
+Restaurants C and E.
+Restaurant E.
+Restaurant F.
+
+
+
+################################################################################################
+
+There is a threat of a terrorist attack in the city, and so defense officials are working over time
+
+The officials have put together a ranking of the most populated areas of city.
+
+Place A has 10,
+Place B has 8,
+Place C has 5,
+Place D has 2,
+Place E has 1, and
+Place F has 0.
+
+The fire chief
+
+Firefighter A says, “RANDOM ANSWER”
+Firefighter B says, “RANDOM ANSWER”
+Firefighter C says, “RANDOM ANSWER”
+
+Who knows where to look for trapped people? (choose all that apply)
+
+Firefighter A
+Firefighter B
+Firefighter C
+No one
+
+Answers:
+Floor A, B, C, D, and E.
+Floor A.
+Floor A and C.
+Floor A and E.
+Floor C and E.
+Floor E.
+Floor F.
+
+
+################################################################################################
+
+LOW STAKES
+
+
+################################################################################################
+
+Mark is visiting New York City for the first time, and wants to take the best pictures possible to show his family back home.
+
+The Ultimate Guide to New York City 2018 gives the following ranking for places where tourists can snap great pictures of the city:
+Location A has 10 stars,
+Location B has 8,
+Location C has 5,
+Location D has 2,
+Location E has 1, and
+Location F has 0.
+
+Mark asks three of his friends who live in New York, "Where should I go to view the city?"
+
+Friend A says, “RANDOM ANSWER”
+Friend B says, “RANDOM ANSWER”
+Friend C says, “RANDOM ANSWER”
+
+Who knows where to view the city? (choose all that apply)
+
+Friend A
+Friend B
+Friend C
+No one
+
+Answers:
+Location A, B, C, D, and E.
+Location A.
+Location A and C.
+Location A and E.
+Location C and E.
+Location E.
+Location F.
+
+
+################################################################################################
+
+Christina and Gabe are event planners and they're deciding which of the new hires to include on the committee for the biggest event, the annual gala.
+
+Restaurant A ordered 10 crates,
+Restaurant B ordered 8,
+Restaurant C ordered 5,
+Restaurant D ordered 2,
+Restaurant E ordered 1, and
+Restaurant F ordered 0.
+
+Veronica asks Cate, "Who should we select to be on the committee?"
+
+Inspector A says, “RANDOM ANSWER”
+Inspector B says, “RANDOM ANSWER”
+Inspector C says, “RANDOM ANSWER”
+
+Who knows who to select to be on the committee? (choose all that apply)
+
+Friend A
+Friend B
+Friend C
+No one
+
+Answers:
+Restaurants A, B, C, D, and E.
+Restaurant A.
+Restaurants A and C.
+Restaurants A and E.
+Restaurants C and E.
+Restaurant E.
+Restaurant F.
+
+################################################################################################
+
+Johanna is new to town and wants to get coffee.
+
+
+The Ultimate Coffee Guide to New York City 2018 gives the following ranking for coffee roasteries:
+Cafe A has 10 stars,
+Cafe B has 8,
+Cafe C has 5,
+Cafe D has 2,
+Cafe E has 1, and
+Cafe F has 0.
+
+She asks three friends, residents of the town, "Where can I can get coffee?"
+
+Friend A says, “RANDOM ANSWER”
+Friend B says, “RANDOM ANSWER”
+Friend C says, “RANDOM ANSWER”
+
+Who knows where to get coffee? (choose all that apply)
+
+Friend A
+Friend B
+Friend C
+No one
+
+Answers:
+Cafes A, B, C, D, and E.
+Cafe A.
+Cafes A and C.
+Cafes A and E.
+Cafes C and E.
+Cafe E.
+Cafe F.
+
+################################################################################################
+
+
+
+

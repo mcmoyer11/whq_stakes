@@ -1,0 +1,104 @@
+<style>
+    label {
+        display: inline-block;
+        margin-bottom: 8px;
+    }
+    a.left {
+        padding-right: 5px;
+    }
+    a.right {
+        padding-left: 5px;
+    }
+</style>
+<div align="center">
+    <div id="trialDiv">
+
+<div id="storyDiv">
+    <p>The Capitol Police have just gotten word of a possible terrorist attack targeting specific stores in the area.</p>
+       <p> Their analysts have determined the following ranking, based on how likely a store is to be targeted. </p>
+
+    <ul style="list-style: none">
+        <li>Store A is rated 10 ,</li>
+        <li>Store B is rated 8,</li>
+        <li>Store C is rated 5,</li>
+        <li>Store D is rated 2,</li>
+        <li>Store E is rated 1, and</li>
+        <li>Store F is rated 0.</li>
+
+<p>The Chief asks his three top advisors, "Where should we set up extra surveillance?" </p>
+
+</div>
+
+        <table cellpadding="10" cellspacing="4">
+        <tr>
+          <td>Who knows where to set up extra surveillance? (Choose all that apply)<br>
+        </tr>
+        <tr class="bordered">
+        <td>
+            <label for="firefighter_a"><input type="checkbox" id="firefighter_a" name="firefighter_A_chosen" value="Firefighter A" ><span>Advisor A</span></label>
+            <label for="firefighter_b"><input type="checkbox" id="firefighter_b" name="firefighter_B_chosen" value="Firefighter B" ><span>Advisor B</span></label>
+            <label for="firefighter_c"><input type="checkbox" id="firefighter_c" name="firefighter_C_chosen" value="Firefighter C" ><span>Advisor C</span></label>
+            <label for="no_one"><input type="checkbox" id="no_one" name="no_one_chosen" value="No one"><span>No one</span></label>
+        </td>
+
+    </tr>
+
+</table>
+</div>
+</div>
+
+<!--This div is hidden and stores the r<!--This div is hidden and stores the randomized angle values for reporting later-->
+<div id = "answer_report_div" style="visibility: hidden">
+</div>
+<!--end html-->
+
+<script type="text/javascript">
+
+
+
+    String.prototype.format = function() {
+    var s = this,
+        i = arguments.length;
+
+    while (i--) {
+        s = s.replace(new RegExp('\\{' + i + '\\}', 'gm'), arguments[i]);
+    }
+    return s;
+    };
+
+   var storyDiv = document.getElementById('storyDiv');
+
+   // the array of possible answers
+   var answers_array = Array('Stores A, B, C, D, and E.', 'Store A.', 'Stores A and C.', 'Stores A and E.', 'Stores C and E.', 'Store E.', 'Store F.');
+   var firefighter_A_answer = 'Firefighter A says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   var firefighter_B_answer = 'Firefighter B says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   var firefighter_C_answer = 'Firefighter C says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   //
+   var answer1 = document.createElement('p');
+   var ans1node = document.createTextNode(inspector_A_answer);
+   answer1.appendChild(ans1node);
+   storyDiv.appendChild(answer1);
+
+   var answer2 = document.createElement('p');
+   var ans2node = document.createTextNode(inspector_B_answer);
+   answer2.appendChild(ans2node);
+   storyDiv.appendChild(answer2);
+
+   var answer3 = document.createElement('p');
+   var ans3node = document.createTextNode(inspector_C_answer);
+   answer3.appendChild(ans3node);
+   storyDiv.appendChild(answer3);
+
+   // create a textarea element that will hold the answer values for this trial
+   var answer_report = document.createElement('textarea');
+   answer_report.id = "answer_report";
+   answer_report.setAttribute("name","answers_reported")
+   answer_report.setAttribute("placeholder","{0},{1},{2}".format(inspector_A_answer,inspector_B_answer,inspector_C_answer));
+
+   // append it to the hidden answer_report div in the body HTML
+   document.getElementById("answer_report_div").appendChild(answer_report);
+   document.getElementById("answer_report").append("placeholder","{0},{1},{2}".format(inspector_A_answer,inspector_B_answer,inspector_C_answer));
+
+
+
+</script>

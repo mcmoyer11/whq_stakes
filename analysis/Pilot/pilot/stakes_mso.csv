@@ -1,0 +1,191 @@
+"","subject","age","gender","trial","story","reaction_time","response_a","response_b","response_c","response_d","report_a","report_b","report_c","tag_a","tag_b","tag_c","exhaustive_seen","mention_one_high_seen","mention_one_low_seen","mention_some_high_seen","mention_some_low_seen","false_report_seen","none_of_above_seen","exhaustive_chosen","mention_one_high_chosen","mention_one_low_chosen","mention_some_high_chosen","mention_some_low_chosen","false_report_chosen","none_of_above_chosen"
+"4",1,31,"female","low","low_pic",59105,"0","0","1",0,"Locations D and F.","Locations A, D, E, and F.","Locations A and D.","ms-l","exh","ms-h",1,0,0,1,1,0,1,0,0,0,1,0,0,0
+"5",1,31,"female","high","high_operative",74604,"0","0","1",0,"The Northeast district.","The North district.","The Northeast and Southwest districts.","mo-h","mo-l","ms-h",0,1,1,1,0,0,1,0,0,0,1,0,0,0
+"6",1,31,"female","low","low_coffee",27695,"1","0","0",0,"Cafes E and B.","Cafe E.","Cafes F and D.","ms-h","mo-h","ms-l",0,1,0,1,1,0,1,0,0,0,1,0,0,0
+"8",1,31,"female","high","high_firefighter",47414,"1","0","0",0,"The fifth and second floors.","The sixth floor.","The fourth and sixth floors.","ms-h","mo-l","ms-l",0,0,1,1,1,0,1,0,0,0,1,0,0,0
+"9",1,31,"female","low","low_yoga",33016,"0","0","1",0,"Studio B.","Studios F and E.","Studio F.","mo-l","ms-h","mo-h",0,1,1,1,0,0,1,0,1,0,0,0,0,0
+"11",1,31,"female","high","high_terrorism",46753,"1","0","0",0,"Stores E and B.","Stores A and F.","Store F.","ms-h","ms-l","mo-l",0,0,1,1,1,0,1,0,0,0,1,0,0,0
+"12",1,31,"female","low","low_brother",26939,"0","0","1",0,"Markets A and B.","Markets C and D.","Market C.","ms-l","ms-h","mo-h",0,1,0,1,1,0,1,0,1,0,0,0,0,0
+"13",1,31,"female","high","high_fbi",54965,"1","0","0",0,"Places F and A.","Places B and E.","Place E.","ms-h","ms-l","mo-l",0,0,1,1,1,0,1,0,0,0,1,0,0,0
+"15",1,31,"female","low","low_la",28170,"0","1","0",0,"Diner E.","Diners C, F, A, D, and E.","Diners A and E.","mo-l","exh","ms-l",1,0,1,0,1,0,1,1,0,0,0,0,0,0
+"16",1,31,"female","high","high_inspector",27909,"1","0","0",0,"Restaurants A and B.","Restaurants C and E.","Restaurant E.","ms-h","ms-l","mo-l",0,0,1,1,1,0,1,0,0,0,1,0,0,0
+"22",2,25,"female","low","low_brother",29401,"0","1","0",0,"Markets A and B.","Market C.","Markets C and D.","ms-l","mo-h","ms-h",0,1,0,1,1,0,1,0,1,0,0,0,0,0
+"23",2,25,"female","high","high_fbi",36298,"0","1","0",0,"Places B and E.","Places F and A.","Place E.","ms-l","ms-h","mo-l",0,0,1,1,1,0,1,0,0,0,1,0,0,0
+"24",2,25,"female","low","low_pic",22632,"0","0","1",0,"Locations D and F.","Locations A and D.","Location A.","ms-l","ms-h","mo-h",0,1,0,1,1,0,1,0,1,0,0,0,0,0
+"26",2,25,"female","high","high_firefighter",46709,"0","1","0",0,"The fourth and sixth floors.","The fifth, second, fourth, third and sixth floors.","The fifth and second floors.","ms-l","exh","ms-h",1,0,0,1,1,0,1,1,0,0,0,0,0,0
+"27",2,25,"female","low","low_yoga",40710,"0","1","1",0,"Studios C and B.","Studio F.","Studios F and E.","ms-l","mo-h","ms-h",0,1,0,1,1,0,1,0,1,0,1,0,0,0
+"29",2,25,"female","high","high_terrorism",34205,"1","1","0",0,"Stores E, B, A, D, and F.","Stores A and F.","Store E.","exh","ms-l","mo-h",1,1,0,0,1,0,1,1,0,0,0,1,0,0
+"30",2,25,"female","low","low_coffee",19926,"1","0","1",0,"Cafe E.","Cafe D.","Cafes E and B.","mo-h","mo-l","ms-h",0,1,1,1,0,0,1,0,1,0,1,0,0,0
+"31",2,25,"female","high","high_operative",45932,"0","0","1",0,"The North district.","The South and North districts.","The Northeast district.","mo-l","ms-l","mo-h",0,1,1,0,1,0,1,0,1,0,0,0,0,0
+"33",2,25,"female","low","low_la",69542,"1","1","0",0,"Diners C and F.","Diner C.","Diner E.","ms-h","mo-h","mo-l",0,1,1,1,0,0,1,0,1,0,1,0,0,0
+"34",2,25,"female","high","high_inspector",46195,"1","1","1",0,"Restaurants C and E.","Restaurants A and B.","Restaurant A.","ms-l","ms-h","mo-h",0,1,0,1,1,0,1,0,1,0,1,1,0,0
+"40",3,29,"male","low","low_yoga",44802,"1","0","1",0,"Studios C and B.","Studios F and E.","Studio B.","ms-l","ms-h","mo-l",0,0,1,1,1,0,1,0,0,1,0,1,0,0
+"41",3,29,"male","high","high_terrorism",49206,"0","1","0",0,"Stores E and B.","Stores E, B, A, D, and F.","Store E.","ms-h","exh","mo-h",1,1,0,1,0,0,1,1,0,0,0,0,0,0
+"43",3,29,"male","low","low_pic",100225,"1","0","1",0,"Locations A and D.","Location A.","Locations D and F.","ms-h","mo-h","ms-l",0,1,0,1,1,0,1,0,0,0,1,1,0,0
+"44",3,29,"male","high","high_operative",53101,"0","0","1",0,"The Northeast district.","The South and North districts.","The Northeast and Southwest districts.","mo-h","ms-l","ms-h",0,1,0,1,1,0,1,0,0,0,1,0,0,0
+"46",3,29,"male","low","low_la",143760,"0","1","0",0,"Diners C and F.","Diners C, F, A, D, and E.","Diner C.","ms-h","exh","mo-h",1,1,0,1,0,0,1,1,0,0,0,0,0,0
+"47",3,29,"male","high","high_fbi",40777,"1","0","0",0,"Place E.","Places F and A.","Place F.","mo-l","ms-h","mo-h",0,1,1,1,0,0,1,0,0,1,0,0,0,0
+"48",3,29,"male","low","low_brother",28579,"0","1","0",0,"Market B.","Market C.","Markets C, D, A, F and B.","mo-l","mo-h","exh",1,1,1,0,0,0,1,0,1,0,0,0,0,0
+"50",3,29,"male","high","high_firefighter",39168,"0","0","1",0,"The fifth and second floors.","The fifth floor.","The sixth floor.","ms-h","mo-h","mo-l",0,1,1,1,0,0,1,0,0,1,0,0,0,0
+"51",3,29,"male","low","low_coffee",30252,"1","0","1",0,"Cafes F and D.","Cafe E.","Cafe D.","ms-l","mo-h","mo-l",0,1,1,0,1,0,1,0,0,1,0,1,0,0
+"52",3,29,"male","high","high_inspector",36741,"1","0","0",0,"Restaurants A and B.","Restaurant A.","Restaurants C and E.","ms-h","mo-h","ms-l",0,1,0,1,1,0,1,0,0,0,1,0,0,0
+"58",4,42,"male","high","high_operative",73798,"1","0","1",0,"The Northeast and Southwest districts.","The South and North districts.","The Northeast district.","ms-h","ms-l","mo-h",0,1,0,1,1,0,1,0,1,0,1,0,0,0
+"59",4,42,"male","low","low_coffee",53614,"0","1","1",0,"Cafes F and D.","Cafe E.","Cafes E and B.","ms-l","mo-h","ms-h",0,1,0,1,1,0,1,0,1,0,1,0,0,0
+"61",4,42,"male","high","high_fbi",61768,"1","1","0",0,"Places F and A.","Place F.","Place E.","ms-h","mo-h","mo-l",0,1,1,1,0,0,1,0,1,0,1,0,0,0
+"62",4,42,"male","low","low_brother",33848,"0","1","0",0,"Market B.","Market C.","Markets A and B.","mo-l","mo-h","ms-l",0,1,1,0,1,0,1,0,1,0,0,0,0,0
+"64",4,42,"male","high","high_terrorism",56601,"0","1","0",0,"Store F.","Stores E and B.","Store E.","mo-l","ms-h","mo-h",0,1,1,1,0,0,1,0,0,0,1,0,0,0
+"65",4,42,"male","low","low_pic",81204,"1","1","0",0,"Locations A and D.","Location A.","Locations D and F.","ms-h","mo-h","ms-l",0,1,0,1,1,0,1,0,1,0,1,0,0,0
+"66",4,42,"male","high","high_firefighter",37426,"0","0","1",0,"The fourth and sixth floors.","The fifth and second floors.","The fifth, second, fourth, third and sixth floors.","ms-l","ms-h","exh",1,0,0,1,1,0,1,1,0,0,0,0,0,0
+"68",4,42,"male","low","low_yoga",33019,"0","1","0",0,"Studios C and B.","Studios F and E.","Studio F.","ms-l","ms-h","mo-h",0,1,0,1,1,0,1,0,0,0,1,0,0,0
+"69",4,42,"male","high","high_inspector",25969,"0","1","0",0,"Restaurant A.","Restaurants A and B.","Restaurants C and E.","mo-h","ms-h","ms-l",0,1,0,1,1,0,1,0,0,0,1,0,0,0
+"70",4,42,"male","low","low_la",23207,"0","1","0",0,"Diners C, F, A, D, and E.","Diner C.","Diner E.","exh","mo-h","mo-l",1,1,1,0,0,0,1,0,1,0,0,0,0,0
+"76",5,63,"female","low","low_brother",50227,"0","0","0",1,"Market C.","Markets C and D.","Markets C, D, A, F and B.","mo-h","ms-h","exh",1,1,0,1,0,0,1,0,0,0,0,0,0,1
+"77",5,63,"female","high","high_firefighter",100904,"1","1","1",0,"The fifth and second floors.","The fourth and sixth floors.","The fifth floor.","ms-h","ms-l","mo-h",0,1,0,1,1,0,1,0,1,0,1,1,0,0
+"79",5,63,"female","low","low_coffee",35828,"0","1","0",0,"Cafe D.","Cafe E.","Cafes F and D.","mo-l","mo-h","ms-l",0,1,1,0,1,0,1,0,1,0,0,0,0,0
+"80",5,63,"female","high","high_operative",62681,"0","0","1",0,"The Northeast district.","The Northeast and Southwest districts.","The Northeast, Southwest, South, Southeast and North districts.","mo-h","ms-h","exh",1,1,0,1,0,0,1,1,0,0,0,0,0,0
+"82",5,63,"female","low","low_pic",44632,"0","0","1",0,"Locations A and D.","Locations D and F.","Location A.","ms-h","ms-l","mo-h",0,1,0,1,1,0,1,0,1,0,0,0,0,0
+"83",5,63,"female","high","high_terrorism",59986,"0","1","0",0,"Stores E and B.","Stores E, B, A, D, and F.","Store E.","ms-h","exh","mo-h",1,1,0,1,0,0,1,1,0,0,0,0,0,0
+"84",5,63,"female","low","low_yoga",37739,"1","1","0",0,"Studio F.","Studios F and E.","Studios C and B.","mo-h","ms-h","ms-l",0,1,0,1,1,0,1,0,1,0,1,0,0,0
+"86",5,63,"female","high","high_fbi",81165,"1","0","0",0,"Places F, A, B, C and E.","Place F.","Places F and A.","exh","mo-h","ms-h",1,1,0,1,0,0,1,1,0,0,0,0,0,0
+"87",5,63,"female","low","low_la",37518,"1","0","1",0,"Diners C and F.","Diners A and E.","Diner C.","ms-h","ms-l","mo-h",0,1,0,1,1,0,1,0,1,0,1,0,0,0
+"88",5,63,"female","high","high_inspector",31169,"1","0","0",0,"Restaurants A, B, C, D, and E.","Restaurant E.","Restaurants C and E.","exh","mo-l","ms-l",1,0,1,0,1,0,1,1,0,0,0,0,0,0
+"94",6,29,"female","low","low_coffee",71717,"1","1","1",0,"Cafes E and B.","Cafes F and D.","Cafes E, B, F, C and D.","ms-h","ms-l","exh",1,0,0,1,1,0,1,1,0,0,1,1,0,0
+"95",6,29,"female","high","high_operative",97524,"1","1","0",0,"The South and North districts.","The Northeast district.","The Northeast and Southwest districts.","ms-l","mo-h","ms-h",0,1,0,1,1,0,1,0,1,0,0,1,0,0
+"96",6,29,"female","low","low_brother",92831,"1","1","1",0,"Markets C, D, A, F and B.","Market C.","Markets C and D.","exh","mo-h","ms-h",1,1,0,1,0,0,1,1,1,0,1,0,0,0
+"98",6,29,"female","high","high_terrorism",48629,"1","1","0",0,"Store E.","Stores E and B.","Stores A and F.","mo-h","ms-h","ms-l",0,1,0,1,1,0,1,0,1,0,1,0,0,0
+"99",6,29,"female","low","low_yoga",49916,"1","1","1",0,"Studio B.","Studio F.","Studios F, E, D, C and B.","mo-l","mo-h","exh",1,1,1,0,0,0,1,1,1,1,0,0,0,0
+"101",6,29,"female","high","high_fbi",62135,"1","0","1",0,"Places F and A.","Places B and E.","Place F.","ms-h","ms-l","mo-h",0,1,0,1,1,0,1,0,1,0,1,0,0,0
+"102",6,29,"female","low","low_pic",30883,"1","1","1",0,"Location F.","Location A.","Locations A and D.","mo-l","mo-h","ms-h",0,1,1,1,0,0,1,0,1,1,1,0,0,0
+"103",6,29,"female","high","high_inspector",48095,"0","1","0",0,"Restaurants A and B.","Restaurants A, B, C, D, and E.","Restaurant A.","ms-h","exh","mo-h",1,1,0,1,0,0,1,1,0,0,0,0,0,0
+"105",6,29,"female","low","low_la",28880,"1","1","1",0,"Diner C.","Diner E.","Diners A and E.","mo-h","mo-l","ms-l",0,1,1,0,1,0,1,0,1,1,0,1,0,0
+"106",6,29,"female","high","high_firefighter",67351,"0","0","1",0,"The fifth floor.","The fourth and sixth floors.","The fifth and second floors.","mo-h","ms-l","ms-h",0,1,0,1,1,0,1,0,0,0,1,0,0,0
+"112",7,27,"male","low","low_brother",42928,"1","1","1",0,"Markets C and D.","Market C.","Markets A and B.","ms-h","mo-h","ms-l",0,1,0,1,1,0,1,0,1,0,1,1,0,0
+"113",7,27,"male","high","high_inspector",33730,"1","1","1",0,"Restaurants A, B, C, D, and E.","Restaurants A and B.","Restaurant A.","exh","ms-h","mo-h",1,1,0,1,0,0,1,1,1,0,1,0,0,0
+"114",7,27,"male","low","low_pic",44432,"0","0","1",0,"Location A.","Locations D and F.","Locations A and D.","mo-h","ms-l","ms-h",0,1,0,1,1,0,1,0,0,0,1,0,0,0
+"116",7,27,"male","high","high_fbi",18370,"1","0","0",0,"Places F and A.","Place E.","Places B and E.","ms-h","mo-l","ms-l",0,0,1,1,1,0,1,0,0,0,1,0,0,0
+"117",7,27,"male","low","low_la",22080,"1","0","1",0,"Diner C.","Diners A and E.","Diners C and F.","mo-h","ms-l","ms-h",0,1,0,1,1,0,1,0,1,0,1,0,0,0
+"119",7,27,"male","high","high_operative",31469,"1","1","1",0,"The Northeast district.","The North district.","The Northeast and Southwest districts.","mo-h","mo-l","ms-h",0,1,1,1,0,0,1,0,1,1,1,0,0,0
+"120",7,27,"male","low","low_coffee",17254,"1","1","0",0,"Cafes E and B.","Cafe E.","Cafes F and D.","ms-h","mo-h","ms-l",0,1,0,1,1,0,1,0,1,0,1,0,0,0
+"121",7,27,"male","high","high_firefighter",22483,"1","1","1",0,"The fifth and second floors.","The fourth and sixth floors.","The fifth floor.","ms-h","ms-l","mo-h",0,1,0,1,1,0,1,0,1,0,1,1,0,0
+"123",7,27,"male","low","low_yoga",20288,"0","1","0",0,"Studios F, E, D, C and B.","Studios F and E.","Studios C and B.","exh","ms-h","ms-l",1,0,0,1,1,0,1,0,0,0,1,0,0,0
+"124",7,27,"male","high","high_terrorism",21334,"1","1","0",0,"Stores E and B.","Store E.","Stores A and F.","ms-h","mo-h","ms-l",0,1,0,1,1,0,1,0,1,0,1,0,0,0
+"130",8,29,"female","high","high_firefighter",80305,"0","0","0",1,"The fourth and sixth floors.","The fifth, second, fourth, third and sixth floors.","The sixth floor.","ms-l","exh","mo-l",1,0,1,0,1,0,1,0,0,0,0,0,0,1
+"131",8,29,"female","low","low_brother",29378,"1","1","1",0,"Markets C and D.","Market C.","Markets A and B.","ms-h","mo-h","ms-l",0,1,0,1,1,0,1,0,1,0,1,1,0,0
+"132",8,29,"female","high","high_terrorism",59140,"1","1","1",0,"Stores E, B, A, D, and F.","Stores E and B.","Store E.","exh","ms-h","mo-h",1,1,0,1,0,0,1,1,1,0,1,0,0,0
+"134",8,29,"female","low","low_la",11915,"0","0","0",1,"Diner C.","Diners A and E.","Diners C and F.","mo-h","ms-l","ms-h",0,1,0,1,1,0,1,0,0,0,0,0,0,1
+"135",8,29,"female","high","high_inspector",16013,"0","1","0",0,"Restaurants A and B.","Restaurants A, B, C, D, and E.","Restaurants C and E.","ms-h","exh","ms-l",1,0,0,1,1,0,1,1,0,0,0,0,0,0
+"137",8,29,"female","low","low_pic",30097,"1","1","1",0,"Location A.","Locations A and D.","Locations A, D, E, and F.","mo-h","ms-h","exh",1,1,0,1,0,0,1,1,1,0,1,0,0,0
+"138",8,29,"female","high","high_fbi",30120,"1","1","0",0,"Place F.","Places F, A, B, C and E.","Places B and E.","mo-h","exh","ms-l",1,1,0,0,1,0,1,1,1,0,0,0,0,0
+"139",8,29,"female","low","low_coffee",17477,"1","1","1",0,"Cafes E and B.","Cafe D.","Cafe E.","ms-h","mo-l","mo-h",0,1,1,1,0,0,1,0,1,1,1,0,0,0
+"141",8,29,"female","high","high_operative",37704,"1","0","0",0,"The Northeast, Southwest, South, Southeast and North districts.","The Northeast and Southwest districts.","The Northeast district.","exh","ms-h","mo-h",1,1,0,1,0,0,1,1,0,0,0,0,0,0
+"142",8,29,"female","low","low_yoga",20912,"0","0","1",0,"Studios C and B.","Studios F, E, D, C and B.","Studio F.","ms-l","exh","mo-h",1,1,0,0,1,0,1,0,1,0,0,0,0,0
+"148",9,26,"male","low","low_pic",61796,"1","0","0",0,"Location A.","Locations D and F.","Locations A and D.","mo-h","ms-l","ms-h",0,1,0,1,1,0,1,0,1,0,0,0,0,0
+"149",9,26,"male","high","high_inspector",47217,"0","0","1",0,"Restaurant E.","Restaurants C and E.","Restaurant A.","mo-l","ms-l","mo-h",0,1,1,0,1,0,1,0,1,0,0,0,0,0
+"151",9,26,"male","low","low_brother",30131,"0","0","1",0,"Market B.","Markets A and B.","Market C.","mo-l","ms-l","mo-h",0,1,1,0,1,0,1,0,1,0,0,0,0,0
+"152",9,26,"male","high","high_fbi",32345,"0","0","0",1,"Place F.","Place E.","Places B and E.","mo-h","mo-l","ms-l",0,1,1,0,1,0,1,0,0,0,0,0,0,1
+"154",9,26,"male","low","low_coffee",45839,"1","0","1",0,"Cafes E, B, F, C and D.","Cafes F and D.","Cafes E and B.","exh","ms-l","ms-h",1,0,0,1,1,0,1,1,0,0,1,0,0,0
+"155",9,26,"male","high","high_terrorism",30030,"0","0","1",0,"Store F.","Stores A and F.","Stores E and B.","mo-l","ms-l","ms-h",0,0,1,1,1,0,1,0,0,0,1,0,0,0
+"156",9,26,"male","low","low_la",38294,"0","0","1",0,"Diners A and E.","Diner E.","Diner C.","ms-l","mo-l","mo-h",0,1,1,0,1,0,1,0,1,0,0,0,0,0
+"158",9,26,"male","high","high_operative",34848,"0","0","0",1,"The North district.","The South and North districts.","The Northeast and Southwest districts.","mo-l","ms-l","ms-h",0,0,1,1,1,0,1,0,0,0,0,0,0,1
+"159",9,26,"male","low","low_yoga",20863,"1","1","0",0,"Studio F.","Studios F and E.","Studios C and B.","mo-h","ms-h","ms-l",0,1,0,1,1,0,1,0,1,0,1,0,0,0
+"160",9,26,"male","high","high_firefighter",36621,"1","1","1",0,"The sixth floor.","The fourth and sixth floors.","The fifth and second floors.","mo-l","ms-l","ms-h",0,0,1,1,1,0,1,0,0,1,1,1,0,0
+"166",10,28,"female","low","low_coffee",76301,"1","1","1",0,"Cafe E.","Cafes E, B, F, C and D.","Cafes F and D.","mo-h","exh","ms-l",1,1,0,0,1,0,1,1,1,0,0,1,0,0
+"167",10,28,"female","high","high_inspector",65549,"0","0","1",0,"Restaurant E.","Restaurants C and E.","Restaurant A.","mo-l","ms-l","mo-h",0,1,1,0,1,0,1,0,1,0,0,0,0,0
+"168",10,28,"female","low","low_brother",89734,"1","1","0",0,"Markets C, D, A, F and B.","Markets C and D.","Markets A and B.","exh","ms-h","ms-l",1,0,0,1,1,0,1,1,0,0,1,0,0,0
+"170",10,28,"female","high","high_terrorism",63710,"1","1","0",0,"Store F.","Stores E, B, A, D, and F.","Stores A and F.","mo-l","exh","ms-l",1,0,1,0,1,0,1,1,0,1,0,0,0,0
+"171",10,28,"female","low","low_yoga",41125,"0","1","1",0,"Studios C and B.","Studios F and E.","Studio F.","ms-l","ms-h","mo-h",0,1,0,1,1,0,1,0,1,0,1,0,0,0
+"173",10,28,"female","high","high_firefighter",95005,"0","0","0",1,"The fourth and sixth floors.","The sixth floor.","The fifth and second floors.","ms-l","mo-l","ms-h",0,0,1,1,1,0,1,0,0,0,0,0,0,1
+"174",10,28,"female","low","low_la",67958,"1","1","1",0,"Diners C and F.","Diners C, F, A, D, and E.","Diners A and E.","ms-h","exh","ms-l",1,0,0,1,1,0,1,1,0,0,1,1,0,0
+"175",10,28,"female","high","high_operative",97108,"1","1","0",0,"The Northeast district.","The Northeast and Southwest districts.","The North district.","mo-h","ms-h","mo-l",0,1,1,1,0,0,1,0,1,0,1,0,0,0
+"177",10,28,"female","low","low_pic",43063,"0","1","1",0,"Location F.","Locations A and D.","Location A.","mo-l","ms-h","mo-h",0,1,1,1,0,0,1,0,1,0,1,0,0,0
+"178",10,28,"female","high","high_fbi",125140,"1","0","0",0,"Places F and A.","Places B and E.","Place E.","ms-h","ms-l","mo-l",0,0,1,1,1,0,1,0,0,0,1,0,0,0
+"184",11,32,"male","low","low_pic",104783,"0","1","0",0,"Location F.","Location A.","Locations D and F.","mo-l","mo-h","ms-l",0,1,1,0,1,0,1,0,1,0,0,0,0,0
+"185",11,32,"male","high","high_fbi",60026,"0","0","0",1,"Places F, A, B, C and E.","Places F and A.","Place F.","exh","ms-h","mo-h",1,1,0,1,0,0,1,0,0,0,0,0,0,1
+"187",11,32,"male","low","low_coffee",41123,"0","0","1",0,"Cafe D.","Cafes F and D.","Cafe E.","mo-l","ms-l","mo-h",0,1,1,0,1,0,1,0,1,0,0,0,0,0
+"188",11,32,"male","high","high_firefighter",40674,"1","0","0",0,"The fifth and second floors.","The fourth and sixth floors.","The sixth floor.","ms-h","ms-l","mo-l",0,0,1,1,1,0,1,0,0,0,1,0,0,0
+"190",11,32,"male","low","low_yoga",43948,"0","1","0",0,"Studios C and B.","Studio F.","Studios F, E, D, C and B.","ms-l","mo-h","exh",1,1,0,0,1,0,1,0,1,0,0,0,0,0
+"191",11,32,"male","high","high_terrorism",22854,"0","1","0",0,"Stores E and B.","Stores E, B, A, D, and F.","Store E.","ms-h","exh","mo-h",1,1,0,1,0,0,1,1,0,0,0,0,0,0
+"192",11,32,"male","low","low_la",33703,"1","0","0",0,"Diners C and F.","Diner E.","Diners A and E.","ms-h","mo-l","ms-l",0,0,1,1,1,0,1,0,0,0,1,0,0,0
+"194",11,32,"male","high","high_operative",30263,"0","1","0",0,"The Northeast and Southwest districts.","The Northeast, Southwest, South, Southeast and North districts.","The South and North districts.","ms-h","exh","ms-l",1,0,0,1,1,0,1,1,0,0,0,0,0,0
+"195",11,32,"male","low","low_brother",46327,"0","1","1",0,"Markets C, D, A, F and B.","Market C.","Markets C and D.","exh","mo-h","ms-h",1,1,0,1,0,0,1,0,1,0,1,0,0,0
+"196",11,32,"male","high","high_inspector",15056,"0","1","0",0,"Restaurants A and B.","Restaurants A, B, C, D, and E.","Restaurant A.","ms-h","exh","mo-h",1,1,0,1,0,0,1,1,0,0,0,0,0,0
+"202",12,31,"female","low","low_la",65661,"0","0","1",0,"Diners C, F, A, D, and E.","Diners A and E.","Diners C and F.","exh","ms-l","ms-h",1,0,0,1,1,0,1,0,0,0,1,0,0,0
+"203",12,31,"female","high","high_terrorism",91690,"0","0","1",0,"Stores E and B.","Stores A and F.","Store E.","ms-h","ms-l","mo-h",0,1,0,1,1,0,1,0,1,0,0,0,0,0
+"204",12,31,"female","low","low_brother",75276,"0","0","1",0,"Markets C and D.","Market B.","Market C.","ms-h","mo-l","mo-h",0,1,1,1,0,0,1,0,1,0,0,0,0,0
+"206",12,31,"female","high","high_operative",150851,"0","1","0",0,"The Northeast district.","The Northeast and Southwest districts.","The South and North districts.","mo-h","ms-h","ms-l",0,1,0,1,1,0,1,0,0,0,1,0,0,0
+"207",12,31,"female","low","low_pic",1395014,"0","1","0",0,"Locations A, D, E, and F.","Location A.","Locations A and D.","exh","mo-h","ms-h",1,1,0,1,0,0,1,0,1,0,0,0,0,0
+"209",12,31,"female","high","high_firefighter",50099,"0","1","0",0,"The fifth floor.","The fourth and sixth floors.","The fifth and second floors.","mo-h","ms-l","ms-h",0,1,0,1,1,0,1,0,0,0,0,1,0,0
+"210",12,31,"female","low","low_coffee",14055,"1","0","0",0,"Cafe E.","Cafes E and B.","Cafes F and D.","mo-h","ms-h","ms-l",0,1,0,1,1,0,1,0,1,0,0,0,0,0
+"211",12,31,"female","high","high_inspector",48248,"0","1","0",0,"Restaurants C and E.","Restaurants A and B.","Restaurant A.","ms-l","ms-h","mo-h",0,1,0,1,1,0,1,0,0,0,1,0,0,0
+"213",12,31,"female","low","low_yoga",27281,"0","0","1",0,"Studios F, E, D, C and B.","Studios F and E.","Studio F.","exh","ms-h","mo-h",1,1,0,1,0,0,1,0,1,0,0,0,0,0
+"214",12,31,"female","high","high_fbi",30647,"1","0","0",0,"Places F and A.","Place F.","Places B and E.","ms-h","mo-h","ms-l",0,1,0,1,1,0,1,0,0,0,1,0,0,0
+"220",13,20,"female","low","low_coffee",37788,"1","1","1",0,"Cafe D.","Cafe E.","Cafes F and D.","mo-l","mo-h","ms-l",0,1,1,0,1,0,1,0,1,1,0,1,0,0
+"221",13,20,"female","high","high_fbi",35057,"1","1","1",0,"Places B and E.","Place F.","Places F and A.","ms-l","mo-h","ms-h",0,1,0,1,1,0,1,0,1,0,1,1,0,0
+"222",13,20,"female","low","low_brother",44875,"1","1","1",0,"Markets C, D, A, F and B.","Markets A and B.","Market B.","exh","ms-l","mo-l",1,0,1,0,1,0,1,1,0,1,0,1,0,0
+"224",13,20,"female","high","high_operative",47253,"1","1","1",0,"The Northeast, Southwest, South, Southeast and North districts.","The South and North districts.","The Northeast and Southwest districts.","exh","ms-l","ms-h",1,0,0,1,1,0,1,1,0,0,1,1,0,0
+"225",13,20,"female","low","low_yoga",29475,"1","1","1",0,"Studio F.","Studios F, E, D, C and B.","Studio B.","mo-h","exh","mo-l",1,1,1,0,0,0,1,1,1,1,0,0,0,0
+"227",13,20,"female","high","high_terrorism",31132,"1","1","1",0,"Stores E and B.","Stores E, B, A, D, and F.","Store E.","ms-h","exh","mo-h",1,1,0,1,0,0,1,1,1,0,1,0,0,0
+"228",13,20,"female","low","low_pic",58931,"1","1","1",0,"Location A.","Locations D and F.","Locations A and D.","mo-h","ms-l","ms-h",0,1,0,1,1,0,1,0,1,0,1,1,0,0
+"229",13,20,"female","high","high_inspector",25066,"1","1","1",0,"Restaurants A, B, C, D, and E.","Restaurants C and E.","Restaurant E.","exh","ms-l","mo-l",1,0,1,0,1,0,1,1,0,1,0,1,0,0
+"231",13,20,"female","low","low_la",16317,"1","1","1",0,"Diners C and F.","Diner E.","Diner C.","ms-h","mo-l","mo-h",0,1,1,1,0,0,1,0,1,1,1,0,0,0
+"232",13,20,"female","high","high_firefighter",15973,"1","1","1",0,"The sixth floor.","The fifth and second floors.","The fourth and sixth floors.","mo-l","ms-h","ms-l",0,0,1,1,1,0,1,0,0,1,1,1,0,0
+"238",14,23,"female","high","high_fbi",144330,"0","0","0",1,"Place F.","Places F and A.","Places B and E.","mo-h","ms-h","ms-l",0,1,0,1,1,0,1,0,0,0,0,0,0,1
+"239",14,23,"female","low","low_yoga",104810,"1","1","1",0,"Studios C and B.","Studios F and E.","Studio B.","ms-l","ms-h","mo-l",0,0,1,1,1,0,1,0,0,1,1,1,0,0
+"241",14,23,"female","high","high_terrorism",139506,"0","1","0",0,"Stores E and B.","Store E.","Stores E, B, A, D, and F.","ms-h","mo-h","exh",1,1,0,1,0,0,1,0,1,0,0,0,0,0
+"242",14,23,"female","low","low_coffee",40228,"1","1","1",0,"Cafes E, B, F, C and D.","Cafes F and D.","Cafes E and B.","exh","ms-l","ms-h",1,0,0,1,1,0,1,1,0,0,1,1,0,0
+"244",14,23,"female","high","high_inspector",43028,"1","1","0",0,"Restaurants A, B, C, D, and E.","Restaurant A.","Restaurant E.","exh","mo-h","mo-l",1,1,1,0,0,0,1,1,1,0,0,0,0,0
+"245",14,23,"female","low","low_pic",39844,"1","1","1",0,"Locations D and F.","Location F.","Location A.","ms-l","mo-l","mo-h",0,1,1,0,1,0,1,0,1,1,0,1,0,0
+"246",14,23,"female","high","high_operative",85179,"0","0","1",0,"The Northeast district.","The Northeast and Southwest districts.","The Northeast, Southwest, South, Southeast and North districts.","mo-h","ms-h","exh",1,1,0,1,0,0,1,1,0,0,0,0,0,0
+"248",14,23,"female","low","low_brother",47324,"1","1","1",0,"Markets C and D.","Market B.","Market C.","ms-h","mo-l","mo-h",0,1,1,1,0,0,1,0,1,1,1,0,0,0
+"249",14,23,"female","high","high_firefighter",59076,"1","0","0",0,"The fifth, second, fourth, third and sixth floors.","The fifth and second floors.","The fourth and sixth floors.","exh","ms-h","ms-l",1,0,0,1,1,0,1,1,0,0,0,0,0,0
+"250",14,23,"female","low","low_la",66603,"0","0","1",0,"Diners C, F, A, D, and E.","Diners C and F.","Diner C.","exh","ms-h","mo-h",1,1,0,1,0,0,1,0,1,0,0,0,0,0
+"256",15,26,"male","high","high_fbi",37293,"0","0","0",1,"Places F, A, B, C and E.","Places F and A.","Places B and E.","exh","ms-h","ms-l",1,0,0,1,1,0,1,0,0,0,0,0,0,1
+"257",15,26,"male","low","low_coffee",26462,"0","0","1",0,"Cafes F and D.","Cafes E and B.","Cafe E.","ms-l","ms-h","mo-h",0,1,0,1,1,0,1,0,1,0,0,0,0,0
+"259",15,26,"male","high","high_operative",91070,"0","0","0",1,"The South and North districts.","The Northeast and Southwest districts.","The Northeast district.","ms-l","ms-h","mo-h",0,1,0,1,1,0,1,0,0,0,0,0,0,1
+"260",15,26,"male","low","low_brother",46979,"1","1","1",0,"Markets C, D, A, F and B.","Market C.","Markets C and D.","exh","mo-h","ms-h",1,1,0,1,0,0,1,1,1,0,1,0,0,0
+"262",15,26,"male","high","high_terrorism",32070,"0","0","1",0,"Store E.","Stores E and B.","Stores E, B, A, D, and F.","mo-h","ms-h","exh",1,1,0,1,0,0,1,1,0,0,0,0,0,0
+"263",15,26,"male","low","low_pic",15260,"0","1","0",0,"Locations D and F.","Location A.","Locations A and D.","ms-l","mo-h","ms-h",0,1,0,1,1,0,1,0,1,0,0,0,0,0
+"264",15,26,"male","high","high_firefighter",186324,"0","0","0",1,"The sixth floor.","The fourth and sixth floors.","The fifth and second floors.","mo-l","ms-l","ms-h",0,0,1,1,1,0,1,0,0,0,0,0,0,1
+"266",15,26,"male","low","low_yoga",11765,"0","0","1",0,"Studios C and B.","Studios F and E.","Studio F.","ms-l","ms-h","mo-h",0,1,0,1,1,0,1,0,1,0,0,0,0,0
+"267",15,26,"male","high","high_inspector",23549,"0","0","1",0,"Restaurant E.","Restaurant A.","Restaurants A, B, C, D, and E.","mo-l","mo-h","exh",1,1,1,0,0,0,1,1,0,0,0,0,0,0
+"268",15,26,"male","low","low_la",24851,"0","0","0",1,"Diners A and E.","Diners C and F.","Diners C, F, A, D, and E.","ms-l","ms-h","exh",1,0,0,1,1,0,1,0,0,0,0,0,0,1
+"274",16,20,"female","high","high_inspector",64819,"1","1","1",0,"Restaurants A and B.","Restaurant E.","Restaurants C and E.","ms-h","mo-l","ms-l",0,0,1,1,1,0,1,0,0,1,1,1,0,0
+"275",16,20,"female","low","low_coffee",101659,"1","1","1",0,"Cafes F and D.","Cafes E, B, F, C and D.","Cafes E and B.","ms-l","exh","ms-h",1,0,0,1,1,0,1,1,0,0,1,1,0,0
+"276",16,20,"female","high","high_operative",95883,"1","1","1",0,"The Northeast district.","The Northeast and Southwest districts.","The South and North districts.","mo-h","ms-h","ms-l",0,1,0,1,1,0,1,0,1,0,1,1,0,0
+"278",16,20,"female","low","low_brother",46878,"1","0","1",0,"Market C.","Markets A and B.","Markets C and D.","mo-h","ms-l","ms-h",0,1,0,1,1,0,1,0,1,0,1,0,0,0
+"279",16,20,"female","high","high_firefighter",64212,"1","1","1",0,"The sixth floor.","The fifth floor.","The fifth and second floors.","mo-l","mo-h","ms-h",0,1,1,1,0,0,1,0,1,1,1,0,0,0
+"281",16,20,"female","low","low_la",44004,"1","1","0",0,"Diners C and F.","Diners A and E.","Diner E.","ms-h","ms-l","mo-l",0,0,1,1,1,0,1,0,0,0,1,1,0,0
+"282",16,20,"female","high","high_fbi",59273,"1","0","1",0,"Place F.","Place E.","Places F, A, B, C and E.","mo-h","mo-l","exh",1,1,1,0,0,0,1,1,1,0,0,0,0,0
+"283",16,20,"female","low","low_pic",48623,"0","1","1",0,"Locations D and F.","Locations A and D.","Location A.","ms-l","ms-h","mo-h",0,1,0,1,1,0,1,0,1,0,1,0,0,0
+"285",16,20,"female","high","high_terrorism",61732,"1","0","1",0,"Stores E, B, A, D, and F.","Store F.","Store E.","exh","mo-l","mo-h",1,1,1,0,0,0,1,1,1,0,0,0,0,0
+"286",16,20,"female","low","low_yoga",47605,"1","1","0",0,"Studios F, E, D, C and B.","Studios F and E.","Studios C and B.","exh","ms-h","ms-l",1,0,0,1,1,0,1,1,0,0,1,0,0,0
+"292",17,22,"male","low","low_pic",78331,"1","1","0",0,"Location A.","Locations A and D.","Locations D and F.","mo-h","ms-h","ms-l",0,1,0,1,1,0,1,0,1,0,1,0,0,0
+"293",17,22,"male","high","high_firefighter",89859,"1","1","1",0,"The fifth, second, fourth, third and sixth floors.","The fifth and second floors.","The fifth floor.","exh","ms-h","mo-h",1,1,0,1,0,0,1,1,1,0,1,0,0,0
+"294",17,22,"male","low","low_la",53924,"0","1","1",0,"Diner E.","Diner C.","Diners C and F.","mo-l","mo-h","ms-h",0,1,1,1,0,0,1,0,1,0,1,0,0,0
+"296",17,22,"male","high","high_operative",92172,"1","1","1",0,"The North district.","The Northeast and Southwest districts.","The Northeast district.","mo-l","ms-h","mo-h",0,1,1,1,0,0,1,0,1,1,1,0,0,0
+"297",17,22,"male","low","low_yoga",33701,"0","1","1",0,"Studios C and B.","Studio F.","Studios F, E, D, C and B.","ms-l","mo-h","exh",1,1,0,0,1,0,1,1,1,0,0,0,0,0
+"299",17,22,"male","high","high_fbi",59948,"1","1","0",0,"Place E.","Place F.","Places F, A, B, C and E.","mo-l","mo-h","exh",1,1,1,0,0,0,1,0,1,1,0,0,0,0
+"300",17,22,"male","low","low_brother",60803,"0","1","0",0,"Markets A and B.","Markets C and D.","Market B.","ms-l","ms-h","mo-l",0,0,1,1,1,0,1,0,0,0,1,0,0,0
+"301",17,22,"male","high","high_terrorism",67036,"1","1","1",0,"Store E.","Stores A and F.","Stores E and B.","mo-h","ms-l","ms-h",0,1,0,1,1,0,1,0,1,0,1,1,0,0
+"303",17,22,"male","low","low_coffee",35052,"0","0","1",0,"Cafes E, B, F, C and D.","Cafes F and D.","Cafe E.","exh","ms-l","mo-h",1,1,0,0,1,0,1,0,1,0,0,0,0,0
+"304",17,22,"male","high","high_inspector",60172,"1","0","0",0,"Restaurants A, B, C, D, and E.","Restaurant E.","Restaurants A and B.","exh","mo-l","ms-h",1,0,1,1,0,0,1,1,0,0,0,0,0,0
+"310",18,20,"female","low","low_brother",53715,"0","1","1",0,"Markets A and B.","Market C.","Markets C and D.","ms-l","mo-h","ms-h",0,1,0,1,1,0,1,0,1,0,1,0,0,0
+"311",18,20,"female","high","high_firefighter",54684,"1","1","1",0,"The fifth and second floors.","The fourth and sixth floors.","The sixth floor.","ms-h","ms-l","mo-l",0,0,1,1,1,0,1,0,0,1,1,1,0,0
+"312",18,20,"female","low","low_pic",56700,"1","0","0",0,"Location A.","Location F.","Locations D and F.","mo-h","mo-l","ms-l",0,1,1,0,1,0,1,0,1,0,0,0,0,0
+"314",18,20,"female","high","high_inspector",74571,"1","0","0",0,"Restaurants A and B.","Restaurant A.","Restaurants C and E.","ms-h","mo-h","ms-l",0,1,0,1,1,0,1,0,0,0,1,0,0,0
+"315",18,20,"female","low","low_coffee",71572,"1","1","0",0,"Cafes E and B.","Cafe E.","Cafes E, B, F, C and D.","ms-h","mo-h","exh",1,1,0,1,0,0,1,0,1,0,1,0,0,0
+"317",18,20,"female","high","high_operative",71413,"1","1","1",0,"The Northeast, Southwest, South, Southeast and North districts.","The Northeast and Southwest districts.","The Northeast district.","exh","ms-h","mo-h",1,1,0,1,0,0,1,1,1,0,1,0,0,0
+"318",18,20,"female","low","low_yoga",43683,"1","1","1",0,"Studio F.","Studio B.","Studios F and E.","mo-h","mo-l","ms-h",0,1,1,1,0,0,1,0,1,1,1,0,0,0
+"319",18,20,"female","high","high_fbi",30565,"1","1","1",0,"Place F.","Places F, A, B, C and E.","Places F and A.","mo-h","exh","ms-h",1,1,0,1,0,0,1,1,1,0,1,0,0,0
+"321",18,20,"female","low","low_la",40468,"1","1","1",0,"Diners C and F.","Diners A and E.","Diner C.","ms-h","ms-l","mo-h",0,1,0,1,1,0,1,0,1,0,1,1,0,0
+"322",18,20,"female","high","high_terrorism",51644,"0","1","1",0,"Stores A and F.","Stores E and B.","Store E.","ms-l","ms-h","mo-h",0,1,0,1,1,0,1,0,1,0,1,0,0,0
+"328",19,27,"male","low","low_la",65975,"1","1","1",0,"Diners C and F.","Diners A and E.","Diners C, F, A, D, and E.","ms-h","ms-l","exh",1,0,0,1,1,0,1,1,0,0,1,1,0,0
+"329",19,27,"male","high","high_operative",100581,"1","0","0",0,"The Northeast, Southwest, South, Southeast and North districts.","The North district.","The South and North districts.","exh","mo-l","ms-l",1,0,1,0,1,0,1,1,0,0,0,0,0,0
+"330",19,27,"male","low","low_pic",76440,"1","0","1",0,"Location A.","Locations D and F.","Locations A and D.","mo-h","ms-l","ms-h",0,1,0,1,1,0,1,0,1,0,1,0,0,0
+"332",19,27,"male","high","high_terrorism",84918,"1","0","1",0,"Store E.","Stores A and F.","Stores E and B.","mo-h","ms-l","ms-h",0,1,0,1,1,0,1,0,1,0,1,0,0,0
+"333",19,27,"male","low","low_brother",79441,"1","1","1",0,"Markets A and B.","Market C.","Markets C and D.","ms-l","mo-h","ms-h",0,1,0,1,1,0,1,0,1,0,1,1,0,0
+"335",19,27,"male","high","high_inspector",46179,"1","0","1",0,"Restaurant A.","Restaurants C and E.","Restaurants A and B.","mo-h","ms-l","ms-h",0,1,0,1,1,0,1,0,1,0,1,0,0,0
+"336",19,27,"male","low","low_coffee",42692,"0","1","0",0,"Cafes E, B, F, C and D.","Cafe E.","Cafes F and D.","exh","mo-h","ms-l",1,1,0,0,1,0,1,0,1,0,0,0,0,0
+"337",19,27,"male","high","high_fbi",36223,"0","1","0",0,"Place E.","Places F and A.","Places B and E.","mo-l","ms-h","ms-l",0,0,1,1,1,0,1,0,0,0,1,0,0,0
+"339",19,27,"male","low","low_yoga",52112,"0","0","1",0,"Studios F, E, D, C and B.","Studio F.","Studios F and E.","exh","mo-h","ms-h",1,1,0,1,0,0,1,0,0,0,1,0,0,0
+"340",19,27,"male","high","high_firefighter",46851,"1","0","1",0,"The fifth and second floors.","The fourth and sixth floors.","The fifth, second, fourth, third and sixth floors.","ms-h","ms-l","exh",1,0,0,1,1,0,1,1,0,0,1,0,0,0

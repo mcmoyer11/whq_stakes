@@ -1,0 +1,117 @@
+<style>
+    label {
+        display: inline-block;
+        margin-bottom: 8px;
+    }
+    a.left {
+        padding-right: 5px;
+    }
+    a.right {
+        padding-left: 5px;
+    }
+    body {
+        font-size: 18px;
+    }
+</style>
+<div align="center">
+    <div id="trialDiv">
+<div id="storyDiv", style="width: 40em;">
+    <p>The Capitol Police have just gotten word of a possible terrorist attack targeting specific stores in the area. 
+      An independent consultancy firm has calculated the risk of certain stores to be targeted.
+      The firm has not yet released the study, but has ranked the stores from high risk to low risk: </p>
+
+    <ul style="list-style: none">
+        <li>Store E is most at risk, with a .5 probability,</li>
+        <li>Store B is next with .4 probability,</li>
+        <li>Store A has a .25 probability,</li>
+        <li>Store D, a .1 probability,</li>
+        <li>Store F, a .05 probability, and</li>
+        <li>Store C is least at risk, with a 0 probability.</li>
+    </ul>
+
+<p>The Chief asks his three top advisors, "Where should we set up extra surveillance?" </p>
+
+</div>
+
+        <table cellpadding="10" cellspacing="4">
+        <tr>
+          <td align="center">Who knows where to set up extra surveillance? (Choose all that apply)</td><br>
+        </tr>
+        <tr class="bordered">
+        <td align="center">
+            <label for="advisor_a"><input type="checkbox" id="advisor_a" name="terrorism_advisor_A_chosen" value="Advisor A" ><span>Advisor 1</span></label>
+            <label for="advisor_b"><input type="checkbox" id="advisor_b" name="terrorism_advisor_B_chosen" value="Advisor B" ><span>Advisor 2</span></label>
+            <label for="advisor_c"><input type="checkbox" id="advisor_c" name="terrorism_advisor_C_chosen" value="Advisor C" ><span>Advisor 3</span></label>
+            <label for="no_one"><input type="checkbox" id="no_one" name="no_one_chosen" value="No one"><span>No one</span></label>
+        </td>
+
+    </tr>
+
+</table>
+</div>
+</div>
+
+<div id = "answer_report_div" style="visibility: hidden">
+</div>
+<!--end html-->
+
+<script type="text/javascript">
+
+
+
+    String.prototype.format = function() {
+    var s = this,
+        i = arguments.length;
+
+    while (i--) {
+        s = s.replace(new RegExp('\\{' + i + '\\}', 'gm'), arguments[i]);
+    }
+    return s;
+    };
+
+   var storyDiv = document.getElementById('storyDiv');
+
+      // the array of possible answers
+   var answers = Array('Stores E, B, A, D, and F.', 'Store E.', 
+                  'Stores E and B.', 'Stores A and F.', 'Store F.', 'Store C.');
+
+   var weights = Array(10,20,20,20,20,10);
+   
+   var answers_array = Array();
+
+   for ( i = 0; i < 3; i++) {
+       answers_array.push(pickUsingWeightsAndRemove(answers,weights));
+   }
+   
+   var advisor_A_answer = 'Advisor 1 says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   var advisor_B_answer = 'Advisor 2 says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   var advisor_C_answer = 'Advisor 3 says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   //
+   var answer1 = document.createElement('p');
+   var ans1node = document.createTextNode(advisor_A_answer);
+   answer1.appendChild(ans1node);
+   storyDiv.appendChild(answer1);
+
+   var answer2 = document.createElement('p');
+   var ans2node = document.createTextNode(advisor_B_answer);
+   answer2.appendChild(ans2node);
+   storyDiv.appendChild(answer2);
+
+   var answer3 = document.createElement('p');
+   var ans3node = document.createTextNode(advisor_C_answer);
+   answer3.appendChild(ans3node);
+   storyDiv.appendChild(answer3);
+
+   // create a textarea element that will hold the answer values for this trial
+   var answer_report = document.createElement('textarea');
+   answer_report.id = "answer_report";
+   answer_report.setAttribute("name","answers_reported")
+   answer_report.setAttribute("placeholder","{0},{1},{2}".format(advisor_A_answer,advisor_B_answer,advisor_C_answer));
+
+   // append it to the hidden answer_report div in the body HTML
+   document.getElementById("answer_report_div").appendChild(answer_report);
+   document.getElementById("answer_report").append("placeholder","{0},{1},{2}".format(advisor_A_answer,advisor_B_answer,advisor_C_answer));
+
+
+
+</script>

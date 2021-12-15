@@ -1,0 +1,105 @@
+<style>
+label {
+        display: inline-block;
+        margin-bottom: 8px;
+    }
+    a.left {
+        padding-right: 5px;
+    }
+    a.right {
+        padding-left: 5px;
+    }
+</style>
+<div align="center">
+    <div id="trialDiv">
+
+<div id="storyDiv">
+            <p>Scientists have discovered a new strain of a dangerous virus that has contaminated oysters in the Mid-Atlantic. The Center for Disease Control is trying to prevent as much contamination as possible by tracking down all the oysters.
+
+In this area, luckily only 6 restaurants usually buy oysters from the contaminated area:
+Restaurant A ordered 10 crates,
+Restaurant B ordered 8,
+Restaurant C ordered 5,
+Restaurant D ordered 2,
+Restaurant E ordered 1, and
+Restaurant F ordered 0.
+
+The supervisor for this county asks his inspectors, "Where should we check for contaminated oysters?"
+
+<!--Inspector A says, “RANDOM ANSWER”-->
+<!--Inspector B says, “RANDOM ANSWER”-->
+<!--Inspector C says, “RANDOM ANSWER”-->
+
+</p>
+</div id="answers">
+
+        <table cellpadding="10" cellspacing="4">
+        <tr>
+          <td>Who knows where to look for oysters? (choose all that apply)<br>
+        </tr>
+        <tr class="bordered">
+        <td>
+            <label for="inspector_a"><input type="checkbox" id="inspector_a" name="inspector_A_chosen" value="Inspector A"><span>Inspector A</span></label>
+            <label for="inspector_b"><input type="checkbox" id="inspector_b" name="inspector_B_chosen" value="Inspector B"><span>Inspector B</span></label>
+            <label for="inspector_c"><input type="checkbox" id="inspector_c" name="inspector_C_chosen" value="Inspector C"><span>Inspector C</span></label>
+            <label for="no_one"><input type="checkbox" id="no_one" name="no_one_chosen" value="No one" required><span>No one</span></label>
+        </td>
+
+    </tr>
+
+</table>
+</div>
+</div>
+
+<!--This div is hidden and stores the reandomized angle values for reporting later-->
+<div id = "answer_report_div" style="visibility: hidden">
+</div>
+<!--end html-->
+
+<script type="text/javascript">
+
+    String.prototype.format = function() {
+    var s = this,
+        i = arguments.length;
+
+    while (i--) {
+        s = s.replace(new RegExp('\\{' + i + '\\}', 'gm'), arguments[i]);
+    }
+    return s;
+    };
+
+   var storyDiv = document.getElementById('storyDiv');
+
+   // the array of possible answers
+   var answers_array = Array('Restaurants A, B, C, D, and E.', 'Restaurant A.', 'Restaurants A and C.', 'Restaurants A and E.', 'Restaurants C and E.', 'Restaurant E.', 'Restaurant F.');
+   var inspector_A_answer = 'Inspector A says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   var inspector_B_answer = 'Inspector B says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   var inspector_C_answer = 'Inspector C says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   //
+   var answer1 = document.createElement('p');
+   var ans1node = document.createTextNode(inspector_A_answer);
+   answer1.appendChild(ans1node);
+   storyDiv.appendChild(answer1);
+
+   var answer2 = document.createElement('p');
+   var ans2node = document.createTextNode(inspector_B_answer);
+   answer2.appendChild(ans2node);
+   storyDiv.appendChild(answer2);
+
+   var answer3 = document.createElement('p');
+   var ans3node = document.createTextNode(inspector_C_answer);
+   answer3.appendChild(ans3node);
+   storyDiv.appendChild(answer3);
+
+   // create a textarea element that will hold the answer values for this trial
+   var answer_report = document.createElement('textarea');
+   answer_report.id = "answer_report";
+   answer_report.setAttribute("name","answers_reported")
+   answer_report.setAttribute("placeholder","{0},{1},{2}".format(inspector_A_answer,inspector_B_answer,inspector_C_answer));
+
+   // append it to the hidden answer_report div in the body HTML
+   document.getElementById("answer_report_div").appendChild(answer_report);
+   document.getElementById("answer_report").append("placeholder","{0},{1},{2}".format(inspector_A_answer,inspector_B_answer,inspector_C_answer));
+
+
+</script>

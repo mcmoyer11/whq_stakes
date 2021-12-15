@@ -1,0 +1,1943 @@
+#
+# Results on Sunday December 03 2017 06:53:32 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 7.0; SM-G930P Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/151.0.0.44.205;]
+# Design number was non-random = 58
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,2,0,consent,NULL,subject_id,English
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,2,0,consent,NULL,age,32
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,2,0,consent,NULL,consent_checkbox_,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,2,0,consent,NULL,dummy_checkbox_,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,2,0,consent,NULL,sex,female
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,2,0,consent,NULL,_REACTION_TIME_,51845
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,1,0,instructions,NULL,dummy_checkbox_,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,1,0,instructions,NULL,_REACTION_TIME_,23914
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,4,0,train,NULL,train_m_A_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,4,0,train,NULL,train_m_B_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,4,0,train,NULL,train_m_C_chosen,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,4,0,train,NULL,none_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,4,0,train,NULL,_REACTION_TIME_,68682
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,3,0,train,NULL,train_f_A_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,3,0,train,NULL,train_f_B_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,3,0,train,NULL,train_f_C_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,3,0,train,NULL,none_chosen,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,3,0,train,NULL,_REACTION_TIME_,60943
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,5,0,train_end,NULL,dummy_checkbox_,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,5,0,train_end,NULL,_REACTION_TIME_,4766
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,13,0,low,NULL,answers_reported,placeholderCousin 1 says%2C "Locations A and D."%2CCousin 2 says%2C "Locations D and F."%2CCousin 3 says%2C "Location A."
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,13,0,low,NULL,pic_cousin_A_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,13,0,low,NULL,pic_cousin_B_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,13,0,low,NULL,pic_cousin_C_chosen,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,13,0,low,NULL,no_one_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,13,0,low,NULL,_REACTION_TIME_,73332
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,12,0,high,NULL,answers_reported,placeholderInvestigator 1 says%2C "Place F."%2CInvestigator 2 says%2C "Places F and A."%2CInvestigator 3 says%2C "Place E."
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,12,0,high,NULL,fbi_investigator_A_chosen,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,12,0,high,NULL,fbi_investigator_B_chosen,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,12,0,high,NULL,fbi_investigator_C_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,12,0,high,NULL,no_one_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,12,0,high,NULL,_REACTION_TIME_,64227
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,14,0,low,NULL,answers_reported,placeholderFriend 1 says%2C "Diner C."%2CFriend 2 says%2C "Diners C and F."%2CFriend 3 says%2C "Diners A and E."
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,14,0,low,NULL,la_friend_A_chosen,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,14,0,low,NULL,la_friend_B_chosen,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,14,0,low,NULL,la_friend_C_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,14,0,low,NULL,no_one_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,14,0,low,NULL,_REACTION_TIME_,36756
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,18,0,control,NULL,why_A_chosen,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,18,0,control,NULL,why_B_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,18,0,control,NULL,why_C_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,18,0,control,NULL,none_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,18,0,control,NULL,_REACTION_TIME_,31550
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,9,0,high,NULL,answers_reported,placeholderFirefighter 1 says%2C "The fifth and second floors."%2CFirefighter 2 says%2C "The sixth floor."%2CFirefighter 3 says%2C "The fourth and sixth floors."
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,9,0,high,NULL,firefighter_A_chosen,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,9,0,high,NULL,firefighter_B_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,9,0,high,NULL,firefighter_C_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,9,0,high,NULL,no_one_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,9,0,high,NULL,_REACTION_TIME_,35478
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,17,0,low,NULL,answers_reported,placeholderBrother 1 says%2C "Stall C."%2CBrother 2 says%2C "Stalls A and B."%2CBrother 3 says%2C "Stalls C and D."
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,17,0,low,NULL,brother_A_chosen,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,17,0,low,NULL,brother_B_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,17,0,low,NULL,brother_C_chosen,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,17,0,low,NULL,no_one_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,17,0,low,NULL,_REACTION_TIME_,23084
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,21,0,control,NULL,how_guest_A_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,21,0,control,NULL,how_guest_B_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,21,0,control,NULL,how_guest_C_chosen,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,21,0,control,NULL,none_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,21,0,control,NULL,_REACTION_TIME_,29871
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,11,0,high,NULL,answers_reported,placeholderAdvisor 1 says%2C "Stores E and B."%2CAdvisor 2 says%2C "Store E."%2CAdvisor 3 says%2C "Stores A and F."
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,11,0,high,NULL,terrorism_advisor_A_chosen,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,11,0,high,NULL,terrorism_advisor_B_chosen,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,11,0,high,NULL,terrorism_advisor_C_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,11,0,high,NULL,no_one_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,11,0,high,NULL,_REACTION_TIME_,23280
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,16,0,low,NULL,answers_reported,placeholderCoworker 1 says%2C "Studios F and E."%2CCoworker 2 says%2C "Studio F."%2CCoworker 3 says%2C "Studios F%2C E%2C D%2C C and B."
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,16,0,low,NULL,yoga_coworker_A_chosen,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,16,0,low,NULL,yoga_coworker_B_chosen,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,16,0,low,NULL,yoga_coworker_C_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,16,0,low,NULL,no_one_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,16,0,low,NULL,_REACTION_TIME_,15501
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,8,0,high,NULL,answers_reported,placeholderInspector 1 says%2C "Restaurants A%2C B%2C C%2C D%2C and E."%2CInspector 2 says%2C "Restaurants C and E."%2CInspector 3 says%2C "Restaurant A."
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,8,0,high,NULL,inspector_A_chosen,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,8,0,high,NULL,inspector_B_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,8,0,high,NULL,inspector_C_chosen,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,8,0,high,NULL,no_one_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,8,0,high,NULL,_REACTION_TIME_,19347
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,20,0,control,NULL,when_A_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,20,0,control,NULL,when_B_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,20,0,control,NULL,when_C_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,20,0,control,NULL,none_chosen,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,20,0,control,NULL,_REACTION_TIME_,24447
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,15,0,low,NULL,answers_reported,placeholderClassmate 1 says%2C "Cafe A."%2CClassmate 2 says%2C "Cafe E."%2CClassmate 3 says%2C "Cafes E and B."
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,15,0,low,NULL,coffee_classmate_A_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,15,0,low,NULL,coffee_classmate_B_chosen,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,15,0,low,NULL,coffee_classmate_C_chosen,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,15,0,low,NULL,no_one_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,15,0,low,NULL,_REACTION_TIME_,17967
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,10,0,high,NULL,answers_reported,placeholderOperative 1 says%2C "The Northeast%2C Southwest%2C South%2C Southeast and North districts."%2COperative 2 says%2C "The Northeast district."%2COperative 3 says%2C "The South and North districts."
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,10,0,high,NULL,operative_A_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,10,0,high,NULL,operative_B_chosen,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,10,0,high,NULL,operative_C_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,10,0,high,NULL,no_one_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,10,0,high,NULL,_REACTION_TIME_,29818
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,19,0,control,NULL,what_A_chosen,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,19,0,control,NULL,what_B_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,19,0,control,NULL,what_C_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,19,0,control,NULL,none_chosen,no
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,19,0,control,NULL,_REACTION_TIME_,25673
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,6,0,exit_quest,NULL,know_conditons,If they have the most likely answer 
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,6,0,exit_quest,NULL,difficult,No
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,6,0,exit_quest,NULL,anything_else,
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,6,0,exit_quest,NULL,dummy_checkbox_,yes
+1512284013,1bd46d0f5f882cf6963da9b11193309e,Form,6,0,exit_quest,NULL,_REACTION_TIME_,32835
+#
+# Results on Sunday December 03 2017 16:20:27 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+# Design number was non-random = 59
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,2,0,consent,NULL,subject_id,English
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,2,0,consent,NULL,age,23
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,2,0,consent,NULL,consent_checkbox_,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,2,0,consent,NULL,dummy_checkbox_,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,2,0,consent,NULL,sex,female
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,2,0,consent,NULL,_REACTION_TIME_,68103
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,1,0,instructions,NULL,dummy_checkbox_,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,1,0,instructions,NULL,_REACTION_TIME_,12086
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,4,0,train,NULL,train_m_A_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,4,0,train,NULL,train_m_B_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,4,0,train,NULL,train_m_C_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,4,0,train,NULL,none_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,4,0,train,NULL,_REACTION_TIME_,62531
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,3,0,train,NULL,train_f_A_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,3,0,train,NULL,train_f_B_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,3,0,train,NULL,train_f_C_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,3,0,train,NULL,none_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,3,0,train,NULL,_REACTION_TIME_,33998
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,5,0,train_end,NULL,dummy_checkbox_,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,5,0,train_end,NULL,_REACTION_TIME_,42804
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,13,0,low,NULL,answers_reported,placeholderCousin 1 says%2C "Locations A and D."%2CCousin 2 says%2C "Locations D and F."%2CCousin 3 says%2C "Locations A%2C D%2C E%2C and F."
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,13,0,low,NULL,pic_cousin_A_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,13,0,low,NULL,pic_cousin_B_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,13,0,low,NULL,pic_cousin_C_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,13,0,low,NULL,no_one_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,13,0,low,NULL,_REACTION_TIME_,113452
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,8,0,high,NULL,answers_reported,placeholderInspector 1 says%2C "Restaurants C and E."%2CInspector 2 says%2C "Restaurant E."%2CInspector 3 says%2C "Restaurants A%2C B%2C C%2C D%2C and E."
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,8,0,high,NULL,inspector_A_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,8,0,high,NULL,inspector_B_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,8,0,high,NULL,inspector_C_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,8,0,high,NULL,no_one_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,8,0,high,NULL,_REACTION_TIME_,38774
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,21,0,control,NULL,how_guest_A_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,21,0,control,NULL,how_guest_B_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,21,0,control,NULL,how_guest_C_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,21,0,control,NULL,none_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,21,0,control,NULL,_REACTION_TIME_,67948
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,17,0,low,NULL,answers_reported,placeholderBrother 1 says%2C "Stalls C and D."%2CBrother 2 says%2C "Stall C."%2CBrother 3 says%2C "Stall E."
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,17,0,low,NULL,brother_A_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,17,0,low,NULL,brother_B_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,17,0,low,NULL,brother_C_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,17,0,low,NULL,no_one_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,17,0,low,NULL,_REACTION_TIME_,58894
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,11,0,high,NULL,answers_reported,placeholderAdvisor 1 says%2C "Store E."%2CAdvisor 2 says%2C "Stores A and F."%2CAdvisor 3 says%2C "Store C."
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,11,0,high,NULL,terrorism_advisor_A_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,11,0,high,NULL,terrorism_advisor_B_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,11,0,high,NULL,terrorism_advisor_C_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,11,0,high,NULL,no_one_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,11,0,high,NULL,_REACTION_TIME_,47659
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,19,0,control,NULL,what_A_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,19,0,control,NULL,what_B_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,19,0,control,NULL,what_C_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,19,0,control,NULL,none_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,19,0,control,NULL,_REACTION_TIME_,27653
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,16,0,low,NULL,answers_reported,placeholderCoworker 1 says%2C "Studios F%2C E%2C D%2C C and B."%2CCoworker 2 says%2C "Studios F and E."%2CCoworker 3 says%2C "Studio F."
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,16,0,low,NULL,yoga_coworker_A_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,16,0,low,NULL,yoga_coworker_B_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,16,0,low,NULL,yoga_coworker_C_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,16,0,low,NULL,no_one_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,16,0,low,NULL,_REACTION_TIME_,35206
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,9,0,high,NULL,answers_reported,placeholderFirefighter 1 says%2C "The fourth and sixth floors."%2CFirefighter 2 says%2C "The first floor."%2CFirefighter 3 says%2C "The fifth and second floors."
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,9,0,high,NULL,firefighter_A_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,9,0,high,NULL,firefighter_B_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,9,0,high,NULL,firefighter_C_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,9,0,high,NULL,no_one_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,9,0,high,NULL,_REACTION_TIME_,59232
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,15,0,low,NULL,answers_reported,placeholderClassmate 1 says%2C "Cafe D."%2CClassmate 2 says%2C "Cafes E and B."%2CClassmate 3 says%2C "Cafe A."
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,15,0,low,NULL,coffee_classmate_A_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,15,0,low,NULL,coffee_classmate_B_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,15,0,low,NULL,coffee_classmate_C_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,15,0,low,NULL,no_one_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,15,0,low,NULL,_REACTION_TIME_,55524
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,18,0,control,NULL,why_A_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,18,0,control,NULL,why_B_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,18,0,control,NULL,why_C_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,18,0,control,NULL,none_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,18,0,control,NULL,_REACTION_TIME_,70096
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,10,0,high,NULL,answers_reported,placeholderOperative 1 says%2C "The South and North districts."%2COperative 2 says%2C "The Northeast and Southwest districts."%2COperative 3 says%2C "The North district."
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,10,0,high,NULL,operative_A_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,10,0,high,NULL,operative_B_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,10,0,high,NULL,operative_C_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,10,0,high,NULL,no_one_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,10,0,high,NULL,_REACTION_TIME_,181426
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,14,0,low,NULL,answers_reported,placeholderFriend 1 says%2C "Diner C."%2CFriend 2 says%2C "Diner E."%2CFriend 3 says%2C "Diners C and F."
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,14,0,low,NULL,la_friend_A_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,14,0,low,NULL,la_friend_B_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,14,0,low,NULL,la_friend_C_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,14,0,low,NULL,no_one_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,14,0,low,NULL,_REACTION_TIME_,25361
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,12,0,high,NULL,answers_reported,placeholderInvestigator 1 says%2C "Places F and A."%2CInvestigator 2 says%2C "Place F."%2CInvestigator 3 says%2C "Places B and E."
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,12,0,high,NULL,fbi_investigator_A_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,12,0,high,NULL,fbi_investigator_B_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,12,0,high,NULL,fbi_investigator_C_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,12,0,high,NULL,no_one_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,12,0,high,NULL,_REACTION_TIME_,102819
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,20,0,control,NULL,when_A_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,20,0,control,NULL,when_B_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,20,0,control,NULL,when_C_chosen,no
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,20,0,control,NULL,none_chosen,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,20,0,control,NULL,_REACTION_TIME_,25800
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,6,0,exit_quest,NULL,know_conditons,Someone doesn't know something if they only luckily guessed the correct answer (like the bar case or the brother case). Someone does know something (like the case of where to go for a diner or where to search for victims) if they know at least one or two locations. Knowing in these cases is different from knowing *the best* place to go for the task at hand (which the questions didn't quite seem to ask - it seemed that they were asking something weaker). 
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,6,0,exit_quest,NULL,difficult,Sort of%2C mostly because in some cases I kept reading the question as either asking for a knowledge + value judgment (best place) or a general knowledge. (For example%2C in the NY photo case%2C I think I may have given a mixed or inconsistent answer with my report of knowledge above%2C since I kept running into this possible ambiguity...).
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,6,0,exit_quest,NULL,anything_else,Interested to hear what the results are! :)
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,6,0,exit_quest,NULL,dummy_checkbox_,yes
+1512318028,9fdd27ff7bf7f7c2999c9d67e6b1a036,Form,6,0,exit_quest,NULL,_REACTION_TIME_,623350
+#
+# Results on Tuesday December 05 2017 02:37:43 UTC.
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.3.5 (KHTML, like Gecko) Mobile/15B202 [FBAN/FBIOS;FBAV/147.0.0.46.81;FBBV/76961488;FBDV/iPhone8,4;FBMD/iPhone;FBSN/iOS;FBSV/11.1.2;FBSS/2;FBCR/AT&T;FBID/phone;FBLC/en_US;FBOP/5;FBRV/0]
+# Design number was non-random = 60
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,2,0,consent,NULL,subject_id,English
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,2,0,consent,NULL,age,45
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,2,0,consent,NULL,consent_checkbox_,yes
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,2,0,consent,NULL,dummy_checkbox_,yes
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,2,0,consent,NULL,sex,female
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,2,0,consent,NULL,_REACTION_TIME_,37741
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,1,0,instructions,NULL,dummy_checkbox_,yes
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,1,0,instructions,NULL,_REACTION_TIME_,15574
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,3,0,train,NULL,train_f_A_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,3,0,train,NULL,train_f_B_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,3,0,train,NULL,train_f_C_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,3,0,train,NULL,none_chosen,yes
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,3,0,train,NULL,_REACTION_TIME_,48361
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,4,0,train,NULL,train_m_A_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,4,0,train,NULL,train_m_B_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,4,0,train,NULL,train_m_C_chosen,yes
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,4,0,train,NULL,none_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,4,0,train,NULL,_REACTION_TIME_,72288
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,5,0,train_end,NULL,dummy_checkbox_,yes
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,5,0,train_end,NULL,_REACTION_TIME_,6739
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,11,0,high,NULL,answers_reported,placeholderAdvisor 1 says%2C "Stores A and F."%2CAdvisor 2 says%2C "Stores E%2C B%2C A%2C D%2C and F."%2CAdvisor 3 says%2C "Store E."
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,11,0,high,NULL,terrorism_advisor_A_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,11,0,high,NULL,terrorism_advisor_B_chosen,yes
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,11,0,high,NULL,terrorism_advisor_C_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,11,0,high,NULL,no_one_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,11,0,high,NULL,_REACTION_TIME_,100512
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,15,0,low,NULL,answers_reported,placeholderClassmate 1 says%2C "Cafe E."%2CClassmate 2 says%2C "Cafes E and B."%2CClassmate 3 says%2C "Cafe D."
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,15,0,low,NULL,coffee_classmate_A_chosen,yes
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,15,0,low,NULL,coffee_classmate_B_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,15,0,low,NULL,coffee_classmate_C_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,15,0,low,NULL,no_one_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,15,0,low,NULL,_REACTION_TIME_,44088
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,8,0,high,NULL,answers_reported,placeholderInspector 1 says%2C "Restaurant E."%2CInspector 2 says%2C "Restaurants C and E."%2CInspector 3 says%2C "Restaurant A."
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,8,0,high,NULL,inspector_A_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,8,0,high,NULL,inspector_B_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,8,0,high,NULL,inspector_C_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,8,0,high,NULL,no_one_chosen,yes
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,8,0,high,NULL,_REACTION_TIME_,86658
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,19,0,control,NULL,what_A_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,19,0,control,NULL,what_B_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,19,0,control,NULL,what_C_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,19,0,control,NULL,none_chosen,yes
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,19,0,control,NULL,_REACTION_TIME_,14760
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,14,0,low,NULL,answers_reported,placeholderFriend 1 says%2C "Diners C and F."%2CFriend 2 says%2C "Diner C."%2CFriend 3 says%2C "Diners A and E."
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,14,0,low,NULL,la_friend_A_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,14,0,low,NULL,la_friend_B_chosen,yes
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,14,0,low,NULL,la_friend_C_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,14,0,low,NULL,no_one_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,14,0,low,NULL,_REACTION_TIME_,52381
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,10,0,high,NULL,answers_reported,placeholderOperative 1 says%2C "The Northeast and Southwest districts."%2COperative 2 says%2C "The Northeast district."%2COperative 3 says%2C "The West district."
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,10,0,high,NULL,operative_A_chosen,yes
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,10,0,high,NULL,operative_B_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,10,0,high,NULL,operative_C_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,10,0,high,NULL,no_one_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,10,0,high,NULL,_REACTION_TIME_,72402
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,21,0,control,NULL,how_guest_A_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,21,0,control,NULL,how_guest_B_chosen,yes
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,21,0,control,NULL,how_guest_C_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,21,0,control,NULL,none_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,21,0,control,NULL,_REACTION_TIME_,41924
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,13,0,low,NULL,answers_reported,placeholderCousin 1 says%2C "Locations A and D."%2CCousin 2 says%2C "Location B."%2CCousin 3 says%2C "Locations A%2C D%2C E%2C and F."
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,13,0,low,NULL,pic_cousin_A_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,13,0,low,NULL,pic_cousin_B_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,13,0,low,NULL,pic_cousin_C_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,13,0,low,NULL,no_one_chosen,yes
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,13,0,low,NULL,_REACTION_TIME_,56726
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,12,0,high,NULL,answers_reported,placeholderInvestigator 1 says%2C "Place E."%2CInvestigator 2 says%2C "Place F."%2CInvestigator 3 says%2C "Places B and E."
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,12,0,high,NULL,fbi_investigator_A_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,12,0,high,NULL,fbi_investigator_B_chosen,yes
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,12,0,high,NULL,fbi_investigator_C_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,12,0,high,NULL,no_one_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,12,0,high,NULL,_REACTION_TIME_,47188
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,17,0,low,NULL,answers_reported,placeholderBrother 1 says%2C "Stalls C and D."%2CBrother 2 says%2C "Stalls A and B."%2CBrother 3 says%2C "Stall B."
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,17,0,low,NULL,brother_A_chosen,yes
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,17,0,low,NULL,brother_B_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,17,0,low,NULL,brother_C_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,17,0,low,NULL,no_one_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,17,0,low,NULL,_REACTION_TIME_,38939
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,18,0,control,NULL,why_A_chosen,yes
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,18,0,control,NULL,why_B_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,18,0,control,NULL,why_C_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,18,0,control,NULL,none_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,18,0,control,NULL,_REACTION_TIME_,49369
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,9,0,high,NULL,answers_reported,placeholderFirefighter 1 says%2C "The fourth and sixth floors."%2CFirefighter 2 says%2C "The fifth floor."%2CFirefighter 3 says%2C "The fifth and second floors."
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,9,0,high,NULL,firefighter_A_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,9,0,high,NULL,firefighter_B_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,9,0,high,NULL,firefighter_C_chosen,yes
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,9,0,high,NULL,no_one_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,9,0,high,NULL,_REACTION_TIME_,42454
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,16,0,low,NULL,answers_reported,placeholderCoworker 1 says%2C "Studios C and B."%2CCoworker 2 says%2C "Studio F."%2CCoworker 3 says%2C "Studio B."
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,16,0,low,NULL,yoga_coworker_A_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,16,0,low,NULL,yoga_coworker_B_chosen,yes
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,16,0,low,NULL,yoga_coworker_C_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,16,0,low,NULL,no_one_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,16,0,low,NULL,_REACTION_TIME_,46095
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,20,0,control,NULL,when_A_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,20,0,control,NULL,when_B_chosen,yes
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,20,0,control,NULL,when_C_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,20,0,control,NULL,none_chosen,no
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,20,0,control,NULL,_REACTION_TIME_,61762
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,6,0,exit_quest,NULL,know_conditons,Th is ay they act and facial expression 
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,6,0,exit_quest,NULL,difficult,It’s. It bad if you take your time and read. carefully
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,6,0,exit_quest,NULL,anything_else,
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,6,0,exit_quest,NULL,dummy_checkbox_,yes
+1512441464,5fc114d73219af076fac8eedba71cfad,Form,6,0,exit_quest,NULL,_REACTION_TIME_,87159
+#
+# Results on Friday February 02 2018 20:53:10 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/601.4.4
+# Design number was non-random = 61
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,subject_id,English
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,age,20
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,consent_checkbox_,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,dummy_checkbox_,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,sex,female
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,_REACTION_TIME_,56987
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,1,0,instructions,NULL,dummy_checkbox_,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,1,0,instructions,NULL,_REACTION_TIME_,19600
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,train_f_A_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,train_f_B_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,train_f_C_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,none_chosen,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,_REACTION_TIME_,25669
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,train_m_A_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,train_m_B_chosen,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,train_m_C_chosen,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,none_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,_REACTION_TIME_,27509
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,5,0,train_end,NULL,dummy_checkbox_,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,5,0,train_end,NULL,_REACTION_TIME_,2238
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,answers_reported,
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,fbi_investigator_A_chosen,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,fbi_investigator_B_chosen,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,fbi_investigator_C_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,no_one_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,_REACTION_TIME_,31555
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,answers_reported,
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,yoga_coworker_A_chosen,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,yoga_coworker_B_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,yoga_coworker_C_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,no_one_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,_REACTION_TIME_,15541
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,answers_reported,
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,terrorism_advisor_A_chosen,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,terrorism_advisor_B_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,terrorism_advisor_C_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,no_one_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,_REACTION_TIME_,22340
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,what_A_chosen,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,what_B_chosen,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,what_C_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,none_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,_REACTION_TIME_,23541
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,answers_reported,
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,coffee_classmate_A_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,coffee_classmate_B_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,coffee_classmate_C_chosen,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,no_one_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,_REACTION_TIME_,14906
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,answers_reported,
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,operative_A_chosen,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,operative_B_chosen,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,operative_C_chosen,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,no_one_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,_REACTION_TIME_,45467
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,why_A_chosen,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,why_B_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,why_C_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,none_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,_REACTION_TIME_,17701
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,answers_reported,
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,la_friend_A_chosen,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,la_friend_B_chosen,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,la_friend_C_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,no_one_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,_REACTION_TIME_,17652
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,answers_reported,
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,firefighter_A_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,firefighter_B_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,firefighter_C_chosen,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,no_one_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,_REACTION_TIME_,29109
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,answers_reported,
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,pic_cousin_A_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,pic_cousin_B_chosen,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,pic_cousin_C_chosen,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,no_one_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,_REACTION_TIME_,37324
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,how_guest_A_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,how_guest_B_chosen,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,how_guest_C_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,none_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,_REACTION_TIME_,17739
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,answers_reported,
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,inspector_A_chosen,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,inspector_B_chosen,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,inspector_C_chosen,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,no_one_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,_REACTION_TIME_,16332
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,answers_reported,
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,brother_A_chosen,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,brother_B_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,brother_C_chosen,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,no_one_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,_REACTION_TIME_,15108
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,when_A_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,when_B_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,when_C_chosen,no
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,none_chosen,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,_REACTION_TIME_,43316
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,know_conditons,Somebody knows something when they know the exact correct answer%2C or when they know the exact correct answer and the second-closest answer.
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,difficult,This task was difficult because I felt like my answers depended on the situation - if the situation called for more detail (contaminated oysters are more dangerous and important than woodworking%2C for instance)%2C then for my answer I chose the person who was closest to the correct answer%2C not the person who was closest and the person who was second closest as well.
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,anything_else,
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,dummy_checkbox_,yes
+1517604790,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,_REACTION_TIME_,160185
+#
+# Results on Friday February 02 2018 21:12:59 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/534.57.7 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.7
+# Design number was non-random = 62
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,2,0,consent,NULL,subject_id,English
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,2,0,consent,NULL,age,18
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,2,0,consent,NULL,consent_checkbox_,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,2,0,consent,NULL,dummy_checkbox_,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,2,0,consent,NULL,sex,female
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,2,0,consent,NULL,_REACTION_TIME_,26582
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,1,0,instructions,NULL,dummy_checkbox_,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,1,0,instructions,NULL,_REACTION_TIME_,27938
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,4,0,train,NULL,train_m_A_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,4,0,train,NULL,train_m_B_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,4,0,train,NULL,train_m_C_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,4,0,train,NULL,none_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,4,0,train,NULL,_REACTION_TIME_,91572
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,3,0,train,NULL,train_f_A_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,3,0,train,NULL,train_f_B_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,3,0,train,NULL,train_f_C_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,3,0,train,NULL,none_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,3,0,train,NULL,_REACTION_TIME_,61736
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,5,0,train_end,NULL,dummy_checkbox_,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,5,0,train_end,NULL,_REACTION_TIME_,2460
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,11,0,high,NULL,answers_reported,
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,11,0,high,NULL,terrorism_advisor_A_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,11,0,high,NULL,terrorism_advisor_B_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,11,0,high,NULL,terrorism_advisor_C_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,11,0,high,NULL,no_one_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,11,0,high,NULL,_REACTION_TIME_,64814
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,16,0,low,NULL,answers_reported,
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,16,0,low,NULL,yoga_coworker_A_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,16,0,low,NULL,yoga_coworker_B_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,16,0,low,NULL,yoga_coworker_C_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,16,0,low,NULL,no_one_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,16,0,low,NULL,_REACTION_TIME_,83240
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,20,0,control,NULL,when_A_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,20,0,control,NULL,when_B_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,20,0,control,NULL,when_C_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,20,0,control,NULL,none_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,20,0,control,NULL,_REACTION_TIME_,58425
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,8,0,high,NULL,answers_reported,
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,8,0,high,NULL,inspector_A_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,8,0,high,NULL,inspector_B_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,8,0,high,NULL,inspector_C_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,8,0,high,NULL,no_one_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,8,0,high,NULL,_REACTION_TIME_,50219
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,17,0,low,NULL,answers_reported,
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,17,0,low,NULL,brother_A_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,17,0,low,NULL,brother_B_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,17,0,low,NULL,brother_C_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,17,0,low,NULL,no_one_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,17,0,low,NULL,_REACTION_TIME_,48515
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,19,0,control,NULL,what_A_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,19,0,control,NULL,what_B_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,19,0,control,NULL,what_C_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,19,0,control,NULL,none_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,19,0,control,NULL,_REACTION_TIME_,21134
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,10,0,high,NULL,answers_reported,
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,10,0,high,NULL,operative_A_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,10,0,high,NULL,operative_B_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,10,0,high,NULL,operative_C_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,10,0,high,NULL,no_one_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,10,0,high,NULL,_REACTION_TIME_,90470
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,14,0,low,NULL,answers_reported,
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,14,0,low,NULL,la_friend_A_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,14,0,low,NULL,la_friend_B_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,14,0,low,NULL,la_friend_C_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,14,0,low,NULL,no_one_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,14,0,low,NULL,_REACTION_TIME_,59696
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,9,0,high,NULL,answers_reported,
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,9,0,high,NULL,firefighter_A_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,9,0,high,NULL,firefighter_B_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,9,0,high,NULL,firefighter_C_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,9,0,high,NULL,no_one_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,9,0,high,NULL,_REACTION_TIME_,36384
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,21,0,control,NULL,how_guest_A_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,21,0,control,NULL,how_guest_B_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,21,0,control,NULL,how_guest_C_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,21,0,control,NULL,none_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,21,0,control,NULL,_REACTION_TIME_,45982
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,13,0,low,NULL,answers_reported,
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,13,0,low,NULL,pic_cousin_A_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,13,0,low,NULL,pic_cousin_B_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,13,0,low,NULL,pic_cousin_C_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,13,0,low,NULL,no_one_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,13,0,low,NULL,_REACTION_TIME_,11026
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,12,0,high,NULL,answers_reported,
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,12,0,high,NULL,fbi_investigator_A_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,12,0,high,NULL,fbi_investigator_B_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,12,0,high,NULL,fbi_investigator_C_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,12,0,high,NULL,no_one_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,12,0,high,NULL,_REACTION_TIME_,16551
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,15,0,low,NULL,answers_reported,
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,15,0,low,NULL,coffee_classmate_A_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,15,0,low,NULL,coffee_classmate_B_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,15,0,low,NULL,coffee_classmate_C_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,15,0,low,NULL,no_one_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,15,0,low,NULL,_REACTION_TIME_,58712
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,18,0,control,NULL,why_A_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,18,0,control,NULL,why_B_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,18,0,control,NULL,why_C_chosen,no
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,18,0,control,NULL,none_chosen,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,18,0,control,NULL,_REACTION_TIME_,21054
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,6,0,exit_quest,NULL,know_conditons,Generally I would say knowing something is based on facts%2C yet with this test%2C I often said that people knew something if they knew the highest%2C best%2C etc. ratings or occurrences of something of a certain place or topic. 
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,6,0,exit_quest,NULL,difficult,Yes because there were many gray areas. I.E. there can be different interpretations of knowing something vs. knowing of something vs. knowing parts of information about a certain topic. 
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,6,0,exit_quest,NULL,anything_else,This test is very different from other tests that I have taken as there is more ambiguity involved in this test than others. 
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,6,0,exit_quest,NULL,dummy_checkbox_,yes
+1517605979,6883aa09d68ea3212184bc1ca86eb468,Form,6,0,exit_quest,NULL,_REACTION_TIME_,178616
+#
+# Results on Friday February 02 2018 22:01:26 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/534.57.7 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.7
+# Design number was non-random = 63
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,2,0,consent,NULL,subject_id,English 
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,2,0,consent,NULL,age,19
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,2,0,consent,NULL,consent_checkbox_,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,2,0,consent,NULL,dummy_checkbox_,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,2,0,consent,NULL,sex,male
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,2,0,consent,NULL,_REACTION_TIME_,335925
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,1,0,instructions,NULL,dummy_checkbox_,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,1,0,instructions,NULL,_REACTION_TIME_,21581
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,3,0,train,NULL,train_f_A_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,3,0,train,NULL,train_f_B_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,3,0,train,NULL,train_f_C_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,3,0,train,NULL,none_chosen,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,3,0,train,NULL,_REACTION_TIME_,84022
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,4,0,train,NULL,train_m_A_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,4,0,train,NULL,train_m_B_chosen,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,4,0,train,NULL,train_m_C_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,4,0,train,NULL,none_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,4,0,train,NULL,_REACTION_TIME_,50875
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,5,0,train_end,NULL,dummy_checkbox_,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,5,0,train_end,NULL,_REACTION_TIME_,1766
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,15,0,low,NULL,answers_reported,
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,15,0,low,NULL,coffee_classmate_A_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,15,0,low,NULL,coffee_classmate_B_chosen,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,15,0,low,NULL,coffee_classmate_C_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,15,0,low,NULL,no_one_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,15,0,low,NULL,_REACTION_TIME_,72259
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,12,0,high,NULL,answers_reported,
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,12,0,high,NULL,fbi_investigator_A_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,12,0,high,NULL,fbi_investigator_B_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,12,0,high,NULL,fbi_investigator_C_chosen,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,12,0,high,NULL,no_one_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,12,0,high,NULL,_REACTION_TIME_,75738
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,14,0,low,NULL,answers_reported,
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,14,0,low,NULL,la_friend_A_chosen,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,14,0,low,NULL,la_friend_B_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,14,0,low,NULL,la_friend_C_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,14,0,low,NULL,no_one_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,14,0,low,NULL,_REACTION_TIME_,36160
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,20,0,control,NULL,when_A_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,20,0,control,NULL,when_B_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,20,0,control,NULL,when_C_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,20,0,control,NULL,none_chosen,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,20,0,control,NULL,_REACTION_TIME_,88918
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,11,0,high,NULL,answers_reported,
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,11,0,high,NULL,terrorism_advisor_A_chosen,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,11,0,high,NULL,terrorism_advisor_B_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,11,0,high,NULL,terrorism_advisor_C_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,11,0,high,NULL,no_one_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,11,0,high,NULL,_REACTION_TIME_,50004
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,17,0,low,NULL,answers_reported,
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,17,0,low,NULL,brother_A_chosen,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,17,0,low,NULL,brother_B_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,17,0,low,NULL,brother_C_chosen,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,17,0,low,NULL,no_one_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,17,0,low,NULL,_REACTION_TIME_,85503
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,21,0,control,NULL,how_guest_A_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,21,0,control,NULL,how_guest_B_chosen,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,21,0,control,NULL,how_guest_C_chosen,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,21,0,control,NULL,none_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,21,0,control,NULL,_REACTION_TIME_,64439
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,9,0,high,NULL,answers_reported,
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,9,0,high,NULL,firefighter_A_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,9,0,high,NULL,firefighter_B_chosen,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,9,0,high,NULL,firefighter_C_chosen,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,9,0,high,NULL,no_one_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,9,0,high,NULL,_REACTION_TIME_,82376
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,16,0,low,NULL,answers_reported,
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,16,0,low,NULL,yoga_coworker_A_chosen,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,16,0,low,NULL,yoga_coworker_B_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,16,0,low,NULL,yoga_coworker_C_chosen,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,16,0,low,NULL,no_one_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,16,0,low,NULL,_REACTION_TIME_,48552
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,8,0,high,NULL,answers_reported,
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,8,0,high,NULL,inspector_A_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,8,0,high,NULL,inspector_B_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,8,0,high,NULL,inspector_C_chosen,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,8,0,high,NULL,no_one_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,8,0,high,NULL,_REACTION_TIME_,61515
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,19,0,control,NULL,what_A_chosen,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,19,0,control,NULL,what_B_chosen,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,19,0,control,NULL,what_C_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,19,0,control,NULL,none_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,19,0,control,NULL,_REACTION_TIME_,48492
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,13,0,low,NULL,answers_reported,
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,13,0,low,NULL,pic_cousin_A_chosen,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,13,0,low,NULL,pic_cousin_B_chosen,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,13,0,low,NULL,pic_cousin_C_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,13,0,low,NULL,no_one_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,13,0,low,NULL,_REACTION_TIME_,52851
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,10,0,high,NULL,answers_reported,
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,10,0,high,NULL,operative_A_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,10,0,high,NULL,operative_B_chosen,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,10,0,high,NULL,operative_C_chosen,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,10,0,high,NULL,no_one_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,10,0,high,NULL,_REACTION_TIME_,40174
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,18,0,control,NULL,why_A_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,18,0,control,NULL,why_B_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,18,0,control,NULL,why_C_chosen,no
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,18,0,control,NULL,none_chosen,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,18,0,control,NULL,_REACTION_TIME_,89774
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,6,0,exit_quest,NULL,know_conditons,I would say "knowing" something means one has information about a given thing... in other words%2C he has access to some TRUE statement about x. 
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,6,0,exit_quest,NULL,difficult,Yes because I wasn't sure if knowing something means knowing something as a matter of fact%2C or in the context of some information. For example%2C someone may know where to go to a restaurant based on reviews%2C but they can't TRULY know as a matter of fact. 
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,6,0,exit_quest,NULL,anything_else,This made me think%2C and made me seriously consider what "knowledge" is. I'll probably have a headache for a whole week (in a good way).  
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,6,0,exit_quest,NULL,dummy_checkbox_,yes
+1517608886,6883aa09d68ea3212184bc1ca86eb468,Form,6,0,exit_quest,NULL,_REACTION_TIME_,297334
+#
+# Results on Friday February 02 2018 22:17:47 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/534.57.7 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.7
+# Design number was non-random = 64
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,2,0,consent,NULL,subject_id,English
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,2,0,consent,NULL,age,18
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,2,0,consent,NULL,consent_checkbox_,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,2,0,consent,NULL,dummy_checkbox_,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,2,0,consent,NULL,sex,female
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,2,0,consent,NULL,_REACTION_TIME_,192635
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,1,0,instructions,NULL,dummy_checkbox_,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,1,0,instructions,NULL,_REACTION_TIME_,21740
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,3,0,train,NULL,train_f_A_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,3,0,train,NULL,train_f_B_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,3,0,train,NULL,train_f_C_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,3,0,train,NULL,none_chosen,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,3,0,train,NULL,_REACTION_TIME_,41869
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,4,0,train,NULL,train_m_A_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,4,0,train,NULL,train_m_B_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,4,0,train,NULL,train_m_C_chosen,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,4,0,train,NULL,none_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,4,0,train,NULL,_REACTION_TIME_,49732
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,5,0,train_end,NULL,dummy_checkbox_,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,5,0,train_end,NULL,_REACTION_TIME_,2437
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,11,0,high,NULL,answers_reported,
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,11,0,high,NULL,terrorism_advisor_A_chosen,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,11,0,high,NULL,terrorism_advisor_B_chosen,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,11,0,high,NULL,terrorism_advisor_C_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,11,0,high,NULL,no_one_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,11,0,high,NULL,_REACTION_TIME_,52866
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,14,0,low,NULL,answers_reported,
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,14,0,low,NULL,la_friend_A_chosen,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,14,0,low,NULL,la_friend_B_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,14,0,low,NULL,la_friend_C_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,14,0,low,NULL,no_one_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,14,0,low,NULL,_REACTION_TIME_,26404
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,10,0,high,NULL,answers_reported,
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,10,0,high,NULL,operative_A_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,10,0,high,NULL,operative_B_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,10,0,high,NULL,operative_C_chosen,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,10,0,high,NULL,no_one_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,10,0,high,NULL,_REACTION_TIME_,34473
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,19,0,control,NULL,what_A_chosen,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,19,0,control,NULL,what_B_chosen,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,19,0,control,NULL,what_C_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,19,0,control,NULL,none_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,19,0,control,NULL,_REACTION_TIME_,23741
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,13,0,low,NULL,answers_reported,
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,13,0,low,NULL,pic_cousin_A_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,13,0,low,NULL,pic_cousin_B_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,13,0,low,NULL,pic_cousin_C_chosen,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,13,0,low,NULL,no_one_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,13,0,low,NULL,_REACTION_TIME_,33089
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,9,0,high,NULL,answers_reported,
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,9,0,high,NULL,firefighter_A_chosen,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,9,0,high,NULL,firefighter_B_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,9,0,high,NULL,firefighter_C_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,9,0,high,NULL,no_one_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,9,0,high,NULL,_REACTION_TIME_,30186
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,20,0,control,NULL,when_A_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,20,0,control,NULL,when_B_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,20,0,control,NULL,when_C_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,20,0,control,NULL,none_chosen,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,20,0,control,NULL,_REACTION_TIME_,37928
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,15,0,low,NULL,answers_reported,
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,15,0,low,NULL,coffee_classmate_A_chosen,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,15,0,low,NULL,coffee_classmate_B_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,15,0,low,NULL,coffee_classmate_C_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,15,0,low,NULL,no_one_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,15,0,low,NULL,_REACTION_TIME_,13625
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,12,0,high,NULL,answers_reported,
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,12,0,high,NULL,fbi_investigator_A_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,12,0,high,NULL,fbi_investigator_B_chosen,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,12,0,high,NULL,fbi_investigator_C_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,12,0,high,NULL,no_one_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,12,0,high,NULL,_REACTION_TIME_,18854
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,16,0,low,NULL,answers_reported,
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,16,0,low,NULL,yoga_coworker_A_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,16,0,low,NULL,yoga_coworker_B_chosen,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,16,0,low,NULL,yoga_coworker_C_chosen,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,16,0,low,NULL,no_one_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,16,0,low,NULL,_REACTION_TIME_,15720
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,21,0,control,NULL,how_guest_A_chosen,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,21,0,control,NULL,how_guest_B_chosen,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,21,0,control,NULL,how_guest_C_chosen,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,21,0,control,NULL,none_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,21,0,control,NULL,_REACTION_TIME_,30747
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,8,0,high,NULL,answers_reported,
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,8,0,high,NULL,inspector_A_chosen,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,8,0,high,NULL,inspector_B_chosen,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,8,0,high,NULL,inspector_C_chosen,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,8,0,high,NULL,no_one_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,8,0,high,NULL,_REACTION_TIME_,21277
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,17,0,low,NULL,answers_reported,
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,17,0,low,NULL,brother_A_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,17,0,low,NULL,brother_B_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,17,0,low,NULL,brother_C_chosen,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,17,0,low,NULL,no_one_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,17,0,low,NULL,_REACTION_TIME_,34808
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,18,0,control,NULL,why_A_chosen,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,18,0,control,NULL,why_B_chosen,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,18,0,control,NULL,why_C_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,18,0,control,NULL,none_chosen,no
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,18,0,control,NULL,_REACTION_TIME_,13209
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,6,0,exit_quest,NULL,know_conditons,I feel like someone knows something as long as they have a certain idea about it and are not solely guessing. 
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,6,0,exit_quest,NULL,difficult,I found it a bit difficult because I didn't know if the questions were being straightforward or were actually trick-questions.
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,6,0,exit_quest,NULL,anything_else,Nope!
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,6,0,exit_quest,NULL,dummy_checkbox_,yes
+1517609868,6883aa09d68ea3212184bc1ca86eb468,Form,6,0,exit_quest,NULL,_REACTION_TIME_,96596
+#
+# Results on Friday February 02 2018 22:26:01 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/601.4.4
+# Design number was non-random = 64
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,subject_id,Mandarin
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,age,18
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,consent_checkbox_,yes
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,dummy_checkbox_,yes
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,sex,male
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,_REACTION_TIME_,147726
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,1,0,instructions,NULL,dummy_checkbox_,yes
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,1,0,instructions,NULL,_REACTION_TIME_,2736
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,train_f_A_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,train_f_B_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,train_f_C_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,none_chosen,yes
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,_REACTION_TIME_,67475
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,train_m_A_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,train_m_B_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,train_m_C_chosen,yes
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,none_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,_REACTION_TIME_,100203
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,5,0,train_end,NULL,dummy_checkbox_,yes
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,5,0,train_end,NULL,_REACTION_TIME_,2419
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,answers_reported,
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,pic_cousin_A_chosen,yes
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,pic_cousin_B_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,pic_cousin_C_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,no_one_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,_REACTION_TIME_,48483
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,answers_reported,
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,fbi_investigator_A_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,fbi_investigator_B_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,fbi_investigator_C_chosen,yes
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,no_one_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,_REACTION_TIME_,22586
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,when_A_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,when_B_chosen,yes
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,when_C_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,none_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,_REACTION_TIME_,56388
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,answers_reported,
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,brother_A_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,brother_B_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,brother_C_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,no_one_chosen,yes
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,_REACTION_TIME_,66019
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,answers_reported,
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,operative_A_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,operative_B_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,operative_C_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,no_one_chosen,yes
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,_REACTION_TIME_,50307
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,why_A_chosen,yes
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,why_B_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,why_C_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,none_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,_REACTION_TIME_,37500
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,answers_reported,
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,yoga_coworker_A_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,yoga_coworker_B_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,yoga_coworker_C_chosen,yes
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,no_one_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,_REACTION_TIME_,46780
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,answers_reported,
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,inspector_A_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,inspector_B_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,inspector_C_chosen,yes
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,no_one_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,_REACTION_TIME_,159065
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,answers_reported,
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,coffee_classmate_A_chosen,yes
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,coffee_classmate_B_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,coffee_classmate_C_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,no_one_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,_REACTION_TIME_,8140
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,what_A_chosen,yes
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,what_B_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,what_C_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,none_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,_REACTION_TIME_,22053
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,answers_reported,
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,firefighter_A_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,firefighter_B_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,firefighter_C_chosen,yes
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,no_one_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,_REACTION_TIME_,41716
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,answers_reported,
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,la_friend_A_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,la_friend_B_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,la_friend_C_chosen,yes
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,no_one_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,_REACTION_TIME_,17564
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,answers_reported,
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,terrorism_advisor_A_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,terrorism_advisor_B_chosen,yes
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,terrorism_advisor_C_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,no_one_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,_REACTION_TIME_,100307
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,how_guest_A_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,how_guest_B_chosen,yes
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,how_guest_C_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,none_chosen,no
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,_REACTION_TIME_,28749
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,know_conditons,When someone knows what is most useful
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,difficult,Not really%2C because everything is basically matched up
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,anything_else,No
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,dummy_checkbox_,yes
+1517610362,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,_REACTION_TIME_,240128
+#
+# Results on Friday February 02 2018 22:33:47 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+# Design number was non-random = 64
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,subject_id,English
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,age,22
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,consent_checkbox_,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,dummy_checkbox_,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,sex,female
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,_REACTION_TIME_,44739
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,1,0,instructions,NULL,dummy_checkbox_,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,1,0,instructions,NULL,_REACTION_TIME_,13119
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,train_f_A_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,train_f_B_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,train_f_C_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,none_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,_REACTION_TIME_,30385
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,train_m_A_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,train_m_B_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,train_m_C_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,none_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,_REACTION_TIME_,39728
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,5,0,train_end,NULL,dummy_checkbox_,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,5,0,train_end,NULL,_REACTION_TIME_,2046
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,answers_reported,placeholderCoworker 1 says%2C "Studio B."%2CCoworker 2 says%2C "Studio F."%2CCoworker 3 says%2C "Studios F and E."
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,yoga_coworker_A_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,yoga_coworker_B_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,yoga_coworker_C_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,no_one_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,_REACTION_TIME_,33621
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,answers_reported,placeholderFirefighter 1 says%2C "The fifth%2C second%2C fourth%2C third and sixth floors."%2CFirefighter 2 says%2C "The fourth and sixth floors."%2CFirefighter 3 says%2C "The sixth floor."
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,firefighter_A_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,firefighter_B_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,firefighter_C_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,no_one_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,_REACTION_TIME_,95699
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,why_A_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,why_B_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,why_C_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,none_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,_REACTION_TIME_,18877
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,answers_reported,placeholderFriend 1 says%2C "Diners A and E."%2CFriend 2 says%2C "Diner B."%2CFriend 3 says%2C "Diner C."
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,la_friend_A_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,la_friend_B_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,la_friend_C_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,no_one_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,_REACTION_TIME_,27373
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,answers_reported,placeholderOperative 1 says%2C "The Northeast%2C Southwest%2C South%2C Southeast and North districts."%2COperative 2 says%2C "The Northeast and Southwest districts."%2COperative 3 says%2C "The South and North districts."
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,operative_A_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,operative_B_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,operative_C_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,no_one_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,_REACTION_TIME_,52236
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,how_guest_A_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,how_guest_B_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,how_guest_C_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,none_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,_REACTION_TIME_,24917
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,answers_reported,placeholderBrother 1 says%2C "Stall B."%2CBrother 2 says%2C "Stalls C and D."%2CBrother 3 says%2C "Stall E."
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,brother_A_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,brother_B_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,brother_C_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,no_one_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,_REACTION_TIME_,35413
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,answers_reported,placeholderInspector 1 says%2C "Restaurants A and B."%2CInspector 2 says%2C "Restaurant A."%2CInspector 3 says%2C "Restaurant E."
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,inspector_A_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,inspector_B_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,inspector_C_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,no_one_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,_REACTION_TIME_,25820
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,answers_reported,placeholderClassmate 1 says%2C "Cafe E."%2CClassmate 2 says%2C "Cafe D."%2CClassmate 3 says%2C "Cafes E%2C B%2C F%2C C and D."
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,coffee_classmate_A_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,coffee_classmate_B_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,coffee_classmate_C_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,no_one_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,_REACTION_TIME_,18509
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,what_A_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,what_B_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,what_C_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,none_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,_REACTION_TIME_,13781
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,answers_reported,placeholderAdvisor 1 says%2C "Store E."%2CAdvisor 2 says%2C "Stores E and B."%2CAdvisor 3 says%2C "Stores E%2C B%2C A%2C D%2C and F."
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,terrorism_advisor_A_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,terrorism_advisor_B_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,terrorism_advisor_C_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,no_one_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,_REACTION_TIME_,32044
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,answers_reported,placeholderCousin 1 says%2C "Location A."%2CCousin 2 says%2C "Locations A and D."%2CCousin 3 says%2C "Locations D and F."
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,pic_cousin_A_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,pic_cousin_B_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,pic_cousin_C_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,no_one_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,_REACTION_TIME_,24061
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,answers_reported,placeholderInvestigator 1 says%2C "Places F%2C A%2C B%2C C and E."%2CInvestigator 2 says%2C "Place F."%2CInvestigator 3 says%2C "Place E."
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,fbi_investigator_A_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,fbi_investigator_B_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,fbi_investigator_C_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,no_one_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,_REACTION_TIME_,23612
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,when_A_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,when_B_chosen,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,when_C_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,none_chosen,no
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,_REACTION_TIME_,51645
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,know_conditons,I think I would say that someone "knows" something when they have gotten information from a reliable source or had personal experience with the things they are talking about. 
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,difficult,I did not find this task difficult. I think it was interesting that for some of the questions the idea of "knowing" something was based on a greater than 50% knowledge or understanding where large factors were (like with the fireman or intellectuals question) and some were based on a definitive knowledge (either the person knew where they got the recipe or not). Either way I felt like it was easy to determine which person I felt "knew" something in the given scenarios.
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,anything_else,One of the first slides has a spelling error (I think it was the word "because")%2C otherwise I enjoyed this study.
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,dummy_checkbox_,yes
+1517610828,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,_REACTION_TIME_,506998
+#
+# Results on Wednesday February 14 2018 20:29:48 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/601.4.4
+# Design number was non-random = 67
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,subject_id,english
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,age,20
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,consent_checkbox_,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,dummy_checkbox_,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,sex,female
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,_REACTION_TIME_,21924
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,1,0,instructions,NULL,dummy_checkbox_,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,1,0,instructions,NULL,_REACTION_TIME_,2298
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,train_m_A_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,train_m_B_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,train_m_C_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,none_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,_REACTION_TIME_,48908
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,train_f_A_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,train_f_B_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,train_f_C_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,none_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,_REACTION_TIME_,33836
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,5,0,train_end,NULL,dummy_checkbox_,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,5,0,train_end,NULL,_REACTION_TIME_,2437
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,answers_reported,
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,firefighter_A_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,firefighter_B_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,firefighter_C_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,no_one_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,_REACTION_TIME_,56394
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,answers_reported,
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,brother_A_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,brother_B_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,brother_C_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,no_one_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,_REACTION_TIME_,52332
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,how_guest_A_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,how_guest_B_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,how_guest_C_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,none_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,_REACTION_TIME_,40995
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,answers_reported,
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,fbi_investigator_A_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,fbi_investigator_B_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,fbi_investigator_C_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,no_one_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,_REACTION_TIME_,32020
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,answers_reported,
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,la_friend_A_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,la_friend_B_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,la_friend_C_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,no_one_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,_REACTION_TIME_,34139
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,what_A_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,what_B_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,what_C_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,none_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,_REACTION_TIME_,22212
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,answers_reported,
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,inspector_A_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,inspector_B_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,inspector_C_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,no_one_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,_REACTION_TIME_,44916
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,answers_reported,
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,pic_cousin_A_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,pic_cousin_B_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,pic_cousin_C_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,no_one_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,_REACTION_TIME_,25370
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,answers_reported,
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,operative_A_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,operative_B_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,operative_C_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,no_one_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,_REACTION_TIME_,31468
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,why_A_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,why_B_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,why_C_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,none_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,_REACTION_TIME_,25092
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,answers_reported,
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,coffee_classmate_A_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,coffee_classmate_B_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,coffee_classmate_C_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,no_one_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,_REACTION_TIME_,21140
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,answers_reported,
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,terrorism_advisor_A_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,terrorism_advisor_B_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,terrorism_advisor_C_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,no_one_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,_REACTION_TIME_,16020
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,answers_reported,
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,yoga_coworker_A_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,yoga_coworker_B_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,yoga_coworker_C_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,no_one_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,_REACTION_TIME_,13013
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,when_A_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,when_B_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,when_C_chosen,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,none_chosen,no
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,_REACTION_TIME_,22068
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,know_conditons,if it is common knowledge or expected of them or they respond in a manner that shows that they understand the QUD and are able to give a reasonable response
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,difficult,i think it was fairly easy but tricky in a sense that you had to pay attention to the presuppositions and entailments that each respondent said to see if whether or not they answered correctly or their answer applied to the QUD
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,anything_else,
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,dummy_checkbox_,yes
+1518640189,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,_REACTION_TIME_,83979
+#
+# Results on Wednesday February 14 2018 20:40:19 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/601.4.4
+# Design number was non-random = 68
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,subject_id,English
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,age,18
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,consent_checkbox_,yes
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,dummy_checkbox_,yes
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,sex,male
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,_REACTION_TIME_,29066
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,1,0,instructions,NULL,dummy_checkbox_,yes
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,1,0,instructions,NULL,_REACTION_TIME_,1690
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,train_f_A_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,train_f_B_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,train_f_C_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,none_chosen,yes
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,_REACTION_TIME_,32357
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,train_m_A_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,train_m_B_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,train_m_C_chosen,yes
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,none_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,_REACTION_TIME_,21740
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,5,0,train_end,NULL,dummy_checkbox_,yes
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,5,0,train_end,NULL,_REACTION_TIME_,1743
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,answers_reported,
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,terrorism_advisor_A_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,terrorism_advisor_B_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,terrorism_advisor_C_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,no_one_chosen,yes
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,_REACTION_TIME_,41420
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,answers_reported,
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,brother_A_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,brother_B_chosen,yes
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,brother_C_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,no_one_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,_REACTION_TIME_,28643
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,why_A_chosen,yes
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,why_B_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,why_C_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,none_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,_REACTION_TIME_,18188
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,answers_reported,
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,operative_A_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,operative_B_chosen,yes
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,operative_C_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,no_one_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,_REACTION_TIME_,24715
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,answers_reported,
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,yoga_coworker_A_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,yoga_coworker_B_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,yoga_coworker_C_chosen,yes
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,no_one_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,_REACTION_TIME_,10141
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,what_A_chosen,yes
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,what_B_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,what_C_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,none_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,_REACTION_TIME_,11989
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,answers_reported,
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,firefighter_A_chosen,yes
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,firefighter_B_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,firefighter_C_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,no_one_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,_REACTION_TIME_,16652
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,answers_reported,
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,la_friend_A_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,la_friend_B_chosen,yes
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,la_friend_C_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,no_one_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,_REACTION_TIME_,10147
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,answers_reported,
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,fbi_investigator_A_chosen,yes
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,fbi_investigator_B_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,fbi_investigator_C_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,no_one_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,_REACTION_TIME_,13604
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,when_A_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,when_B_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,when_C_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,none_chosen,yes
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,_REACTION_TIME_,17404
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,answers_reported,
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,pic_cousin_A_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,pic_cousin_B_chosen,yes
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,pic_cousin_C_chosen,yes
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,no_one_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,_REACTION_TIME_,13677
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,answers_reported,
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,inspector_A_chosen,yes
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,inspector_B_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,inspector_C_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,no_one_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,_REACTION_TIME_,14277
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,answers_reported,
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,coffee_classmate_A_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,coffee_classmate_B_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,coffee_classmate_C_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,no_one_chosen,yes
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,_REACTION_TIME_,12020
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,how_guest_A_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,how_guest_B_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,how_guest_C_chosen,yes
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,none_chosen,no
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,_REACTION_TIME_,23501
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,know_conditons,When they are given concrete evidence or have witnessed said thing.
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,difficult,Not necessarily%2C although a lot of the questions were unspecific as to if the top answer was the only correct one.
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,anything_else,N/A
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,dummy_checkbox_,yes
+1518640820,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,_REACTION_TIME_,40173
+#
+# Results on Wednesday February 14 2018 21:00:33 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/601.4.4
+# Design number was non-random = 69
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,subject_id,English
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,age,20
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,consent_checkbox_,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,dummy_checkbox_,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,sex,male
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,_REACTION_TIME_,51661
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,1,0,instructions,NULL,dummy_checkbox_,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,1,0,instructions,NULL,_REACTION_TIME_,16610
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,train_m_A_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,train_m_B_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,train_m_C_chosen,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,none_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,_REACTION_TIME_,15213
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,train_f_A_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,train_f_B_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,train_f_C_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,none_chosen,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,_REACTION_TIME_,16925
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,5,0,train_end,NULL,dummy_checkbox_,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,5,0,train_end,NULL,_REACTION_TIME_,1829
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,answers_reported,
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,brother_A_chosen,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,brother_B_chosen,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,brother_C_chosen,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,no_one_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,_REACTION_TIME_,36220
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,answers_reported,
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,inspector_A_chosen,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,inspector_B_chosen,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,inspector_C_chosen,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,no_one_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,_REACTION_TIME_,46196
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,answers_reported,
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,la_friend_A_chosen,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,la_friend_B_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,la_friend_C_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,no_one_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,_REACTION_TIME_,14746
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,what_A_chosen,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,what_B_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,what_C_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,none_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,_REACTION_TIME_,13188
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,answers_reported,
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,firefighter_A_chosen,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,firefighter_B_chosen,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,firefighter_C_chosen,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,no_one_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,_REACTION_TIME_,22997
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,answers_reported,
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,coffee_classmate_A_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,coffee_classmate_B_chosen,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,coffee_classmate_C_chosen,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,no_one_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,_REACTION_TIME_,19523
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,why_A_chosen,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,why_B_chosen,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,why_C_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,none_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,_REACTION_TIME_,46676
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,answers_reported,
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,operative_A_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,operative_B_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,operative_C_chosen,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,no_one_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,_REACTION_TIME_,23229
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,answers_reported,
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,pic_cousin_A_chosen,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,pic_cousin_B_chosen,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,pic_cousin_C_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,no_one_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,_REACTION_TIME_,40338
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,answers_reported,
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,fbi_investigator_A_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,fbi_investigator_B_chosen,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,fbi_investigator_C_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,no_one_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,_REACTION_TIME_,12892
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,when_A_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,when_B_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,when_C_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,none_chosen,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,_REACTION_TIME_,34236
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,answers_reported,
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,yoga_coworker_A_chosen,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,yoga_coworker_B_chosen,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,yoga_coworker_C_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,no_one_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,_REACTION_TIME_,14293
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,answers_reported,
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,terrorism_advisor_A_chosen,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,terrorism_advisor_B_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,terrorism_advisor_C_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,no_one_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,_REACTION_TIME_,13933
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,how_guest_A_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,how_guest_B_chosen,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,how_guest_C_chosen,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,none_chosen,no
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,_REACTION_TIME_,21268
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,know_conditons,Depends on context%0A%0ASelecting an action that maximizes the probability / chance of success%0A%0Aor%0A%0ACorrectly identifying the reasoning behind a person's actions%0A%0Aor%0A%0ASatisfying someone's request%2C even if it doesn't result in the highest chance of success
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,difficult,Yes%0A%0AContext is hard
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,anything_else,The centering made this slightly annoying to read
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,dummy_checkbox_,yes
+1518642034,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,_REACTION_TIME_,256255
+#
+# Results on Wednesday February 14 2018 21:54:11 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/601.4.4
+# Design number was non-random = 70
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,subject_id,Cantonese
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,age,20
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,consent_checkbox_,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,dummy_checkbox_,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,sex,female
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,_REACTION_TIME_,30624
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,1,0,instructions,NULL,dummy_checkbox_,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,1,0,instructions,NULL,_REACTION_TIME_,30055
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,train_m_A_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,train_m_B_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,train_m_C_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,none_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,_REACTION_TIME_,70020
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,train_f_A_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,train_f_B_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,train_f_C_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,none_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,_REACTION_TIME_,57700
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,5,0,train_end,NULL,dummy_checkbox_,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,5,0,train_end,NULL,_REACTION_TIME_,2662
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,answers_reported,
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,pic_cousin_A_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,pic_cousin_B_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,pic_cousin_C_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,no_one_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,_REACTION_TIME_,49724
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,answers_reported,
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,terrorism_advisor_A_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,terrorism_advisor_B_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,terrorism_advisor_C_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,no_one_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,_REACTION_TIME_,43123
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,how_guest_A_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,how_guest_B_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,how_guest_C_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,none_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,_REACTION_TIME_,56379
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,answers_reported,
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,yoga_coworker_A_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,yoga_coworker_B_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,yoga_coworker_C_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,no_one_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,_REACTION_TIME_,37916
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,answers_reported,
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,inspector_A_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,inspector_B_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,inspector_C_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,no_one_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,_REACTION_TIME_,41284
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,when_A_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,when_B_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,when_C_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,none_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,_REACTION_TIME_,59133
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,answers_reported,
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,brother_A_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,brother_B_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,brother_C_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,no_one_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,_REACTION_TIME_,27659
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,answers_reported,
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,operative_A_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,operative_B_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,operative_C_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,no_one_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,_REACTION_TIME_,62450
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,answers_reported,
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,la_friend_A_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,la_friend_B_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,la_friend_C_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,no_one_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,_REACTION_TIME_,35115
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,what_A_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,what_B_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,what_C_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,none_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,_REACTION_TIME_,34811
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,answers_reported,
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,fbi_investigator_A_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,fbi_investigator_B_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,fbi_investigator_C_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,no_one_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,_REACTION_TIME_,27533
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,answers_reported,
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,coffee_classmate_A_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,coffee_classmate_B_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,coffee_classmate_C_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,no_one_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,_REACTION_TIME_,14976
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,answers_reported,
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,firefighter_A_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,firefighter_B_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,firefighter_C_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,no_one_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,_REACTION_TIME_,17984
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,why_A_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,why_B_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,why_C_chosen,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,none_chosen,no
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,_REACTION_TIME_,23274
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,know_conditons,He or she gives a related answer even thought the answer may not be the best
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,difficult,Yes. As I figure the conditions out only in the later part of the experiment.
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,anything_else,No
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,dummy_checkbox_,yes
+1518645252,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,_REACTION_TIME_,103483
+#
+# Results on Wednesday February 14 2018 22:23:03 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/601.4.4
+# Design number was non-random = 71
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,subject_id,English
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,age,19
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,consent_checkbox_,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,dummy_checkbox_,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,sex,female
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,2,0,consent,NULL,_REACTION_TIME_,90841
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,1,0,instructions,NULL,dummy_checkbox_,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,1,0,instructions,NULL,_REACTION_TIME_,9072
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,train_m_A_chosen,no
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,train_m_B_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,train_m_C_chosen,no
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,none_chosen,no
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,4,0,train,NULL,_REACTION_TIME_,71643
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,train_f_A_chosen,no
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,train_f_B_chosen,no
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,train_f_C_chosen,no
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,none_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,3,0,train,NULL,_REACTION_TIME_,37476
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,5,0,train_end,NULL,dummy_checkbox_,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,5,0,train_end,NULL,_REACTION_TIME_,3006
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,answers_reported,
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,operative_A_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,operative_B_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,operative_C_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,no_one_chosen,no
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,10,0,high,NULL,_REACTION_TIME_,98274
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,answers_reported,
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,la_friend_A_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,la_friend_B_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,la_friend_C_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,no_one_chosen,no
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,14,0,low,NULL,_REACTION_TIME_,60468
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,answers_reported,
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,terrorism_advisor_A_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,terrorism_advisor_B_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,terrorism_advisor_C_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,no_one_chosen,no
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,11,0,high,NULL,_REACTION_TIME_,58866
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,when_A_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,when_B_chosen,no
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,when_C_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,none_chosen,no
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,20,0,control,NULL,_REACTION_TIME_,63867
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,answers_reported,
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,pic_cousin_A_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,pic_cousin_B_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,pic_cousin_C_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,no_one_chosen,no
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,13,0,low,NULL,_REACTION_TIME_,29637
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,answers_reported,
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,inspector_A_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,inspector_B_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,inspector_C_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,no_one_chosen,no
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,8,0,high,NULL,_REACTION_TIME_,25164
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,what_A_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,what_B_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,what_C_chosen,no
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,none_chosen,no
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,19,0,control,NULL,_REACTION_TIME_,51172
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,answers_reported,
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,yoga_coworker_A_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,yoga_coworker_B_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,yoga_coworker_C_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,no_one_chosen,no
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,16,0,low,NULL,_REACTION_TIME_,20700
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,answers_reported,
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,fbi_investigator_A_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,fbi_investigator_B_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,fbi_investigator_C_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,no_one_chosen,no
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,12,0,high,NULL,_REACTION_TIME_,31204
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,answers_reported,
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,coffee_classmate_A_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,coffee_classmate_B_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,coffee_classmate_C_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,no_one_chosen,no
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,15,0,low,NULL,_REACTION_TIME_,15372
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,why_A_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,why_B_chosen,no
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,why_C_chosen,no
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,none_chosen,no
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,18,0,control,NULL,_REACTION_TIME_,27685
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,answers_reported,
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,firefighter_A_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,firefighter_B_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,firefighter_C_chosen,no
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,no_one_chosen,no
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,9,0,high,NULL,_REACTION_TIME_,41444
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,answers_reported,
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,brother_A_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,brother_B_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,brother_C_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,no_one_chosen,no
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,17,0,low,NULL,_REACTION_TIME_,18309
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,how_guest_A_chosen,no
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,how_guest_B_chosen,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,how_guest_C_chosen,no
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,none_chosen,no
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,21,0,control,NULL,_REACTION_TIME_,51572
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,know_conditons,knowing something basically means being familiar enough with a subject that you can give an answer to a question about it%2C but the answer can't be a "good" or "bad" answer%2C it can only be right or wrong. For example%2C if I ask my friend if they know any restaurants in town and they say "McDonalds%2C" they know where a restaurant is. It doesn't matter if McDonalds is the worst or best restaurant in town. because it is a restaurant like any other%2C "knowing" about McDonalds has the same value as "knowing" about any other restaurant.
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,difficult,the task wasn't very difficult but it took some time to decide how to interpret "know"%2C and being consistent in my application of that definition.
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,anything_else,No
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,dummy_checkbox_,yes
+1518646984,376f2c2055f98c840842c7f03a5d9442,Form,6,0,exit_quest,NULL,_REACTION_TIME_,418964
+#
+# Results on Tuesday April 17 2018 13:49:32 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:59.0) Gecko/20100101 Firefox/59.0
+# Design number was non-random = 72
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,2,0,consent,NULL,subject_id,afl;kjasdflkj
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,2,0,consent,NULL,subject_id,lksdflkjsfdg
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,2,0,consent,NULL,age,lksjdlk
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,2,0,consent,NULL,consent_checkbox_,yes
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,2,0,consent,NULL,dummy_checkbox_,yes
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,2,0,consent,NULL,sex,male
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,2,0,consent,NULL,_REACTION_TIME_,19878
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,1,0,instructions,NULL,dummy_checkbox_,yes
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,1,0,instructions,NULL,_REACTION_TIME_,1422
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,4,0,train,NULL,train_m_A_chosen,yes
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,4,0,train,NULL,train_m_B_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,4,0,train,NULL,train_m_C_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,4,0,train,NULL,none_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,4,0,train,NULL,_REACTION_TIME_,6786
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,3,0,train,NULL,train_f_A_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,3,0,train,NULL,train_f_B_chosen,yes
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,3,0,train,NULL,train_f_C_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,3,0,train,NULL,none_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,3,0,train,NULL,_REACTION_TIME_,2544
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,5,0,train_end,NULL,dummy_checkbox_,yes
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,5,0,train_end,NULL,_REACTION_TIME_,4562
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,10,0,high,NULL,answers_reported,placeholderOperative 1 says%2C "The Northeast district."%2COperative 2 says%2C "The North district."%2COperative 3 says%2C "The South and North districts."
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,10,0,high,NULL,operative_A_chosen,yes
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,10,0,high,NULL,operative_B_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,10,0,high,NULL,operative_C_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,10,0,high,NULL,no_one_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,10,0,high,NULL,_REACTION_TIME_,239830
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,17,0,low,NULL,answers_reported,placeholderBrother 1 says%2C "Stalls C%2C D%2C A%2C F and B."%2CBrother 2 says%2C "Stalls A and B."%2CBrother 3 says%2C "Stall B."
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,17,0,low,NULL,brother_A_chosen,yes
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,17,0,low,NULL,brother_B_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,17,0,low,NULL,brother_C_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,17,0,low,NULL,no_one_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,17,0,low,NULL,_REACTION_TIME_,755486
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,12,0,high,NULL,answers_reported,placeholderInvestigator 1 says%2C "Place F."%2CInvestigator 2 says%2C "Places F%2C A%2C B%2C C and E."%2CInvestigator 3 says%2C "Places B and E."
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,12,0,high,NULL,fbi_investigator_A_chosen,yes
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,12,0,high,NULL,fbi_investigator_B_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,12,0,high,NULL,fbi_investigator_C_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,12,0,high,NULL,no_one_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,12,0,high,NULL,_REACTION_TIME_,52140
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,21,0,control,NULL,how_guest_A_chosen,yes
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,21,0,control,NULL,how_guest_B_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,21,0,control,NULL,how_guest_C_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,21,0,control,NULL,none_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,21,0,control,NULL,_REACTION_TIME_,144328
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,16,0,low,NULL,answers_reported,placeholderCoworker 1 says%2C "Studio B."%2CCoworker 2 says%2C "Studio F."%2CCoworker 3 says%2C "Studio A."
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,16,0,low,NULL,yoga_coworker_A_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,16,0,low,NULL,yoga_coworker_B_chosen,yes
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,16,0,low,NULL,yoga_coworker_C_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,16,0,low,NULL,no_one_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,16,0,low,NULL,_REACTION_TIME_,82482
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,11,0,high,NULL,answers_reported,placeholderAdvisor 1 says%2C "Store E."%2CAdvisor 2 says%2C "Store C."%2CAdvisor 3 says%2C "Stores E and B."
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,11,0,high,NULL,terrorism_advisor_A_chosen,yes
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,11,0,high,NULL,terrorism_advisor_B_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,11,0,high,NULL,terrorism_advisor_C_chosen,yes
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,11,0,high,NULL,no_one_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,11,0,high,NULL,_REACTION_TIME_,90372
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,18,0,control,NULL,why_A_chosen,yes
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,18,0,control,NULL,why_B_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,18,0,control,NULL,why_C_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,18,0,control,NULL,none_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,18,0,control,NULL,_REACTION_TIME_,962116
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,14,0,low,NULL,answers_reported,placeholderFriend 1 says%2C "Diners C%2C F%2C A%2C D%2C and E."%2CFriend 2 says%2C "Diners C and F."%2CFriend 3 says%2C "Diner C."
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,14,0,low,NULL,la_friend_A_chosen,yes
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,14,0,low,NULL,la_friend_B_chosen,yes
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,14,0,low,NULL,la_friend_C_chosen,yes
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,14,0,low,NULL,no_one_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,14,0,low,NULL,_REACTION_TIME_,34728
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,8,0,high,NULL,answers_reported,placeholderInspector 1 says%2C "Restaurant E."%2CInspector 2 says%2C "Restaurants C and E."%2CInspector 3 says%2C "Restaurants A%2C B%2C C%2C D%2C and E."
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,8,0,high,NULL,inspector_A_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,8,0,high,NULL,inspector_B_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,8,0,high,NULL,inspector_C_chosen,yes
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,8,0,high,NULL,no_one_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,8,0,high,NULL,_REACTION_TIME_,84686
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,15,0,low,NULL,answers_reported,placeholderClassmate 1 says%2C "Cafes F and D."%2CClassmate 2 says%2C "Cafe D."%2CClassmate 3 says%2C "Cafe A."
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,15,0,low,NULL,coffee_classmate_A_chosen,yes
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,15,0,low,NULL,coffee_classmate_B_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,15,0,low,NULL,coffee_classmate_C_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,15,0,low,NULL,no_one_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,15,0,low,NULL,_REACTION_TIME_,43604
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,19,0,control,NULL,what_A_chosen,yes
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,19,0,control,NULL,what_B_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,19,0,control,NULL,what_C_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,19,0,control,NULL,none_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,19,0,control,NULL,_REACTION_TIME_,5160
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,9,0,high,NULL,answers_reported,placeholderFirefighter 1 says%2C "The sixth floor."%2CFirefighter 2 says%2C "The fifth%2C second%2C fourth%2C third and sixth floors."%2CFirefighter 3 says%2C "The fourth and sixth floors."
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,9,0,high,NULL,firefighter_A_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,9,0,high,NULL,firefighter_B_chosen,yes
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,9,0,high,NULL,firefighter_C_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,9,0,high,NULL,no_one_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,9,0,high,NULL,_REACTION_TIME_,46950
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,13,0,low,NULL,answers_reported,placeholderCousin 1 says%2C "Location F."%2CCousin 2 says%2C "Location A."%2CCousin 3 says%2C "Locations D and F."
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,13,0,low,NULL,pic_cousin_A_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,13,0,low,NULL,pic_cousin_B_chosen,yes
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,13,0,low,NULL,pic_cousin_C_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,13,0,low,NULL,no_one_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,13,0,low,NULL,_REACTION_TIME_,35564
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,20,0,control,NULL,when_A_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,20,0,control,NULL,when_B_chosen,yes
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,20,0,control,NULL,when_C_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,20,0,control,NULL,none_chosen,no
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,20,0,control,NULL,_REACTION_TIME_,4504
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,6,0,exit_quest,NULL,know_conditons,
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,6,0,exit_quest,NULL,difficult,
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,6,0,exit_quest,NULL,anything_else,
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,6,0,exit_quest,NULL,dummy_checkbox_,yes
+1523972972,ca56f73f4a1cea61438039e9ce46e851,Form,6,0,exit_quest,NULL,_REACTION_TIME_,2708
+#
+# Results on Thursday April 19 2018 20:56:38 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:59.0) Gecko/20100101 Firefox/59.0
+# Design number was non-random = 73
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,2,0,consent,NULL,subject_id,asdf
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,2,0,consent,NULL,native_lang,asdf
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,2,0,consent,NULL,age,asdf
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,2,0,consent,NULL,consent_checkbox_,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,2,0,consent,NULL,dummy_checkbox_,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,2,0,consent,NULL,sex,male
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,2,0,consent,NULL,_REACTION_TIME_,8586
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,1,0,instructions,NULL,dummy_checkbox_,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,1,0,instructions,NULL,_REACTION_TIME_,249078
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,3,0,train,NULL,train_f_A_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,3,0,train,NULL,train_f_B_chosen,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,3,0,train,NULL,train_f_C_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,3,0,train,NULL,none_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,3,0,train,NULL,_REACTION_TIME_,1904
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,4,0,train,NULL,train_m_A_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,4,0,train,NULL,train_m_B_chosen,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,4,0,train,NULL,train_m_C_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,4,0,train,NULL,none_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,4,0,train,NULL,_REACTION_TIME_,2120
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,5,0,train_end,NULL,dummy_checkbox_,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,5,0,train_end,NULL,_REACTION_TIME_,3346
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,9,0,high,NULL,answers_reported,placeholderFirefighter 1 says%2C "The fifth%2C second%2C fourth%2C third and sixth floors."%2CFirefighter 2 says%2C "The fourth and sixth floors."%2CFirefighter 3 says%2C "The sixth floor."
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,9,0,high,NULL,firefighter_A_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,9,0,high,NULL,firefighter_B_chosen,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,9,0,high,NULL,firefighter_C_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,9,0,high,NULL,no_one_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,9,0,high,NULL,_REACTION_TIME_,3660
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,16,0,low,NULL,answers_reported,placeholderCoworker 1 says%2C "Studios F and E."%2CCoworker 2 says%2C "Studio B."%2CCoworker 3 says%2C "Studio F."
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,16,0,low,NULL,yoga_coworker_A_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,16,0,low,NULL,yoga_coworker_B_chosen,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,16,0,low,NULL,yoga_coworker_C_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,16,0,low,NULL,no_one_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,16,0,low,NULL,_REACTION_TIME_,2396
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,24,0,nst,NULL,NST_3a_chosen,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,24,0,nst,NULL,NST_3b_chosen,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,24,0,nst,NULL,NST_3c_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,24,0,nst,NULL,NST_3d_chosen,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,24,0,nst,NULL,NST_3e_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,24,0,nst,NULL,_REACTION_TIME_,17764
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,11,0,high,NULL,answers_reported,placeholderAdvisor 1 says%2C "Store E."%2CAdvisor 2 says%2C "Stores E%2C B%2C A%2C D%2C and F."%2CAdvisor 3 says%2C "Store F."
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,11,0,high,NULL,terrorism_advisor_A_chosen,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,11,0,high,NULL,terrorism_advisor_B_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,11,0,high,NULL,terrorism_advisor_C_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,11,0,high,NULL,no_one_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,11,0,high,NULL,_REACTION_TIME_,3660
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,20,0,control,NULL,when_A_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,20,0,control,NULL,when_B_chosen,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,20,0,control,NULL,when_C_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,20,0,control,NULL,none_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,20,0,control,NULL,_REACTION_TIME_,2372
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,13,0,low,NULL,answers_reported,placeholderCousin 1 says%2C "Locations D and F."%2CCousin 2 says%2C "Location F."%2CCousin 3 says%2C "Locations A and D."
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,13,0,low,NULL,pic_cousin_A_chosen,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,13,0,low,NULL,pic_cousin_B_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,13,0,low,NULL,pic_cousin_C_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,13,0,low,NULL,no_one_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,13,0,low,NULL,_REACTION_TIME_,4450
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,22,0,nst,NULL,NST_1a_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,22,0,nst,NULL,NST_1b_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,22,0,nst,NULL,NST_1c_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,22,0,nst,NULL,NST_1d_chosen,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,22,0,nst,NULL,_REACTION_TIME_,1728
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,10,0,high,NULL,answers_reported,placeholderOperative 1 says%2C "The South and North districts."%2COperative 2 says%2C "The North district."%2COperative 3 says%2C "The Northeast district."
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,10,0,high,NULL,operative_A_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,10,0,high,NULL,operative_B_chosen,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,10,0,high,NULL,operative_C_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,10,0,high,NULL,no_one_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,10,0,high,NULL,_REACTION_TIME_,4226
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,18,0,control,NULL,why_A_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,18,0,control,NULL,why_B_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,18,0,control,NULL,why_C_chosen,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,18,0,control,NULL,none_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,18,0,control,NULL,_REACTION_TIME_,2838
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,14,0,low,NULL,answers_reported,placeholderFriend 1 says%2C "Diner E."%2CFriend 2 says%2C "Diners C and F."%2CFriend 3 says%2C "Diners A and E."
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,14,0,low,NULL,la_friend_A_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,14,0,low,NULL,la_friend_B_chosen,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,14,0,low,NULL,la_friend_C_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,14,0,low,NULL,no_one_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,14,0,low,NULL,_REACTION_TIME_,27790
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,8,0,high,NULL,answers_reported,placeholderInspector 1 says%2C "Restaurants A and B."%2CInspector 2 says%2C "Restaurant E."%2CInspector 3 says%2C "Restaurant A."
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,8,0,high,NULL,inspector_A_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,8,0,high,NULL,inspector_B_chosen,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,8,0,high,NULL,inspector_C_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,8,0,high,NULL,no_one_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,8,0,high,NULL,_REACTION_TIME_,3762
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,25,0,nst,NULL,NST_4a_chosen,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,25,0,nst,NULL,NST_4b_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,25,0,nst,NULL,_REACTION_TIME_,3088
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,17,0,low,NULL,answers_reported,placeholderBrother 1 says%2C "Stall C."%2CBrother 2 says%2C "Stalls C and D."%2CBrother 3 says%2C "Stall B."
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,17,0,low,NULL,brother_A_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,17,0,low,NULL,brother_B_chosen,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,17,0,low,NULL,brother_C_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,17,0,low,NULL,no_one_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,17,0,low,NULL,_REACTION_TIME_,8394
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,21,0,control,NULL,how_guest_A_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,21,0,control,NULL,how_guest_B_chosen,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,21,0,control,NULL,how_guest_C_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,21,0,control,NULL,none_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,21,0,control,NULL,_REACTION_TIME_,3584
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,12,0,high,NULL,answers_reported,placeholderInvestigator 1 says%2C "Place D."%2CInvestigator 2 says%2C "Places F and A."%2CInvestigator 3 says%2C "Place E."
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,12,0,high,NULL,fbi_investigator_A_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,12,0,high,NULL,fbi_investigator_B_chosen,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,12,0,high,NULL,fbi_investigator_C_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,12,0,high,NULL,no_one_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,12,0,high,NULL,_REACTION_TIME_,3508
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,15,0,low,NULL,answers_reported,placeholderClassmate 1 says%2C "Cafes E and B."%2CClassmate 2 says%2C "Cafe E."%2CClassmate 3 says%2C "Cafe D."
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,15,0,low,NULL,coffee_classmate_A_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,15,0,low,NULL,coffee_classmate_B_chosen,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,15,0,low,NULL,coffee_classmate_C_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,15,0,low,NULL,no_one_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,15,0,low,NULL,_REACTION_TIME_,2120
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,23,0,nst,NULL,NST_2a_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,23,0,nst,NULL,NST_2b_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,23,0,nst,NULL,NST_2c_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,23,0,nst,NULL,NST_2d_chosen,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,23,0,nst,NULL,NST_2e_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,23,0,nst,NULL,_REACTION_TIME_,2908
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,19,0,control,NULL,what_A_chosen,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,19,0,control,NULL,what_B_chosen,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,19,0,control,NULL,what_C_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,19,0,control,NULL,none_chosen,no
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,19,0,control,NULL,_REACTION_TIME_,3180
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,6,0,exit_quest,NULL,know_conditons,
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,6,0,exit_quest,NULL,know_conditons,
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,6,0,exit_quest,NULL,difficult,
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,6,0,exit_quest,NULL,anything_else,
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,6,0,exit_quest,NULL,dummy_checkbox_,yes
+1524171399,71ca136c9694d68215db82b6d1f16912,Form,6,0,exit_quest,NULL,_REACTION_TIME_,11678

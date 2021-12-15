@@ -1,0 +1,110 @@
+<style>
+    label {
+        display: inline-block;
+        margin: 0 auto;
+    }
+    a.left {
+        padding-right: 5px;
+    }
+    a.right {
+        padding-left: 5px;
+    }
+    body {
+        font-size: 18px;
+    }
+</style>
+<div align="center">
+    <div id="trialDiv">
+
+<div id="storyDiv", style="width: 40em;">
+  <p>FBI Special Agents Mulder and Scully are looking for evidence that the government is trying to cover-up the existence of aliens. 
+    They have collected several key pieces proving the existence of a cover-up. 
+    Now they must bury the evidence so that government officials cannot find and destroy it.</p>
+   
+  <p> Assistant Director Skinner's assistant asks him, "Where do you think they will bury the evidence?"</p>
+
+  <p>Skinner says, "I think in Rock Creek Park."</p>
+  
+  <p>Actually, Mulder and Scully bury the evidence:</p>
+   <ul style="list-style: none">
+     <li>In Rock Creek Park, and</li>
+     <li>in the bushes outside the FBI office.</li>
+     <li>But not in the woods behind Mulder's apartment,</li>
+     <li>nor in Scully's garden.</li>
+   </ul>
+  
+</div>
+
+        <table cellpadding="10" cellspacing="4" margin>
+        <tr>
+          <td align="center">Why did Scully and Mulder bury the evidence? (choose all that apply)</td> <br>
+        </tr>
+        <tr class="bordered">
+        <td align="center">
+            <label for="inspector_a"><input type="checkbox" id="inspector_a" name="train_m_A_chosen" value="Answer A" ><span>Because it was a fun weekend activity.</span></label>
+            <label for="inspector_b"><input type="checkbox" id="inspector_b" name="train_m_B_chosen" value="Answer B" ><span>Because they needed to.</span></label>
+            <label for="inspector_c"><input type="checkbox" id="inspector_c" name="train_m_C_chosen" value="Answer C" ><span>Because the government wants to cover-up the evidence of aliens.</span></label>
+            <label for="no_one"><input type="checkbox" id="no_one" name="none_chosen" value="None of the above"><span>None of the above.</span></label>
+        </td>
+
+    </tr>
+
+</table>
+</div>
+</div>
+
+<!--This div is hidden and stores the reandomized angle values for reporting later-->
+<div id = "answer_report_div" style="visibility: hidden">
+</div>
+<!--end html-->
+
+<script type="text/javascript">
+
+
+
+    String.prototype.format = function() {
+    var s = this,
+        i = arguments.length;
+
+    while (i--) {
+        s = s.replace(new RegExp('\\{' + i + '\\}', 'gm'), arguments[i]);
+    }
+    return s;
+    };
+
+   // var storyDiv = document.getElementById('storyDiv');
+   //
+   // // the array of possible answers
+   // var answers_array = Array('Restaurants A, B, C, D, and E.', 'Restaurant A.', 'Restaurants A and C.', 'Restaurants A and E.', 'Restaurants C and E.', 'Restaurant E.', 'Restaurant F.');
+   // var inspector_A_answer = 'Inspector A says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   // var inspector_B_answer = 'Inspector B says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   // var inspector_C_answer = 'Inspector C says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   // //
+   // var answer1 = document.createElement('p');
+   // var ans1node = document.createTextNode(inspector_A_answer);
+   // answer1.appendChild(ans1node);
+   // storyDiv.appendChild(answer1);
+   //
+   // var answer2 = document.createElement('p');
+   // var ans2node = document.createTextNode(inspector_B_answer);
+   // answer2.appendChild(ans2node);
+   // storyDiv.appendChild(answer2);
+   //
+   // var answer3 = document.createElement('p');
+   // var ans3node = document.createTextNode(inspector_C_answer);
+   // answer3.appendChild(ans3node);
+   // storyDiv.appendChild(answer3);
+   //
+   // // create a textarea element that will hold the answer values for this trial
+   // var answer_report = document.createElement('textarea');
+   // answer_report.id = "answer_report";
+   // answer_report.setAttribute("name","answers_reported")
+   // answer_report.setAttribute("placeholder","{0},{1},{2}".format(inspector_A_answer,inspector_B_answer,inspector_C_answer));
+   //
+   // // append it to the hidden answer_report div in the body HTML
+   // document.getElementById("answer_report_div").appendChild(answer_report);
+   // document.getElementById("answer_report").append("placeholder","{0},{1},{2}".format(inspector_A_answer,inspector_B_answer,inspector_C_answer));
+
+
+
+</script>

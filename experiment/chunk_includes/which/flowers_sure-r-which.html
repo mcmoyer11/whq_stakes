@@ -1,0 +1,60 @@
+<style>
+    label {
+        display: inline-block;
+        margin-bottom: 8px;
+    }
+    a.left {
+        padding-right: 5px;
+    }
+    a.right {
+        padding-left: 5px;
+    }
+</style>
+<div align="center">
+    <div id="trialDiv">
+
+<div id="storyDiv">
+    <p>Mary volunteers for a charity by delievering groceries to senior citizens in her community.  The seniors live in many different places, so it usually takes her at least 4 hours to reach everyone. However, today she only has 2 hours.</p>
+
+    <p>She manages to make it to Martha, Barry and Joe's, but not Sampson or Esther's.</p>
+    <p>John, a fellow delivery guy, is sure Mary delivered to Esther's.</p>
+    <p>John says to the delivery coordinator, "Mary delieverd to Martha, Barry, Joe and Esther's."</p>
+
+</div>
+
+        <table cellpadding="10" cellspacing="4">
+        <tr>
+          <td>John knows which places Mary went to.<br>
+        </tr>
+        <tr class="bordered">
+        <td>
+            <label for="inspector_a"><input type="radio" id="inspector_a" name="control_A_chosen" value="Answer A" ><span>True.</span></label>
+            <label for="inspector_b"><input type="radio" id="inspector_b" name="control_B_chosen" value="Answer B" ><span>False.</span></label>
+        </td>
+
+    </tr>
+
+</table>
+</div>
+</div>
+
+<!--This div is hidden and stores the reandomized angle values for reporting later-->
+<div id = "answer_report_div" style="visibility: hidden">
+</div>
+<!--end html-->
+
+<script type="text/javascript">
+
+
+
+    String.prototype.format = function() {
+    var s = this,
+        i = arguments.length;
+
+    while (i--) {
+        s = s.replace(new RegExp('\\{' + i + '\\}', 'gm'), arguments[i]);
+    }
+    return s;
+    };
+
+</script>

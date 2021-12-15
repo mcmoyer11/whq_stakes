@@ -1,0 +1,61 @@
+story,report,code
+high_inspector,"Restaurants A, B, C, D and E.'",exh
+high_inspector,'Restaurant A.',mo-h
+high_inspector,'Restaurants A and B.',ms-h
+high_inspector,'Restaurants C and E.',ms-l
+high_inspector,'Restaurant E.',mo-l
+high_inspector,'Restaurant F.',f
+high_firefighter,"The fifth, second, fourth, third and sixth floors.'",exh
+high_firefighter,'The fifth floor.',mo-h
+high_firefighter,'The fifth and second floors.',ms-h
+high_firefighter,'The fourth and sixth floors.',ms-l
+high_firefighter,'The sixth floor.',mo-l
+high_firefighter,'The first floor.',f
+high_protest,"The Northeast,  Southwest, South, Southeast and North districts.'",exh
+high_operative,'The Northeast district.',mo-h
+high_operative,'The Northeast and Southwest districts.',ms-h
+high_operative,'The South and North districts.',ms-l
+high_operative,'The North district.',mo-l
+high_operative,'The West district.',f
+high_terrorism,"Stores E,  B, A, D and F.'",exh
+high_terrorism,'Store E.',mo-h
+high_terrorism,'Stores E and B.',ms-h
+high_terrorism,'Stores A and F.',ms-l
+high_terrorism,'Store F.',mo-l
+high_terrorism,'Store C.',f
+high_fbi,"Places F,  A, B, C and E.'",exh
+high_fbi,'Place F.',mo-h
+high_fbi,'Places F and A.',ms-h
+high_fbi,'Places B and E.',ms-l
+high_fbi,'Place E.',mo-l
+high_fbi,'Place D.',f
+low_pic,"Locations A,  D, E and F.'",exh
+low_pic,'Location A.',mo-h
+low_pic,'Locations A and D.',ms-h
+low_pic,'Locations D and F.',ms-l
+low_pic,'Location F.',mo-l
+low_pic,'Location B.',f
+low_la,"Diners C,  F, A, D and E.'",exh
+low_la,'Diner C.',mo-h
+low_la,'Diners C and F.',ms-h
+low_la,'Diners A and E.',ms-l
+low_la,'Diner E.',mo-l
+low_la,'Diner B.',f
+low_coffee,"Cafes E,  B, F, C and D.'",exh
+low_coffee,'Cafe E.',mo-h
+low_coffee,'Cafes E and B.',ms-h
+low_coffee,'Cafes F and D.',ms-l
+low_coffee,'Cafe D.',mo-l
+low_coffee,'Cafe A.',f
+low_yoga,"Studios F,  E, D, C and B.'",exh
+low_yoga,'Studio F.',mo-h
+low_yoga,'Studios F and E.',ms-h
+low_yoga,'Studios C and B.',ms-l
+low_yoga,'Studio B.',mo-l
+low_yoga,'Studio A.',f
+low_brother,"Markets C,  D, A, F and B.'",exh
+low_brother,'Market C.',mo-h
+low_brother,'Markets C and D.',ms-h
+low_brother,'Markets A and B.',ms-l
+low_brother,'Market B.',mo-l
+low_brother,'Market E.',f

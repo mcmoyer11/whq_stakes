@@ -1,0 +1,1200 @@
+#
+# Results on Friday December 01 2017 02:12:20 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+# Design number was non-random = 42
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,2,0,consent,NULL,subject_id,890329
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,2,0,consent,NULL,age,28
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,2,0,consent,NULL,consent_checkbox_,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,2,0,consent,NULL,dummy_checkbox_,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,2,0,consent,NULL,sex,female
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,2,0,consent,NULL,_REACTION_TIME_,189953
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,1,0,instructions,NULL,dummy_checkbox_,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,1,0,instructions,NULL,_REACTION_TIME_,22971
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,4,0,train,NULL,train_m_A_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,4,0,train,NULL,train_m_B_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,4,0,train,NULL,train_m_C_chosen,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,4,0,train,NULL,none_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,4,0,train,NULL,_REACTION_TIME_,57422
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,3,0,train,NULL,train_f_A_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,3,0,train,NULL,train_f_B_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,3,0,train,NULL,train_f_C_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,3,0,train,NULL,none_chosen,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,3,0,train,NULL,_REACTION_TIME_,55022
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,5,0,train_end,NULL,dummy_checkbox_,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,5,0,train_end,NULL,_REACTION_TIME_,5431
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,15,0,low,NULL,answers_reported,placeholderClassmate 1 says%2C "Cafe E."%2CClassmate 2 says%2C "Cafes E%2C B%2C F%2C C and D."%2CClassmate 3 says%2C "Cafes F and D."
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,15,0,low,NULL,coffee_classmate_A_chosen,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,15,0,low,NULL,coffee_classmate_B_chosen,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,15,0,low,NULL,coffee_classmate_C_chosen,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,15,0,low,NULL,no_one_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,15,0,low,NULL,_REACTION_TIME_,76301
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,8,0,high,NULL,answers_reported,placeholderInspector 1 says%2C "Restaurant E."%2CInspector 2 says%2C "Restaurants C and E."%2CInspector 3 says%2C "Restaurant A."
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,8,0,high,NULL,inspector_A_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,8,0,high,NULL,inspector_B_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,8,0,high,NULL,inspector_C_chosen,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,8,0,high,NULL,no_one_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,8,0,high,NULL,_REACTION_TIME_,65549
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,17,0,low,NULL,answers_reported,placeholderBrother 1 says%2C "Markets C%2C D%2C A%2C F and B."%2CBrother 2 says%2C "Markets C and D."%2CBrother 3 says%2C "Markets A and B."
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,17,0,low,NULL,brother_A_chosen,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,17,0,low,NULL,brother_B_chosen,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,17,0,low,NULL,brother_C_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,17,0,low,NULL,no_one_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,17,0,low,NULL,_REACTION_TIME_,89734
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,19,0,control,NULL,what_A_chosen,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,19,0,control,NULL,what_B_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,19,0,control,NULL,what_C_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,19,0,control,NULL,none_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,19,0,control,NULL,_REACTION_TIME_,37845
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,11,0,high,NULL,answers_reported,placeholderAdvisor 1 says%2C "Store F."%2CAdvisor 2 says%2C "Stores E%2C B%2C A%2C D%2C and F."%2CAdvisor 3 says%2C "Stores A and F."
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,11,0,high,NULL,terrorism_advisor_A_chosen,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,11,0,high,NULL,terrorism_advisor_B_chosen,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,11,0,high,NULL,terrorism_advisor_C_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,11,0,high,NULL,no_one_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,11,0,high,NULL,_REACTION_TIME_,63710
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,16,0,low,NULL,answers_reported,placeholderCoworker 1 says%2C "Studios C and B."%2CCoworker 2 says%2C "Studios F and E."%2CCoworker 3 says%2C "Studio F."
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,16,0,low,NULL,yoga_coworker_A_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,16,0,low,NULL,yoga_coworker_B_chosen,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,16,0,low,NULL,yoga_coworker_C_chosen,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,16,0,low,NULL,no_one_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,16,0,low,NULL,_REACTION_TIME_,41125
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,20,0,control,NULL,when_A_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,20,0,control,NULL,when_B_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,20,0,control,NULL,when_C_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,20,0,control,NULL,none_chosen,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,20,0,control,NULL,_REACTION_TIME_,83062
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,9,0,high,NULL,answers_reported,placeholderFirefighter 1 says%2C "The fourth and sixth floors."%2CFirefighter 2 says%2C "The sixth floor."%2CFirefighter 3 says%2C "The fifth and second floors."
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,9,0,high,NULL,firefighter_A_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,9,0,high,NULL,firefighter_B_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,9,0,high,NULL,firefighter_C_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,9,0,high,NULL,no_one_chosen,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,9,0,high,NULL,_REACTION_TIME_,95005
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,14,0,low,NULL,answers_reported,placeholderFriend 1 says%2C "Diners C and F."%2CFriend 2 says%2C "Diners C%2C F%2C A%2C D%2C and E."%2CFriend 3 says%2C "Diners A and E."
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,14,0,low,NULL,la_friend_A_chosen,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,14,0,low,NULL,la_friend_B_chosen,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,14,0,low,NULL,la_friend_C_chosen,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,14,0,low,NULL,no_one_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,14,0,low,NULL,_REACTION_TIME_,67958
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,10,0,high,NULL,answers_reported,placeholderOperative 1 says%2C "The Northeast district."%2COperative 2 says%2C "The Northeast and Southwest districts."%2COperative 3 says%2C "The North district."
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,10,0,high,NULL,operative_A_chosen,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,10,0,high,NULL,operative_B_chosen,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,10,0,high,NULL,operative_C_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,10,0,high,NULL,no_one_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,10,0,high,NULL,_REACTION_TIME_,97108
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,21,0,control,NULL,how_guest_A_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,21,0,control,NULL,how_guest_B_chosen,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,21,0,control,NULL,how_guest_C_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,21,0,control,NULL,none_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,21,0,control,NULL,_REACTION_TIME_,35742
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,13,0,low,NULL,answers_reported,placeholderCousin 1 says%2C "Location F."%2CCousin 2 says%2C "Locations A and D."%2CCousin 3 says%2C "Location A."
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,13,0,low,NULL,pic_cousin_A_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,13,0,low,NULL,pic_cousin_B_chosen,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,13,0,low,NULL,pic_cousin_C_chosen,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,13,0,low,NULL,no_one_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,13,0,low,NULL,_REACTION_TIME_,43063
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,12,0,high,NULL,answers_reported,placeholderInvestigator 1 says%2C "Places F and A."%2CInvestigator 2 says%2C "Places B and E."%2CInvestigator 3 says%2C "Place E."
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,12,0,high,NULL,fbi_investigator_A_chosen,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,12,0,high,NULL,fbi_investigator_B_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,12,0,high,NULL,fbi_investigator_C_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,12,0,high,NULL,no_one_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,12,0,high,NULL,_REACTION_TIME_,125140
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,18,0,control,NULL,why_A_chosen,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,18,0,control,NULL,why_B_chosen,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,18,0,control,NULL,why_C_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,18,0,control,NULL,none_chosen,no
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,18,0,control,NULL,_REACTION_TIME_,53967
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,6,0,exit_quest,NULL,know_conditons,For the most part: if their beliefs are true in the real world%2C and they have reason to believe that they are right. In the example of "who knows where to eat"%2C they all know where they can find food (even if it's not necessarily the best food). By contrast%2C In the example of the firefighters looking for trapped people%2C none of the firefighters knew where the people were (this is said in the prompt)%2C they were all simply making educated guesses.
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,6,0,exit_quest,NULL,difficult,Yes. Sometime contradictory  answers seemed true - for example%2C in cases where educated guesses where made about xyz%2C and the guess happens to be right%2C you could say that person X knows Y%2C even though X would probably say "I don't know if Y is true%2C but I belief that Y is likely to be true". The fact that X could deny KNOWing Y%2C means that it would also be possible to answer that "no one knows xyz"
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,6,0,exit_quest,NULL,anything_else,
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,6,0,exit_quest,NULL,dummy_checkbox_,yes
+1512094340,fe42a88a2a98f67de017e6a84859534a,Form,6,0,exit_quest,NULL,_REACTION_TIME_,1052134
+#
+# Results on Friday December 01 2017 03:12:38 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+# Design number was non-random = 43
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,2,0,consent,NULL,subject_id,010785
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,2,0,consent,NULL,age,32
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,2,0,consent,NULL,consent_checkbox_,yes
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,2,0,consent,NULL,dummy_checkbox_,yes
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,2,0,consent,NULL,sex,male
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,2,0,consent,NULL,_REACTION_TIME_,31058
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,1,0,instructions,NULL,dummy_checkbox_,yes
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,1,0,instructions,NULL,_REACTION_TIME_,31803
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,4,0,train,NULL,train_m_A_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,4,0,train,NULL,train_m_B_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,4,0,train,NULL,train_m_C_chosen,yes
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,4,0,train,NULL,none_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,4,0,train,NULL,_REACTION_TIME_,70210
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,3,0,train,NULL,train_f_A_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,3,0,train,NULL,train_f_B_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,3,0,train,NULL,train_f_C_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,3,0,train,NULL,none_chosen,yes
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,3,0,train,NULL,_REACTION_TIME_,42343
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,5,0,train_end,NULL,dummy_checkbox_,yes
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,5,0,train_end,NULL,_REACTION_TIME_,3561
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,13,0,low,NULL,answers_reported,placeholderCousin 1 says%2C "Location F."%2CCousin 2 says%2C "Location A."%2CCousin 3 says%2C "Locations D and F."
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,13,0,low,NULL,pic_cousin_A_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,13,0,low,NULL,pic_cousin_B_chosen,yes
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,13,0,low,NULL,pic_cousin_C_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,13,0,low,NULL,no_one_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,13,0,low,NULL,_REACTION_TIME_,104783
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,12,0,high,NULL,answers_reported,placeholderInvestigator 1 says%2C "Places F%2C A%2C B%2C C and E."%2CInvestigator 2 says%2C "Places F and A."%2CInvestigator 3 says%2C "Place F."
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,12,0,high,NULL,fbi_investigator_A_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,12,0,high,NULL,fbi_investigator_B_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,12,0,high,NULL,fbi_investigator_C_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,12,0,high,NULL,no_one_chosen,yes
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,12,0,high,NULL,_REACTION_TIME_,60026
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,19,0,control,NULL,what_A_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,19,0,control,NULL,what_B_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,19,0,control,NULL,what_C_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,19,0,control,NULL,none_chosen,yes
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,19,0,control,NULL,_REACTION_TIME_,61188
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,15,0,low,NULL,answers_reported,placeholderClassmate 1 says%2C "Cafe D."%2CClassmate 2 says%2C "Cafes F and D."%2CClassmate 3 says%2C "Cafe E."
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,15,0,low,NULL,coffee_classmate_A_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,15,0,low,NULL,coffee_classmate_B_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,15,0,low,NULL,coffee_classmate_C_chosen,yes
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,15,0,low,NULL,no_one_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,15,0,low,NULL,_REACTION_TIME_,41123
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,9,0,high,NULL,answers_reported,placeholderFirefighter 1 says%2C "The fifth and second floors."%2CFirefighter 2 says%2C "The fourth and sixth floors."%2CFirefighter 3 says%2C "The sixth floor."
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,9,0,high,NULL,firefighter_A_chosen,yes
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,9,0,high,NULL,firefighter_B_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,9,0,high,NULL,firefighter_C_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,9,0,high,NULL,no_one_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,9,0,high,NULL,_REACTION_TIME_,40674
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,21,0,control,NULL,how_guest_A_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,21,0,control,NULL,how_guest_B_chosen,yes
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,21,0,control,NULL,how_guest_C_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,21,0,control,NULL,none_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,21,0,control,NULL,_REACTION_TIME_,69072
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,16,0,low,NULL,answers_reported,placeholderCoworker 1 says%2C "Studios C and B."%2CCoworker 2 says%2C "Studio F."%2CCoworker 3 says%2C "Studios F%2C E%2C D%2C C and B."
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,16,0,low,NULL,yoga_coworker_A_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,16,0,low,NULL,yoga_coworker_B_chosen,yes
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,16,0,low,NULL,yoga_coworker_C_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,16,0,low,NULL,no_one_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,16,0,low,NULL,_REACTION_TIME_,43948
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,11,0,high,NULL,answers_reported,placeholderAdvisor 1 says%2C "Stores E and B."%2CAdvisor 2 says%2C "Stores E%2C B%2C A%2C D%2C and F."%2CAdvisor 3 says%2C "Store E."
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,11,0,high,NULL,terrorism_advisor_A_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,11,0,high,NULL,terrorism_advisor_B_chosen,yes
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,11,0,high,NULL,terrorism_advisor_C_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,11,0,high,NULL,no_one_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,11,0,high,NULL,_REACTION_TIME_,22854
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,14,0,low,NULL,answers_reported,placeholderFriend 1 says%2C "Diners C and F."%2CFriend 2 says%2C "Diner E."%2CFriend 3 says%2C "Diners A and E."
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,14,0,low,NULL,la_friend_A_chosen,yes
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,14,0,low,NULL,la_friend_B_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,14,0,low,NULL,la_friend_C_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,14,0,low,NULL,no_one_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,14,0,low,NULL,_REACTION_TIME_,33703
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,18,0,control,NULL,why_A_chosen,yes
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,18,0,control,NULL,why_B_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,18,0,control,NULL,why_C_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,18,0,control,NULL,none_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,18,0,control,NULL,_REACTION_TIME_,25836
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,10,0,high,NULL,answers_reported,placeholderOperative 1 says%2C "The Northeast and Southwest districts."%2COperative 2 says%2C "The Northeast%2C Southwest%2C South%2C Southeast and North districts."%2COperative 3 says%2C "The South and North districts."
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,10,0,high,NULL,operative_A_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,10,0,high,NULL,operative_B_chosen,yes
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,10,0,high,NULL,operative_C_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,10,0,high,NULL,no_one_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,10,0,high,NULL,_REACTION_TIME_,30263
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,17,0,low,NULL,answers_reported,placeholderBrother 1 says%2C "Markets C%2C D%2C A%2C F and B."%2CBrother 2 says%2C "Market C."%2CBrother 3 says%2C "Markets C and D."
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,17,0,low,NULL,brother_A_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,17,0,low,NULL,brother_B_chosen,yes
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,17,0,low,NULL,brother_C_chosen,yes
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,17,0,low,NULL,no_one_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,17,0,low,NULL,_REACTION_TIME_,46327
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,8,0,high,NULL,answers_reported,placeholderInspector 1 says%2C "Restaurants A and B."%2CInspector 2 says%2C "Restaurants A%2C B%2C C%2C D%2C and E."%2CInspector 3 says%2C "Restaurant A."
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,8,0,high,NULL,inspector_A_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,8,0,high,NULL,inspector_B_chosen,yes
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,8,0,high,NULL,inspector_C_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,8,0,high,NULL,no_one_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,8,0,high,NULL,_REACTION_TIME_,15056
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,20,0,control,NULL,when_A_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,20,0,control,NULL,when_B_chosen,yes
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,20,0,control,NULL,when_C_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,20,0,control,NULL,none_chosen,no
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,20,0,control,NULL,_REACTION_TIME_,48498
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,6,0,exit_quest,NULL,know_conditons,When display a grasp of the information and saliency of information for a particular scenario
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,6,0,exit_quest,NULL,difficult,The setup and framing was a bit long
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,6,0,exit_quest,NULL,anything_else,
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,6,0,exit_quest,NULL,dummy_checkbox_,yes
+1512097959,1b7acb5aad4d48da68528e5e598b0c57,Form,6,0,exit_quest,NULL,_REACTION_TIME_,101546
+#
+# Results on Friday December 01 2017 14:09:44 UTC.
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0 Mobile/15B202 Safari/604.1
+# Design number was non-random = 44
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1512137384,182bf87c55da14b7b43e84063e735919,Form,2,0,consent,NULL,subject_id,0223
+1512137384,182bf87c55da14b7b43e84063e735919,Form,2,0,consent,NULL,age,31
+1512137384,182bf87c55da14b7b43e84063e735919,Form,2,0,consent,NULL,consent_checkbox_,yes
+1512137384,182bf87c55da14b7b43e84063e735919,Form,2,0,consent,NULL,dummy_checkbox_,yes
+1512137384,182bf87c55da14b7b43e84063e735919,Form,2,0,consent,NULL,sex,female
+1512137384,182bf87c55da14b7b43e84063e735919,Form,2,0,consent,NULL,_REACTION_TIME_,10901
+1512137384,182bf87c55da14b7b43e84063e735919,Form,1,0,instructions,NULL,dummy_checkbox_,yes
+1512137384,182bf87c55da14b7b43e84063e735919,Form,1,0,instructions,NULL,_REACTION_TIME_,30573
+1512137384,182bf87c55da14b7b43e84063e735919,Form,4,0,train,NULL,train_m_A_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,4,0,train,NULL,train_m_B_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,4,0,train,NULL,train_m_C_chosen,yes
+1512137384,182bf87c55da14b7b43e84063e735919,Form,4,0,train,NULL,none_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,4,0,train,NULL,_REACTION_TIME_,14622
+1512137384,182bf87c55da14b7b43e84063e735919,Form,3,0,train,NULL,train_f_A_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,3,0,train,NULL,train_f_B_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,3,0,train,NULL,train_f_C_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,3,0,train,NULL,none_chosen,yes
+1512137384,182bf87c55da14b7b43e84063e735919,Form,3,0,train,NULL,_REACTION_TIME_,3400
+1512137384,182bf87c55da14b7b43e84063e735919,Form,5,0,train_end,NULL,dummy_checkbox_,yes
+1512137384,182bf87c55da14b7b43e84063e735919,Form,5,0,train_end,NULL,_REACTION_TIME_,1317
+1512137384,182bf87c55da14b7b43e84063e735919,Form,14,0,low,NULL,answers_reported,placeholderFriend 1 says%2C "Diners C%2C F%2C A%2C D%2C and E."%2CFriend 2 says%2C "Diners A and E."%2CFriend 3 says%2C "Diners C and F."
+1512137384,182bf87c55da14b7b43e84063e735919,Form,14,0,low,NULL,la_friend_A_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,14,0,low,NULL,la_friend_B_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,14,0,low,NULL,la_friend_C_chosen,yes
+1512137384,182bf87c55da14b7b43e84063e735919,Form,14,0,low,NULL,no_one_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,14,0,low,NULL,_REACTION_TIME_,65661
+1512137384,182bf87c55da14b7b43e84063e735919,Form,11,0,high,NULL,answers_reported,placeholderAdvisor 1 says%2C "Stores E and B."%2CAdvisor 2 says%2C "Stores A and F."%2CAdvisor 3 says%2C "Store E."
+1512137384,182bf87c55da14b7b43e84063e735919,Form,11,0,high,NULL,terrorism_advisor_A_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,11,0,high,NULL,terrorism_advisor_B_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,11,0,high,NULL,terrorism_advisor_C_chosen,yes
+1512137384,182bf87c55da14b7b43e84063e735919,Form,11,0,high,NULL,no_one_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,11,0,high,NULL,_REACTION_TIME_,91690
+1512137384,182bf87c55da14b7b43e84063e735919,Form,17,0,low,NULL,answers_reported,placeholderBrother 1 says%2C "Markets C and D."%2CBrother 2 says%2C "Market B."%2CBrother 3 says%2C "Market C."
+1512137384,182bf87c55da14b7b43e84063e735919,Form,17,0,low,NULL,brother_A_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,17,0,low,NULL,brother_B_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,17,0,low,NULL,brother_C_chosen,yes
+1512137384,182bf87c55da14b7b43e84063e735919,Form,17,0,low,NULL,no_one_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,17,0,low,NULL,_REACTION_TIME_,75276
+1512137384,182bf87c55da14b7b43e84063e735919,Form,18,0,control,NULL,why_A_chosen,yes
+1512137384,182bf87c55da14b7b43e84063e735919,Form,18,0,control,NULL,why_B_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,18,0,control,NULL,why_C_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,18,0,control,NULL,none_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,18,0,control,NULL,_REACTION_TIME_,164411
+1512137384,182bf87c55da14b7b43e84063e735919,Form,10,0,high,NULL,answers_reported,placeholderOperative 1 says%2C "The Northeast district."%2COperative 2 says%2C "The Northeast and Southwest districts."%2COperative 3 says%2C "The South and North districts."
+1512137384,182bf87c55da14b7b43e84063e735919,Form,10,0,high,NULL,operative_A_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,10,0,high,NULL,operative_B_chosen,yes
+1512137384,182bf87c55da14b7b43e84063e735919,Form,10,0,high,NULL,operative_C_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,10,0,high,NULL,no_one_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,10,0,high,NULL,_REACTION_TIME_,150851
+1512137384,182bf87c55da14b7b43e84063e735919,Form,13,0,low,NULL,answers_reported,placeholderCousin 1 says%2C "Locations A%2C D%2C E%2C and F."%2CCousin 2 says%2C "Location A."%2CCousin 3 says%2C "Locations A and D."
+1512137384,182bf87c55da14b7b43e84063e735919,Form,13,0,low,NULL,pic_cousin_A_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,13,0,low,NULL,pic_cousin_B_chosen,yes
+1512137384,182bf87c55da14b7b43e84063e735919,Form,13,0,low,NULL,pic_cousin_C_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,13,0,low,NULL,no_one_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,13,0,low,NULL,_REACTION_TIME_,1395014
+1512137384,182bf87c55da14b7b43e84063e735919,Form,21,0,control,NULL,how_guest_A_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,21,0,control,NULL,how_guest_B_chosen,yes
+1512137384,182bf87c55da14b7b43e84063e735919,Form,21,0,control,NULL,how_guest_C_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,21,0,control,NULL,none_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,21,0,control,NULL,_REACTION_TIME_,116412
+1512137384,182bf87c55da14b7b43e84063e735919,Form,9,0,high,NULL,answers_reported,placeholderFirefighter 1 says%2C "The fifth floor."%2CFirefighter 2 says%2C "The fourth and sixth floors."%2CFirefighter 3 says%2C "The fifth and second floors."
+1512137384,182bf87c55da14b7b43e84063e735919,Form,9,0,high,NULL,firefighter_A_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,9,0,high,NULL,firefighter_B_chosen,yes
+1512137384,182bf87c55da14b7b43e84063e735919,Form,9,0,high,NULL,firefighter_C_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,9,0,high,NULL,no_one_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,9,0,high,NULL,_REACTION_TIME_,50099
+1512137384,182bf87c55da14b7b43e84063e735919,Form,15,0,low,NULL,answers_reported,placeholderClassmate 1 says%2C "Cafe E."%2CClassmate 2 says%2C "Cafes E and B."%2CClassmate 3 says%2C "Cafes F and D."
+1512137384,182bf87c55da14b7b43e84063e735919,Form,15,0,low,NULL,coffee_classmate_A_chosen,yes
+1512137384,182bf87c55da14b7b43e84063e735919,Form,15,0,low,NULL,coffee_classmate_B_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,15,0,low,NULL,coffee_classmate_C_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,15,0,low,NULL,no_one_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,15,0,low,NULL,_REACTION_TIME_,14055
+1512137384,182bf87c55da14b7b43e84063e735919,Form,8,0,high,NULL,answers_reported,placeholderInspector 1 says%2C "Restaurants C and E."%2CInspector 2 says%2C "Restaurants A and B."%2CInspector 3 says%2C "Restaurant A."
+1512137384,182bf87c55da14b7b43e84063e735919,Form,8,0,high,NULL,inspector_A_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,8,0,high,NULL,inspector_B_chosen,yes
+1512137384,182bf87c55da14b7b43e84063e735919,Form,8,0,high,NULL,inspector_C_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,8,0,high,NULL,no_one_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,8,0,high,NULL,_REACTION_TIME_,48248
+1512137384,182bf87c55da14b7b43e84063e735919,Form,20,0,control,NULL,when_A_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,20,0,control,NULL,when_B_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,20,0,control,NULL,when_C_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,20,0,control,NULL,none_chosen,yes
+1512137384,182bf87c55da14b7b43e84063e735919,Form,20,0,control,NULL,_REACTION_TIME_,41097
+1512137384,182bf87c55da14b7b43e84063e735919,Form,16,0,low,NULL,answers_reported,placeholderCoworker 1 says%2C "Studios F%2C E%2C D%2C C and B."%2CCoworker 2 says%2C "Studios F and E."%2CCoworker 3 says%2C "Studio F."
+1512137384,182bf87c55da14b7b43e84063e735919,Form,16,0,low,NULL,yoga_coworker_A_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,16,0,low,NULL,yoga_coworker_B_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,16,0,low,NULL,yoga_coworker_C_chosen,yes
+1512137384,182bf87c55da14b7b43e84063e735919,Form,16,0,low,NULL,no_one_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,16,0,low,NULL,_REACTION_TIME_,27281
+1512137384,182bf87c55da14b7b43e84063e735919,Form,12,0,high,NULL,answers_reported,placeholderInvestigator 1 says%2C "Places F and A."%2CInvestigator 2 says%2C "Place F."%2CInvestigator 3 says%2C "Places B and E."
+1512137384,182bf87c55da14b7b43e84063e735919,Form,12,0,high,NULL,fbi_investigator_A_chosen,yes
+1512137384,182bf87c55da14b7b43e84063e735919,Form,12,0,high,NULL,fbi_investigator_B_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,12,0,high,NULL,fbi_investigator_C_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,12,0,high,NULL,no_one_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,12,0,high,NULL,_REACTION_TIME_,30647
+1512137384,182bf87c55da14b7b43e84063e735919,Form,19,0,control,NULL,what_A_chosen,yes
+1512137384,182bf87c55da14b7b43e84063e735919,Form,19,0,control,NULL,what_B_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,19,0,control,NULL,what_C_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,19,0,control,NULL,none_chosen,no
+1512137384,182bf87c55da14b7b43e84063e735919,Form,19,0,control,NULL,_REACTION_TIME_,47435
+1512137384,182bf87c55da14b7b43e84063e735919,Form,6,0,exit_quest,NULL,know_conditons,
+1512137384,182bf87c55da14b7b43e84063e735919,Form,6,0,exit_quest,NULL,difficult,Somewhat- scenarios/context guided answers
+1512137384,182bf87c55da14b7b43e84063e735919,Form,6,0,exit_quest,NULL,anything_else,
+1512137384,182bf87c55da14b7b43e84063e735919,Form,6,0,exit_quest,NULL,dummy_checkbox_,yes
+1512137384,182bf87c55da14b7b43e84063e735919,Form,6,0,exit_quest,NULL,_REACTION_TIME_,51119
+#
+# Results on Friday December 01 2017 18:01:25 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+# Design number was non-random = 45
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,subject_id,12070
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,age,20
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,consent_checkbox_,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,dummy_checkbox_,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,sex,female
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,_REACTION_TIME_,102071
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,1,0,instructions,NULL,dummy_checkbox_,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,1,0,instructions,NULL,_REACTION_TIME_,10589
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,train_f_A_chosen,no
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,train_f_B_chosen,no
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,train_f_C_chosen,no
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,none_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,_REACTION_TIME_,35076
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,train_m_A_chosen,no
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,train_m_B_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,train_m_C_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,none_chosen,no
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,_REACTION_TIME_,48300
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,5,0,train_end,NULL,dummy_checkbox_,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,5,0,train_end,NULL,_REACTION_TIME_,2318
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,answers_reported,placeholderClassmate 1 says%2C "Cafe D."%2CClassmate 2 says%2C "Cafe E."%2CClassmate 3 says%2C "Cafes F and D."
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,coffee_classmate_A_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,coffee_classmate_B_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,coffee_classmate_C_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,no_one_chosen,no
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,_REACTION_TIME_,37788
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,answers_reported,placeholderInvestigator 1 says%2C "Places B and E."%2CInvestigator 2 says%2C "Place F."%2CInvestigator 3 says%2C "Places F and A."
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,fbi_investigator_A_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,fbi_investigator_B_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,fbi_investigator_C_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,no_one_chosen,no
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,_REACTION_TIME_,35057
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,answers_reported,placeholderBrother 1 says%2C "Markets C%2C D%2C A%2C F and B."%2CBrother 2 says%2C "Markets A and B."%2CBrother 3 says%2C "Market B."
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,brother_A_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,brother_B_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,brother_C_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,no_one_chosen,no
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,_REACTION_TIME_,44875
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,when_A_chosen,no
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,when_B_chosen,no
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,when_C_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,none_chosen,no
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,_REACTION_TIME_,33933
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,answers_reported,placeholderOperative 1 says%2C "The Northeast%2C Southwest%2C South%2C Southeast and North districts."%2COperative 2 says%2C "The South and North districts."%2COperative 3 says%2C "The Northeast and Southwest districts."
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,operative_A_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,operative_B_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,operative_C_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,no_one_chosen,no
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,_REACTION_TIME_,47253
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,answers_reported,placeholderCoworker 1 says%2C "Studio F."%2CCoworker 2 says%2C "Studios F%2C E%2C D%2C C and B."%2CCoworker 3 says%2C "Studio B."
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,yoga_coworker_A_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,yoga_coworker_B_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,yoga_coworker_C_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,no_one_chosen,no
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,_REACTION_TIME_,29475
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,how_guest_A_chosen,no
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,how_guest_B_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,how_guest_C_chosen,no
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,none_chosen,no
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,_REACTION_TIME_,46494
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,answers_reported,placeholderAdvisor 1 says%2C "Stores E and B."%2CAdvisor 2 says%2C "Stores E%2C B%2C A%2C D%2C and F."%2CAdvisor 3 says%2C "Store E."
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,terrorism_advisor_A_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,terrorism_advisor_B_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,terrorism_advisor_C_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,no_one_chosen,no
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,_REACTION_TIME_,31132
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,answers_reported,placeholderCousin 1 says%2C "Location A."%2CCousin 2 says%2C "Locations D and F."%2CCousin 3 says%2C "Locations A and D."
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,pic_cousin_A_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,pic_cousin_B_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,pic_cousin_C_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,no_one_chosen,no
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,_REACTION_TIME_,58931
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,answers_reported,placeholderInspector 1 says%2C "Restaurants A%2C B%2C C%2C D%2C and E."%2CInspector 2 says%2C "Restaurants C and E."%2CInspector 3 says%2C "Restaurant E."
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,inspector_A_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,inspector_B_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,inspector_C_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,no_one_chosen,no
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,_REACTION_TIME_,25066
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,what_A_chosen,no
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,what_B_chosen,no
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,what_C_chosen,no
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,none_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,_REACTION_TIME_,39640
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,answers_reported,placeholderFriend 1 says%2C "Diners C and F."%2CFriend 2 says%2C "Diner E."%2CFriend 3 says%2C "Diner C."
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,la_friend_A_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,la_friend_B_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,la_friend_C_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,no_one_chosen,no
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,_REACTION_TIME_,16317
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,answers_reported,placeholderFirefighter 1 says%2C "The sixth floor."%2CFirefighter 2 says%2C "The fifth and second floors."%2CFirefighter 3 says%2C "The fourth and sixth floors."
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,firefighter_A_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,firefighter_B_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,firefighter_C_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,no_one_chosen,no
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,_REACTION_TIME_,15973
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,why_A_chosen,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,why_B_chosen,no
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,why_C_chosen,no
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,none_chosen,no
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,_REACTION_TIME_,39980
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,know_conditons,If they know information about the topic. It does need to be the best information%2C just some part of it.
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,difficult,A little. Some of the questions/answers were ambiguous as to how much was known by the people involved. 
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,anything_else,N/A
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,dummy_checkbox_,yes
+1512151286,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,_REACTION_TIME_,123835
+#
+# Results on Friday December 01 2017 19:01:43 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+# Design number was non-random = 46
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,subject_id,12034
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,age,23
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,consent_checkbox_,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,dummy_checkbox_,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,sex,female
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,_REACTION_TIME_,2004979
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,1,0,instructions,NULL,dummy_checkbox_,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,1,0,instructions,NULL,_REACTION_TIME_,42822
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,train_f_A_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,train_f_B_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,train_f_C_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,none_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,_REACTION_TIME_,56012
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,train_m_A_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,train_m_B_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,train_m_C_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,none_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,_REACTION_TIME_,91043
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,5,0,train_end,NULL,dummy_checkbox_,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,5,0,train_end,NULL,_REACTION_TIME_,4198
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,answers_reported,placeholderInvestigator 1 says%2C "Place F."%2CInvestigator 2 says%2C "Places F and A."%2CInvestigator 3 says%2C "Places B and E."
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,fbi_investigator_A_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,fbi_investigator_B_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,fbi_investigator_C_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,no_one_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,_REACTION_TIME_,144330
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,answers_reported,placeholderCoworker 1 says%2C "Studios C and B."%2CCoworker 2 says%2C "Studios F and E."%2CCoworker 3 says%2C "Studio B."
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,yoga_coworker_A_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,yoga_coworker_B_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,yoga_coworker_C_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,no_one_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,_REACTION_TIME_,104810
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,how_guest_A_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,how_guest_B_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,how_guest_C_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,none_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,_REACTION_TIME_,79164
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,answers_reported,placeholderAdvisor 1 says%2C "Stores E and B."%2CAdvisor 2 says%2C "Store E."%2CAdvisor 3 says%2C "Stores E%2C B%2C A%2C D%2C and F."
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,terrorism_advisor_A_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,terrorism_advisor_B_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,terrorism_advisor_C_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,no_one_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,_REACTION_TIME_,139506
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,answers_reported,placeholderClassmate 1 says%2C "Cafes E%2C B%2C F%2C C and D."%2CClassmate 2 says%2C "Cafes F and D."%2CClassmate 3 says%2C "Cafes E and B."
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,coffee_classmate_A_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,coffee_classmate_B_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,coffee_classmate_C_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,no_one_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,_REACTION_TIME_,40228
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,why_A_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,why_B_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,why_C_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,none_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,_REACTION_TIME_,49149
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,answers_reported,placeholderInspector 1 says%2C "Restaurants A%2C B%2C C%2C D%2C and E."%2CInspector 2 says%2C "Restaurant A."%2CInspector 3 says%2C "Restaurant E."
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,inspector_A_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,inspector_B_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,inspector_C_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,no_one_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,_REACTION_TIME_,43028
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,answers_reported,placeholderCousin 1 says%2C "Locations D and F."%2CCousin 2 says%2C "Location F."%2CCousin 3 says%2C "Location A."
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,pic_cousin_A_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,pic_cousin_B_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,pic_cousin_C_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,no_one_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,_REACTION_TIME_,39844
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,answers_reported,placeholderOperative 1 says%2C "The Northeast district."%2COperative 2 says%2C "The Northeast and Southwest districts."%2COperative 3 says%2C "The Northeast%2C Southwest%2C South%2C Southeast and North districts."
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,operative_A_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,operative_B_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,operative_C_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,no_one_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,_REACTION_TIME_,85179
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,what_A_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,what_B_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,what_C_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,none_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,_REACTION_TIME_,50612
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,answers_reported,placeholderBrother 1 says%2C "Markets C and D."%2CBrother 2 says%2C "Market B."%2CBrother 3 says%2C "Market C."
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,brother_A_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,brother_B_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,brother_C_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,no_one_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,_REACTION_TIME_,47324
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,answers_reported,placeholderFirefighter 1 says%2C "The fifth%2C second%2C fourth%2C third and sixth floors."%2CFirefighter 2 says%2C "The fifth and second floors."%2CFirefighter 3 says%2C "The fourth and sixth floors."
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,firefighter_A_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,firefighter_B_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,firefighter_C_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,no_one_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,_REACTION_TIME_,59076
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,answers_reported,placeholderFriend 1 says%2C "Diners C%2C F%2C A%2C D%2C and E."%2CFriend 2 says%2C "Diners C and F."%2CFriend 3 says%2C "Diner C."
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,la_friend_A_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,la_friend_B_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,la_friend_C_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,no_one_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,_REACTION_TIME_,66603
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,when_A_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,when_B_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,when_C_chosen,no
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,none_chosen,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,_REACTION_TIME_,54988
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,know_conditons,being aware of a thing that exists indecent of themselves- i.e. objective existence %0A
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,difficult,Rankings and probabilities are not a substantial argument for existence but they are societally relevant %0A%0AIf the truth is scenario A and B saying just A or B is might not be wrong (though logically incorrect)
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,anything_else,
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,dummy_checkbox_,yes
+1512154904,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,_REACTION_TIME_,283064
+#
+# Results on Friday December 01 2017 19:23:59 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+# Design number was non-random = 47
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,2,0,consent,NULL,subject_id,samjbcarter
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,2,0,consent,NULL,age,26
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,2,0,consent,NULL,consent_checkbox_,yes
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,2,0,consent,NULL,dummy_checkbox_,yes
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,2,0,consent,NULL,sex,male
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,2,0,consent,NULL,_REACTION_TIME_,28214
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,1,0,instructions,NULL,dummy_checkbox_,yes
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,1,0,instructions,NULL,_REACTION_TIME_,14409
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,3,0,train,NULL,train_f_A_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,3,0,train,NULL,train_f_B_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,3,0,train,NULL,train_f_C_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,3,0,train,NULL,none_chosen,yes
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,3,0,train,NULL,_REACTION_TIME_,33390
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,4,0,train,NULL,train_m_A_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,4,0,train,NULL,train_m_B_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,4,0,train,NULL,train_m_C_chosen,yes
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,4,0,train,NULL,none_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,4,0,train,NULL,_REACTION_TIME_,34332
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,5,0,train_end,NULL,dummy_checkbox_,yes
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,5,0,train_end,NULL,_REACTION_TIME_,2571
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,12,0,high,NULL,answers_reported,placeholderInvestigator 1 says%2C "Places F%2C A%2C B%2C C and E."%2CInvestigator 2 says%2C "Places F and A."%2CInvestigator 3 says%2C "Places B and E."
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,12,0,high,NULL,fbi_investigator_A_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,12,0,high,NULL,fbi_investigator_B_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,12,0,high,NULL,fbi_investigator_C_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,12,0,high,NULL,no_one_chosen,yes
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,12,0,high,NULL,_REACTION_TIME_,37293
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,15,0,low,NULL,answers_reported,placeholderClassmate 1 says%2C "Cafes F and D."%2CClassmate 2 says%2C "Cafes E and B."%2CClassmate 3 says%2C "Cafe E."
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,15,0,low,NULL,coffee_classmate_A_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,15,0,low,NULL,coffee_classmate_B_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,15,0,low,NULL,coffee_classmate_C_chosen,yes
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,15,0,low,NULL,no_one_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,15,0,low,NULL,_REACTION_TIME_,26462
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,18,0,control,NULL,why_A_chosen,yes
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,18,0,control,NULL,why_B_chosen,yes
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,18,0,control,NULL,why_C_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,18,0,control,NULL,none_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,18,0,control,NULL,_REACTION_TIME_,34107
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,10,0,high,NULL,answers_reported,placeholderOperative 1 says%2C "The South and North districts."%2COperative 2 says%2C "The Northeast and Southwest districts."%2COperative 3 says%2C "The Northeast district."
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,10,0,high,NULL,operative_A_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,10,0,high,NULL,operative_B_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,10,0,high,NULL,operative_C_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,10,0,high,NULL,no_one_chosen,yes
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,10,0,high,NULL,_REACTION_TIME_,91070
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,17,0,low,NULL,answers_reported,placeholderBrother 1 says%2C "Markets C%2C D%2C A%2C F and B."%2CBrother 2 says%2C "Market C."%2CBrother 3 says%2C "Markets C and D."
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,17,0,low,NULL,brother_A_chosen,yes
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,17,0,low,NULL,brother_B_chosen,yes
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,17,0,low,NULL,brother_C_chosen,yes
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,17,0,low,NULL,no_one_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,17,0,low,NULL,_REACTION_TIME_,46979
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,19,0,control,NULL,what_A_chosen,yes
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,19,0,control,NULL,what_B_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,19,0,control,NULL,what_C_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,19,0,control,NULL,none_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,19,0,control,NULL,_REACTION_TIME_,37944
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,11,0,high,NULL,answers_reported,placeholderAdvisor 1 says%2C "Store E."%2CAdvisor 2 says%2C "Stores E and B."%2CAdvisor 3 says%2C "Stores E%2C B%2C A%2C D%2C and F."
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,11,0,high,NULL,terrorism_advisor_A_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,11,0,high,NULL,terrorism_advisor_B_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,11,0,high,NULL,terrorism_advisor_C_chosen,yes
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,11,0,high,NULL,no_one_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,11,0,high,NULL,_REACTION_TIME_,32070
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,13,0,low,NULL,answers_reported,placeholderCousin 1 says%2C "Locations D and F."%2CCousin 2 says%2C "Location A."%2CCousin 3 says%2C "Locations A and D."
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,13,0,low,NULL,pic_cousin_A_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,13,0,low,NULL,pic_cousin_B_chosen,yes
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,13,0,low,NULL,pic_cousin_C_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,13,0,low,NULL,no_one_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,13,0,low,NULL,_REACTION_TIME_,15260
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,9,0,high,NULL,answers_reported,placeholderFirefighter 1 says%2C "The sixth floor."%2CFirefighter 2 says%2C "The fourth and sixth floors."%2CFirefighter 3 says%2C "The fifth and second floors."
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,9,0,high,NULL,firefighter_A_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,9,0,high,NULL,firefighter_B_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,9,0,high,NULL,firefighter_C_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,9,0,high,NULL,no_one_chosen,yes
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,9,0,high,NULL,_REACTION_TIME_,186324
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,21,0,control,NULL,how_guest_A_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,21,0,control,NULL,how_guest_B_chosen,yes
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,21,0,control,NULL,how_guest_C_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,21,0,control,NULL,none_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,21,0,control,NULL,_REACTION_TIME_,54150
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,16,0,low,NULL,answers_reported,placeholderCoworker 1 says%2C "Studios C and B."%2CCoworker 2 says%2C "Studios F and E."%2CCoworker 3 says%2C "Studio F."
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,16,0,low,NULL,yoga_coworker_A_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,16,0,low,NULL,yoga_coworker_B_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,16,0,low,NULL,yoga_coworker_C_chosen,yes
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,16,0,low,NULL,no_one_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,16,0,low,NULL,_REACTION_TIME_,11765
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,8,0,high,NULL,answers_reported,placeholderInspector 1 says%2C "Restaurant E."%2CInspector 2 says%2C "Restaurant A."%2CInspector 3 says%2C "Restaurants A%2C B%2C C%2C D%2C and E."
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,8,0,high,NULL,inspector_A_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,8,0,high,NULL,inspector_B_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,8,0,high,NULL,inspector_C_chosen,yes
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,8,0,high,NULL,no_one_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,8,0,high,NULL,_REACTION_TIME_,23549
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,14,0,low,NULL,answers_reported,placeholderFriend 1 says%2C "Diners A and E."%2CFriend 2 says%2C "Diners C and F."%2CFriend 3 says%2C "Diners C%2C F%2C A%2C D%2C and E."
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,14,0,low,NULL,la_friend_A_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,14,0,low,NULL,la_friend_B_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,14,0,low,NULL,la_friend_C_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,14,0,low,NULL,no_one_chosen,yes
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,14,0,low,NULL,_REACTION_TIME_,24851
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,20,0,control,NULL,when_A_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,20,0,control,NULL,when_B_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,20,0,control,NULL,when_C_chosen,yes
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,20,0,control,NULL,none_chosen,no
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,20,0,control,NULL,_REACTION_TIME_,40908
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,6,0,exit_quest,NULL,know_conditons,When they truly come to believe it in a non-accidental fashion
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,6,0,exit_quest,NULL,difficult,Yes - in many cases%2C the knowledge claims appeared at least two-ways ambiguous
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,6,0,exit_quest,NULL,anything_else,
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,6,0,exit_quest,NULL,dummy_checkbox_,yes
+1512156239,d3b1e742adfcb7f7a7dd1a5dc48b6561,Form,6,0,exit_quest,NULL,_REACTION_TIME_,59772
+#
+# Results on Friday December 01 2017 19:49:48 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+# Design number was non-random = 48
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,subject_id,11149
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,age,20
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,consent_checkbox_,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,dummy_checkbox_,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,sex,female
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,_REACTION_TIME_,16222
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,1,0,instructions,NULL,dummy_checkbox_,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,1,0,instructions,NULL,_REACTION_TIME_,32725
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,train_f_A_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,train_f_B_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,train_f_C_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,none_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,_REACTION_TIME_,52204
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,train_m_A_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,train_m_B_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,train_m_C_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,none_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,_REACTION_TIME_,51940
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,5,0,train_end,NULL,dummy_checkbox_,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,5,0,train_end,NULL,_REACTION_TIME_,2022
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,answers_reported,placeholderInspector 1 says%2C "Restaurants A and B."%2CInspector 2 says%2C "Restaurant E."%2CInspector 3 says%2C "Restaurants C and E."
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,inspector_A_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,inspector_B_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,inspector_C_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,no_one_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,_REACTION_TIME_,64819
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,answers_reported,placeholderClassmate 1 says%2C "Cafes F and D."%2CClassmate 2 says%2C "Cafes E%2C B%2C F%2C C and D."%2CClassmate 3 says%2C "Cafes E and B."
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,coffee_classmate_A_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,coffee_classmate_B_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,coffee_classmate_C_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,no_one_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,_REACTION_TIME_,101659
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,answers_reported,placeholderOperative 1 says%2C "The Northeast district."%2COperative 2 says%2C "The Northeast and Southwest districts."%2COperative 3 says%2C "The South and North districts."
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,operative_A_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,operative_B_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,operative_C_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,no_one_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,_REACTION_TIME_,95883
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,when_A_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,when_B_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,when_C_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,none_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,_REACTION_TIME_,38170
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,answers_reported,placeholderBrother 1 says%2C "Market C."%2CBrother 2 says%2C "Markets A and B."%2CBrother 3 says%2C "Markets C and D."
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,brother_A_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,brother_B_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,brother_C_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,no_one_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,_REACTION_TIME_,46878
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,answers_reported,placeholderFirefighter 1 says%2C "The sixth floor."%2CFirefighter 2 says%2C "The fifth floor."%2CFirefighter 3 says%2C "The fifth and second floors."
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,firefighter_A_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,firefighter_B_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,firefighter_C_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,no_one_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,_REACTION_TIME_,64212
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,why_A_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,why_B_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,why_C_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,none_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,_REACTION_TIME_,89492
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,answers_reported,placeholderFriend 1 says%2C "Diners C and F."%2CFriend 2 says%2C "Diners A and E."%2CFriend 3 says%2C "Diner E."
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,la_friend_A_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,la_friend_B_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,la_friend_C_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,no_one_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,_REACTION_TIME_,44004
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,answers_reported,placeholderInvestigator 1 says%2C "Place F."%2CInvestigator 2 says%2C "Place E."%2CInvestigator 3 says%2C "Places F%2C A%2C B%2C C and E."
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,fbi_investigator_A_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,fbi_investigator_B_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,fbi_investigator_C_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,no_one_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,_REACTION_TIME_,59273
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,answers_reported,placeholderCousin 1 says%2C "Locations D and F."%2CCousin 2 says%2C "Locations A and D."%2CCousin 3 says%2C "Location A."
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,pic_cousin_A_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,pic_cousin_B_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,pic_cousin_C_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,no_one_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,_REACTION_TIME_,48623
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,what_A_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,what_B_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,what_C_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,none_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,_REACTION_TIME_,27101
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,answers_reported,placeholderAdvisor 1 says%2C "Stores E%2C B%2C A%2C D%2C and F."%2CAdvisor 2 says%2C "Store F."%2CAdvisor 3 says%2C "Store E."
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,terrorism_advisor_A_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,terrorism_advisor_B_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,terrorism_advisor_C_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,no_one_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,_REACTION_TIME_,61732
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,answers_reported,placeholderCoworker 1 says%2C "Studios F%2C E%2C D%2C C and B."%2CCoworker 2 says%2C "Studios F and E."%2CCoworker 3 says%2C "Studios C and B."
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,yoga_coworker_A_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,yoga_coworker_B_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,yoga_coworker_C_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,no_one_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,_REACTION_TIME_,47605
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,how_guest_A_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,how_guest_B_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,how_guest_C_chosen,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,none_chosen,no
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,_REACTION_TIME_,71484
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,know_conditons,When they give at least one right answer. 
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,difficult,It was difficult because I felt like some of these answers really were situation specific. 
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,anything_else,
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,dummy_checkbox_,yes
+1512157788,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,_REACTION_TIME_,51541
+#
+# Results on Friday December 01 2017 20:12:01 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+# Design number was non-random = 49
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,subject_id,10999
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,age,22
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,consent_checkbox_,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,dummy_checkbox_,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,sex,male
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,_REACTION_TIME_,122370
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,1,0,instructions,NULL,dummy_checkbox_,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,1,0,instructions,NULL,_REACTION_TIME_,32933
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,train_f_A_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,train_f_B_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,train_f_C_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,none_chosen,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,_REACTION_TIME_,74548
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,train_m_A_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,train_m_B_chosen,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,train_m_C_chosen,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,none_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,_REACTION_TIME_,45371
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,5,0,train_end,NULL,dummy_checkbox_,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,5,0,train_end,NULL,_REACTION_TIME_,2438
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,answers_reported,placeholderCousin 1 says%2C "Location A."%2CCousin 2 says%2C "Locations A and D."%2CCousin 3 says%2C "Locations D and F."
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,pic_cousin_A_chosen,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,pic_cousin_B_chosen,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,pic_cousin_C_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,no_one_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,_REACTION_TIME_,78331
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,answers_reported,placeholderFirefighter 1 says%2C "The fifth%2C second%2C fourth%2C third and sixth floors."%2CFirefighter 2 says%2C "The fifth and second floors."%2CFirefighter 3 says%2C "The fifth floor."
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,firefighter_A_chosen,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,firefighter_B_chosen,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,firefighter_C_chosen,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,no_one_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,_REACTION_TIME_,89859
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,answers_reported,placeholderFriend 1 says%2C "Diner E."%2CFriend 2 says%2C "Diner C."%2CFriend 3 says%2C "Diners C and F."
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,la_friend_A_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,la_friend_B_chosen,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,la_friend_C_chosen,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,no_one_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,_REACTION_TIME_,53924
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,what_A_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,what_B_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,what_C_chosen,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,none_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,_REACTION_TIME_,52436
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,answers_reported,placeholderOperative 1 says%2C "The North district."%2COperative 2 says%2C "The Northeast and Southwest districts."%2COperative 3 says%2C "The Northeast district."
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,operative_A_chosen,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,operative_B_chosen,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,operative_C_chosen,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,no_one_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,_REACTION_TIME_,92172
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,answers_reported,placeholderCoworker 1 says%2C "Studios C and B."%2CCoworker 2 says%2C "Studio F."%2CCoworker 3 says%2C "Studios F%2C E%2C D%2C C and B."
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,yoga_coworker_A_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,yoga_coworker_B_chosen,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,yoga_coworker_C_chosen,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,no_one_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,_REACTION_TIME_,33701
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,why_A_chosen,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,why_B_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,why_C_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,none_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,_REACTION_TIME_,42373
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,answers_reported,placeholderInvestigator 1 says%2C "Place E."%2CInvestigator 2 says%2C "Place F."%2CInvestigator 3 says%2C "Places F%2C A%2C B%2C C and E."
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,fbi_investigator_A_chosen,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,fbi_investigator_B_chosen,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,fbi_investigator_C_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,no_one_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,_REACTION_TIME_,59948
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,answers_reported,placeholderBrother 1 says%2C "Markets A and B."%2CBrother 2 says%2C "Markets C and D."%2CBrother 3 says%2C "Market B."
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,brother_A_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,brother_B_chosen,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,brother_C_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,no_one_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,_REACTION_TIME_,60803
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,answers_reported,placeholderAdvisor 1 says%2C "Store E."%2CAdvisor 2 says%2C "Stores A and F."%2CAdvisor 3 says%2C "Stores E and B."
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,terrorism_advisor_A_chosen,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,terrorism_advisor_B_chosen,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,terrorism_advisor_C_chosen,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,no_one_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,_REACTION_TIME_,67036
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,how_guest_A_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,how_guest_B_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,how_guest_C_chosen,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,none_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,_REACTION_TIME_,87908
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,answers_reported,placeholderClassmate 1 says%2C "Cafes E%2C B%2C F%2C C and D."%2CClassmate 2 says%2C "Cafes F and D."%2CClassmate 3 says%2C "Cafe E."
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,coffee_classmate_A_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,coffee_classmate_B_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,coffee_classmate_C_chosen,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,no_one_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,_REACTION_TIME_,35052
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,answers_reported,placeholderInspector 1 says%2C "Restaurants A%2C B%2C C%2C D%2C and E."%2CInspector 2 says%2C "Restaurant E."%2CInspector 3 says%2C "Restaurants A and B."
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,inspector_A_chosen,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,inspector_B_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,inspector_C_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,no_one_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,_REACTION_TIME_,60172
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,when_A_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,when_B_chosen,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,when_C_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,none_chosen,no
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,_REACTION_TIME_,58005
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,know_conditons,It really depends on what things do need to know. The coffee store%2C for example%2C the best one should be known; the terrorist one%2C any place with possibilities can be counted.
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,difficult,Not really%2C it is actually interesting because as the test moves on%2C I gradually get the point of this test.
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,anything_else,
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,dummy_checkbox_,yes
+1512159121,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,_REACTION_TIME_,148603
+#
+# Results on Friday December 01 2017 20:42:52 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+# Design number was non-random = 51
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,subject_id,10057
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,age,20
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,consent_checkbox_,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,dummy_checkbox_,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,sex,female
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,2,0,consent,NULL,_REACTION_TIME_,22843
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,1,0,instructions,NULL,dummy_checkbox_,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,1,0,instructions,NULL,_REACTION_TIME_,3175
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,train_m_A_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,train_m_B_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,train_m_C_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,none_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,4,0,train,NULL,_REACTION_TIME_,82627
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,train_f_A_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,train_f_B_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,train_f_C_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,none_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,3,0,train,NULL,_REACTION_TIME_,46124
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,5,0,train_end,NULL,dummy_checkbox_,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,5,0,train_end,NULL,_REACTION_TIME_,3141
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,answers_reported,placeholderBrother 1 says%2C "Markets A and B."%2CBrother 2 says%2C "Market C."%2CBrother 3 says%2C "Markets C and D."
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,brother_A_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,brother_B_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,brother_C_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,no_one_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,17,0,low,NULL,_REACTION_TIME_,53715
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,answers_reported,placeholderFirefighter 1 says%2C "The fifth and second floors."%2CFirefighter 2 says%2C "The fourth and sixth floors."%2CFirefighter 3 says%2C "The sixth floor."
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,firefighter_A_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,firefighter_B_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,firefighter_C_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,no_one_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,9,0,high,NULL,_REACTION_TIME_,54684
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,answers_reported,placeholderCousin 1 says%2C "Location A."%2CCousin 2 says%2C "Location F."%2CCousin 3 says%2C "Locations D and F."
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,pic_cousin_A_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,pic_cousin_B_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,pic_cousin_C_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,no_one_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,13,0,low,NULL,_REACTION_TIME_,56700
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,what_A_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,what_B_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,what_C_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,none_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,19,0,control,NULL,_REACTION_TIME_,41108
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,answers_reported,placeholderInspector 1 says%2C "Restaurants A and B."%2CInspector 2 says%2C "Restaurant A."%2CInspector 3 says%2C "Restaurants C and E."
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,inspector_A_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,inspector_B_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,inspector_C_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,no_one_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,8,0,high,NULL,_REACTION_TIME_,74571
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,answers_reported,placeholderClassmate 1 says%2C "Cafes E and B."%2CClassmate 2 says%2C "Cafe E."%2CClassmate 3 says%2C "Cafes E%2C B%2C F%2C C and D."
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,coffee_classmate_A_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,coffee_classmate_B_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,coffee_classmate_C_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,no_one_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,15,0,low,NULL,_REACTION_TIME_,71572
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,how_guest_A_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,how_guest_B_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,how_guest_C_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,none_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,21,0,control,NULL,_REACTION_TIME_,41245
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,answers_reported,placeholderOperative 1 says%2C "The Northeast%2C Southwest%2C South%2C Southeast and North districts."%2COperative 2 says%2C "The Northeast and Southwest districts."%2COperative 3 says%2C "The Northeast district."
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,operative_A_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,operative_B_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,operative_C_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,no_one_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,10,0,high,NULL,_REACTION_TIME_,71413
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,answers_reported,placeholderCoworker 1 says%2C "Studio F."%2CCoworker 2 says%2C "Studio B."%2CCoworker 3 says%2C "Studios F and E."
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,yoga_coworker_A_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,yoga_coworker_B_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,yoga_coworker_C_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,no_one_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,16,0,low,NULL,_REACTION_TIME_,43683
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,answers_reported,placeholderInvestigator 1 says%2C "Place F."%2CInvestigator 2 says%2C "Places F%2C A%2C B%2C C and E."%2CInvestigator 3 says%2C "Places F and A."
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,fbi_investigator_A_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,fbi_investigator_B_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,fbi_investigator_C_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,no_one_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,12,0,high,NULL,_REACTION_TIME_,30565
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,why_A_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,why_B_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,why_C_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,none_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,18,0,control,NULL,_REACTION_TIME_,31901
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,answers_reported,placeholderFriend 1 says%2C "Diners C and F."%2CFriend 2 says%2C "Diners A and E."%2CFriend 3 says%2C "Diner C."
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,la_friend_A_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,la_friend_B_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,la_friend_C_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,no_one_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,14,0,low,NULL,_REACTION_TIME_,40468
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,answers_reported,placeholderAdvisor 1 says%2C "Stores A and F."%2CAdvisor 2 says%2C "Stores E and B."%2CAdvisor 3 says%2C "Store E."
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,terrorism_advisor_A_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,terrorism_advisor_B_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,terrorism_advisor_C_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,no_one_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,11,0,high,NULL,_REACTION_TIME_,51644
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,when_A_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,when_B_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,when_C_chosen,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,none_chosen,no
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,20,0,control,NULL,_REACTION_TIME_,71340
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,know_conditons,I would say that somebody knows something when there knowledge matches with the right answer.
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,difficult,I found this task difficult because I was unsure as to what certain questions meant. For instance%2C many times the question asked which person knew which diner or yoga place to go to. I felt that as long as they knew a yoga place or a diner that existed would be sufficient to say that they knew which place to go to. However%2C other times I feel that the answers weren't that simple or depended on opinion. 
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,anything_else,
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,dummy_checkbox_,yes
+1512160973,cbd6e5ac9ac8a5f233463976a531c175,Form,6,0,exit_quest,NULL,_REACTION_TIME_,220497
+#
+# Results on Saturday December 02 2017 14:21:21 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0.1 Safari/604.3.5
+# Design number was non-random = 57
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,2,0,consent,NULL,subject_id,no_name_star
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,2,0,consent,NULL,age,27
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,2,0,consent,NULL,consent_checkbox_,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,2,0,consent,NULL,dummy_checkbox_,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,2,0,consent,NULL,sex,male
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,2,0,consent,NULL,_REACTION_TIME_,43248
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,1,0,instructions,NULL,dummy_checkbox_,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,1,0,instructions,NULL,_REACTION_TIME_,31727
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,4,0,train,NULL,train_m_A_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,4,0,train,NULL,train_m_B_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,4,0,train,NULL,train_m_C_chosen,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,4,0,train,NULL,none_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,4,0,train,NULL,_REACTION_TIME_,87323
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,3,0,train,NULL,train_f_A_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,3,0,train,NULL,train_f_B_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,3,0,train,NULL,train_f_C_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,3,0,train,NULL,none_chosen,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,3,0,train,NULL,_REACTION_TIME_,42441
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,5,0,train_end,NULL,dummy_checkbox_,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,5,0,train_end,NULL,_REACTION_TIME_,3062
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,14,0,low,NULL,answers_reported,placeholderFriend 1 says%2C "Diners C and F."%2CFriend 2 says%2C "Diners A and E."%2CFriend 3 says%2C "Diners C%2C F%2C A%2C D%2C and E."
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,14,0,low,NULL,la_friend_A_chosen,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,14,0,low,NULL,la_friend_B_chosen,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,14,0,low,NULL,la_friend_C_chosen,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,14,0,low,NULL,no_one_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,14,0,low,NULL,_REACTION_TIME_,65975
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,10,0,high,NULL,answers_reported,placeholderOperative 1 says%2C "The Northeast%2C Southwest%2C South%2C Southeast and North districts."%2COperative 2 says%2C "The North district."%2COperative 3 says%2C "The South and North districts."
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,10,0,high,NULL,operative_A_chosen,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,10,0,high,NULL,operative_B_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,10,0,high,NULL,operative_C_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,10,0,high,NULL,no_one_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,10,0,high,NULL,_REACTION_TIME_,100581
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,13,0,low,NULL,answers_reported,placeholderCousin 1 says%2C "Location A."%2CCousin 2 says%2C "Locations D and F."%2CCousin 3 says%2C "Locations A and D."
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,13,0,low,NULL,pic_cousin_A_chosen,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,13,0,low,NULL,pic_cousin_B_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,13,0,low,NULL,pic_cousin_C_chosen,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,13,0,low,NULL,no_one_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,13,0,low,NULL,_REACTION_TIME_,76440
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,21,0,control,NULL,how_guest_A_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,21,0,control,NULL,how_guest_B_chosen,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,21,0,control,NULL,how_guest_C_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,21,0,control,NULL,none_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,21,0,control,NULL,_REACTION_TIME_,34190
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,11,0,high,NULL,answers_reported,placeholderAdvisor 1 says%2C "Store E."%2CAdvisor 2 says%2C "Stores A and F."%2CAdvisor 3 says%2C "Stores E and B."
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,11,0,high,NULL,terrorism_advisor_A_chosen,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,11,0,high,NULL,terrorism_advisor_B_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,11,0,high,NULL,terrorism_advisor_C_chosen,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,11,0,high,NULL,no_one_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,11,0,high,NULL,_REACTION_TIME_,84918
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,17,0,low,NULL,answers_reported,placeholderBrother 1 says%2C "Markets A and B."%2CBrother 2 says%2C "Market C."%2CBrother 3 says%2C "Markets C and D."
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,17,0,low,NULL,brother_A_chosen,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,17,0,low,NULL,brother_B_chosen,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,17,0,low,NULL,brother_C_chosen,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,17,0,low,NULL,no_one_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,17,0,low,NULL,_REACTION_TIME_,79441
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,20,0,control,NULL,when_A_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,20,0,control,NULL,when_B_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,20,0,control,NULL,when_C_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,20,0,control,NULL,none_chosen,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,20,0,control,NULL,_REACTION_TIME_,37504
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,8,0,high,NULL,answers_reported,placeholderInspector 1 says%2C "Restaurant A."%2CInspector 2 says%2C "Restaurants C and E."%2CInspector 3 says%2C "Restaurants A and B."
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,8,0,high,NULL,inspector_A_chosen,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,8,0,high,NULL,inspector_B_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,8,0,high,NULL,inspector_C_chosen,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,8,0,high,NULL,no_one_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,8,0,high,NULL,_REACTION_TIME_,46179
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,15,0,low,NULL,answers_reported,placeholderClassmate 1 says%2C "Cafes E%2C B%2C F%2C C and D."%2CClassmate 2 says%2C "Cafe E."%2CClassmate 3 says%2C "Cafes F and D."
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,15,0,low,NULL,coffee_classmate_A_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,15,0,low,NULL,coffee_classmate_B_chosen,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,15,0,low,NULL,coffee_classmate_C_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,15,0,low,NULL,no_one_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,15,0,low,NULL,_REACTION_TIME_,42692
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,12,0,high,NULL,answers_reported,placeholderInvestigator 1 says%2C "Place E."%2CInvestigator 2 says%2C "Places F and A."%2CInvestigator 3 says%2C "Places B and E."
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,12,0,high,NULL,fbi_investigator_A_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,12,0,high,NULL,fbi_investigator_B_chosen,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,12,0,high,NULL,fbi_investigator_C_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,12,0,high,NULL,no_one_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,12,0,high,NULL,_REACTION_TIME_,36223
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,18,0,control,NULL,why_A_chosen,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,18,0,control,NULL,why_B_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,18,0,control,NULL,why_C_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,18,0,control,NULL,none_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,18,0,control,NULL,_REACTION_TIME_,33893
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,16,0,low,NULL,answers_reported,placeholderCoworker 1 says%2C "Studios F%2C E%2C D%2C C and B."%2CCoworker 2 says%2C "Studio F."%2CCoworker 3 says%2C "Studios F and E."
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,16,0,low,NULL,yoga_coworker_A_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,16,0,low,NULL,yoga_coworker_B_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,16,0,low,NULL,yoga_coworker_C_chosen,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,16,0,low,NULL,no_one_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,16,0,low,NULL,_REACTION_TIME_,52112
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,9,0,high,NULL,answers_reported,placeholderFirefighter 1 says%2C "The fifth and second floors."%2CFirefighter 2 says%2C "The fourth and sixth floors."%2CFirefighter 3 says%2C "The fifth%2C second%2C fourth%2C third and sixth floors."
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,9,0,high,NULL,firefighter_A_chosen,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,9,0,high,NULL,firefighter_B_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,9,0,high,NULL,firefighter_C_chosen,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,9,0,high,NULL,no_one_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,9,0,high,NULL,_REACTION_TIME_,46851
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,19,0,control,NULL,what_A_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,19,0,control,NULL,what_B_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,19,0,control,NULL,what_C_chosen,no
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,19,0,control,NULL,none_chosen,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,19,0,control,NULL,_REACTION_TIME_,23101
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,6,0,exit_quest,NULL,know_conditons,Something like: their belief is true%2C reasonably reliable%2C and reasonably certain
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,6,0,exit_quest,NULL,difficult,Yes%2C because there wasn't a 'Not sure' button and the evidence underdetermined the answers 
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,6,0,exit_quest,NULL,anything_else,
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,6,0,exit_quest,NULL,dummy_checkbox_,yes
+1512224481,3ff2822ee5d51f6df9e405c09444aa25,Form,6,0,exit_quest,NULL,_REACTION_TIME_,167989

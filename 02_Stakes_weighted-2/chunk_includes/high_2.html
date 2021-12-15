@@ -1,0 +1,119 @@
+<style>
+    label {
+        display: inline-block;
+        margin-bottom: 8px;
+    }
+    a.left {
+        padding-right: 5px;
+    }
+    a.right {
+        padding-left: 5px;
+    }
+    body {
+        font-size: 18px;
+    }
+</style>
+<div align="center">
+    <div id="trialDiv">
+
+<div id="storyDiv", style="width: 40em;">
+    <p>A local apartment building has caught on fire. 
+      The fire department has been called, and firefighters are currently on their way.
+      The landlord has a list showing the number of tenants on each floor. 
+      The floors are ordered by how many tenants each one has:</p>
+    <ul style="list-style: none">
+        <li>The fifth floor is ranked highest, with 20 residents,</li>
+        <li>the second floor is next, with 16 residents,</li>
+        <li>Then the fourth floor with 10,</li>
+        <li>the third floor with 4,</li>
+        <li>the sixth floor with 4, and</li>
+        <li>the first floor is empty.</li>
+    </ul>
+    
+  <p>The fire chief is deciding where to send his firefighters, becuase there are people trapped but they don't know on which floors. 
+    He asks his firefighters, "Where should we go to find the trapped people?"</p>
+
+</div>
+
+        <table cellpadding="10" cellspacing="4">
+        <tr>
+          <td align="center">Who knows where to look for the trapped people? (Choose all that apply)</td><br>
+        </tr>
+        <tr class="bordered">
+        <td align="center">
+            <label for="firefighter_a"><input type="checkbox" id="firefighter_a" name="firefighter_A_chosen" value="Firefighter A" ><span>Firefighter 1</span></label>
+            <label for="firefighter_b"><input type="checkbox" id="firefighter_b" name="firefighter_B_chosen" value="Firefighter B" ><span>Firefighter 2</span></label>
+            <label for="firefighter_c"><input type="checkbox" id="firefighter_c" name="firefighter_C_chosen" value="Firefighter C" ><span>Firefighter 3</span></label>
+            <label for="no_one"><input type="checkbox" id="no_one" name="no_one_chosen" value="No one"><span>No one</span></label>
+        </td>
+
+    </tr>
+
+</table>
+</div>
+</div>
+
+<div id = "answer_report_div" style="visibility: hidden">
+</div>
+<!--end html-->
+
+<script type="text/javascript">
+
+
+
+    String.prototype.format = function() {
+    var s = this,
+        i = arguments.length;
+
+    while (i--) {
+        s = s.replace(new RegExp('\\{' + i + '\\}', 'gm'), arguments[i]);
+    }
+    return s;
+    };
+
+   var storyDiv = document.getElementById('storyDiv');
+
+   // the array of possible answers
+   var answers = Array('The fifth, second, fourth, third and sixth floors.', 'The fifth floor.',
+                  'The fifth and second floors.', 'The fourth and sixth floors.', 'The sixth floor.', 'The first floor.');
+
+   var weights = Array(10,20,20,20,20,10);
+   
+   var answers_array = Array();
+
+   for ( i = 0; i < 3; i++) {
+       answers_array.push(pickUsingWeightsAndRemove(answers,weights));
+   }
+     
+   var firefighter_A_answer = 'Firefighter 1 says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   var firefighter_B_answer = 'Firefighter 2 says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   var firefighter_C_answer = 'Firefighter 3 says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   //
+   var answer1 = document.createElement('p');
+   var ans1node = document.createTextNode(firefighter_A_answer);
+   answer1.appendChild(ans1node);
+   storyDiv.appendChild(answer1);
+
+   var answer2 = document.createElement('p');
+   var ans2node = document.createTextNode(firefighter_B_answer);
+   answer2.appendChild(ans2node);
+   storyDiv.appendChild(answer2);
+
+   var answer3 = document.createElement('p');
+   var ans3node = document.createTextNode(firefighter_C_answer);
+   answer3.appendChild(ans3node);
+   storyDiv.appendChild(answer3);
+
+   // create a textarea element that will hold the answer values for this trial
+   var answer_report = document.createElement('textarea');
+   answer_report.id = "answer_report";
+   answer_report.setAttribute("name","answers_reported")
+   answer_report.setAttribute("placeholder","{0},{1},{2}".format(firefighter_A_answer,firefighter_B_answer,firefighter_C_answer));
+
+   // append it to the hidden answer_report div in the body HTML
+   document.getElementById("answer_report_div").appendChild(answer_report);
+   document.getElementById("answer_report").append("placeholder","{0},{1},{2}".format(firefighter_A_answer,firefighter_B_answer,firefighter_C_answer));
+
+
+
+</script>

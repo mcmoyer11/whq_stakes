@@ -1,0 +1,118 @@
+<style>
+    label {
+        display: inline-block;
+        margin-bottom: 8px;
+    }
+    a.left {
+        padding-right: 5px;
+    }
+    a.right {
+        padding-left: 5px;
+    }
+    body {
+        font-size: 18px;
+    }
+</style>
+<div align="center">
+    <div id="trialDiv">
+
+<div id="storyDiv", style="width: 40em;">
+    <p>A serial killer is on the loose, and has kidnapped several people. 
+      FBI forensic analysts have determined a ranking for the most likely places where the victims might be found (where a higher number indicates more likely):  </p>
+
+    <ul style="list-style: none">
+        <li>Place F is ranked at the top as the most likely place where  the killer is operating.</li>
+        <li>Place A is next,</li>
+        <li>then Place B,</li>
+        <li>Place C,</li>
+        <li>Place E, and finally</li>
+        <li>Place D is ranked last, as the least likely place.</li>
+    </ul>
+
+<p>The local state police detective working the case asks her three chief investigators, "Where should we search for the kidnapped people?"</p>
+
+</div>
+
+        <table cellpadding="10" cellspacing="4">
+        <tr>
+          <td align="center">Who knows where to search for the kidnapped people? (choose all that apply)</td> <br>
+        </tr>
+        <tr class="bordered">
+        <td align="center">
+            <label for="investigator_a"><input type="checkbox" id="investigator_a" name="fbi_investigator_A_chosen" value="Investigator A" ><span>Investigator 1</span></label>
+            <label for="investigator_b"><input type="checkbox" id="investigator_b" name="fbi_investigator_B_chosen" value="Investigator B" ><span>Investigator 2</span></label>
+            <label for="investigator_c"><input type="checkbox" id="investigator_c" name="fbi_investigator_C_chosen" value="Investigator C" ><span>Investigator 3</span></label>
+            <label for="no_one"><input type="checkbox" id="no_one" name="no_one_chosen" value="No one"><span>No one</span></label>
+        </td>
+
+    </tr>
+
+</table>
+</div>
+</div>
+
+
+<div id = "answer_report_div" style="visibility: hidden">
+</div>
+<!--end html-->
+
+<script type="text/javascript">
+
+
+
+    String.prototype.format = function() {
+    var s = this,
+        i = arguments.length;
+
+    while (i--) {
+        s = s.replace(new RegExp('\\{' + i + '\\}', 'gm'), arguments[i]);
+    }
+    return s;
+    };
+
+   var storyDiv = document.getElementById('storyDiv');
+
+      // the array of possible answers
+   var answers = Array('Places F, A, B, C and E.', 'Place F.', 
+                  'Places F and A.', 'Places B and E.', 'Place E.', 'Place D.');
+
+   var weights = Array(10,20,20,20,20,10);
+   
+   var answers_array = Array();
+
+   for ( i = 0; i < 3; i++) {
+       answers_array.push(pickUsingWeightsAndRemove(answers,weights));
+   }
+   
+   var investigator_A_answer = 'Investigator 1 says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   var investigator_B_answer = 'Investigator 2 says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   var investigator_C_answer = 'Investigator 3 says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   //
+   var answer1 = document.createElement('p');
+   var ans1node = document.createTextNode(investigator_A_answer);
+   answer1.appendChild(ans1node);
+   storyDiv.appendChild(answer1);
+
+   var answer2 = document.createElement('p');
+   var ans2node = document.createTextNode(investigator_B_answer);
+   answer2.appendChild(ans2node);
+   storyDiv.appendChild(answer2);
+
+   var answer3 = document.createElement('p');
+   var ans3node = document.createTextNode(investigator_C_answer);
+   answer3.appendChild(ans3node);
+   storyDiv.appendChild(answer3);
+
+   // create a textarea element that will hold the answer values for this trial
+   var answer_report = document.createElement('textarea');
+   answer_report.id = "answer_report";
+   answer_report.setAttribute("name","answers_reported")
+   answer_report.setAttribute("placeholder","{0},{1},{2}".format(investigator_A_answer,investigator_B_answer,investigator_C_answer));
+
+   // append it to the hidden answer_report div in the body HTML
+   document.getElementById("answer_report_div").appendChild(answer_report);
+   document.getElementById("answer_report").append("placeholder","{0},{1},{2}".format(investigator_A_answer,investigator_B_answer,investigator_C_answer));
+
+
+
+</script>

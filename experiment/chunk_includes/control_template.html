@@ -1,0 +1,97 @@
+<style>
+    label {
+        display: inline-block;
+        margin-bottom: 8px;
+    }
+    a.left {
+        padding-right: 5px;
+    }
+    a.right {
+        padding-left: 5px;
+    }
+</style>
+<div align="center">
+    <div id="trialDiv">
+
+<div id="storyDiv">
+            <p>Bill and Mark went to the store to buy a lamp for their apartment.
+When they got to the check-out, Mark realized that he forgot to bring his wallet.
+Bill went to pull his out, but realized he also forgot it. So Bill and Mark leave the store without buying anything.
+
+</p>
+</div>
+
+        <table cellpadding="10" cellspacing="4">
+        <tr>
+          <td>Why did they leave the story empty handed? <br>
+        </tr>
+        <tr class="bordered">
+        <td>
+            <label for="inspector_a"><input type="checkbox" id="inspector_a" name="control_A_chosen" value="Answer A" ><span>Because they decided they didn't want a lamp.
+</span></label>
+            <label for="inspector_b"><input type="checkbox" id="inspector_b" name="control_B_chosen" value="Answer B" ><span>Because they both forgot their wallets.</span></label>
+            <label for="inspector_c"><input type="checkbox" id="inspector_c" name="control_C_chosen" value="Answer C" ><span>Because they couldn't find the perfect lamp.</span></label>
+            <label for="no_one"><input type="checkbox" id="no_one" name="none_chosen" value="None of the above"><span>None of the above.</span></label>
+        </td>
+
+    </tr>
+
+</table>
+</div>
+</div>
+
+<!--This div is hidden and stores the reandomized angle values for reporting later-->
+<div id = "answer_report_div" style="visibility: hidden">
+</div>
+<!--end html-->
+
+<script type="text/javascript">
+
+
+
+    String.prototype.format = function() {
+    var s = this,
+        i = arguments.length;
+
+    while (i--) {
+        s = s.replace(new RegExp('\\{' + i + '\\}', 'gm'), arguments[i]);
+    }
+    return s;
+    };
+
+   // var storyDiv = document.getElementById('storyDiv');
+   //
+   // // the array of possible answers
+   // var answers_array = Array('Restaurants A, B, C, D, and E.', 'Restaurant A.', 'Restaurants A and C.', 'Restaurants A and E.', 'Restaurants C and E.', 'Restaurant E.', 'Restaurant F.');
+   // var inspector_A_answer = 'Inspector A says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   // var inspector_B_answer = 'Inspector B says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   // var inspector_C_answer = 'Inspector C says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   // //
+   // var answer1 = document.createElement('p');
+   // var ans1node = document.createTextNode(inspector_A_answer);
+   // answer1.appendChild(ans1node);
+   // storyDiv.appendChild(answer1);
+   //
+   // var answer2 = document.createElement('p');
+   // var ans2node = document.createTextNode(inspector_B_answer);
+   // answer2.appendChild(ans2node);
+   // storyDiv.appendChild(answer2);
+   //
+   // var answer3 = document.createElement('p');
+   // var ans3node = document.createTextNode(inspector_C_answer);
+   // answer3.appendChild(ans3node);
+   // storyDiv.appendChild(answer3);
+   //
+   // // create a textarea element that will hold the answer values for this trial
+   // var answer_report = document.createElement('textarea');
+   // answer_report.id = "answer_report";
+   // answer_report.setAttribute("name","answers_reported")
+   // answer_report.setAttribute("placeholder","{0},{1},{2}".format(inspector_A_answer,inspector_B_answer,inspector_C_answer));
+   //
+   // // append it to the hidden answer_report div in the body HTML
+   // document.getElementById("answer_report_div").appendChild(answer_report);
+   // document.getElementById("answer_report").append("placeholder","{0},{1},{2}".format(inspector_A_answer,inspector_B_answer,inspector_C_answer));
+
+
+
+</script>

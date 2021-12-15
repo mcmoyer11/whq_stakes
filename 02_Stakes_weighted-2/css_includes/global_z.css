@@ -1,0 +1,171 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans);
+
+/* HTML5 Boilerplate accessible hidden styles */
+[type="radio"] {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px; margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+label {
+  display: block;
+  cursor: pointer;
+}
+
+span {
+    padding-right: .5em;
+    padding-left: .5em;
+}
+
+[type="radio"] + span {
+  display: block;
+}
+
+/* the basic, unchecked style */
+[type="radio"] + span:before {
+  content: '';
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.25em;
+  border-radius: 1em;
+  border: 0.125em solid #fff;
+  box-shadow: 0 0 0 0.15em #000;
+  margin-right: 0.75em;
+  transition: 0.5s ease all;
+}
+
+/* the checked style using the :checked pseudo class */
+[type="radio"]:checked + span:before {
+  background: #01256e;
+  box-shadow: 0 0 0 0.25em #000;
+}
+
+/* never forget focus styling */
+[type="radio"]:focus + span:after {
+  /*content: '\0020\2190';*/
+  font-size: 1.5em;
+  line-height: 1;
+  vertical-align: -0.125em;
+}
+
+a.Message-continue-link {
+    color: #045ea7;
+}
+
+a.Message-continue-link:visited {
+    color: #045ea7;
+}
+
+body {
+    color: #44464b;
+    background-color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    margin-left: 0;
+    margin-top: 2em;
+}
+.lindent { margin-left: 5em; }
+.sending-results {
+    font-weight: bold;
+    font-size: medium;
+}
+
+#display_link {
+    font-weight: bold;
+}
+
+div.bar-container {
+    border: 1px solid;
+    border-color: #9ea4b1;
+    background-color: white;
+}
+div.bar {
+    background-color: #01256e;
+}
+
+h1{
+    font: 42px 'Open Sans', sans-serif;
+    font-size: 42px;
+}
+
+input, textarea, keygen, select, button {
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    margin: 0em 0em 0em 0em;
+    font: 22px 'Open Sans', sans-serif;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 22px;
+    line-height: normal;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#intro {
+    text-align: justify;
+}
+
+p {
+    font-size: 22px;
+}
+
+p.progress-text {
+    padding-top: 0.5em;
+    margin-top: 0;
+    margin-bottom: 2em;
+    font-style: italic;
+    font-size: small;
+}
+p.practice-box {
+    color: #01256e;
+    height: 1.5em;
+    padding-bottom: 1em;
+    font-size: small;
+    text-align: center;
+}
+
+
+span.retry {
+    color: #01256e;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+}
+span.retry:hover {
+    text-decoration: underline;
+}
+span.retry:visited {
+    color: #01256e;
+}
+
+textarea {
+white-space: normal;
+text-align: justify;
+-moz-text-align-last: center; /* Firefox 12+ */
+text-align-last: center;
+    resize: none;
+}
+
+#watermark {
+ position:fixed;
+ bottom:5px;
+ right:5px;
+ opacity:0.5;
+ z-index:99;
+ color:white;
+}

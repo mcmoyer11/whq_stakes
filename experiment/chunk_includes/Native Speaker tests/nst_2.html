@@ -1,0 +1,46 @@
+<style>
+    label {
+        display: inline-block;
+        margin-bottom: 8px;
+    }
+    a.left {
+        padding-right: 5px;
+    }
+    a.right {
+        padding-left: 5px;
+    }
+</style>
+<div align="center">
+    <div id="trialDiv">
+
+        <table cellpadding="10" cellspacing="4">
+        <tr>
+            <p>Which of the following questions is acceptable? (Choose all that apply) </p>
+        </tr>
+            <p align="left">
+                <label for="NST_2a"><input type="checkbox" id="NST_2a" name="NST_2a_chosen" value="Answer_A" >
+                    <span>Which restaurant did you review without visiting?</span></label>
+            <p align="left">
+                <label for="NST_2b"><input type="checkbox" id="NST_2b" name="NST_2b_chosen" value="Answer_B" >
+                    <span>Which restaurant did you review without visiting the website?</span></label>
+            </p>
+            <p align="left">
+                <label for="NST_2c"><input type="checkbox" id="NST_2c" name="NST_2c_chosen" value="Answer_C" >
+                    <span>Which restaurant did you review the website without visiting?</span></label>
+            </p>
+            <p align="left">
+                <label for="NST_2d"><input type="checkbox" id="NST_2d" name="NST_2d_chosen" value="Answer_D" >
+                    <span>Which restaurant did you review it without visiting?</span></label>
+            </p>
+            <p align="left">
+                <label for="NST_2e"><input type="checkbox" id="NST_2e" name="NST_2e_chosen" value="Answer_E">
+                    <span>None of the above.</span></label>
+            </p>
+        </table>
+    </div>
+</div>
+
+<!--This div is hidden and stores the reandomized angle values for reporting later-->
+<div id = "answer_report_div" style="visibility: hidden">
+</div>
+<!--end html-->

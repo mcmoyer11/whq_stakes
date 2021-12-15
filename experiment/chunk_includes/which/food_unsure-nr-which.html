@@ -1,0 +1,58 @@
+<style>
+    label {
+        display: inline-block;
+        margin-bottom: 8px;
+    }
+    a.left {
+        padding-right: 5px;
+    }
+    a.right {
+        padding-left: 5px;
+    }
+</style>
+<div align="center">
+    <div id="trialDiv">
+
+<div id="storyDiv">
+    <p>Livia is a food journalist, and frequently has to travel to different cities for her job, interviewing chefs and tasting their culinary creations. She has four restaurants on her itinerary for a trip to New York City: Nina's, The Speckled Egg, Two for the Win, Scrumptuous, and Cloud 3. It turns out that Nina's has closed, so she doesn't go there.</p>
+    
+    <p>Her partner, Melissa, is unsure that Livia went to Nina's.</p>
+
+</div>
+
+        <table cellpadding="10" cellspacing="4">
+        <tr>
+          <td>Melissa knows which places Livia went to.<br>
+        </tr>
+        <tr class="bordered">
+        <td>
+            <label for="inspector_a"><input type="radio" id="inspector_a" name="control_A_chosen" value="Answer A" ><span>True.</span></label>
+            <label for="inspector_b"><input type="radio" id="inspector_b" name="control_B_chosen" value="Answer B" ><span>False.</span></label>
+        </td>
+
+    </tr>
+
+</table>
+</div>
+</div>
+
+<!--This div is hidden and stores the reandomized angle values for reporting later-->
+<div id = "answer_report_div" style="visibility: hidden">
+</div>
+<!--end html-->
+
+<script type="text/javascript">
+
+
+
+    String.prototype.format = function() {
+    var s = this,
+        i = arguments.length;
+
+    while (i--) {
+        s = s.replace(new RegExp('\\{' + i + '\\}', 'gm'), arguments[i]);
+    }
+    return s;
+    };
+
+</script>

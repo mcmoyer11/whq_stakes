@@ -1,0 +1,37 @@
+story,report,code,
+books,'Bookstores A, B, C, D and E.',exh
+books,'Bookstore A.',mo-h
+books,'Bookstores A and B.',ms-h
+books,'Bookstores D and E.',ms-l
+books,'Bookstore E.',mo-l
+books,'Bookstore F.',fa
+coffee,'Cafes A, B, C, D and E.',exh
+coffee,'Cafe A.',mo-h
+coffee,'Cafes A and B.',ms-h
+coffee,'Cafes D and E.',ms-l
+coffee,'Cafe E.',mo-l
+coffee,'Cafe F.',fa
+dentist,'Dentists A, B, C, D and E.',exh
+dentist,'Dentist A.',mo-h
+dentist,'Dentists A and B.',ms-h
+dentist,'Dentists D and E.',ms-l
+dentist,'Dentist E.',mo-l
+dentist,'Dentist F.',fa
+hair,'Stylists A, B, C, D and E.',exh
+hair,'Stylist A.',mo-h
+hair,'Stylists A and B.',ms-h
+hair,'Stylists D and E.',ms-l
+hair,'Stylist E.',mo-l
+hair,'Stylist F.',fa
+shoes,'Stores A, B, C, D and E.',exh
+shoes,'Store A.',mo-h
+shoes,'Stores A and B.',ms-h
+shoes,'Stores D and E.',ms-l
+shoes,'Store E.',mo-l
+shoes,'Store F.',fa
+yarn,'Stalls A, B, C, D and E.',exh
+yarn,'Stall A.',mo-h
+yarn,'Stalls A and B.',ms-h
+yarn,'Stalls D and E.',ms-l
+yarn,'Stall E.',mo-l
+yarn,'Stall F.',fa

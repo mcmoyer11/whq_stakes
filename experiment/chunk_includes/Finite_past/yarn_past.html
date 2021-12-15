@@ -1,0 +1,120 @@
+<style>
+    label {
+        display: inline-block;
+        margin-bottom: 8px;
+    }
+    a.left {
+        padding-right: 5px;
+    }
+    a.right {
+        padding-left: 5px;
+    }
+    body {
+        font-size: 18px;
+    }
+</style>
+<div align="center">
+    <div id="trialDiv">
+
+<div id="storyDiv", style="width: 40em;">
+    <p>
+        Eliana has recently taken up knitting as a hobby.
+        One evening at a party, she finds out that an acquaintance, Pete, is a knitting aficionado.
+        A weekly local street fair has several stalls with artisan wools and yarns.
+        Pete went to the fair last weekend, and ranked those stalls on a scale, balancing quality with affordability:
+            <ul style="list-style: none">
+              <li>Stall A is first,</li>
+              <li>Stall B is the next,</li>
+              <li>Stall C is third,</li>
+              <li>Stall D is fourth,</li>
+              <li>Stall E is fifth, and</li>
+              <li>Stall F is last.</li>
+            </ul>
+    She asks the three friends she is talking to, "Where did Pete go to buy yarn?"
+
+    </p>
+
+</div>
+
+        <table cellpadding="10" cellspacing="4">
+        <tr>
+          <td align="center">Who knows where Pete went for yarn? (Choose all that apply)</td><br>
+        </tr>
+        <tr class="bordered">
+        <td align="center">
+            <label for="friend_a"><input type="checkbox" id="friend_a" name="florist_A_chosen" value="Friend A" ><span>Roommate 1</span></label>
+            <label for="friend_b"><input type="checkbox" id="friend_b" name="florist_B_chosen" value="Friend B" ><span>Roommate 2</span></label>
+            <label for="friend_c"><input type="checkbox" id="friend_c" name="florist_C_chosen" value="Friend C" ><span>Roommate 3</span></label>
+            <label for="no_one"><input type="checkbox" id="no_one" name="no_one_chosen" value="No one"><span>No one</span></label>
+        </td>
+
+    </tr>
+
+</table>
+</div>
+</div>
+<div id = "answer_report_div" style="visibility: hidden">
+</div>
+
+<!--end html-->
+
+<script type="text/javascript">
+
+
+
+    String.prototype.format = function() {
+    var s = this,
+        i = arguments.length;
+
+    while (i--) {
+        s = s.replace(new RegExp('\\{' + i + '\\}', 'gm'), arguments[i]);
+    }
+    return s;
+    };
+
+   var storyDiv = document.getElementById('storyDiv');
+
+      // the array of possible answers
+   var answers = Array('Stalls A, B, C, D and E.', 'Stall A.',
+                  'Stalls A and B.', 'Stalls D and E.', 'Stall E.', 'Stall F.');
+
+   var weights = Array(10,20,20,20,20,10);
+
+   var answers_array = Array();
+
+   for ( i = 0; i < 3; i++) {
+       answers_array.push(pickUsingWeightsAndRemove(answers,weights));
+   }
+
+   var friend_A_answer = 'Roommate 1 says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   var friend_B_answer = 'Roommate 2 says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   var friend_C_answer = 'Roommate 3 says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   //
+   var answer1 = document.createElement('p');
+   var ans1node = document.createTextNode(friend_A_answer);
+   answer1.appendChild(ans1node);
+   storyDiv.appendChild(answer1);
+
+   var answer2 = document.createElement('p');
+   var ans2node = document.createTextNode(friend_B_answer);
+   answer2.appendChild(ans2node);
+   storyDiv.appendChild(answer2);
+
+   var answer3 = document.createElement('p');
+   var ans3node = document.createTextNode(friend_C_answer);
+   answer3.appendChild(ans3node);
+   storyDiv.appendChild(answer3);
+
+   // create a textarea element that will hold the answer values for this trial
+   var answer_report = document.createElement('textarea');
+   answer_report.id = "answer_report";
+   answer_report.setAttribute("name","answers_reported")
+   answer_report.setAttribute("placeholder","{0},{1},{2}".format(friend_A_answer,friend_B_answer,friend_C_answer));
+
+   // append it to the hidden answer_report div in the body HTML
+   document.getElementById("answer_report_div").appendChild(answer_report);
+   document.getElementById("answer_report").append("placeholder","{0},{1},{2}".format(friend_A_answer,friend_B_answer,friend_C_answer));
+
+
+
+</script>

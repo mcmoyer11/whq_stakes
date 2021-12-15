@@ -1,0 +1,104 @@
+<style>
+    label {
+        display: inline-block;
+        margin-bottom: 8px;
+    }
+    a.left {
+        padding-right: 5px;
+    }
+    a.right {
+        padding-left: 5px;
+    }
+</style>
+<div align="center">
+    <div id="trialDiv">
+
+<div id="storyDiv">
+    <p>A serial killer is on the loose, and has kidnapped several people.</p>
+        <p>FBI forensic analysts have determined a ranking for the most likely places where the victims might be found (where a higher number indicates more likely):  </p>
+
+    <ul style="list-style: none"></ul>
+        <li>Place A has a ranking of 10,</li>
+        <li>Place B has a ranking of 8,</li>
+        <li>Place C has a ranking of 5,</li>
+        <li>Place D has a ranking of 2,</li>
+        <li>Place E has a ranking of 1, and</li>
+        <li>Place F has a ranking of 0.</li>
+
+<p>The head agent asks her three chief investigators, "Where should we search for the kidnapped people?"</p>
+
+</div>
+
+        <table cellpadding="10" cellspacing="4">
+        <tr>
+          <td>Who knows where to search for the kidnapped people? (choose all that apply)<br>
+        </tr>
+        <tr class="bordered">
+        <td>
+            <label for="firefighter_a"><input type="checkbox" id="firefighter_a" name="firefighter_A_chosen" value="Firefighter A" ><span>Investigator A</span></label>
+            <label for="firefighter_b"><input type="checkbox" id="firefighter_b" name="firefighter_B_chosen" value="Firefighter B" ><span>Investigator B</span></label>
+            <label for="firefighter_c"><input type="checkbox" id="firefighter_c" name="firefighter_C_chosen" value="Firefighter C" ><span>Investigator C</span></label>
+            <label for="no_one"><input type="checkbox" id="no_one" name="no_one_chosen" value="No one"><span>No one</span></label>
+        </td>
+
+    </tr>
+
+</table>
+</div>
+</div>
+
+<!--This div is hidden and stores the r<!--This div is hidden and stores the randomized angle values for reporting later-->
+<div id = "answer_report_div" style="visibility: hidden">
+</div>
+<!--end html-->
+
+<script type="text/javascript">
+
+
+
+    String.prototype.format = function() {
+    var s = this,
+        i = arguments.length;
+
+    while (i--) {
+        s = s.replace(new RegExp('\\{' + i + '\\}', 'gm'), arguments[i]);
+    }
+    return s;
+    };
+
+   var storyDiv = document.getElementById('storyDiv');
+
+   // the array of possible answers
+   var answers_array = Array('Places A, B, C, D, and E.', 'Place A.', 'Places A and C.', 'Places A and E.', 'Places C and E.', 'Place E.', 'Place F.');
+   var firefighter_A_answer = 'Firefighter A says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   var firefighter_B_answer = 'Firefighter B says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   var firefighter_C_answer = 'Firefighter C says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   //
+   var answer1 = document.createElement('p');
+   var ans1node = document.createTextNode(inspector_A_answer);
+   answer1.appendChild(ans1node);
+   storyDiv.appendChild(answer1);
+
+   var answer2 = document.createElement('p');
+   var ans2node = document.createTextNode(inspector_B_answer);
+   answer2.appendChild(ans2node);
+   storyDiv.appendChild(answer2);
+
+   var answer3 = document.createElement('p');
+   var ans3node = document.createTextNode(inspector_C_answer);
+   answer3.appendChild(ans3node);
+   storyDiv.appendChild(answer3);
+
+   // create a textarea element that will hold the answer values for this trial
+   var answer_report = document.createElement('textarea');
+   answer_report.id = "answer_report";
+   answer_report.setAttribute("name","answers_reported")
+   answer_report.setAttribute("placeholder","{0},{1},{2}".format(inspector_A_answer,inspector_B_answer,inspector_C_answer));
+
+   // append it to the hidden answer_report div in the body HTML
+   document.getElementById("answer_report_div").appendChild(answer_report);
+   document.getElementById("answer_report").append("placeholder","{0},{1},{2}".format(inspector_A_answer,inspector_B_answer,inspector_C_answer));
+
+
+
+</script>

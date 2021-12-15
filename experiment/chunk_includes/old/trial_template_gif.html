@@ -1,0 +1,187 @@
+<style>
+    label {
+        display: inline-block;
+        margin-bottom: 8px;
+    }
+    a.left {
+        padding-right: 5px;
+        /*outline: solid thin;*/
+    }
+    a.right {
+        padding-left: 5px;
+        /*outline: solid thin;*/
+    }
+
+    #left_gif{
+        display: table-cell;
+        min-width: 500px;
+        height: 500px;
+            }
+    #right_gif{
+        display: table-cell;
+        min-width: 500px;
+        height: 500px;
+    }
+
+    .fit_video{
+        object-fit: fill;
+    }
+</style>
+
+<div>
+<div id = "left_gif" style="visibility:visible; float: left;">
+  <!--<video id ="thevideo" src='http://www.sas.upenn.edu/~tjdawson/Experiments/Matching/videos/{}_{}.mp4' controls></video>-->
+</div>
+
+<div id = "right_gif" style="visibility:hidden; float: left; margin-left: 20px">
+
+</div>
+<div style="clear: both;"></div>
+</div>
+
+
+
+<div style="width: 40em;">
+<div id="responseBox" style="visibility: hidden;">
+
+<div>
+    <p><i>Please answer the question below.</i></p>
+</div>
+
+<table cellpadding="10" cellspacing="4" style="margin:0 auto;">
+
+
+
+    <tr>
+        <td style='text-align:center;vertical-align:middle'>Which video has more things happening in it?</td>
+    </tr>
+
+    <tr class="bordered">
+        <td style='text-align:center;vertical-align:middle'>
+            <a class="left"></a>
+            <label for="choice1"><input type="radio" id="choice1" name="video_choice" value="left_gif" class="obligatory"><span>Left</span></label>
+            <label for="choice2"><input type="radio" id="choice2" name="video_choice" value="right_gif"><span>Right</span></label>
+            <a class="right"></a>
+        </td>
+    </tr>
+
+
+
+</table>
+</div>
+</div>
+<div id = "angle_report_div" style="visibility: hidden">
+
+</div>
+
+<script type="text/javascript">
+// define a string formatting method, because javascript is terrible
+String.prototype.format = function() {
+    var s = this,
+        i = arguments.length;
+
+    while (i--) {
+        s = s.replace(new RegExp('\\{' + i + '\\}', 'gm'), arguments[i]);
+    }
+    return s;
+};
+
+// pick two random angles for each video
+var angles = Array(0,45,90,135,180,225,270,315);
+var angle1 = angles.splice(Math.floor(Math.random()*angles.length),1);
+var angle2 = angles.splice(Math.floor(Math.random()*angles.length),1);
+var angle1  = angle1.toString();
+var angle2  = angle2.toString();
+
+// create a textarea element that will hold the angle values for this trial
+var angle_report = document.createElement('textarea');
+angle_report.id = "angle_report";
+angle_report.setAttribute("name","angles_displayed")
+angle_report.setAttribute("placeholder","left: {0},right: {1}".format(angle1,angle2));
+// append it to the hidden angle_report div in the body HTML
+document.getElementById("angle_report_div").appendChild(angle_report);
+document.getElementById("angle_report").append("left:{0} right:{1}".format(angle1,angle2));
+
+
+// create the video elements
+var gif1 = document.createElement('img');
+var gif2 = document.createElement('img');
+
+gif1.src = "http://www.sas.upenn.edu/~tjdawson/Experiments/michotte/gifs/launch_angle{0}.gif".format(angle1);
+gif2.src = "http://www.sas.upenn.edu/~tjdawson/Experiments/michotte/gifs/pass_angle{0}.gif".format(angle2);
+
+gif1.id = "gif1";
+gif2.id = "gif2";
+
+//gif1.setAttribute("controls","controls");
+//gif2.setAttribute("controls","controls");
+
+//gif1.setAttribute("autoplay","autoplay");
+//gif2.setAttribute("autoplay","autoplay");
+
+gif1.setAttribute("height","250");
+gif2.setAttribute("height","250");
+
+gif1.setAttribute("width","400");
+gif2.setAttribute("width","400");
+
+
+
+// append the videos to the body
+document.getElementById("left_gif").appendChild(gif1);
+document.getElementById("right_gif").appendChild(gif2);
+
+////// this code determines which side (left or right) is played first
+// and, once that side is played it should trigger the other side
+
+// in this case, the left video is played first, then the right video.
+var firstVideo = document.getElementById('gif1');
+
+   firstVideo.addEventListener("ended", function() {
+       // these are the divs that contain the video
+       // we need to manipulate their visibility
+       var lv = document.getElementById("left_gif");
+       var rv = document.getElementById("right_gif");
+
+       // at this point the first video should have autoplayed
+       // so we hide that div
+       lv.style.visibility = "hidden"; // NOTE need to change which ID it looks for (lv or rv) depending on condition
+
+       // now we make the other div visible
+       rv.style.visibility = "visible";
+       // and play the video
+       document.getElementById("gif2").play();
+
+       // now re-hide that div for a moment
+       document.getElementById("gif2").addEventListener("ended", function () {
+       rv.style.visibility = "hidden";
+
+       // wait .5 sec
+       setTimeout(function(){
+           if (rv.style.visibility === "hidden"){
+       // then, make both divs visible again
+           lv.style.visibility = "visible";
+           rv.style.visibility = "visible";
+           lv.id = "left_video_final";
+           rv.id = "right_video_final";}
+           document.getElementById("gif1").id = 'played1';
+           document.getElementById("gif2").id = 'played2';
+
+           document.getElementById("played1").play();
+           document.getElementById("played2").play();
+
+           document.getElementById("played2").addEventListener("ended", function () {
+               document.getElementById("responseBox").style.visibility = "visible";
+               document.getElementById("played1").currentTime = 0;
+               document.getElementById("played2").currentTime = 0;
+           })
+
+       }, 500)
+
+
+       });
+       document.getElementById("played2").removeEventListener("ended");
+       firstVideo.removeEventListener("ended");
+});
+
+</script>

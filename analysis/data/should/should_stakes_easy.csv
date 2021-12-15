@@ -1,0 +1,4 @@
+subject,native_lang,age,gender,trial,story,reaction_time,response_a,response_b,response_c,response_d,report_a,report_b,report_c,tag_a,tag_b,tag_c,exhaustive_seen,mention_one_high_seen,mention_one_low_seen,mention_some_high_seen,mention_some_low_seen,false_report_seen,none_of_above_seen,exhaustive_chosen,mention_one_high_chosen,mention_one_low_chosen,mention_some_high_chosen,mention_some_low_chosen,false_report_chosen,none_of_above_chosen
+asdf,asdfasdf,asdfasdf,male,consent,NA,9964,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+asdf,asdfasdf,asdfasdf,male,train,train_f,2420,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+asdf,asdfasdf,asdfasdf,male,train,train_m,1740,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

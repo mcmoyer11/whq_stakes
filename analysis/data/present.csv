@@ -1,0 +1,1373 @@
+subject,native_lang,age,gender,trial,story,reaction_time,response_a,response_b,response_c,response_d,report_a,report_b,report_c,tag_a,tag_b,tag_c,exhaustive_seen,mention_one_high_seen,mention_one_low_seen,mention_some_high_seen,mention_some_low_seen,false_report_seen,none_of_above_seen,exhaustive_chosen,mention_one_high_chosen,mention_one_low_chosen,mention_some_high_chosen,mention_some_low_chosen,false_report_chosen,none_of_above_chosen
+A1JQ3GAFW1XZYZ,english,21,male,consent,NA,82756,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1JQ3GAFW1XZYZ,english,21,male,train,train_m,5812,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1JQ3GAFW1XZYZ,english,21,male,train,train_f,2900,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1JQ3GAFW1XZYZ,english,21,male,test,test_books,4852,1,0,0,0,Bookstore A.,Bookstores D and E.,Bookstore E.,mo-h,ms-l,mo-l,0,1,1,0,1,0,1,0,1,0,0,0,0,0
+A1JQ3GAFW1XZYZ,english,21,male,test,test_dentist,2733,1,0,0,0,Dentist E.,Dentist A.,Dentist F.,mo-l,mo-h,fa,0,1,1,0,0,0,1,0,0,1,0,0,0,0
+A1JQ3GAFW1XZYZ,english,21,male,control,control_when,2668,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,0,0,1,0,0,0,0
+A1JQ3GAFW1XZYZ,english,21,male,test,test_coffee,2685,1,0,0,0,Cafe A.,Cafes D and E.,Cafe E.,mo-h,ms-l,mo-l,0,1,1,0,1,0,1,0,1,0,0,0,0,0
+A1JQ3GAFW1XZYZ,english,21,male,control,control_why,1949,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,0,0,0,0,0
+A1JQ3GAFW1XZYZ,english,21,male,test,test_hair,2957,0,1,0,0,Stylist A.,Stylist E.,Stylists D and E.,mo-h,mo-l,ms-l,0,1,1,0,1,0,1,0,0,1,0,0,0,0
+A1JQ3GAFW1XZYZ,english,21,male,test,test_yarn,6229,0,1,0,0,Stalls A and B.,"Stalls A, B, C, D and E.",Stalls D and E.,ms-h,exh,ms-l,1,0,0,1,1,0,1,1,0,0,0,0,0,0
+A1JQ3GAFW1XZYZ,english,21,male,control,control_how,8269,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,1,0,0,0,0,0,0
+A1JQ3GAFW1XZYZ,english,21,male,test,test_shoes,5316,1,0,0,0,Stores D and E.,Stores A and B.,Store A.,ms-l,ms-h,mo-h,0,1,0,1,1,0,1,0,0,0,0,1,0,0
+A1JQ3GAFW1XZYZ,english,21,male,control,control_what,2110,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,0,0,0,1,0,0
+A1JQ3GAFW1XZYZ,english,21,male,exit_quest,NA,20125,good,good,good,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A251YA0XPAWWIQ,english,32,female,consent,NA,27655,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A251YA0XPAWWIQ,english,32,female,train,train_f,23445,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A251YA0XPAWWIQ,english,32,female,train,train_m,17950,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A251YA0XPAWWIQ,english,32,female,test,test_dentist,32496,0,0,1,0,Dentists D and E.,Dentists A and B.,Dentist E.,ms-l,ms-h,mo-l,0,0,1,1,1,0,1,0,0,1,0,0,0,0
+A251YA0XPAWWIQ,english,32,female,test,test_books,8003,0,0,1,0,Bookstores A and B.,"Bookstores A, B, C, D and E.",Bookstore A.,ms-h,exh,mo-h,1,1,0,1,0,0,1,0,1,0,0,0,0,0
+A251YA0XPAWWIQ,english,32,female,control,control_when,3347,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,1,0,0,0,0,0
+A251YA0XPAWWIQ,english,32,female,test,test_hair,4341,0,0,1,0,Stylist F.,Stylist E.,Stylist A.,fa,mo-l,mo-h,0,1,1,0,0,0,1,0,1,0,0,0,0,0
+A251YA0XPAWWIQ,english,32,female,control,control_what,7565,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,0,1,0,0,0,0,0
+A251YA0XPAWWIQ,english,32,female,test,test_yarn,5535,0,0,1,0,Stalls A and B.,Stall E.,Stall F.,ms-h,mo-l,fa,0,0,1,1,0,0,1,0,0,0,0,0,0,0
+A251YA0XPAWWIQ,english,32,female,test,test_shoes,3813,0,0,1,0,Stores D and E.,Store A.,Store E.,ms-l,mo-h,mo-l,0,1,1,0,1,0,1,0,0,1,0,0,0,0
+A251YA0XPAWWIQ,english,32,female,control,control_why,13521,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,0,1,0,0,0,0
+A251YA0XPAWWIQ,english,32,female,test,test_coffee,5374,1,0,0,0,Cafes D and E.,Cafe A.,Cafe E.,ms-l,mo-h,mo-l,0,1,1,0,1,0,1,0,0,0,0,1,0,0
+A251YA0XPAWWIQ,english,32,female,control,control_how,3742,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,0,0,0,1,0,0
+A251YA0XPAWWIQ,english,32,female,exit_quest,NA,3967,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3PLDW841STU8B,english,21,male,consent,NA,35676,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3PLDW841STU8B,english,21,male,train,train_f,28897,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3PLDW841STU8B,english,21,male,train,train_m,5361,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3PLDW841STU8B,english,21,male,test,test_coffee,6496,0,1,0,0,Cafe F.,Cafe E.,Cafes A and B.,fa,mo-l,ms-h,0,0,1,1,0,0,1,0,0,1,0,0,0,0
+A3PLDW841STU8B,english,21,male,control,control_when,4533,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,0,0,1,0,0,0,0
+A3PLDW841STU8B,english,21,male,test,test_yarn,3773,0,0,1,0,Stall E.,Stall A.,Stall F.,mo-l,mo-h,fa,0,1,1,0,0,0,1,0,0,0,0,0,0,0
+A3PLDW841STU8B,english,21,male,test,test_books,3994,0,0,1,0,Bookstores D and E.,Bookstore E.,Bookstore F.,ms-l,mo-l,fa,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+A3PLDW841STU8B,english,21,male,control,control_how,2433,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,0,0,0,0,0
+A3PLDW841STU8B,english,21,male,test,test_shoes,2977,0,1,0,0,Store F.,Stores D and E.,"Stores A, B, C, D and E.",fa,ms-l,exh,1,0,0,0,1,0,1,0,0,0,0,1,0,0
+A3PLDW841STU8B,english,21,male,control,control_why,3155,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,0,1,0,0,0,0,1,0,0
+A3PLDW841STU8B,english,21,male,test,test_hair,4169,0,1,0,0,Stylist E.,Stylist A.,"Stylists A, B, C, D and E.",mo-l,mo-h,exh,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+A3PLDW841STU8B,english,21,male,test,test_dentist,2273,1,0,0,0,Dentists A and B.,Dentist E.,"Dentists A, B, C, D and E.",ms-h,mo-l,exh,1,0,1,1,0,0,1,0,0,0,1,0,0,0
+A3PLDW841STU8B,english,21,male,control,control_what,1882,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,0,0,0,1,0,0,0
+A3PLDW841STU8B,english,21,male,exit_quest,NA,114571,good,very good,knoweldge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3A4UFCFF9DMW3,english,22,male,consent,NA,28126,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3A4UFCFF9DMW3,english,22,male,train,train_f,10890,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3A4UFCFF9DMW3,english,22,male,train,train_m,10071,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3A4UFCFF9DMW3,english,22,male,test,test_dentist,5944,0,1,0,0,Dentists A and B.,Dentist E.,Dentist A.,ms-h,mo-l,mo-h,0,1,1,1,0,0,1,0,0,1,0,0,0,0
+A3A4UFCFF9DMW3,english,22,male,test,test_books,7010,0,0,1,0,Bookstore E.,Bookstores A and B.,Bookstores D and E.,mo-l,ms-h,ms-l,0,0,1,1,1,0,1,0,0,0,0,1,0,0
+A3A4UFCFF9DMW3,english,22,male,control,control_what,5275,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,0,1,0,0
+A3A4UFCFF9DMW3,english,22,male,test,test_shoes,6752,0,0,1,0,Stores D and E.,"Stores A, B, C, D and E.",Store E.,ms-l,exh,mo-l,1,0,1,0,1,0,1,0,0,1,0,0,0,0
+A3A4UFCFF9DMW3,english,22,male,control,control_how,3195,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,1,0,0,0,0
+A3A4UFCFF9DMW3,english,22,male,test,test_hair,4028,0,1,0,0,Stylists A and B.,Stylist E.,Stylists D and E.,ms-h,mo-l,ms-l,0,0,1,1,1,0,1,0,0,1,0,0,0,0
+A3A4UFCFF9DMW3,english,22,male,test,test_yarn,2209,0,1,0,0,Stall A.,Stalls D and E.,Stall F.,mo-h,ms-l,fa,0,1,0,0,1,0,1,0,0,0,0,1,0,0
+A3A4UFCFF9DMW3,english,22,male,control,control_when,4421,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,0,0,0,1,0,0
+A3A4UFCFF9DMW3,english,22,male,test,test_coffee,4430,1,0,0,0,Cafe E.,Cafes D and E.,Cafes A and B.,mo-l,ms-l,ms-h,0,0,1,1,1,0,1,0,0,1,0,0,0,0
+A3A4UFCFF9DMW3,english,22,male,control,control_why,2267,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,1,0,0,0,0
+A3A4UFCFF9DMW3,english,22,male,exit_quest,NA,87152,good,no,very good,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1WKF2VH7TV0H2,English,22,female,consent,NA,12128,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1WKF2VH7TV0H2,English,22,female,train,train_m,12421,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1WKF2VH7TV0H2,English,22,female,train,train_f,14637,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1WKF2VH7TV0H2,English,22,female,test,test_dentist,13399,1,1,1,0,Dentists D and E.,Dentist A.,"Dentists A, B, C, D and E.",ms-l,mo-h,exh,1,1,0,0,1,0,1,1,1,0,0,1,0,0
+A1WKF2VH7TV0H2,English,22,female,test,test_shoes,7786,1,1,1,0,Store A.,Store E.,Store F.,mo-h,mo-l,fa,0,1,1,0,0,0,1,0,1,1,0,0,0,0
+A1WKF2VH7TV0H2,English,22,female,control,control_how,16051,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,0,1,1,0,0,0,0
+A1WKF2VH7TV0H2,English,22,female,test,test_yarn,16402,0,1,1,0,Stalls D and E.,Stall A.,Stalls A and B.,ms-l,mo-h,ms-h,0,1,0,1,1,0,1,0,1,0,1,0,0,0
+A1WKF2VH7TV0H2,English,22,female,test,test_coffee,29700,0,1,0,0,Cafe F.,Cafes A and B.,Cafe E.,fa,ms-h,mo-l,0,0,1,1,0,0,1,0,0,0,1,0,0,0
+A1WKF2VH7TV0H2,English,22,female,control,control_why,5321,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,0,0,0,1,0,0,0
+A1WKF2VH7TV0H2,English,22,female,test,test_hair,9980,0,1,1,0,Stylists D and E.,Stylists A and B.,Stylist A.,ms-l,ms-h,mo-h,0,1,0,1,1,0,1,0,1,0,1,0,0,0
+A1WKF2VH7TV0H2,English,22,female,control,control_what,10001,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,1,0,0,0
+A1WKF2VH7TV0H2,English,22,female,test,test_books,2810,0,0,1,0,Bookstores D and E.,Bookstore E.,Bookstore A.,ms-l,mo-l,mo-h,0,1,1,0,1,0,1,0,1,0,0,0,0,0
+A1WKF2VH7TV0H2,English,22,female,control,control_when,8993,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,0,0,0,0,0
+A1WKF2VH7TV0H2,English,22,female,exit_quest,NA,20332,Yes%2C it's 2 different questions.,No%2C because it's not hard.,No.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ADUACF4TW5833,ENGLISH,28,male,consent,NA,38642,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ADUACF4TW5833,ENGLISH,28,male,train,train_m,7892,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ADUACF4TW5833,ENGLISH,28,male,train,train_f,4194,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ADUACF4TW5833,ENGLISH,28,male,test,test_dentist,5956,0,0,1,0,"Dentists A, B, C, D and E.",Dentists D and E.,Dentist A.,exh,ms-l,mo-h,1,1,0,0,1,0,1,0,1,0,0,0,0,0
+ADUACF4TW5833,ENGLISH,28,male,test,test_coffee,3661,1,0,0,0,Cafes D and E.,Cafe E.,Cafes A and B.,ms-l,mo-l,ms-h,0,0,1,1,1,0,1,0,0,0,0,1,0,0
+ADUACF4TW5833,ENGLISH,28,male,control,control_why,2951,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,0,1,0,0
+ADUACF4TW5833,ENGLISH,28,male,test,test_shoes,8286,1,0,0,0,Store A.,Store F.,Store E.,mo-h,fa,mo-l,0,1,1,0,0,0,1,0,1,0,0,0,0,0
+ADUACF4TW5833,ENGLISH,28,male,control,control_how,2520,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,0,1,0,0,0,0,0
+ADUACF4TW5833,ENGLISH,28,male,test,test_books,4266,1,0,0,0,"Bookstores A, B, C, D and E.",Bookstore A.,Bookstores A and B.,exh,mo-h,ms-h,1,1,0,1,0,0,1,1,0,0,0,0,0,0
+ADUACF4TW5833,ENGLISH,28,male,test,test_hair,3726,1,0,0,0,Stylists D and E.,"Stylists A, B, C, D and E.",Stylist A.,ms-l,exh,mo-h,1,1,0,0,1,0,1,0,0,0,0,1,0,0
+ADUACF4TW5833,ENGLISH,28,male,control,control_what,2968,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,0,0,0,1,0,0
+ADUACF4TW5833,ENGLISH,28,male,test,test_yarn,3738,1,0,0,0,Stalls D and E.,Stall E.,"Stalls A, B, C, D and E.",ms-l,mo-l,exh,1,0,1,0,1,0,1,0,0,0,0,1,0,0
+ADUACF4TW5833,ENGLISH,28,male,control,control_when,2177,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,0,0,1,0,0
+ADUACF4TW5833,ENGLISH,28,male,exit_quest,NA,116004,Best Sunday Brunch in Mumbai Menu%2C Photos,small bites are served on cocktail sticks.,Here are the places to have brunch,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ABZ1LM3J8REE6,english,58,male,consent,NA,41002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ABZ1LM3J8REE6,english,58,male,train,train_f,14755,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ABZ1LM3J8REE6,english,58,male,train,train_m,15940,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ABZ1LM3J8REE6,english,58,male,test,test_shoes,14414,0,1,0,0,"Stores A, B, C, D and E.",Store A.,Store E.,exh,mo-h,mo-l,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+ABZ1LM3J8REE6,english,58,male,control,control_why,29365,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,0,1,0,0,0,0,0
+ABZ1LM3J8REE6,english,58,male,test,test_coffee,9687,0,0,0,0,Cafes D and E.,Cafe A.,Cafe E.,ms-l,mo-h,mo-l,0,1,1,0,1,0,1,0,0,0,0,0,0,0
+ABZ1LM3J8REE6,english,58,male,test,test_dentist,9434,0,0,1,0,Dentists A and B.,Dentist E.,Dentists D and E.,ms-h,mo-l,ms-l,0,0,1,1,1,0,1,0,0,0,0,1,0,0
+ABZ1LM3J8REE6,english,58,male,control,control_what,5580,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,0,1,0,0
+ABZ1LM3J8REE6,english,58,male,test,test_books,8792,0,1,0,0,Bookstores A and B.,Bookstore E.,Bookstore A.,ms-h,mo-l,mo-h,0,1,1,1,0,0,1,0,0,1,0,0,0,0
+ABZ1LM3J8REE6,english,58,male,control,control_how,12728,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,0,1,0,0,0,0
+ABZ1LM3J8REE6,english,58,male,test,test_hair,11206,1,1,1,0,Stylist E.,Stylists A and B.,"Stylists A, B, C, D and E.",mo-l,ms-h,exh,1,0,1,1,0,0,1,1,0,1,1,0,0,0
+ABZ1LM3J8REE6,english,58,male,test,test_yarn,9360,1,1,1,0,Stall F.,"Stalls A, B, C, D and E.",Stalls D and E.,fa,exh,ms-l,1,0,0,0,1,0,1,1,0,0,0,1,0,0
+ABZ1LM3J8REE6,english,58,male,control,control_when,5436,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,0,1,1,0,0,0,1,0,0
+ABZ1LM3J8REE6,english,58,male,exit_quest,NA,87111,the quality is good,no because is an knowledgeable task,good,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1WL6K3EUA2WOX,ENGLISH,72,male,consent,NA,24087,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1WL6K3EUA2WOX,ENGLISH,72,male,train,train_m,48521,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1WL6K3EUA2WOX,ENGLISH,72,male,train,train_f,10292,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1WL6K3EUA2WOX,ENGLISH,72,male,test,test_shoes,10261,1,1,1,0,Store E.,Stores D and E.,"Stores A, B, C, D and E.",mo-l,ms-l,exh,1,0,1,0,1,0,1,1,0,1,0,1,0,0
+A1WL6K3EUA2WOX,ENGLISH,72,male,test,test_hair,7855,1,1,1,0,Stylist E.,Stylist F.,Stylists D and E.,mo-l,fa,ms-l,0,0,1,0,1,0,1,0,0,1,0,1,0,0
+A1WL6K3EUA2WOX,ENGLISH,72,male,control,control_why,6078,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,1,0,1,0,0
+A1WL6K3EUA2WOX,ENGLISH,72,male,test,test_yarn,5102,1,1,1,0,"Stalls A, B, C, D and E.",Stall E.,Stalls D and E.,exh,mo-l,ms-l,1,0,1,0,1,0,1,1,0,1,0,1,0,0
+A1WL6K3EUA2WOX,ENGLISH,72,male,test,test_books,5806,1,1,1,0,Bookstores A and B.,Bookstores D and E.,Bookstore E.,ms-h,ms-l,mo-l,0,0,1,1,1,0,1,0,0,1,1,1,0,0
+A1WL6K3EUA2WOX,ENGLISH,72,male,control,control_when,32986,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,1,1,1,0,0
+A1WL6K3EUA2WOX,ENGLISH,72,male,test,test_coffee,6180,1,1,1,0,Cafe A.,Cafe E.,Cafes D and E.,mo-h,mo-l,ms-l,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A1WL6K3EUA2WOX,ENGLISH,72,male,control,control_how,5060,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,1,0,1,0,0
+A1WL6K3EUA2WOX,ENGLISH,72,male,test,test_dentist,7998,1,1,1,0,Dentist A.,"Dentists A, B, C, D and E.",Dentists A and B.,mo-h,exh,ms-h,1,1,0,1,0,0,1,1,1,0,1,0,0,0
+A1WL6K3EUA2WOX,ENGLISH,72,male,control,control_what,5336,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,1,1,0,1,0,0,0
+A1WL6K3EUA2WOX,ENGLISH,72,male,exit_quest,NA,49188,SHE SAYS GO FOR THE TOWN,NO,NICE TASK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2APHZ2KOI1MPI,English,51,male,consent,NA,41911,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2APHZ2KOI1MPI,English,51,male,train,train_m,38289,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2APHZ2KOI1MPI,English,51,male,train,train_f,28666,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2APHZ2KOI1MPI,English,51,male,test,test_yarn,45014,1,1,0,0,Stalls D and E.,Stall F.,Stalls A and B.,ms-l,fa,ms-h,0,0,0,1,1,0,1,0,0,0,0,1,0,0
+A2APHZ2KOI1MPI,English,51,male,test,test_shoes,6157,1,1,0,0,Stores A and B.,Stores D and E.,Store A.,ms-h,ms-l,mo-h,0,1,0,1,1,0,1,0,0,0,1,1,0,0
+A2APHZ2KOI1MPI,English,51,male,control,control_when,22222,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,0,0,1,1,0,0
+A2APHZ2KOI1MPI,English,51,male,test,test_dentist,9090,1,1,0,0,Dentists D and E.,Dentist E.,Dentists A and B.,ms-l,mo-l,ms-h,0,0,1,1,1,0,1,0,0,1,0,1,0,0
+A2APHZ2KOI1MPI,English,51,male,test,test_hair,5078,0,1,1,0,Stylist A.,Stylists D and E.,Stylist E.,mo-h,ms-l,mo-l,0,1,1,0,1,0,1,0,0,1,0,1,0,0
+A2APHZ2KOI1MPI,English,51,male,control,control_what,4777,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,0,1,0,1,0,0
+A2APHZ2KOI1MPI,English,51,male,test,test_coffee,9766,1,1,0,0,Cafe E.,Cafe F.,Cafe A.,mo-l,fa,mo-h,0,1,1,0,0,0,1,0,0,1,0,0,0,0
+A2APHZ2KOI1MPI,English,51,male,control,control_how,5645,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,0,0,1,0,0,0,0
+A2APHZ2KOI1MPI,English,51,male,test,test_books,4521,0,1,1,0,Bookstore A.,Bookstores D and E.,Bookstore E.,mo-h,ms-l,mo-l,0,1,1,0,1,0,1,0,0,1,0,1,0,0
+A2APHZ2KOI1MPI,English,51,male,control,control_why,4498,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,0,1,0,1,0,0
+A2APHZ2KOI1MPI,English,51,male,exit_quest,NA,58911,she is also go for that place so ask that,no difficult,good,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1C7XI68SED8JE,english,35,female,consent,NA,29931,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1C7XI68SED8JE,english,35,female,train,train_f,39429,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1C7XI68SED8JE,english,35,female,train,train_m,39903,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1C7XI68SED8JE,english,35,female,test,test_shoes,38899,1,1,1,0,"Stores A, B, C, D and E.",Stores A and B.,Store E.,exh,ms-h,mo-l,1,0,1,1,0,0,1,1,0,1,1,0,0,0
+A1C7XI68SED8JE,english,35,female,test,test_coffee,21350,1,1,1,0,Cafe E.,"Cafes A, B, C, D and E.",Cafe A.,mo-l,exh,mo-h,1,1,1,0,0,0,1,1,1,1,0,0,0,0
+A1C7XI68SED8JE,english,35,female,control,control_what,19325,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,1,1,1,0,0,0,0
+A1C7XI68SED8JE,english,35,female,test,test_books,20586,1,1,1,0,Bookstores A and B.,"Bookstores A, B, C, D and E.",Bookstores D and E.,ms-h,exh,ms-l,1,0,0,1,1,0,1,1,0,0,1,1,0,0
+A1C7XI68SED8JE,english,35,female,test,test_hair,17740,1,1,1,0,Stylists D and E.,Stylists A and B.,"Stylists A, B, C, D and E.",ms-l,ms-h,exh,1,0,0,1,1,0,1,1,0,0,1,1,0,0
+A1C7XI68SED8JE,english,35,female,control,control_why,33433,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,1,0,0,1,1,0,0
+A1C7XI68SED8JE,english,35,female,test,test_yarn,19551,1,1,1,0,Stall A.,Stalls A and B.,Stall E.,mo-h,ms-h,mo-l,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+A1C7XI68SED8JE,english,35,female,control,control_how,23026,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,1,1,1,0,0,0
+A1C7XI68SED8JE,english,35,female,test,test_dentist,12873,0,1,0,0,Dentist F.,Dentists D and E.,Dentist E.,fa,ms-l,mo-l,0,0,1,0,1,0,1,0,0,0,0,1,0,0
+A1C7XI68SED8JE,english,35,female,control,control_when,21163,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,0,0,1,0,0
+A1C7XI68SED8JE,english,35,female,exit_quest,NA,27099,no%2C it's the same thing,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A15340BRCER2UO,English,38,male,consent,NA,39463,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A15340BRCER2UO,English,38,male,train,train_f,25302,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A15340BRCER2UO,English,38,male,train,train_m,22346,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A15340BRCER2UO,English,38,male,test,test_hair,42898,0,1,0,0,Stylist F.,Stylist A.,Stylists D and E.,fa,mo-h,ms-l,0,1,0,0,1,0,1,0,1,0,0,0,0,0
+A15340BRCER2UO,English,38,male,test,test_shoes,16610,1,0,0,0,Store A.,"Stores A, B, C, D and E.",Stores D and E.,mo-h,exh,ms-l,1,1,0,0,1,0,1,0,1,0,0,0,0,0
+A15340BRCER2UO,English,38,male,control,control_how,24107,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,1,0,0,0,0,0
+A15340BRCER2UO,English,38,male,test,test_coffee,13939,1,0,0,0,"Cafes A, B, C, D and E.",Cafe E.,Cafe F.,exh,mo-l,fa,1,0,1,0,0,0,1,1,0,0,0,0,0,0
+A15340BRCER2UO,English,38,male,test,test_yarn,15443,1,0,0,0,Stall A.,Stalls A and B.,Stall F.,mo-h,ms-h,fa,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+A15340BRCER2UO,English,38,male,control,control_why,20191,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,1,0,0,0,0,0
+A15340BRCER2UO,English,38,male,test,test_dentist,7121,1,0,0,0,Dentist A.,Dentists D and E.,Dentist F.,mo-h,ms-l,fa,0,1,0,0,1,0,1,0,1,0,0,0,0,0
+A15340BRCER2UO,English,38,male,control,control_what,7587,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,1,0,0,0,0,0
+A15340BRCER2UO,English,38,male,test,test_books,9974,0,1,0,0,Bookstore E.,Bookstores A and B.,"Bookstores A, B, C, D and E.",mo-l,ms-h,exh,1,0,1,1,0,0,1,0,0,0,1,0,0,0
+A15340BRCER2UO,English,38,male,control,control_when,31465,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,0,0,0,1,0,0,0
+A15340BRCER2UO,English,38,male,exit_quest,NA,53222,No%2C to me they both mean the same thing,It was fine. A little strange and took some concentration%2C but nothing too difficult,No further comment%2C thanks,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AL5UXD1GLG4X0,English,34,female,consent,NA,41492,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AL5UXD1GLG4X0,English,34,female,train,train_m,30787,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AL5UXD1GLG4X0,English,34,female,train,train_f,40157,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AL5UXD1GLG4X0,English,34,female,test,test_shoes,64706,1,0,0,0,Stores A and B.,Store E.,Stores D and E.,ms-h,mo-l,ms-l,0,0,1,1,1,0,1,0,0,0,1,0,0,0
+AL5UXD1GLG4X0,English,34,female,test,test_books,33536,1,0,0,0,Bookstores A and B.,Bookstore F.,"Bookstores A, B, C, D and E.",ms-h,fa,exh,1,0,0,1,0,0,1,0,0,0,1,0,0,0
+AL5UXD1GLG4X0,English,34,female,control,control_why,24101,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,0,1,0,0,0,1,0,0,0
+AL5UXD1GLG4X0,English,34,female,test,test_yarn,25074,1,0,0,0,Stall A.,Stall E.,Stalls D and E.,mo-h,mo-l,ms-l,0,1,1,0,1,0,1,0,1,0,0,0,0,0
+AL5UXD1GLG4X0,English,34,female,control,control_when,53100,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,0,0,0,0,0
+AL5UXD1GLG4X0,English,34,female,test,test_coffee,22202,0,0,1,0,Cafe E.,Cafes D and E.,Cafe A.,mo-l,ms-l,mo-h,0,1,1,0,1,0,1,0,1,0,0,0,0,0
+AL5UXD1GLG4X0,English,34,female,test,test_hair,14873,0,1,0,0,Stylist E.,"Stylists A, B, C, D and E.",Stylist F.,mo-l,exh,fa,1,0,1,0,0,0,1,1,0,0,0,0,0,0
+AL5UXD1GLG4X0,English,34,female,control,control_what,15509,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,0,1,1,0,0,0,0,0,0
+AL5UXD1GLG4X0,English,34,female,test,test_dentist,13567,1,0,0,0,Dentist A.,Dentists A and B.,Dentists D and E.,mo-h,ms-h,ms-l,0,1,0,1,1,0,1,0,1,0,0,0,0,0
+AL5UXD1GLG4X0,English,34,female,control,control_how,21468,1,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,0,0,0,0
+AL5UXD1GLG4X0,English,34,female,exit_quest,NA,50414,no%2C answer would be the same,not too difficult. Just had to pay attention,it was interesting,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A17DXR1QC8GWL8,ENGLISH,33,female,consent,NA,10542,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A17DXR1QC8GWL8,ENGLISH,33,female,train,train_f,23362,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A17DXR1QC8GWL8,ENGLISH,33,female,train,train_m,24515,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A17DXR1QC8GWL8,ENGLISH,33,female,test,test_dentist,28134,0,0,0,1,Dentist A.,Dentists D and E.,Dentist E.,mo-h,ms-l,mo-l,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+A17DXR1QC8GWL8,ENGLISH,33,female,test,test_yarn,32398,0,0,0,1,Stall A.,"Stalls A, B, C, D and E.",Stalls A and B.,mo-h,exh,ms-h,1,1,0,1,0,0,1,0,0,0,0,0,0,1
+A17DXR1QC8GWL8,ENGLISH,33,female,control,control_how,21143,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,1
+A17DXR1QC8GWL8,ENGLISH,33,female,test,test_shoes,17541,0,0,0,1,Store A.,Store E.,Stores A and B.,mo-h,mo-l,ms-h,0,1,1,1,0,0,1,0,0,0,0,0,0,1
+A17DXR1QC8GWL8,ENGLISH,33,female,control,control_what,11509,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,0,0,0,0,0,1
+A17DXR1QC8GWL8,ENGLISH,33,female,test,test_coffee,13317,0,0,0,1,Cafe F.,Cafes D and E.,Cafe A.,fa,ms-l,mo-h,0,1,0,0,1,0,1,0,0,0,0,0,0,1
+A17DXR1QC8GWL8,ENGLISH,33,female,test,test_hair,13750,0,0,0,1,Stylists A and B.,Stylists D and E.,Stylist F.,ms-h,ms-l,fa,0,0,0,1,1,0,1,0,0,0,0,0,0,1
+A17DXR1QC8GWL8,ENGLISH,33,female,control,control_when,23877,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,0,0,0,0,0,0,1
+A17DXR1QC8GWL8,ENGLISH,33,female,test,test_books,17478,0,0,0,1,Bookstores D and E.,Bookstore E.,Bookstores A and B.,ms-l,mo-l,ms-h,0,0,1,1,1,0,1,0,0,0,0,0,0,1
+A17DXR1QC8GWL8,ENGLISH,33,female,control,control_why,20352,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,0,0,0,1
+A17DXR1QC8GWL8,ENGLISH,33,female,exit_quest,NA,78934,No%2C in essence it is the same question,A little%2C some of the questions were ambiguous. For example%2C none of the acquaintances could have been absolutely sure were (e.g.) someone got their knitting yarn from unless they had seen it or heard testimony. So we can't say for sure that they know.,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A55V2U9UG3Z47,English,38,female,consent,NA,32343,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A55V2U9UG3Z47,English,38,female,train,train_f,25977,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A55V2U9UG3Z47,English,38,female,train,train_m,24656,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A55V2U9UG3Z47,English,38,female,test,test_dentist,38172,0,0,0,1,Dentist A.,"Dentists A, B, C, D and E.",Dentists D and E.,mo-h,exh,ms-l,1,1,0,0,1,0,1,0,0,0,0,0,0,1
+A55V2U9UG3Z47,English,38,female,test,test_coffee,37618,0,1,0,0,Cafe F.,Cafes A and B.,Cafe E.,fa,ms-h,mo-l,0,0,1,1,0,0,1,0,0,0,1,0,0,0
+A55V2U9UG3Z47,English,38,female,control,control_why,16654,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,0,0,0,1,0,0,0
+A55V2U9UG3Z47,English,38,female,test,test_books,19340,1,0,0,0,Bookstore A.,Bookstore F.,Bookstore E.,mo-h,fa,mo-l,0,1,1,0,0,0,1,0,1,0,0,0,0,0
+A55V2U9UG3Z47,English,38,female,test,test_shoes,20945,0,1,0,0,Store F.,Stores A and B.,Store E.,fa,ms-h,mo-l,0,0,1,1,0,0,1,0,0,0,1,0,0,0
+A55V2U9UG3Z47,English,38,female,control,control_what,11738,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,0,0,0,1,0,0,0
+A55V2U9UG3Z47,English,38,female,test,test_hair,17692,0,1,0,0,Stylists D and E.,Stylist A.,Stylists A and B.,ms-l,mo-h,ms-h,0,1,0,1,1,0,1,0,1,0,0,0,0,0
+A55V2U9UG3Z47,English,38,female,control,control_how,21411,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,0,0,0,0
+A55V2U9UG3Z47,English,38,female,test,test_yarn,27010,0,0,1,0,Stall E.,"Stalls A, B, C, D and E.",Stall A.,mo-l,exh,mo-h,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+A55V2U9UG3Z47,English,38,female,control,control_when,27572,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,0,1,0,0,0,0,0
+A55V2U9UG3Z47,English,38,female,exit_quest,NA,36054,No%2C I feel both sentences could be used interchangeably. ,No%2C it was actually very interesting to complete. ,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A35BY30TC8WCL4,English,29,male,consent,NA,27200,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A35BY30TC8WCL4,English,29,male,train,train_f,17200,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A35BY30TC8WCL4,English,29,male,train,train_m,29100,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A35BY30TC8WCL4,English,29,male,test,test_yarn,26800,1,1,1,0,"Stalls A, B, C, D and E.",Stall A.,Stall F.,exh,mo-h,fa,1,1,0,0,0,0,1,1,1,0,0,0,0,0
+A35BY30TC8WCL4,English,29,male,test,test_shoes,25100,0,0,0,1,Stores D and E.,Store A.,Store E.,ms-l,mo-h,mo-l,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+A35BY30TC8WCL4,English,29,male,control,control_why,15600,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,0,0,0,0,0,1
+A35BY30TC8WCL4,English,29,male,test,test_coffee,11500,0,0,0,1,"Cafes A, B, C, D and E.",Cafe A.,Cafes D and E.,exh,mo-h,ms-l,1,1,0,0,1,0,1,0,0,0,0,0,0,1
+A35BY30TC8WCL4,English,29,male,control,control_how,31200,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,0,0,0,0,0,1
+A35BY30TC8WCL4,English,29,male,test,test_dentist,8500,0,0,0,1,Dentists D and E.,Dentist A.,Dentists A and B.,ms-l,mo-h,ms-h,0,1,0,1,1,0,1,0,0,0,0,0,0,1
+A35BY30TC8WCL4,English,29,male,test,test_hair,6700,0,0,0,1,"Stylists A, B, C, D and E.",Stylists D and E.,Stylists A and B.,exh,ms-l,ms-h,1,0,0,1,1,0,1,0,0,0,0,0,0,1
+A35BY30TC8WCL4,English,29,male,control,control_what,15200,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,0,0,0,0,0,0,1
+A35BY30TC8WCL4,English,29,male,test,test_books,56000,0,0,0,1,Bookstore A.,Bookstores A and B.,Bookstores D and E.,mo-h,ms-h,ms-l,0,1,0,1,1,0,1,0,0,0,0,0,0,1
+A35BY30TC8WCL4,English,29,male,control,control_when,45300,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,0,0,0,0,0,1
+A35BY30TC8WCL4,English,29,male,exit_quest,NA,102600,No. I don't see much difference between the two. If the traveler said%2C where should I go%2C it would be different%2C but where can I is asking the same thing as the first question.,Don't think so%2C was just straightforward.,Nope.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A39PWM9C4U0TEP,English,40,male,consent,NA,63155,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A39PWM9C4U0TEP,English,40,male,train,train_f,52091,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A39PWM9C4U0TEP,English,40,male,train,train_m,39191,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A39PWM9C4U0TEP,English,40,male,test,test_books,35357,1,1,1,0,"Bookstores A, B, C, D and E.",Bookstores D and E.,Bookstore A.,exh,ms-l,mo-h,1,1,0,0,1,0,1,1,1,0,0,1,0,0
+A39PWM9C4U0TEP,English,40,male,test,test_yarn,26005,1,1,1,0,Stalls D and E.,Stall F.,Stall E.,ms-l,fa,mo-l,0,0,1,0,1,0,1,0,0,1,0,1,0,0
+A39PWM9C4U0TEP,English,40,male,control,control_what,38592,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,1,0,1,0,0
+A39PWM9C4U0TEP,English,40,male,test,test_coffee,18726,1,1,1,0,Cafe A.,"Cafes A, B, C, D and E.",Cafes D and E.,mo-h,exh,ms-l,1,1,0,0,1,0,1,1,1,0,0,1,0,0
+A39PWM9C4U0TEP,English,40,male,test,test_dentist,32512,0,0,0,1,Dentist A.,Dentist E.,Dentists D and E.,mo-h,mo-l,ms-l,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+A39PWM9C4U0TEP,English,40,male,control,control_when,34543,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,0,0,0,0,0,1
+A39PWM9C4U0TEP,English,40,male,test,test_shoes,12931,1,1,1,0,Stores D and E.,Store E.,Stores A and B.,ms-l,mo-l,ms-h,0,0,1,1,1,0,1,0,0,1,1,1,0,0
+A39PWM9C4U0TEP,English,40,male,control,control_why,23106,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,1,1,1,0,0
+A39PWM9C4U0TEP,English,40,male,test,test_hair,12036,1,1,1,0,Stylists D and E.,Stylists A and B.,"Stylists A, B, C, D and E.",ms-l,ms-h,exh,1,0,0,1,1,0,1,1,0,0,1,1,0,0
+A39PWM9C4U0TEP,English,40,male,control,control_how,26698,1,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,1,0,0,1,1,0,0
+A39PWM9C4U0TEP,English,40,male,exit_quest,NA,81076,Yes%2C I think the first question would just to be list all places that serve brunch.  The second question I would answer with my opinion on what it worth checking out and what is not.,A little%2C I wasn't sure if I was correct or not.,This was interesting.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1WLRHL0U23N38,English,28,female,consent,NA,19758,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1WLRHL0U23N38,English,28,female,train,train_m,95862,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1WLRHL0U23N38,English,28,female,train,train_f,25242,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1WLRHL0U23N38,English,28,female,test,test_dentist,56570,0,0,1,0,Dentists A and B.,Dentist E.,"Dentists A, B, C, D and E.",ms-h,mo-l,exh,1,0,1,1,0,0,1,1,0,0,0,0,0,0
+A1WLRHL0U23N38,English,28,female,test,test_books,43883,1,0,0,0,"Bookstores A, B, C, D and E.",Bookstores D and E.,Bookstores A and B.,exh,ms-l,ms-h,1,0,0,1,1,0,1,1,0,0,0,0,0,0
+A1WLRHL0U23N38,English,28,female,control,control_when,24028,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,1,0,0,0,0,0,0
+A1WLRHL0U23N38,English,28,female,test,test_hair,32979,0,0,1,0,Stylist E.,Stylist F.,Stylists D and E.,mo-l,fa,ms-l,0,0,1,0,1,0,1,0,0,0,0,1,0,0
+A1WLRHL0U23N38,English,28,female,control,control_why,12773,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,0,0,1,0,0
+A1WLRHL0U23N38,English,28,female,test,test_yarn,8328,1,0,0,0,Stall F.,Stall E.,Stall A.,fa,mo-l,mo-h,0,1,1,0,0,0,1,0,0,0,0,0,0,0
+A1WLRHL0U23N38,English,28,female,test,test_coffee,23546,1,1,1,0,Cafe E.,Cafes A and B.,Cafe F.,mo-l,ms-h,fa,0,0,1,1,0,0,1,0,0,1,1,0,0,0
+A1WLRHL0U23N38,English,28,female,control,control_how,8127,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,0,0,1,1,0,0,0
+A1WLRHL0U23N38,English,28,female,test,test_shoes,8369,0,0,1,0,Store A.,Store E.,"Stores A, B, C, D and E.",mo-h,mo-l,exh,1,1,1,0,0,0,1,1,0,0,0,0,0,0
+A1WLRHL0U23N38,English,28,female,control,control_what,12011,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,1,0,0,0,0,0,0
+A1WLRHL0U23N38,English,28,female,exit_quest,NA,74927,No%2C because both are asking the same thing about where brunch is served.,Not really. Just plain English is simple.,none,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AW9WE7LS8R57M,english,30,male,consent,NA,65535,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AW9WE7LS8R57M,english,30,male,train,train_f,45666,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AW9WE7LS8R57M,english,30,male,train,train_m,83418,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AW9WE7LS8R57M,english,30,male,test,test_shoes,85472,0,1,0,0,Stores D and E.,Stores A and B.,Store E.,ms-l,ms-h,mo-l,0,0,1,1,1,0,1,0,0,0,1,0,0,0
+AW9WE7LS8R57M,english,30,male,control,control_when,67621,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,1,0,0,0
+AW9WE7LS8R57M,english,30,male,test,test_coffee,24333,0,0,1,0,Cafes D and E.,Cafe F.,Cafe A.,ms-l,fa,mo-h,0,1,0,0,1,0,1,0,1,0,0,0,0,0
+AW9WE7LS8R57M,english,30,male,test,test_books,7887,0,1,0,0,Bookstores A and B.,Bookstores D and E.,Bookstore A.,ms-h,ms-l,mo-h,0,1,0,1,1,0,1,0,0,0,0,1,0,0
+AW9WE7LS8R57M,english,30,male,control,control_what,14694,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,0,0,0,1,0,0
+AW9WE7LS8R57M,english,30,male,test,test_hair,16054,1,0,0,0,Stylist E.,Stylist A.,Stylists D and E.,mo-l,mo-h,ms-l,0,1,1,0,1,0,1,0,0,1,0,0,0,0
+AW9WE7LS8R57M,english,30,male,control,control_how,15416,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,0,1,0,0,0,0
+AW9WE7LS8R57M,english,30,male,test,test_yarn,11806,0,1,0,0,Stall A.,Stalls A and B.,Stalls D and E.,mo-h,ms-h,ms-l,0,1,0,1,1,0,1,0,0,0,1,0,0,0
+AW9WE7LS8R57M,english,30,male,test,test_dentist,4333,0,0,1,0,Dentist F.,Dentist A.,Dentists D and E.,fa,mo-h,ms-l,0,1,0,0,1,0,1,0,0,0,0,1,0,0
+AW9WE7LS8R57M,english,30,male,control,control_why,5038,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,0,0,0,1,0,0
+AW9WE7LS8R57M,english,30,male,exit_quest,NA,90457,wherever she can go to brunch,no this is not difficult,good,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1PZIN8H1VI6SY,english,40,male,consent,NA,25265,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1PZIN8H1VI6SY,english,40,male,train,train_f,76513,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1PZIN8H1VI6SY,english,40,male,train,train_m,61828,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1PZIN8H1VI6SY,english,40,male,test,test_coffee,64591,0,0,0,1,Cafes A and B.,Cafe F.,Cafes D and E.,ms-h,fa,ms-l,0,0,0,1,1,0,1,0,0,0,0,0,0,1
+A1PZIN8H1VI6SY,english,40,male,test,test_shoes,27004,1,0,0,1,Stores D and E.,Store E.,Store F.,ms-l,mo-l,fa,0,0,1,0,1,0,1,0,0,0,0,1,0,1
+A1PZIN8H1VI6SY,english,40,male,control,control_when,31013,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,0,0,1,0,1
+A1PZIN8H1VI6SY,english,40,male,test,test_dentist,16461,0,1,0,0,"Dentists A, B, C, D and E.",Dentists A and B.,Dentist F.,exh,ms-h,fa,1,0,0,1,0,0,1,0,0,0,1,0,0,0
+A1PZIN8H1VI6SY,english,40,male,test,test_books,12076,1,0,0,0,Bookstore A.,Bookstores A and B.,Bookstore E.,mo-h,ms-h,mo-l,0,1,1,1,0,0,1,0,1,0,0,0,0,0
+A1PZIN8H1VI6SY,english,40,male,control,control_what,18642,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,1,0,0,0,0,0
+A1PZIN8H1VI6SY,english,40,male,test,test_yarn,7523,0,1,1,0,Stalls D and E.,Stalls A and B.,Stall F.,ms-l,ms-h,fa,0,0,0,1,1,0,1,0,0,0,1,0,0,0
+A1PZIN8H1VI6SY,english,40,male,control,control_how,3382,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,0,0,0,1,0,0,0
+A1PZIN8H1VI6SY,english,40,male,test,test_hair,5380,0,0,0,1,Stylist A.,Stylists A and B.,Stylists D and E.,mo-h,ms-h,ms-l,0,1,0,1,1,0,1,0,0,0,0,0,0,1
+A1PZIN8H1VI6SY,english,40,male,control,control_why,28159,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,0,0,0,0,0,1
+A1PZIN8H1VI6SY,english,40,male,exit_quest,NA,118764,because its more gentil to ask where can i go for brunch in town than the other way to talk%2C allways we need to talk saft and easy to  the persons thats the better way to do the things in your life,very easy to do ,very good survey,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A173XG3NZ7JPT7,english,41,female,consent,NA,99167,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A173XG3NZ7JPT7,english,41,female,train,train_f,37633,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A173XG3NZ7JPT7,english,41,female,train,train_m,33990,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A173XG3NZ7JPT7,english,41,female,test,test_books,39910,1,1,1,0,Bookstores D and E.,"Bookstores A, B, C, D and E.",Bookstore A.,ms-l,exh,mo-h,1,1,0,0,1,0,1,1,1,0,0,1,0,0
+A173XG3NZ7JPT7,english,41,female,control,control_how,32008,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,1,1,0,0,1,0,0
+A173XG3NZ7JPT7,english,41,female,test,test_coffee,26180,1,1,1,0,Cafe A.,Cafes A and B.,Cafe E.,mo-h,ms-h,mo-l,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+A173XG3NZ7JPT7,english,41,female,test,test_dentist,23362,1,1,1,0,Dentist E.,"Dentists A, B, C, D and E.",Dentists A and B.,mo-l,exh,ms-h,1,0,1,1,0,0,1,1,0,1,1,0,0,0
+A173XG3NZ7JPT7,english,41,female,control,control_why,35127,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,1,0,1,1,0,0,0
+A173XG3NZ7JPT7,english,41,female,test,test_yarn,24755,1,1,1,0,"Stalls A, B, C, D and E.",Stall F.,Stall E.,exh,fa,mo-l,1,0,1,0,0,0,1,1,0,1,0,0,0,0
+A173XG3NZ7JPT7,english,41,female,control,control_when,37496,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,0,1,1,0,1,0,0,0,0
+A173XG3NZ7JPT7,english,41,female,test,test_hair,17558,1,1,1,0,Stylists D and E.,Stylist E.,Stylist A.,ms-l,mo-l,mo-h,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A173XG3NZ7JPT7,english,41,female,test,test_shoes,22080,1,1,1,0,"Stores A, B, C, D and E.",Stores A and B.,Store A.,exh,ms-h,mo-h,1,1,0,1,0,0,1,1,1,0,1,0,0,0
+A173XG3NZ7JPT7,english,41,female,control,control_what,18059,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,1,1,0,1,0,0,0
+A173XG3NZ7JPT7,english,41,female,exit_quest,NA,82484,No.  Both involve restaurants that would serve brunch.  If a restaurant serves brunch then that would be included in my response of where the traveler could go for brunch.,I don't think it was difficult but I think it is subjective so I think there could be different responses.,No.  Interesting.  Thank you.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A10LLZZHZVGWRW,english,28,female,consent,NA,12614,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A10LLZZHZVGWRW,english,28,female,train,train_f,26487,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A10LLZZHZVGWRW,english,28,female,train,train_m,30313,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A10LLZZHZVGWRW,english,28,female,test,test_books,24713,1,1,0,0,Bookstores D and E.,Bookstore E.,"Bookstores A, B, C, D and E.",ms-l,mo-l,exh,1,0,1,0,1,0,1,0,0,1,0,1,0,0
+A10LLZZHZVGWRW,english,28,female,control,control_when,23521,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,1,0,1,0,0
+A10LLZZHZVGWRW,english,28,female,test,test_shoes,32778,1,0,1,0,Stores D and E.,Store A.,Store E.,ms-l,mo-h,mo-l,0,1,1,0,1,0,1,0,0,1,0,1,0,0
+A10LLZZHZVGWRW,english,28,female,test,test_dentist,20330,0,0,0,1,Dentists D and E.,Dentist E.,Dentists A and B.,ms-l,mo-l,ms-h,0,0,1,1,1,0,1,0,0,0,0,0,0,1
+A10LLZZHZVGWRW,english,28,female,control,control_what,45071,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,0,0,0,1
+A10LLZZHZVGWRW,english,28,female,test,test_yarn,15332,1,0,0,0,Stalls A and B.,Stalls D and E.,Stall E.,ms-h,ms-l,mo-l,0,0,1,1,1,0,1,0,0,0,1,0,0,0
+A10LLZZHZVGWRW,english,28,female,control,control_why,25315,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,1,0,0,0
+A10LLZZHZVGWRW,english,28,female,test,test_hair,8668,1,1,0,0,Stylist A.,Stylists A and B.,Stylist F.,mo-h,ms-h,fa,0,1,0,1,0,0,1,0,1,0,1,0,0,0
+A10LLZZHZVGWRW,english,28,female,test,test_coffee,17474,1,0,0,0,Cafes A and B.,Cafe F.,Cafes D and E.,ms-h,fa,ms-l,0,0,0,1,1,0,1,0,0,0,1,0,0,0
+A10LLZZHZVGWRW,english,28,female,control,control_how,43999,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,0,0,0,1,0,0,0
+A10LLZZHZVGWRW,english,28,female,exit_quest,NA,65077,Yes - 'which restaurants serve brunch' is a very general question that will generate a long list whereas 'where should I go' will lead me to offer a few choice favorites.,a little bit challenging%2C but more because it was different than most surveys than anything in particular.,nope - thanks!,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2541C8MY0BYV3,English,29,male,consent,NA,11258,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2541C8MY0BYV3,English,29,male,train,train_f,27850,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2541C8MY0BYV3,English,29,male,train,train_m,18317,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2541C8MY0BYV3,English,29,male,test,test_coffee,19928,0,1,1,0,Cafes D and E.,"Cafes A, B, C, D and E.",Cafe A.,ms-l,exh,mo-h,1,1,0,0,1,0,1,1,1,0,0,0,0,0
+A2541C8MY0BYV3,English,29,male,test,test_yarn,12777,0,0,1,0,"Stalls A, B, C, D and E.",Stalls D and E.,Stalls A and B.,exh,ms-l,ms-h,1,0,0,1,1,0,1,0,0,0,1,0,0,0
+A2541C8MY0BYV3,English,29,male,control,control_what,14393,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,0,0,0,1,0,0,0
+A2541C8MY0BYV3,English,29,male,test,test_shoes,8198,0,1,1,0,Store E.,Stores A and B.,Store A.,mo-l,ms-h,mo-h,0,1,1,1,0,0,1,0,1,0,1,0,0,0
+A2541C8MY0BYV3,English,29,male,test,test_books,8290,0,0,1,0,Bookstore E.,"Bookstores A, B, C, D and E.",Bookstore A.,mo-l,exh,mo-h,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+A2541C8MY0BYV3,English,29,male,control,control_how,22362,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,0,1,0,0,0,0,0
+A2541C8MY0BYV3,English,29,male,test,test_hair,7023,1,1,0,0,Stylists A and B.,Stylist A.,Stylist E.,ms-h,mo-h,mo-l,0,1,1,1,0,0,1,0,1,0,1,0,0,0
+A2541C8MY0BYV3,English,29,male,control,control_why,9584,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,1,0,1,0,0,0
+A2541C8MY0BYV3,English,29,male,test,test_dentist,11158,1,1,0,0,Dentist A.,Dentists A and B.,Dentist F.,mo-h,ms-h,fa,0,1,0,1,0,0,1,0,1,0,1,0,0,0
+A2541C8MY0BYV3,English,29,male,control,control_when,21406,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,1,0,1,0,0,0
+A2541C8MY0BYV3,English,29,male,exit_quest,NA,32406,No. I think they both mean the same thing.,Yes because some of the answers sound the same.,No.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2GV053CR3O08G,ENGLISH,28,male,consent,NA,46273,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2GV053CR3O08G,ENGLISH,28,male,train,train_m,13602,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2GV053CR3O08G,ENGLISH,28,male,train,train_f,37076,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2GV053CR3O08G,ENGLISH,28,male,test,test_books,25757,0,0,1,0,Bookstore E.,Bookstores D and E.,Bookstore A.,mo-l,ms-l,mo-h,0,1,1,0,1,0,1,0,1,0,0,0,0,0
+A2GV053CR3O08G,ENGLISH,28,male,test,test_shoes,14910,0,0,1,0,Store E.,Stores D and E.,Stores A and B.,mo-l,ms-l,ms-h,0,0,1,1,1,0,1,0,0,0,1,0,0,0
+A2GV053CR3O08G,ENGLISH,28,male,control,control_why,16492,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,1,0,0,0
+A2GV053CR3O08G,ENGLISH,28,male,test,test_hair,9188,0,0,1,0,Stylist E.,Stylists A and B.,Stylists D and E.,mo-l,ms-h,ms-l,0,0,1,1,1,0,1,0,0,0,0,1,0,0
+A2GV053CR3O08G,ENGLISH,28,male,test,test_dentist,5846,0,0,1,0,Dentists A and B.,Dentist F.,Dentist A.,ms-h,fa,mo-h,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+A2GV053CR3O08G,ENGLISH,28,male,control,control_when,7287,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,1,0,0,0,0,0
+A2GV053CR3O08G,ENGLISH,28,male,test,test_yarn,11405,0,0,1,0,Stalls A and B.,Stalls D and E.,Stall E.,ms-h,ms-l,mo-l,0,0,1,1,1,0,1,0,0,1,0,0,0,0
+A2GV053CR3O08G,ENGLISH,28,male,control,control_what,8835,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,1,0,0,0,0
+A2GV053CR3O08G,ENGLISH,28,male,test,test_coffee,9324,0,0,1,0,Cafe A.,Cafes D and E.,Cafe F.,mo-h,ms-l,fa,0,1,0,0,1,0,1,0,0,0,0,0,0,0
+A2GV053CR3O08G,ENGLISH,28,male,control,control_how,20847,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,0,0,0,0,0,0
+A2GV053CR3O08G,ENGLISH,28,male,exit_quest,NA,352710,With more spots than ever serving up the city’s favorite meal of the week%2C restaurants around Pittsburgh have taken brunching to the next level%2C offering so much more than bacon and eggs. From quiet cafés to bustling food halls%2C these best-of-the-best spots can help to satisfy your weekend morning cravings for French toast%2C eggs Benedict%2C and cocktails that were made for day-drinking.,NO,IT INTEREST TO KNOW MORE ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A30UE6DWFNUCWX,English,29,female,consent,NA,36654,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A30UE6DWFNUCWX,English,29,female,train,train_f,32685,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A30UE6DWFNUCWX,English,29,female,train,train_m,39910,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A30UE6DWFNUCWX,English,29,female,test,test_yarn,87776,0,0,0,1,Stall A.,Stalls D and E.,Stall E.,mo-h,ms-l,mo-l,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+A30UE6DWFNUCWX,English,29,female,test,test_shoes,27414,0,0,0,1,Store F.,Stores A and B.,Store E.,fa,ms-h,mo-l,0,0,1,1,0,0,1,0,0,0,0,0,0,1
+A30UE6DWFNUCWX,English,29,female,control,control_what,29968,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,0,0,0,0,0,0,1
+A30UE6DWFNUCWX,English,29,female,test,test_books,23618,0,0,0,1,Bookstores D and E.,Bookstore A.,Bookstore F.,ms-l,mo-h,fa,0,1,0,0,1,0,1,0,0,0,0,0,0,1
+A30UE6DWFNUCWX,English,29,female,test,test_dentist,20342,0,0,0,1,Dentist A.,Dentists D and E.,Dentists A and B.,mo-h,ms-l,ms-h,0,1,0,1,1,0,1,0,0,0,0,0,0,1
+A30UE6DWFNUCWX,English,29,female,control,control_when,64264,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,0,0,0,0,0,1
+A30UE6DWFNUCWX,English,29,female,test,test_hair,19310,0,0,0,1,Stylist F.,Stylist A.,Stylists D and E.,fa,mo-h,ms-l,0,1,0,0,1,0,1,0,0,0,0,0,0,1
+A30UE6DWFNUCWX,English,29,female,control,control_how,43648,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,0,0,0,0,0,1
+A30UE6DWFNUCWX,English,29,female,test,test_coffee,20613,0,0,0,1,Cafes A and B.,Cafe A.,Cafe E.,ms-h,mo-h,mo-l,0,1,1,1,0,0,1,0,0,0,0,0,0,1
+A30UE6DWFNUCWX,English,29,female,control,control_why,31629,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,0,0,0,0,0,1
+A30UE6DWFNUCWX,English,29,female,exit_quest,NA,130580,I will answer it differently%2C since in first question s/he asked which are the restaurants that serve brunch%2C while if s/he asks second question I will answer with one or two restaurant names which are best for him/her according to me.,I didn't find it difficult at all. The short scenarios were easy to understand and so are the questions.,No.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2A3X2W4YS9X8A,English,38,male,consent,NA,43102,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2A3X2W4YS9X8A,English,38,male,train,train_f,51348,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2A3X2W4YS9X8A,English,38,male,train,train_m,42363,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2A3X2W4YS9X8A,English,38,male,test,test_books,39695,1,1,1,0,Bookstore F.,Bookstore E.,Bookstore A.,fa,mo-l,mo-h,0,1,1,0,0,0,1,0,1,1,0,0,0,0
+A2A3X2W4YS9X8A,English,38,male,test,test_coffee,43084,1,1,1,0,Cafes D and E.,Cafe E.,Cafe A.,ms-l,mo-l,mo-h,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A2A3X2W4YS9X8A,English,38,male,control,control_why,26261,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,1,0,1,0,0
+A2A3X2W4YS9X8A,English,38,male,test,test_dentist,40514,0,0,0,1,Dentist A.,Dentists A and B.,Dentists D and E.,mo-h,ms-h,ms-l,0,1,0,1,1,0,1,0,0,0,0,0,0,1
+A2A3X2W4YS9X8A,English,38,male,test,test_hair,44225,0,0,0,1,Stylist F.,Stylists D and E.,Stylist E.,fa,ms-l,mo-l,0,0,1,0,1,0,1,0,0,0,0,0,0,1
+A2A3X2W4YS9X8A,English,38,male,control,control_what,25099,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,0,0,0,0,1
+A2A3X2W4YS9X8A,English,38,male,test,test_shoes,23179,0,0,0,1,Store E.,Stores D and E.,Store F.,mo-l,ms-l,fa,0,0,1,0,1,0,1,0,0,0,0,0,0,1
+A2A3X2W4YS9X8A,English,38,male,control,control_how,31957,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,0,0,0,0,1
+A2A3X2W4YS9X8A,English,38,male,test,test_yarn,33800,0,0,1,0,Stalls D and E.,Stall E.,Stall A.,ms-l,mo-l,mo-h,0,1,1,0,1,0,1,0,1,0,0,0,0,0
+A2A3X2W4YS9X8A,English,38,male,control,control_when,39558,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,0,0,0,0,0
+A2A3X2W4YS9X8A,English,38,male,exit_quest,NA,55591,Yes%2C I view the first question as please list all of the possible places.  I view the second one as where do you suggest I go.,No%2C it was pretty straight forward.,no.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A19D2W1PR68NO,English,43,male,consent,NA,35992,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A19D2W1PR68NO,English,43,male,train,train_f,37939,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A19D2W1PR68NO,English,43,male,train,train_m,53435,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A19D2W1PR68NO,English,43,male,test,test_shoes,61523,1,1,1,0,"Stores A, B, C, D and E.",Store A.,Stores A and B.,exh,mo-h,ms-h,1,1,0,1,0,0,1,1,1,0,1,0,0,0
+A19D2W1PR68NO,English,43,male,control,control_when,39766,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,1,1,0,1,0,0,0
+A19D2W1PR68NO,English,43,male,test,test_hair,31890,1,1,1,0,Stylists A and B.,Stylist A.,"Stylists A, B, C, D and E.",ms-h,mo-h,exh,1,1,0,1,0,0,1,1,1,0,1,0,0,0
+A19D2W1PR68NO,English,43,male,test,test_yarn,26749,1,1,1,0,Stalls D and E.,Stalls A and B.,Stall A.,ms-l,ms-h,mo-h,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+A19D2W1PR68NO,English,43,male,control,control_what,22286,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,1,1,0,0
+A19D2W1PR68NO,English,43,male,test,test_coffee,24443,1,1,1,0,"Cafes A, B, C, D and E.",Cafe E.,Cafe A.,exh,mo-l,mo-h,1,1,1,0,0,0,1,1,1,1,0,0,0,0
+A19D2W1PR68NO,English,43,male,control,control_why,34443,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,1,1,1,0,0,0,0
+A19D2W1PR68NO,English,43,male,test,test_books,72467,1,1,1,0,Bookstore A.,Bookstores A and B.,"Bookstores A, B, C, D and E.",mo-h,ms-h,exh,1,1,0,1,0,0,1,1,1,0,1,0,0,0
+A19D2W1PR68NO,English,43,male,test,test_dentist,28183,0,0,0,1,Dentist A.,Dentist E.,Dentists D and E.,mo-h,mo-l,ms-l,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+A19D2W1PR68NO,English,43,male,control,control_how,48726,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,0,0,0,0,0,1
+A19D2W1PR68NO,English,43,male,exit_quest,NA,41764,No%2C the questions mean essentially the same thing.,No%2C I speak English.,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A26FRAYAIDR4NV,english,30,female,consent,NA,30557,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A26FRAYAIDR4NV,english,30,female,train,train_f,25204,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A26FRAYAIDR4NV,english,30,female,train,train_m,28008,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A26FRAYAIDR4NV,english,30,female,test,test_hair,55518,0,0,0,1,"Stylists A, B, C, D and E.",Stylist F.,Stylist A.,exh,fa,mo-h,1,1,0,0,0,0,1,0,0,0,0,0,0,1
+A26FRAYAIDR4NV,english,30,female,test,test_books,74773,1,0,0,0,Bookstore A.,Bookstore E.,Bookstores A and B.,mo-h,mo-l,ms-h,0,1,1,1,0,0,1,0,1,0,0,0,0,0
+A26FRAYAIDR4NV,english,30,female,control,control_when,46857,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,1,0,0,0,0,0
+A26FRAYAIDR4NV,english,30,female,test,test_yarn,28392,0,1,0,0,Stalls A and B.,Stall A.,Stall F.,ms-h,mo-h,fa,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+A26FRAYAIDR4NV,english,30,female,test,test_shoes,25722,1,0,0,0,Stores D and E.,Store E.,Store F.,ms-l,mo-l,fa,0,0,1,0,1,0,1,0,0,0,0,1,0,0
+A26FRAYAIDR4NV,english,30,female,control,control_why,29818,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,0,0,1,0,0
+A26FRAYAIDR4NV,english,30,female,test,test_coffee,6507,0,1,0,0,Cafes A and B.,Cafe E.,Cafe A.,ms-h,mo-l,mo-h,0,1,1,1,0,0,1,0,0,1,0,0,0,0
+A26FRAYAIDR4NV,english,30,female,control,control_what,35048,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,0,1,0,0,0,0
+A26FRAYAIDR4NV,english,30,female,test,test_dentist,43147,0,1,0,0,Dentist A.,Dentist E.,Dentists A and B.,mo-h,mo-l,ms-h,0,1,1,1,0,0,1,0,0,1,0,0,0,0
+A26FRAYAIDR4NV,english,30,female,control,control_how,5621,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,0,1,0,0,0,0
+A26FRAYAIDR4NV,english,30,female,exit_quest,NA,50556,,yes,nice,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3JODCUHJMCSA2,English,32,female,consent,NA,49069,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3JODCUHJMCSA2,English,32,female,train,train_f,31463,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3JODCUHJMCSA2,English,32,female,train,train_m,41507,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3JODCUHJMCSA2,English,32,female,test,test_yarn,32715,1,0,0,0,Stalls A and B.,Stall F.,"Stalls A, B, C, D and E.",ms-h,fa,exh,1,0,0,1,0,0,1,0,0,0,1,0,0,0
+A3JODCUHJMCSA2,English,32,female,control,control_what,14612,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,0,1,0,0,0,1,0,0,0
+A3JODCUHJMCSA2,English,32,female,test,test_shoes,23381,0,0,0,1,Stores D and E.,Store F.,Store E.,ms-l,fa,mo-l,0,0,1,0,1,0,1,0,0,0,0,0,0,1
+A3JODCUHJMCSA2,English,32,female,test,test_books,18212,0,1,0,0,Bookstore E.,Bookstores A and B.,Bookstore F.,mo-l,ms-h,fa,0,0,1,1,0,0,1,0,0,0,1,0,0,0
+A3JODCUHJMCSA2,English,32,female,control,control_when,24937,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,0,0,0,1,0,0,0
+A3JODCUHJMCSA2,English,32,female,test,test_hair,38960,0,0,0,1,Stylist F.,Stylists D and E.,Stylist E.,fa,ms-l,mo-l,0,0,1,0,1,0,1,0,0,0,0,0,0,1
+A3JODCUHJMCSA2,English,32,female,control,control_how,38871,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,0,0,0,0,1
+A3JODCUHJMCSA2,English,32,female,test,test_coffee,13705,1,0,0,0,Cafes A and B.,Cafe E.,Cafe F.,ms-h,mo-l,fa,0,0,1,1,0,0,1,0,0,0,1,0,0,0
+A3JODCUHJMCSA2,English,32,female,test,test_dentist,21386,0,0,1,0,Dentist F.,Dentist E.,Dentist A.,fa,mo-l,mo-h,0,1,1,0,0,0,1,0,1,0,0,0,0,0
+A3JODCUHJMCSA2,English,32,female,control,control_why,23754,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,0,1,0,0,0,0,0
+A3JODCUHJMCSA2,English,32,female,exit_quest,NA,31803,No%2C it's basically the same question just worded differently,Somewhat,N/A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A03172343NB8PHOPICC1,English,22,male,consent,NA,28659,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A03172343NB8PHOPICC1,English,22,male,train,train_f,11261,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A03172343NB8PHOPICC1,English,22,male,train,train_m,19182,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A03172343NB8PHOPICC1,English,22,male,test,test_hair,17095,0,0,1,0,Stylists D and E.,Stylist F.,Stylist A.,ms-l,fa,mo-h,0,1,0,0,1,0,1,0,1,0,0,0,0,0
+A03172343NB8PHOPICC1,English,22,male,control,control_how,7755,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,1,0,0,0,0,0
+A03172343NB8PHOPICC1,English,22,male,test,test_books,8261,1,1,1,0,Bookstore E.,Bookstores D and E.,Bookstores A and B.,mo-l,ms-l,ms-h,0,0,1,1,1,0,1,0,0,1,1,1,0,0
+A03172343NB8PHOPICC1,English,22,male,test,test_shoes,2349,0,1,0,0,Store E.,Store A.,"Stores A, B, C, D and E.",mo-l,mo-h,exh,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+A03172343NB8PHOPICC1,English,22,male,control,control_what,5874,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,0,1,0,0,0,0,0
+A03172343NB8PHOPICC1,English,22,male,test,test_yarn,6006,1,1,1,0,"Stalls A, B, C, D and E.",Stalls D and E.,Stall A.,exh,ms-l,mo-h,1,1,0,0,1,0,1,1,1,0,0,1,0,0
+A03172343NB8PHOPICC1,English,22,male,control,control_why,62657,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,1,1,0,0,1,0,0
+A03172343NB8PHOPICC1,English,22,male,test,test_coffee,39362,1,1,1,0,Cafes A and B.,Cafe E.,Cafe A.,ms-h,mo-l,mo-h,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+A03172343NB8PHOPICC1,English,22,male,test,test_dentist,4774,1,1,1,0,"Dentists A, B, C, D and E.",Dentist E.,Dentists D and E.,exh,mo-l,ms-l,1,0,1,0,1,0,1,1,0,1,0,1,0,0
+A03172343NB8PHOPICC1,English,22,male,control,control_when,121720,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,1,0,1,0,1,0,0
+A03172343NB8PHOPICC1,English,22,male,exit_quest,NA,404571,No%2C I think they are basically the same question that would warrant the same answer.,A bit difficult because it was a little bit repetitive.,Overall%2C I enjoyed it.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ADOVF9SBJJK33,English,32,male,consent,NA,26595,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ADOVF9SBJJK33,English,32,male,train,train_f,31410,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ADOVF9SBJJK33,English,32,male,train,train_m,46599,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ADOVF9SBJJK33,English,32,male,test,test_dentist,49793,0,0,0,1,Dentist F.,Dentists A and B.,Dentists D and E.,fa,ms-h,ms-l,0,0,0,1,1,0,1,0,0,0,0,0,0,1
+ADOVF9SBJJK33,English,32,male,test,test_shoes,74737,0,1,1,0,Store F.,"Stores A, B, C, D and E.",Stores A and B.,fa,exh,ms-h,1,0,0,1,0,0,1,1,0,0,1,0,0,0
+ADOVF9SBJJK33,English,32,male,control,control_why,24781,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,0,1,1,0,0,1,0,0,0
+ADOVF9SBJJK33,English,32,male,test,test_yarn,33144,1,0,0,0,Stall A.,Stalls D and E.,Stall F.,mo-h,ms-l,fa,0,1,0,0,1,0,1,0,1,0,0,0,0,0
+ADOVF9SBJJK33,English,32,male,test,test_hair,21077,0,0,1,0,Stylist F.,Stylists D and E.,Stylist A.,fa,ms-l,mo-h,0,1,0,0,1,0,1,0,1,0,0,0,0,0
+ADOVF9SBJJK33,English,32,male,control,control_when,31388,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,1,0,0,0,0,0
+ADOVF9SBJJK33,English,32,male,test,test_coffee,20181,1,1,0,0,Cafe A.,Cafes A and B.,Cafes D and E.,mo-h,ms-h,ms-l,0,1,0,1,1,0,1,0,1,0,1,0,0,0
+ADOVF9SBJJK33,English,32,male,control,control_how,41000,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,1,0,0,0
+ADOVF9SBJJK33,English,32,male,test,test_books,23652,1,0,1,0,"Bookstores A, B, C, D and E.",Bookstore E.,Bookstore A.,exh,mo-l,mo-h,1,1,1,0,0,0,1,1,1,0,0,0,0,0
+ADOVF9SBJJK33,English,32,male,control,control_what,22279,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,1,1,0,0,0,0,0
+ADOVF9SBJJK33,English,32,male,exit_quest,NA,106748,No because I consider anyplace that serves brunch to be a restaurant as well so it's the same question to me.,Sort of. I dont think I did well. Some of the A/B/C/D type questions confused me.,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2EW08X2I87RXL,English,34,male,consent,NA,21175,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2EW08X2I87RXL,English,34,male,train,train_m,52992,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2EW08X2I87RXL,English,34,male,train,train_f,66176,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2EW08X2I87RXL,English,34,male,test,test_books,82567,1,1,1,0,Bookstore E.,Bookstores D and E.,Bookstores A and B.,mo-l,ms-l,ms-h,0,0,1,1,1,0,1,0,0,1,1,1,0,0
+A2EW08X2I87RXL,English,34,male,test,test_yarn,96553,0,0,0,1,Stall A.,Stall E.,Stalls A and B.,mo-h,mo-l,ms-h,0,1,1,1,0,0,1,0,0,0,0,0,0,1
+A2EW08X2I87RXL,English,34,male,control,control_when,54799,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,0,0,0,0,0,1
+A2EW08X2I87RXL,English,34,male,test,test_shoes,61842,1,1,1,0,Store E.,Stores A and B.,"Stores A, B, C, D and E.",mo-l,ms-h,exh,1,0,1,1,0,0,1,1,0,1,1,0,0,0
+A2EW08X2I87RXL,English,34,male,control,control_how,86253,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,1,0,1,1,0,0,0
+A2EW08X2I87RXL,English,34,male,test,test_dentist,16290,0,0,0,1,Dentist E.,Dentist A.,Dentists A and B.,mo-l,mo-h,ms-h,0,1,1,1,0,0,1,0,0,0,0,0,0,1
+A2EW08X2I87RXL,English,34,male,test,test_coffee,13459,1,1,1,0,Cafe E.,Cafes D and E.,Cafe A.,mo-l,ms-l,mo-h,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A2EW08X2I87RXL,English,34,male,control,control_what,19302,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,1,0,1,0,0
+A2EW08X2I87RXL,English,34,male,test,test_hair,11092,0,0,0,1,Stylists D and E.,Stylist E.,Stylists A and B.,ms-l,mo-l,ms-h,0,0,1,1,1,0,1,0,0,0,0,0,0,1
+A2EW08X2I87RXL,English,34,male,control,control_why,4209,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,0,0,0,1
+A2EW08X2I87RXL,English,34,male,exit_quest,NA,87078,No%2C the answer will be same.,Not difficult%2C because It was interesting ,None,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ALF9AAZGQP4K5,english,30,male,consent,NA,52388,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ALF9AAZGQP4K5,english,30,male,train,train_f,35779,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ALF9AAZGQP4K5,english,30,male,train,train_m,37927,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ALF9AAZGQP4K5,english,30,male,test,test_books,76729,0,0,0,1,Bookstore E.,Bookstores A and B.,Bookstore A.,mo-l,ms-h,mo-h,0,1,1,1,0,0,1,0,0,0,0,0,0,1
+ALF9AAZGQP4K5,english,30,male,control,control_when,51004,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,0,0,0,0,0,1
+ALF9AAZGQP4K5,english,30,male,test,test_shoes,36024,0,0,1,0,Store E.,Store F.,Store A.,mo-l,fa,mo-h,0,1,1,0,0,0,1,0,1,0,0,0,0,0
+ALF9AAZGQP4K5,english,30,male,test,test_dentist,31351,0,1,1,0,Dentist E.,Dentists A and B.,Dentist A.,mo-l,ms-h,mo-h,0,1,1,1,0,0,1,0,1,0,1,0,0,0
+ALF9AAZGQP4K5,english,30,male,control,control_how,48689,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,1,0,1,0,0,0
+ALF9AAZGQP4K5,english,30,male,test,test_yarn,19486,0,0,0,1,Stall F.,Stalls D and E.,Stall A.,fa,ms-l,mo-h,0,1,0,0,1,0,1,0,0,0,0,0,0,1
+ALF9AAZGQP4K5,english,30,male,control,control_what,31836,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,0,0,0,0,0,1
+ALF9AAZGQP4K5,english,30,male,test,test_coffee,56689,0,0,1,0,"Cafes A, B, C, D and E.",Cafe E.,Cafes A and B.,exh,mo-l,ms-h,1,0,1,1,0,0,1,0,0,0,1,0,0,0
+ALF9AAZGQP4K5,english,30,male,test,test_hair,16992,0,0,1,0,Stylists D and E.,Stylist F.,"Stylists A, B, C, D and E.",ms-l,fa,exh,1,0,0,0,1,0,1,1,0,0,0,0,0,0
+ALF9AAZGQP4K5,english,30,male,control,control_why,26983,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,0,1,1,0,0,0,0,0,0
+ALF9AAZGQP4K5,english,30,male,exit_quest,NA,63497,i would asnwer the same unless there were places other than restaurants that serve brunch,just aggravating and monotonous,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A28LPPFS7FW2SD,English,50,male,consent,NA,39041,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A28LPPFS7FW2SD,English,50,male,train,train_m,7386,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A28LPPFS7FW2SD,English,50,male,train,train_f,8287,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A28LPPFS7FW2SD,English,50,male,test,test_books,12015,1,1,1,0,Bookstore A.,Bookstore F.,Bookstore E.,mo-h,fa,mo-l,0,1,1,0,0,0,1,0,1,1,0,0,0,0
+A28LPPFS7FW2SD,English,50,male,control,control_why,8798,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,0,1,1,0,0,0,0
+A28LPPFS7FW2SD,English,50,male,test,test_coffee,13969,1,1,1,0,Cafe E.,Cafes D and E.,Cafe A.,mo-l,ms-l,mo-h,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A28LPPFS7FW2SD,English,50,male,test,test_hair,11167,1,1,1,0,"Stylists A, B, C, D and E.",Stylist A.,Stylists A and B.,exh,mo-h,ms-h,1,1,0,1,0,0,1,1,1,0,1,0,0,0
+A28LPPFS7FW2SD,English,50,male,control,control_what,10458,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,1,1,0,1,0,0,0
+A28LPPFS7FW2SD,English,50,male,test,test_dentist,11049,0,0,1,0,Dentists D and E.,Dentists A and B.,Dentist F.,ms-l,ms-h,fa,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+A28LPPFS7FW2SD,English,50,male,control,control_how,7236,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,0,0,0,0,0,0,0
+A28LPPFS7FW2SD,English,50,male,test,test_shoes,11499,0,1,1,0,Stores A and B.,Stores D and E.,Store E.,ms-h,ms-l,mo-l,0,0,1,1,1,0,1,0,0,1,0,1,0,0
+A28LPPFS7FW2SD,English,50,male,test,test_yarn,8246,0,1,0,0,Stalls D and E.,"Stalls A, B, C, D and E.",Stall E.,ms-l,exh,mo-l,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+A28LPPFS7FW2SD,English,50,male,control,control_when,5747,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,1,0,0,0,0,0,0
+A28LPPFS7FW2SD,English,50,male,exit_quest,NA,105161,the quality is important,no because its to concerntration,good,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A38YLXHJTSE5VD,English ,30,other,consent,NA,30903,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A38YLXHJTSE5VD,English ,30,other,train,train_m,69876,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A38YLXHJTSE5VD,English ,30,other,train,train_f,66814,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A38YLXHJTSE5VD,English ,30,other,test,test_coffee,30087,0,0,0,1,Cafe A.,Cafes D and E.,Cafes A and B.,mo-h,ms-l,ms-h,0,1,0,1,1,0,1,0,0,0,0,0,0,1
+A38YLXHJTSE5VD,English ,30,other,test,test_hair,35700,0,0,0,1,Stylist F.,Stylists A and B.,"Stylists A, B, C, D and E.",fa,ms-h,exh,1,0,0,1,0,0,1,0,0,0,0,0,0,1
+A38YLXHJTSE5VD,English ,30,other,control,control_what,28290,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,0,1,0,0,0,0,0,0,1
+A38YLXHJTSE5VD,English ,30,other,test,test_dentist,42658,0,0,0,1,Dentist F.,Dentists A and B.,Dentist A.,fa,ms-h,mo-h,0,1,0,1,0,0,1,0,0,0,0,0,0,1
+A38YLXHJTSE5VD,English ,30,other,control,control_when,45294,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,1
+A38YLXHJTSE5VD,English ,30,other,test,test_shoes,122021,1,1,1,0,Stores D and E.,Store A.,Stores A and B.,ms-l,mo-h,ms-h,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+A38YLXHJTSE5VD,English ,30,other,test,test_books,33138,1,1,1,0,"Bookstores A, B, C, D and E.",Bookstores D and E.,Bookstore F.,exh,ms-l,fa,1,0,0,0,1,0,1,1,0,0,0,1,0,0
+A38YLXHJTSE5VD,English ,30,other,control,control_how,43560,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,0,1,1,0,0,0,1,0,0
+A38YLXHJTSE5VD,English ,30,other,test,test_yarn,26338,0,0,0,1,Stalls D and E.,"Stalls A, B, C, D and E.",Stalls A and B.,ms-l,exh,ms-h,1,0,0,1,1,0,1,0,0,0,0,0,0,1
+A38YLXHJTSE5VD,English ,30,other,control,control_why,26824,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,0,0,0,0,0,0,1
+A38YLXHJTSE5VD,English ,30,other,exit_quest,NA,97523,Yes for the first question I would answer all the places you can go for brunch and for the second I would say the places I like.,Yes some of them it was hard to determine who knew what.,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AWZCVOUD0LPT,hindi,26,female,consent,NA,27483,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AWZCVOUD0LPT,hindi,26,female,train,train_m,52501,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AWZCVOUD0LPT,hindi,26,female,train,train_f,45398,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AWZCVOUD0LPT,hindi,26,female,test,test_dentist,95146,0,0,0,1,Dentists D and E.,Dentist A.,Dentists A and B.,ms-l,mo-h,ms-h,0,1,0,1,1,0,1,0,0,0,0,0,0,1
+AWZCVOUD0LPT,hindi,26,female,test,test_shoes,32282,0,1,0,0,Store A.,Stores D and E.,Store E.,mo-h,ms-l,mo-l,0,1,1,0,1,0,1,0,0,0,0,1,0,0
+AWZCVOUD0LPT,hindi,26,female,control,control_why,18530,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,0,0,0,1,0,0
+AWZCVOUD0LPT,hindi,26,female,test,test_hair,22183,0,1,0,0,Stylist E.,Stylist A.,Stylist F.,mo-l,mo-h,fa,0,1,1,0,0,0,1,0,1,0,0,0,0,0
+AWZCVOUD0LPT,hindi,26,female,control,control_what,4518,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,0,1,0,0,0,0,0
+AWZCVOUD0LPT,hindi,26,female,test,test_coffee,43527,1,0,0,1,Cafe A.,Cafe F.,Cafes D and E.,mo-h,fa,ms-l,0,1,0,0,1,0,1,0,1,0,0,0,0,1
+AWZCVOUD0LPT,hindi,26,female,test,test_books,14249,1,0,0,1,Bookstores D and E.,Bookstore E.,Bookstores A and B.,ms-l,mo-l,ms-h,0,0,1,1,1,0,1,0,0,0,0,1,0,1
+AWZCVOUD0LPT,hindi,26,female,control,control_when,3416,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,0,1,0,1
+AWZCVOUD0LPT,hindi,26,female,test,test_yarn,4834,0,0,1,0,Stall A.,Stalls D and E.,Stall E.,mo-h,ms-l,mo-l,0,1,1,0,1,0,1,0,0,1,0,0,0,0
+AWZCVOUD0LPT,hindi,26,female,control,control_how,4349,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,0,1,0,0,0,0
+AWZCVOUD0LPT,hindi,26,female,exit_quest,NA,4868,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AZCGSVDT79E6X,English,24,male,consent,NA,10745,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AZCGSVDT79E6X,English,24,male,train,train_f,21711,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AZCGSVDT79E6X,English,24,male,train,train_m,15797,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AZCGSVDT79E6X,English,24,male,test,test_hair,57391,1,0,0,0,Stylists A and B.,Stylist E.,Stylist A.,ms-h,mo-l,mo-h,0,1,1,1,0,0,1,0,0,0,1,0,0,0
+AZCGSVDT79E6X,English,24,male,test,test_shoes,26572,0,1,0,0,Stores D and E.,"Stores A, B, C, D and E.",Store E.,ms-l,exh,mo-l,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+AZCGSVDT79E6X,English,24,male,control,control_how,26443,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,1,0,0,0,0,0,0
+AZCGSVDT79E6X,English,24,male,test,test_books,32748,1,1,1,0,"Bookstores A, B, C, D and E.",Bookstores A and B.,Bookstore E.,exh,ms-h,mo-l,1,0,1,1,0,0,1,1,0,1,1,0,0,0
+AZCGSVDT79E6X,English,24,male,control,control_when,29890,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,1,0,1,1,0,0,0
+AZCGSVDT79E6X,English,24,male,test,test_coffee,43901,0,1,0,0,Cafe E.,Cafes A and B.,Cafes D and E.,mo-l,ms-h,ms-l,0,0,1,1,1,0,1,0,0,0,1,0,0,0
+AZCGSVDT79E6X,English,24,male,test,test_yarn,19279,1,1,0,0,Stall A.,Stalls A and B.,Stalls D and E.,mo-h,ms-h,ms-l,0,1,0,1,1,0,1,0,1,0,1,0,0,0
+AZCGSVDT79E6X,English,24,male,control,control_why,37451,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,1,0,0,0
+AZCGSVDT79E6X,English,24,male,test,test_dentist,28542,0,0,0,1,Dentist E.,Dentist F.,Dentists D and E.,mo-l,fa,ms-l,0,0,1,0,1,0,1,0,0,0,0,0,0,1
+AZCGSVDT79E6X,English,24,male,control,control_what,36323,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,0,0,0,0,1
+AZCGSVDT79E6X,English,24,male,exit_quest,NA,74983,No%2C  they are asking a the same question%2C about what places serve brunch.,No%2C it was easy to understand with how the information was presented to me.,It was fun and interesting to complete.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3UN1F1EOHKKE6,English,37,male,consent,NA,51842,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3UN1F1EOHKKE6,English,37,male,train,train_m,36017,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3UN1F1EOHKKE6,English,37,male,train,train_f,39746,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3UN1F1EOHKKE6,English,37,male,test,test_coffee,40651,0,0,1,0,Cafes D and E.,Cafe E.,Cafes A and B.,ms-l,mo-l,ms-h,0,0,1,1,1,0,1,0,0,0,1,0,0,0
+A3UN1F1EOHKKE6,English,37,male,test,test_shoes,28801,0,1,1,0,Stores D and E.,Store A.,Stores A and B.,ms-l,mo-h,ms-h,0,1,0,1,1,0,1,0,1,0,1,0,0,0
+A3UN1F1EOHKKE6,English,37,male,control,control_how,65519,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,1,0,0,0
+A3UN1F1EOHKKE6,English,37,male,test,test_dentist,39418,1,1,1,0,"Dentists A, B, C, D and E.",Dentist F.,Dentist E.,exh,fa,mo-l,1,0,1,0,0,0,1,1,0,1,0,0,0,0
+A3UN1F1EOHKKE6,English,37,male,control,control_when,58258,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,0,1,1,0,1,0,0,0,0
+A3UN1F1EOHKKE6,English,37,male,test,test_yarn,35364,1,0,0,0,Stalls A and B.,Stall E.,Stalls D and E.,ms-h,mo-l,ms-l,0,0,1,1,1,0,1,0,0,0,1,0,0,0
+A3UN1F1EOHKKE6,English,37,male,test,test_books,21800,0,0,1,0,Bookstores D and E.,Bookstore E.,Bookstore A.,ms-l,mo-l,mo-h,0,1,1,0,1,0,1,0,1,0,0,0,0,0
+A3UN1F1EOHKKE6,English,37,male,control,control_why,19341,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,0,0,0,0,0
+A3UN1F1EOHKKE6,English,37,male,test,test_hair,22496,0,0,1,0,Stylist F.,Stylist E.,"Stylists A, B, C, D and E.",fa,mo-l,exh,1,0,1,0,0,0,1,1,0,0,0,0,0,0
+A3UN1F1EOHKKE6,English,37,male,control,control_what,15179,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,0,1,1,0,0,0,0,0,0
+A3UN1F1EOHKKE6,English,37,male,exit_quest,NA,161720,I would answer the same way%2C because I think that both questions are asking the same thing. Brunch is served in restaurants%2C and that fact can be assumed when the question is phrased the second way.,Sometimes it was difficult because there seemed to be a level of philosophy in some of the questions and answers ,Nothing else.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AXP8EG22MPZY8,English,38,male,consent,NA,27416,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AXP8EG22MPZY8,English,38,male,train,train_f,56233,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AXP8EG22MPZY8,English,38,male,train,train_m,57853,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AXP8EG22MPZY8,English,38,male,test,test_shoes,82888,1,1,1,0,Stores A and B.,Store A.,Stores D and E.,ms-h,mo-h,ms-l,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+AXP8EG22MPZY8,English,38,male,test,test_coffee,37884,1,0,1,0,Cafes D and E.,"Cafes A, B, C, D and E.",Cafe E.,ms-l,exh,mo-l,1,0,1,0,1,0,1,0,0,1,0,1,0,0
+AXP8EG22MPZY8,English,38,male,control,control_how,108712,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,1,0,1,0,0
+AXP8EG22MPZY8,English,38,male,test,test_books,39584,1,1,1,0,Bookstores A and B.,Bookstores D and E.,Bookstore A.,ms-h,ms-l,mo-h,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+AXP8EG22MPZY8,English,38,male,test,test_yarn,24629,1,1,1,0,Stalls D and E.,Stall E.,Stall F.,ms-l,mo-l,fa,0,0,1,0,1,0,1,0,0,1,0,1,0,0
+AXP8EG22MPZY8,English,38,male,control,control_why,28934,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,1,0,1,0,0
+AXP8EG22MPZY8,English,38,male,test,test_dentist,48368,0,0,0,1,Dentist A.,Dentists D and E.,Dentist F.,mo-h,ms-l,fa,0,1,0,0,1,0,1,0,0,0,0,0,0,1
+AXP8EG22MPZY8,English,38,male,control,control_when,66215,1,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,0,0,0,0,0,1
+AXP8EG22MPZY8,English,38,male,test,test_hair,45951,1,1,1,0,Stylists D and E.,Stylist A.,Stylists A and B.,ms-l,mo-h,ms-h,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+AXP8EG22MPZY8,English,38,male,control,control_what,27949,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,1,1,0,0
+AXP8EG22MPZY8,English,38,male,exit_quest,NA,56415,No I would answer the same,No%2C because it is easy,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1XATJA7ENOGWB,English,46,male,consent,NA,29437,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1XATJA7ENOGWB,English,46,male,train,train_f,36014,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1XATJA7ENOGWB,English,46,male,train,train_m,46658,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1XATJA7ENOGWB,English,46,male,test,test_books,177704,1,1,1,0,"Bookstores A, B, C, D and E.",Bookstores A and B.,Bookstore E.,exh,ms-h,mo-l,1,0,1,1,0,0,1,1,0,1,1,0,0,0
+A1XATJA7ENOGWB,English,46,male,test,test_dentist,17861,1,1,1,0,Dentists A and B.,"Dentists A, B, C, D and E.",Dentist A.,ms-h,exh,mo-h,1,1,0,1,0,0,1,1,1,0,1,0,0,0
+A1XATJA7ENOGWB,English,46,male,control,control_when,85503,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,1,1,0,1,0,0,0
+A1XATJA7ENOGWB,English,46,male,test,test_hair,34905,1,1,1,0,Stylist A.,Stylist F.,Stylists D and E.,mo-h,fa,ms-l,0,1,0,0,1,0,1,0,1,0,0,1,0,0
+A1XATJA7ENOGWB,English,46,male,control,control_how,49566,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,1,0,0,1,0,0
+A1XATJA7ENOGWB,English,46,male,test,test_shoes,18699,1,1,1,0,Store E.,Store A.,Stores D and E.,mo-l,mo-h,ms-l,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A1XATJA7ENOGWB,English,46,male,test,test_coffee,14950,1,1,1,0,Cafes A and B.,Cafe E.,Cafe A.,ms-h,mo-l,mo-h,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+A1XATJA7ENOGWB,English,46,male,control,control_why,41348,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,1,1,1,0,0,0
+A1XATJA7ENOGWB,English,46,male,test,test_yarn,22845,1,1,1,0,Stalls D and E.,"Stalls A, B, C, D and E.",Stalls A and B.,ms-l,exh,ms-h,1,0,0,1,1,0,1,1,0,0,1,1,0,0
+A1XATJA7ENOGWB,English,46,male,control,control_what,41852,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,1,0,0,1,1,0,0
+A1XATJA7ENOGWB,English,46,male,exit_quest,NA,50141,No%2C the traveler is still asking the same thing.,No,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2W5Q0IVJUS7Y6,English,67,male,consent,NA,82416,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2W5Q0IVJUS7Y6,English,67,male,train,train_f,54660,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2W5Q0IVJUS7Y6,English,67,male,train,train_m,31088,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2W5Q0IVJUS7Y6,English,67,male,test,test_dentist,69247,0,1,1,0,Dentists A and B.,Dentist E.,Dentist A.,ms-h,mo-l,mo-h,0,1,1,1,0,0,1,0,1,1,0,0,0,0
+A2W5Q0IVJUS7Y6,English,67,male,control,control_how,26375,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,1,1,0,0,0,0
+A2W5Q0IVJUS7Y6,English,67,male,test,test_hair,27034,0,1,0,0,Stylists D and E.,Stylists A and B.,Stylist E.,ms-l,ms-h,mo-l,0,0,1,1,1,0,1,0,0,0,1,0,0,0
+A2W5Q0IVJUS7Y6,English,67,male,test,test_shoes,35766,1,1,1,0,Store F.,Store A.,Stores A and B.,fa,mo-h,ms-h,0,1,0,1,0,0,1,0,1,0,1,0,0,0
+A2W5Q0IVJUS7Y6,English,67,male,control,control_what,18848,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,1,0,1,0,0,0
+A2W5Q0IVJUS7Y6,English,67,male,test,test_coffee,25903,1,1,0,0,Cafe E.,Cafe A.,Cafes A and B.,mo-l,mo-h,ms-h,0,1,1,1,0,0,1,0,1,1,0,0,0,0
+A2W5Q0IVJUS7Y6,English,67,male,control,control_why,39317,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,1,1,0,0,0,0
+A2W5Q0IVJUS7Y6,English,67,male,test,test_yarn,31056,1,1,1,0,Stall E.,Stall A.,Stalls D and E.,mo-l,mo-h,ms-l,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A2W5Q0IVJUS7Y6,English,67,male,test,test_books,34015,1,1,1,0,"Bookstores A, B, C, D and E.",Bookstore A.,Bookstores A and B.,exh,mo-h,ms-h,1,1,0,1,0,0,1,1,1,0,1,0,0,0
+A2W5Q0IVJUS7Y6,English,67,male,control,control_when,28496,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,1,1,0,1,0,0,0
+A2W5Q0IVJUS7Y6,English,67,male,exit_quest,NA,301156,No%2Ca traveler would 0nly go to a restaurant.,Yes%2C a little but I think a traveler only go to a restaurant and not somewhere else.,thank you,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AKAPWAUEDPVGV,english,30,female,consent,NA,96179,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AKAPWAUEDPVGV,english,30,female,train,train_f,18711,1,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AKAPWAUEDPVGV,english,30,female,train,train_m,157969,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AKAPWAUEDPVGV,english,30,female,test,test_coffee,47236,0,1,0,0,Cafes D and E.,Cafes A and B.,Cafe A.,ms-l,ms-h,mo-h,0,1,0,1,1,0,1,0,0,0,1,0,0,0
+AKAPWAUEDPVGV,english,30,female,test,test_books,16545,0,1,0,0,Bookstores D and E.,Bookstores A and B.,"Bookstores A, B, C, D and E.",ms-l,ms-h,exh,1,0,0,1,1,0,1,0,0,0,1,0,0,0
+AKAPWAUEDPVGV,english,30,female,control,control_when,5534,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,0,0,0,1,0,0,0
+AKAPWAUEDPVGV,english,30,female,test,test_hair,13047,0,1,0,0,Stylists D and E.,Stylist E.,Stylist A.,ms-l,mo-l,mo-h,0,1,1,0,1,0,1,0,0,1,0,0,0,0
+AKAPWAUEDPVGV,english,30,female,control,control_what,3843,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,0,1,0,0,0,0
+AKAPWAUEDPVGV,english,30,female,test,test_dentist,4461,0,1,0,0,Dentist F.,Dentists D and E.,"Dentists A, B, C, D and E.",fa,ms-l,exh,1,0,0,0,1,0,1,0,0,0,0,1,0,0
+AKAPWAUEDPVGV,english,30,female,test,test_shoes,8213,0,0,1,0,"Stores A, B, C, D and E.",Store A.,Stores D and E.,exh,mo-h,ms-l,1,1,0,0,1,0,1,0,0,0,0,1,0,0
+AKAPWAUEDPVGV,english,30,female,control,control_how,4222,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,0,0,0,1,0,0
+AKAPWAUEDPVGV,english,30,female,test,test_yarn,6699,0,0,1,0,Stalls A and B.,Stalls D and E.,Stall F.,ms-h,ms-l,fa,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+AKAPWAUEDPVGV,english,30,female,control,control_why,10224,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,0,0,0,0,0,0,0
+AKAPWAUEDPVGV,english,30,female,exit_quest,NA,279010,almost every restaurants save the brunch but the specific restaurants are more useful than others,no,it's interesting,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A39BSJLRE2AQD4,english,35,male,consent,NA,41695,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A39BSJLRE2AQD4,english,35,male,train,train_f,67488,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A39BSJLRE2AQD4,english,35,male,train,train_m,21589,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A39BSJLRE2AQD4,english,35,male,test,test_books,106597,1,1,0,0,Bookstores D and E.,Bookstores A and B.,Bookstore E.,ms-l,ms-h,mo-l,0,0,1,1,1,0,1,0,0,0,1,1,0,0
+A39BSJLRE2AQD4,english,35,male,control,control_how,41849,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,1,1,0,0
+A39BSJLRE2AQD4,english,35,male,test,test_hair,21429,0,1,0,0,Stylist E.,Stylists D and E.,Stylist F.,mo-l,ms-l,fa,0,0,1,0,1,0,1,0,0,0,0,1,0,0
+A39BSJLRE2AQD4,english,35,male,test,test_shoes,8682,0,1,0,0,Stores A and B.,Store F.,Store A.,ms-h,fa,mo-h,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+A39BSJLRE2AQD4,english,35,male,control,control_what,11255,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0
+A39BSJLRE2AQD4,english,35,male,test,test_yarn,17957,1,1,0,0,Stall F.,Stall E.,Stalls D and E.,fa,mo-l,ms-l,0,0,1,0,1,0,1,0,0,1,0,0,0,0
+A39BSJLRE2AQD4,english,35,male,control,control_why,14512,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,1,0,0,0,0
+A39BSJLRE2AQD4,english,35,male,test,test_coffee,18280,0,1,0,0,Cafes D and E.,"Cafes A, B, C, D and E.",Cafe E.,ms-l,exh,mo-l,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+A39BSJLRE2AQD4,english,35,male,test,test_dentist,6206,0,0,1,0,Dentist A.,Dentist E.,Dentists D and E.,mo-h,mo-l,ms-l,0,1,1,0,1,0,1,0,0,0,0,1,0,0
+A39BSJLRE2AQD4,english,35,male,control,control_when,9423,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,0,0,0,1,0,0
+A39BSJLRE2AQD4,english,35,male,exit_quest,NA,502341,Brunch%2C that long and lazy late morning mean which stretches in to the early afternoon.,No difficult its very good.,Nice,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A125AOX978LDG7,English ,34,female,consent,NA,37078,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A125AOX978LDG7,English ,34,female,train,train_f,49209,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A125AOX978LDG7,English ,34,female,train,train_m,60560,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A125AOX978LDG7,English ,34,female,test,test_books,69833,1,1,1,0,Bookstores A and B.,Bookstores D and E.,Bookstore F.,ms-h,ms-l,fa,0,0,0,1,1,0,1,0,0,0,1,1,0,0
+A125AOX978LDG7,English ,34,female,test,test_shoes,59838,1,1,1,0,Store E.,Store A.,Stores A and B.,mo-l,mo-h,ms-h,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+A125AOX978LDG7,English ,34,female,control,control_what,28031,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,1,1,1,0,0,0
+A125AOX978LDG7,English ,34,female,test,test_hair,26132,1,1,1,0,Stylists D and E.,Stylist E.,Stylists A and B.,ms-l,mo-l,ms-h,0,0,1,1,1,0,1,0,0,1,1,1,0,0
+A125AOX978LDG7,English ,34,female,test,test_dentist,27980,0,0,0,1,Dentists A and B.,Dentists D and E.,Dentist F.,ms-h,ms-l,fa,0,0,0,1,1,0,1,0,0,0,0,0,0,1
+A125AOX978LDG7,English ,34,female,control,control_when,31461,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,0,0,0,0,0,0,1
+A125AOX978LDG7,English ,34,female,test,test_yarn,54201,1,1,1,0,Stall A.,Stall E.,Stalls D and E.,mo-h,mo-l,ms-l,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A125AOX978LDG7,English ,34,female,control,control_why,33830,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,1,0,1,0,0
+A125AOX978LDG7,English ,34,female,test,test_coffee,28087,1,1,1,0,Cafe E.,Cafe A.,Cafes A and B.,mo-l,mo-h,ms-h,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+A125AOX978LDG7,English ,34,female,control,control_how,30029,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,1,1,1,0,0,0
+A125AOX978LDG7,English ,34,female,exit_quest,NA,131511,I wouldn’t answer differently because the questions are the same except they are worded differently. ,No.,Not at the moment. ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A20Q6LGMUJLJDG,ENGLISH,40,female,consent,NA,42851,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A20Q6LGMUJLJDG,ENGLISH,40,female,train,train_m,56702,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A20Q6LGMUJLJDG,ENGLISH,40,female,train,train_f,58060,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A20Q6LGMUJLJDG,ENGLISH,40,female,test,test_shoes,235265,0,1,0,0,Stores D and E.,Store A.,Stores A and B.,ms-l,mo-h,ms-h,0,1,0,1,1,0,1,0,1,0,0,0,0,0
+A20Q6LGMUJLJDG,ENGLISH,40,female,test,test_coffee,72552,1,1,1,0,Cafe A.,Cafe F.,Cafes A and B.,mo-h,fa,ms-h,0,1,0,1,0,0,1,0,1,0,1,0,0,0
+A20Q6LGMUJLJDG,ENGLISH,40,female,control,control_when,14094,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,1,0,1,0,0,0
+A20Q6LGMUJLJDG,ENGLISH,40,female,test,test_hair,9770,0,0,1,0,Stylist A.,Stylists D and E.,Stylists A and B.,mo-h,ms-l,ms-h,0,1,0,1,1,0,1,0,0,0,1,0,0,0
+A20Q6LGMUJLJDG,ENGLISH,40,female,test,test_yarn,9526,1,0,0,0,Stall A.,Stall E.,"Stalls A, B, C, D and E.",mo-h,mo-l,exh,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+A20Q6LGMUJLJDG,ENGLISH,40,female,control,control_why,9655,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,0,1,0,0,0,0,0
+A20Q6LGMUJLJDG,ENGLISH,40,female,test,test_dentist,18617,0,1,0,0,Dentist F.,Dentist A.,Dentists D and E.,fa,mo-h,ms-l,0,1,0,0,1,0,1,0,1,0,0,0,0,0
+A20Q6LGMUJLJDG,ENGLISH,40,female,control,control_what,44457,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,1,0,0,0,0,0
+A20Q6LGMUJLJDG,ENGLISH,40,female,test,test_books,91577,1,0,0,0,Bookstores D and E.,Bookstore A.,Bookstores A and B.,ms-l,mo-h,ms-h,0,1,0,1,1,0,1,0,0,0,0,1,0,0
+A20Q6LGMUJLJDG,ENGLISH,40,female,control,control_how,29877,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,0,0,0,1,0,0
+A20Q6LGMUJLJDG,ENGLISH,40,female,exit_quest,NA,146257,NONE,NO,NICE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A264G2H7KNNP3C,English,31,male,consent,NA,31531,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A264G2H7KNNP3C,English,31,male,train,train_f,59373,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A264G2H7KNNP3C,English,31,male,train,train_m,58597,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A264G2H7KNNP3C,English,31,male,test,test_books,39805,0,1,0,0,Bookstore E.,Bookstore A.,Bookstore F.,mo-l,mo-h,fa,0,1,1,0,0,0,1,0,1,0,0,0,0,0
+A264G2H7KNNP3C,English,31,male,test,test_shoes,73008,0,1,1,0,Store F.,Store A.,"Stores A, B, C, D and E.",fa,mo-h,exh,1,1,0,0,0,0,1,1,1,0,0,0,0,0
+A264G2H7KNNP3C,English,31,male,control,control_what,37400,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,1,1,0,0,0,0,0
+A264G2H7KNNP3C,English,31,male,test,test_coffee,16805,0,1,1,0,Cafes D and E.,Cafe A.,Cafes A and B.,ms-l,mo-h,ms-h,0,1,0,1,1,0,1,0,1,0,1,0,0,0
+A264G2H7KNNP3C,English,31,male,control,control_why,33558,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,1,0,0,0
+A264G2H7KNNP3C,English,31,male,test,test_dentist,30877,0,0,0,1,Dentists A and B.,Dentist A.,Dentist E.,ms-h,mo-h,mo-l,0,1,1,1,0,0,1,0,0,0,0,0,0,1
+A264G2H7KNNP3C,English,31,male,test,test_hair,119003,0,1,0,0,Stylist E.,Stylists A and B.,Stylist F.,mo-l,ms-h,fa,0,0,1,1,0,0,1,0,0,0,1,0,0,0
+A264G2H7KNNP3C,English,31,male,control,control_how,26788,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,0,0,0,1,0,0,0
+A264G2H7KNNP3C,English,31,male,test,test_yarn,61427,0,0,0,1,Stall E.,Stalls A and B.,Stall A.,mo-l,ms-h,mo-h,0,1,1,1,0,0,1,0,0,0,0,0,0,1
+A264G2H7KNNP3C,English,31,male,control,control_when,25295,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,0,0,0,0,0,1
+A264G2H7KNNP3C,English,31,male,exit_quest,NA,351807,The difference is knowing what places serve brunch%2C -or- what place would I suggest someone go specifically.,It was not difficult. It felt to be a very simple survey on understanding of language of speech. ,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2RC8VX4LS3WQW,English,29,female,consent,NA,176206,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2RC8VX4LS3WQW,English,29,female,train,train_m,43383,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2RC8VX4LS3WQW,English,29,female,train,train_f,37896,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2RC8VX4LS3WQW,English,29,female,test,test_shoes,101767,0,0,0,1,Store E.,Stores A and B.,Stores D and E.,mo-l,ms-h,ms-l,0,0,1,1,1,0,1,0,0,0,0,0,0,1
+A2RC8VX4LS3WQW,English,29,female,test,test_hair,46061,1,1,1,0,Stylist A.,Stylists A and B.,Stylists D and E.,mo-h,ms-h,ms-l,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+A2RC8VX4LS3WQW,English,29,female,control,control_when,53968,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,1,1,0,0
+A2RC8VX4LS3WQW,English,29,female,test,test_yarn,46282,0,0,0,1,Stalls A and B.,Stall F.,Stall E.,ms-h,fa,mo-l,0,0,1,1,0,0,1,0,0,0,0,0,0,1
+A2RC8VX4LS3WQW,English,29,female,control,control_how,37714,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,0,0,0,0,0,0,1
+A2RC8VX4LS3WQW,English,29,female,test,test_dentist,51582,0,0,0,1,Dentist E.,Dentist A.,Dentists D and E.,mo-l,mo-h,ms-l,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+A2RC8VX4LS3WQW,English,29,female,test,test_coffee,35810,0,0,0,1,Cafe F.,Cafes A and B.,Cafe E.,fa,ms-h,mo-l,0,0,1,1,0,0,1,0,0,0,0,0,0,1
+A2RC8VX4LS3WQW,English,29,female,control,control_why,27847,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,0,0,0,0,0,0,1
+A2RC8VX4LS3WQW,English,29,female,test,test_books,14307,0,0,0,1,Bookstore F.,Bookstores D and E.,Bookstores A and B.,fa,ms-l,ms-h,0,0,0,1,1,0,1,0,0,0,0,0,0,1
+A2RC8VX4LS3WQW,English,29,female,control,control_what,28998,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,0,0,0,0,0,0,1
+A2RC8VX4LS3WQW,English,29,female,exit_quest,NA,77872,Yes%2C one question is asking for a list of places. While the other one is seeking a recommendation. ,No%2C tad bit confusing.,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A12569NJ7KY1KX,english,35,female,consent,NA,41964,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A12569NJ7KY1KX,english,35,female,train,train_m,52040,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A12569NJ7KY1KX,english,35,female,train,train_f,53865,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A12569NJ7KY1KX,english,35,female,test,test_dentist,34303,1,0,0,0,Dentist E.,Dentists D and E.,Dentist A.,mo-l,ms-l,mo-h,0,1,1,0,1,0,1,0,0,1,0,0,0,0
+A12569NJ7KY1KX,english,35,female,test,test_yarn,49713,0,1,0,0,Stalls D and E.,Stalls A and B.,Stall A.,ms-l,ms-h,mo-h,0,1,0,1,1,0,1,0,0,0,1,0,0,0
+A12569NJ7KY1KX,english,35,female,control,control_what,28213,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,0,0,1,0,0,0
+A12569NJ7KY1KX,english,35,female,test,test_coffee,36757,0,0,1,0,Cafes D and E.,Cafe E.,Cafes A and B.,ms-l,mo-l,ms-h,0,0,1,1,1,0,1,0,0,0,1,0,0,0
+A12569NJ7KY1KX,english,35,female,control,control_why,36610,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,1,0,0,0
+A12569NJ7KY1KX,english,35,female,test,test_shoes,50767,0,1,0,0,Store A.,"Stores A, B, C, D and E.",Stores D and E.,mo-h,exh,ms-l,1,1,0,0,1,0,1,1,0,0,0,0,0,0
+A12569NJ7KY1KX,english,35,female,test,test_books,9098,1,0,0,0,Bookstores A and B.,Bookstore F.,Bookstore E.,ms-h,fa,mo-l,0,0,1,1,0,0,1,0,0,0,1,0,0,0
+A12569NJ7KY1KX,english,35,female,control,control_when,23243,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,0,0,0,1,0,0,0
+A12569NJ7KY1KX,english,35,female,test,test_hair,4840,0,1,0,0,"Stylists A, B, C, D and E.",Stylist A.,Stylist E.,exh,mo-h,mo-l,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+A12569NJ7KY1KX,english,35,female,control,control_how,25275,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,0,1,0,0,0,0,0
+A12569NJ7KY1KX,english,35,female,exit_quest,NA,95765,GRT %0ACOFFE DAY%0ARELIANCE%0A%0A,NO,NO ELSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A30FCN88F8DZOT,ENGLISH,28,male,consent,NA,17529,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A30FCN88F8DZOT,ENGLISH,28,male,train,train_f,45221,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A30FCN88F8DZOT,ENGLISH,28,male,train,train_m,85098,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A30FCN88F8DZOT,ENGLISH,28,male,test,test_hair,129047,1,1,0,0,Stylists A and B.,Stylist A.,Stylist E.,ms-h,mo-h,mo-l,0,1,1,1,0,0,1,0,1,0,1,0,0,0
+A30FCN88F8DZOT,ENGLISH,28,male,test,test_books,15740,1,0,0,0,Bookstore A.,Bookstore E.,Bookstore F.,mo-h,mo-l,fa,0,1,1,0,0,0,1,0,1,0,0,0,0,0
+A30FCN88F8DZOT,ENGLISH,28,male,control,control_when,75763,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,0,1,0,0,0,0,0
+A30FCN88F8DZOT,ENGLISH,28,male,test,test_coffee,103515,0,0,1,0,Cafes D and E.,"Cafes A, B, C, D and E.",Cafes A and B.,ms-l,exh,ms-h,1,0,0,1,1,0,1,0,0,0,1,0,0,0
+A30FCN88F8DZOT,ENGLISH,28,male,test,test_yarn,69108,0,0,0,1,Stalls D and E.,"Stalls A, B, C, D and E.",Stall E.,ms-l,exh,mo-l,1,0,1,0,1,0,1,0,0,0,0,0,0,1
+A30FCN88F8DZOT,ENGLISH,28,male,control,control_what,59245,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,0,0,0,0,1
+A30FCN88F8DZOT,ENGLISH,28,male,test,test_dentist,40115,0,0,0,1,Dentist E.,Dentists D and E.,"Dentists A, B, C, D and E.",mo-l,ms-l,exh,1,0,1,0,1,0,1,0,0,0,0,0,0,1
+A30FCN88F8DZOT,ENGLISH,28,male,control,control_why,81711,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,0,0,0,0,1
+A30FCN88F8DZOT,ENGLISH,28,male,test,test_shoes,19076,1,0,0,0,Stores A and B.,Store F.,Stores D and E.,ms-h,fa,ms-l,0,0,0,1,1,0,1,0,0,0,1,0,0,0
+A30FCN88F8DZOT,ENGLISH,28,male,control,control_how,108551,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,0,0,0,1,0,0,0
+A30FCN88F8DZOT,ENGLISH,28,male,exit_quest,NA,124887,IS THERE IS ANY OTHER RESTAURANTS WHO SERVE BRUNCH IN TOWN ..?,NO .. ITS A BIT EASY TO DO IF WE READ THE STATEMENTS CAREFULLY,NOTHING,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2W1QLIYADUJU3,ENGLISH,37,male,consent,NA,50749,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2W1QLIYADUJU3,ENGLISH,37,male,train,train_m,30838,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2W1QLIYADUJU3,ENGLISH,37,male,train,train_f,11941,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2W1QLIYADUJU3,ENGLISH,37,male,test,test_hair,138682,1,1,0,0,Stylist A.,Stylists D and E.,Stylists A and B.,mo-h,ms-l,ms-h,0,1,0,1,1,0,1,0,1,0,0,1,0,0
+A2W1QLIYADUJU3,ENGLISH,37,male,test,test_dentist,6211,1,1,1,0,Dentists D and E.,Dentist E.,Dentists A and B.,ms-l,mo-l,ms-h,0,0,1,1,1,0,1,0,0,1,1,1,0,0
+A2W1QLIYADUJU3,ENGLISH,37,male,control,control_when,20630,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,1,1,1,0,0
+A2W1QLIYADUJU3,ENGLISH,37,male,test,test_books,10359,1,1,0,0,Bookstores D and E.,Bookstores A and B.,Bookstore F.,ms-l,ms-h,fa,0,0,0,1,1,0,1,0,0,0,1,1,0,0
+A2W1QLIYADUJU3,ENGLISH,37,male,control,control_what,48525,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,0,0,0,1,1,0,0
+A2W1QLIYADUJU3,ENGLISH,37,male,test,test_yarn,92971,0,1,0,0,Stall F.,Stalls D and E.,Stall E.,fa,ms-l,mo-l,0,0,1,0,1,0,1,0,0,0,0,1,0,0
+A2W1QLIYADUJU3,ENGLISH,37,male,test,test_coffee,48913,1,0,0,0,Cafes D and E.,Cafe F.,Cafe A.,ms-l,fa,mo-h,0,1,0,0,1,0,1,0,0,0,0,1,0,0
+A2W1QLIYADUJU3,ENGLISH,37,male,control,control_why,46863,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,0,0,0,1,0,0
+A2W1QLIYADUJU3,ENGLISH,37,male,test,test_shoes,45741,0,0,1,0,Store E.,Store A.,Stores A and B.,mo-l,mo-h,ms-h,0,1,1,1,0,0,1,0,0,0,1,0,0,0
+A2W1QLIYADUJU3,ENGLISH,37,male,control,control_how,17725,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,0,0,1,0,0,0
+A2W1QLIYADUJU3,ENGLISH,37,male,exit_quest,NA,676334,brunch that long and lazy latter morning mean witch stretches into early afternoon.,Nothing because easily understanding,nice and this study very useful.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1TSQCY9QR6RM7,English,55,female,consent,NA,32474,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1TSQCY9QR6RM7,English,55,female,train,train_m,65642,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1TSQCY9QR6RM7,English,55,female,train,train_f,55182,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1TSQCY9QR6RM7,English,55,female,test,test_shoes,113948,1,0,0,0,Stores A and B.,"Stores A, B, C, D and E.",Store E.,ms-h,exh,mo-l,1,0,1,1,0,0,1,0,0,0,1,0,0,0
+A1TSQCY9QR6RM7,English,55,female,test,test_books,48188,0,0,0,1,Bookstores A and B.,Bookstore E.,Bookstores D and E.,ms-h,mo-l,ms-l,0,0,1,1,1,0,1,0,0,0,0,0,0,1
+A1TSQCY9QR6RM7,English,55,female,control,control_what,28492,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,0,0,0,1
+A1TSQCY9QR6RM7,English,55,female,test,test_dentist,50700,0,0,0,1,Dentist A.,Dentists A and B.,"Dentists A, B, C, D and E.",mo-h,ms-h,exh,1,1,0,1,0,0,1,0,0,0,0,0,0,1
+A1TSQCY9QR6RM7,English,55,female,control,control_when,51515,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,1
+A1TSQCY9QR6RM7,English,55,female,test,test_coffee,38667,0,0,0,1,Cafes D and E.,Cafe A.,Cafe E.,ms-l,mo-h,mo-l,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+A1TSQCY9QR6RM7,English,55,female,test,test_yarn,27476,0,1,0,0,Stalls D and E.,Stalls A and B.,Stall E.,ms-l,ms-h,mo-l,0,0,1,1,1,0,1,0,0,0,1,0,0,0
+A1TSQCY9QR6RM7,English,55,female,control,control_how,59136,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,1,0,0,0
+A1TSQCY9QR6RM7,English,55,female,test,test_hair,75412,1,0,0,0,Stylist E.,Stylist A.,Stylists D and E.,mo-l,mo-h,ms-l,0,1,1,0,1,0,1,0,0,1,0,0,0,0
+A1TSQCY9QR6RM7,English,55,female,control,control_why,27264,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,0,1,0,0,0,0
+A1TSQCY9QR6RM7,English,55,female,exit_quest,NA,312056,No%2C the answer would remain the same however I might ask for further clarification as to what kind of restaurant she prefers.,Somewhat%2C yes. %0AI found myself inferring when I shouldn't and not sure if that was the acceptable answer.,"Yes. %0AThere was an inconsistency in one of the questions. In one of the stories%2C the question asks about coworker opinions and the answers refer to relatives. %0ANot sure if that was intentional but I wanted to point it out.%0A Dee asks%2C ""Where does Joe go for his dental work?%0ACoworker 1 says%2C ""Dentist A.""%0A%0ACoworker 2 says%2C ""Dentists A and B.""%0A%0ACoworker 3 says%2C ""Dentists A%2C B%2C C%2C D and E.""%0A%0A%0AWho knows where Joe goes for his dental work? (Choose all that apply)%0ARelative 1  Relative 2  Relative 3  No one",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1CJZOKUD5J0H1,ENGLISH,27,female,consent,NA,488227,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1CJZOKUD5J0H1,ENGLISH,27,female,train,train_f,73833,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1CJZOKUD5J0H1,ENGLISH,27,female,train,train_m,7830,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1CJZOKUD5J0H1,ENGLISH,27,female,test,test_hair,281691,1,1,0,0,Stylist E.,Stylist F.,Stylist A.,mo-l,fa,mo-h,0,1,1,0,0,0,1,0,0,1,0,0,0,0
+A1CJZOKUD5J0H1,ENGLISH,27,female,test,test_books,32654,0,1,1,0,Bookstore A.,Bookstores A and B.,Bookstore F.,mo-h,ms-h,fa,0,1,0,1,0,0,1,0,0,0,1,0,0,0
+A1CJZOKUD5J0H1,ENGLISH,27,female,control,control_what,3805,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,0,0,1,0,0,0
+A1CJZOKUD5J0H1,ENGLISH,27,female,test,test_coffee,3640,0,1,1,0,Cafe E.,Cafe A.,Cafes D and E.,mo-l,mo-h,ms-l,0,1,1,0,1,0,1,0,1,0,0,1,0,0
+A1CJZOKUD5J0H1,ENGLISH,27,female,test,test_dentist,3316,1,1,1,0,Dentist A.,Dentists A and B.,Dentist F.,mo-h,ms-h,fa,0,1,0,1,0,0,1,0,1,0,1,0,0,0
+A1CJZOKUD5J0H1,ENGLISH,27,female,control,control_when,2371,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,1,0,1,0,0,0
+A1CJZOKUD5J0H1,ENGLISH,27,female,test,test_yarn,3504,0,1,1,0,Stall A.,Stall E.,Stalls D and E.,mo-h,mo-l,ms-l,0,1,1,0,1,0,1,0,0,1,0,1,0,0
+A1CJZOKUD5J0H1,ENGLISH,27,female,control,control_how,2714,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,0,1,0,1,0,0
+A1CJZOKUD5J0H1,ENGLISH,27,female,test,test_shoes,2407,0,1,1,0,Store F.,Store A.,Stores D and E.,fa,mo-h,ms-l,0,1,0,0,1,0,1,0,1,0,0,1,0,0
+A1CJZOKUD5J0H1,ENGLISH,27,female,control,control_why,3755,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,1,0,0,1,0,0
+A1CJZOKUD5J0H1,ENGLISH,27,female,exit_quest,NA,277347,If you’re looking for a classic French brunch%2C head to Bastille in North Old Town. Choose from cocktails like the Kir Royal or the Parisian Morning with orange juice%2C aperol and sparkling wine%2C paired perfectly with hors d’oeuvres%2C soups%2C salads and sandwiches. Brunch specialties include the steak and eggs%2C the Galette au Saumon Fumé and more. Bonus: their brunch desserts will win over any sweets-lover%2C with options like cookies and cream with house-baked cookies and ice cream%2C a rotating menu of bread puddings and more.,NO DIFFICULT,NO,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2W046PDRTCZW7,English,36,male,consent,NA,37718,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2W046PDRTCZW7,English,36,male,train,train_m,113593,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2W046PDRTCZW7,English,36,male,train,train_f,62748,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2W046PDRTCZW7,English,36,male,test,test_dentist,57578,0,0,0,1,Dentist E.,Dentists D and E.,"Dentists A, B, C, D and E.",mo-l,ms-l,exh,1,0,1,0,1,0,1,0,0,0,0,0,0,1
+A2W046PDRTCZW7,English,36,male,test,test_coffee,80968,0,1,0,0,Cafes A and B.,"Cafes A, B, C, D and E.",Cafe E.,ms-h,exh,mo-l,1,0,1,1,0,0,1,1,0,0,0,0,0,0
+A2W046PDRTCZW7,English,36,male,control,control_when,68012,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,1,0,0,0,0,0,0
+A2W046PDRTCZW7,English,36,male,test,test_shoes,48391,0,1,0,0,Stores A and B.,"Stores A, B, C, D and E.",Store E.,ms-h,exh,mo-l,1,0,1,1,0,0,1,1,0,0,0,0,0,0
+A2W046PDRTCZW7,English,36,male,control,control_what,30474,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,1,0,0,0,0,0,0
+A2W046PDRTCZW7,English,36,male,test,test_yarn,58494,0,0,1,0,Stalls A and B.,Stall E.,"Stalls A, B, C, D and E.",ms-h,mo-l,exh,1,0,1,1,0,0,1,1,0,0,0,0,0,0
+A2W046PDRTCZW7,English,36,male,test,test_hair,96028,0,0,0,1,Stylist F.,Stylist A.,Stylists A and B.,fa,mo-h,ms-h,0,1,0,1,0,0,1,0,0,0,0,0,0,1
+A2W046PDRTCZW7,English,36,male,control,control_why,47605,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,1
+A2W046PDRTCZW7,English,36,male,test,test_books,40392,0,0,0,1,Bookstore F.,Bookstores A and B.,Bookstore A.,fa,ms-h,mo-h,0,1,0,1,0,0,1,0,0,0,0,0,0,1
+A2W046PDRTCZW7,English,36,male,control,control_how,73907,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,1
+A2W046PDRTCZW7,English,36,male,exit_quest,NA,248691,Both will have similar answers but not the same. For the first question%2C I can give restaurant names while for the second question I can give some brief information about the restaurants.,Little bit difficult as few options were confusing and most them were similar to each other.,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2SZRPGIEYRCG6,ENGLISH,35,male,consent,NA,90535,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2SZRPGIEYRCG6,ENGLISH,35,male,train,train_m,104763,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2SZRPGIEYRCG6,ENGLISH,35,male,train,train_f,128014,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2SZRPGIEYRCG6,ENGLISH,35,male,test,test_coffee,105885,0,1,0,0,Cafe E.,"Cafes A, B, C, D and E.",Cafe A.,mo-l,exh,mo-h,1,1,1,0,0,0,1,1,0,0,0,0,0,0
+A2SZRPGIEYRCG6,ENGLISH,35,male,test,test_yarn,46576,1,0,0,0,Stall A.,Stalls D and E.,Stall E.,mo-h,ms-l,mo-l,0,1,1,0,1,0,1,0,1,0,0,0,0,0
+A2SZRPGIEYRCG6,ENGLISH,35,male,control,control_why,40683,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,0,0,0,0,0
+A2SZRPGIEYRCG6,ENGLISH,35,male,test,test_books,58433,1,1,1,0,"Bookstores A, B, C, D and E.",Bookstore E.,Bookstores A and B.,exh,mo-l,ms-h,1,0,1,1,0,0,1,1,0,1,1,0,0,0
+A2SZRPGIEYRCG6,ENGLISH,35,male,test,test_hair,57217,1,1,1,0,Stylist A.,"Stylists A, B, C, D and E.",Stylists A and B.,mo-h,exh,ms-h,1,1,0,1,0,0,1,1,1,0,1,0,0,0
+A2SZRPGIEYRCG6,ENGLISH,35,male,control,control_how,57039,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,1,1,0,1,0,0,0
+A2SZRPGIEYRCG6,ENGLISH,35,male,test,test_dentist,42952,0,1,0,0,Dentist F.,Dentist A.,Dentists D and E.,fa,mo-h,ms-l,0,1,0,0,1,0,1,0,1,0,0,0,0,0
+A2SZRPGIEYRCG6,ENGLISH,35,male,control,control_what,108191,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,1,0,0,0,0,0
+A2SZRPGIEYRCG6,ENGLISH,35,male,test,test_shoes,101450,1,1,1,0,Store A.,Store F.,Stores D and E.,mo-h,fa,ms-l,0,1,0,0,1,0,1,0,1,0,0,1,0,0
+A2SZRPGIEYRCG6,ENGLISH,35,male,control,control_when,112006,0,0,1,1,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,1,0,0,1,0,0
+A2SZRPGIEYRCG6,ENGLISH,35,male,exit_quest,NA,83250,NO IDEA,NO,NOTHING,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2LV5432PV1S39,English,31,male,consent,NA,306920,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2LV5432PV1S39,English,31,male,train,train_f,29288,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2LV5432PV1S39,English,31,male,train,train_m,39004,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2LV5432PV1S39,English,31,male,test,test_hair,83351,1,1,1,0,Stylists D and E.,Stylist F.,Stylist A.,ms-l,fa,mo-h,0,1,0,0,1,0,1,0,1,0,0,1,0,0
+A2LV5432PV1S39,English,31,male,test,test_dentist,33074,1,1,1,0,Dentist E.,Dentists D and E.,Dentist A.,mo-l,ms-l,mo-h,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A2LV5432PV1S39,English,31,male,control,control_why,53831,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,1,0,1,0,0
+A2LV5432PV1S39,English,31,male,test,test_shoes,94707,1,1,1,0,Store A.,Stores A and B.,Stores D and E.,mo-h,ms-h,ms-l,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+A2LV5432PV1S39,English,31,male,control,control_how,57685,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,1,1,0,0
+A2LV5432PV1S39,English,31,male,test,test_yarn,88782,1,1,1,0,Stall A.,Stalls A and B.,Stall E.,mo-h,ms-h,mo-l,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+A2LV5432PV1S39,English,31,male,test,test_coffee,169000,1,1,1,0,Cafes A and B.,Cafe F.,Cafe A.,ms-h,fa,mo-h,0,1,0,1,0,0,1,0,1,0,1,0,0,0
+A2LV5432PV1S39,English,31,male,control,control_when,83675,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,1,0,1,0,0,0
+A2LV5432PV1S39,English,31,male,test,test_books,125707,1,1,1,0,Bookstore A.,Bookstores D and E.,"Bookstores A, B, C, D and E.",mo-h,ms-l,exh,1,1,0,0,1,0,1,1,1,0,0,1,0,0
+A2LV5432PV1S39,English,31,male,control,control_what,99700,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,1,1,0,0,1,0,0
+A2LV5432PV1S39,English,31,male,exit_quest,NA,17672,No they're both the same question.,No it was simple to read and understand.,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1BZNPQ0H7ZSER,English,36,male,consent,NA,219366,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1BZNPQ0H7ZSER,English,36,male,train,train_m,326499,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1BZNPQ0H7ZSER,English,36,male,train,train_f,148107,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1BZNPQ0H7ZSER,English,36,male,test,test_shoes,80575,1,1,1,0,Store A.,"Stores A, B, C, D and E.",Stores A and B.,mo-h,exh,ms-h,1,1,0,1,0,0,1,1,1,0,1,0,0,0
+A1BZNPQ0H7ZSER,English,36,male,test,test_books,42268,1,1,1,0,Bookstores A and B.,Bookstores D and E.,Bookstore A.,ms-h,ms-l,mo-h,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+A1BZNPQ0H7ZSER,English,36,male,control,control_how,97940,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,1,1,0,0
+A1BZNPQ0H7ZSER,English,36,male,test,test_yarn,83376,1,1,1,0,Stall E.,Stalls A and B.,"Stalls A, B, C, D and E.",mo-l,ms-h,exh,1,0,1,1,0,0,1,1,0,1,1,0,0,0
+A1BZNPQ0H7ZSER,English,36,male,test,test_coffee,82325,1,1,1,0,Cafe A.,"Cafes A, B, C, D and E.",Cafe E.,mo-h,exh,mo-l,1,1,1,0,0,0,1,1,1,1,0,0,0,0
+A1BZNPQ0H7ZSER,English,36,male,control,control_why,14833,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,1,1,1,0,0,0,0
+A1BZNPQ0H7ZSER,English,36,male,test,test_dentist,12779,1,1,1,0,Dentists D and E.,Dentists A and B.,Dentist E.,ms-l,ms-h,mo-l,0,0,1,1,1,0,1,0,0,1,1,1,0,0
+A1BZNPQ0H7ZSER,English,36,male,control,control_what,22744,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,1,1,1,0,0
+A1BZNPQ0H7ZSER,English,36,male,test,test_hair,7258,1,1,1,0,Stylists A and B.,"Stylists A, B, C, D and E.",Stylists D and E.,ms-h,exh,ms-l,1,0,0,1,1,0,1,1,0,0,1,1,0,0
+A1BZNPQ0H7ZSER,English,36,male,control,control_when,31807,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,1,0,0,1,1,0,0
+A1BZNPQ0H7ZSER,English,36,male,exit_quest,NA,92931,No%2C they are both asking which restaurants serve brunch%2C and it should be safe to assume that they have access to any of them.,no%2C it seemed straightforward if you stuck with grammar rules,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AC7Z8O1RETQC4,ENGLISH,27,female,consent,NA,13817,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AC7Z8O1RETQC4,ENGLISH,27,female,train,train_m,20526,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AC7Z8O1RETQC4,ENGLISH,27,female,train,train_f,11661,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AC7Z8O1RETQC4,ENGLISH,27,female,test,test_coffee,64929,1,1,1,0,Cafe E.,Cafe A.,Cafes A and B.,mo-l,mo-h,ms-h,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+AC7Z8O1RETQC4,ENGLISH,27,female,test,test_shoes,4806,1,1,1,0,Stores D and E.,Stores A and B.,Store A.,ms-l,ms-h,mo-h,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+AC7Z8O1RETQC4,ENGLISH,27,female,control,control_when,24299,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,1,1,0,0
+AC7Z8O1RETQC4,ENGLISH,27,female,test,test_yarn,5220,1,1,1,0,Stall E.,Stall F.,Stalls D and E.,mo-l,fa,ms-l,0,0,1,0,1,0,1,0,0,1,0,1,0,0
+AC7Z8O1RETQC4,ENGLISH,27,female,control,control_what,7478,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,1,0,1,0,0
+AC7Z8O1RETQC4,ENGLISH,27,female,test,test_books,4701,1,1,1,0,Bookstore F.,Bookstore E.,"Bookstores A, B, C, D and E.",fa,mo-l,exh,1,0,1,0,0,0,1,1,0,1,0,0,0,0
+AC7Z8O1RETQC4,ENGLISH,27,female,test,test_dentist,7644,1,1,1,0,Dentists A and B.,Dentists D and E.,Dentist A.,ms-h,ms-l,mo-h,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+AC7Z8O1RETQC4,ENGLISH,27,female,control,control_why,50115,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,1,1,0,0
+AC7Z8O1RETQC4,ENGLISH,27,female,test,test_hair,10003,1,1,1,0,Stylist A.,Stylists A and B.,Stylist F.,mo-h,ms-h,fa,0,1,0,1,0,0,1,0,1,0,1,0,0,0
+AC7Z8O1RETQC4,ENGLISH,27,female,control,control_how,14861,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,1,0,1,0,0,0
+AC7Z8O1RETQC4,ENGLISH,27,female,exit_quest,NA,718260,I CHOOSE NEARABLE HOTEL. I WILL EAT TASTY FOOD AND VARIETIES OF FOOD. SO I GO TO BEST HOTEL IN MY TRIP.,LITTLE DIFFICULT,NO,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A15SJZQBR8I3B3,English,44,female,consent,NA,374020,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A15SJZQBR8I3B3,English,44,female,train,train_m,75695,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A15SJZQBR8I3B3,English,44,female,train,train_f,77304,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A15SJZQBR8I3B3,English,44,female,test,test_coffee,76268,0,0,0,1,Cafe A.,"Cafes A, B, C, D and E.",Cafes D and E.,mo-h,exh,ms-l,1,1,0,0,1,0,1,0,0,0,0,0,0,1
+A15SJZQBR8I3B3,English,44,female,test,test_yarn,102929,1,1,1,0,Stalls D and E.,Stall A.,Stall E.,ms-l,mo-h,mo-l,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A15SJZQBR8I3B3,English,44,female,control,control_why,63094,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,1,0,1,0,0
+A15SJZQBR8I3B3,English,44,female,test,test_books,50070,1,1,1,0,Bookstore A.,Bookstores A and B.,Bookstores D and E.,mo-h,ms-h,ms-l,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+A15SJZQBR8I3B3,English,44,female,test,test_hair,78915,0,1,0,0,Stylist E.,Stylists A and B.,Stylists D and E.,mo-l,ms-h,ms-l,0,0,1,1,1,0,1,0,0,0,1,0,0,0
+A15SJZQBR8I3B3,English,44,female,control,control_what,54215,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,1,0,0,0
+A15SJZQBR8I3B3,English,44,female,test,test_shoes,63412,1,0,0,0,Store F.,Store E.,Store A.,fa,mo-l,mo-h,0,1,1,0,0,0,1,0,0,0,0,0,0,0
+A15SJZQBR8I3B3,English,44,female,control,control_when,80472,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,0,0,0,0,0,0,0
+A15SJZQBR8I3B3,English,44,female,test,test_dentist,41082,1,1,1,0,Dentists D and E.,Dentist A.,Dentists A and B.,ms-l,mo-h,ms-h,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+A15SJZQBR8I3B3,English,44,female,control,control_how,54147,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,1,1,0,0
+A15SJZQBR8I3B3,English,44,female,exit_quest,NA,207734,No I would not have responded differently. It's the same question.,At times it was difficult. The reason is because I was second guessing myself. ,No.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A12IHTKQFQIPD1,english,34,male,consent,NA,45323,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A12IHTKQFQIPD1,english,34,male,train,train_m,113563,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A12IHTKQFQIPD1,english,34,male,train,train_f,43679,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A12IHTKQFQIPD1,english,34,male,test,test_shoes,76122,0,1,0,0,Stores A and B.,"Stores A, B, C, D and E.",Store E.,ms-h,exh,mo-l,1,0,1,1,0,0,1,1,0,0,0,0,0,0
+A12IHTKQFQIPD1,english,34,male,control,control_how,54322,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,1,0,0,0,0,0,0
+A12IHTKQFQIPD1,english,34,male,test,test_yarn,350330,0,1,0,0,Stall A.,"Stalls A, B, C, D and E.",Stall E.,mo-h,exh,mo-l,1,1,1,0,0,0,1,1,0,0,0,0,0,0
+A12IHTKQFQIPD1,english,34,male,test,test_hair,353230,1,0,0,0,"Stylists A, B, C, D and E.",Stylists A and B.,Stylists D and E.,exh,ms-h,ms-l,1,0,0,1,1,0,1,1,0,0,0,0,0,0
+A12IHTKQFQIPD1,english,34,male,control,control_why,21996,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,1,0,0,0,0,0,0
+A12IHTKQFQIPD1,english,34,male,test,test_dentist,26988,0,0,0,1,Dentist A.,"Dentists A, B, C, D and E.",Dentist F.,mo-h,exh,fa,1,1,0,0,0,0,1,0,0,0,0,0,0,1
+A12IHTKQFQIPD1,english,34,male,control,control_what,24214,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0,0,0,0,0,1
+A12IHTKQFQIPD1,english,34,male,test,test_books,9415,0,1,0,0,Bookstores D and E.,Bookstore A.,Bookstore E.,ms-l,mo-h,mo-l,0,1,1,0,1,0,1,0,1,0,0,0,0,0
+A12IHTKQFQIPD1,english,34,male,test,test_coffee,15412,1,0,0,0,Cafes A and B.,Cafes D and E.,Cafe E.,ms-h,ms-l,mo-l,0,0,1,1,1,0,1,0,0,0,1,0,0,0
+A12IHTKQFQIPD1,english,34,male,control,control_when,34849,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,1,0,0,0
+A12IHTKQFQIPD1,english,34,male,exit_quest,NA,63405,No both questions are nearly identical. ,no%2C because it was multiple choice. ,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2KPTC4K228GM3,ENGLISH,27,male,consent,NA,14788,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2KPTC4K228GM3,ENGLISH,27,male,train,train_m,2186,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2KPTC4K228GM3,ENGLISH,27,male,train,train_f,3927,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2KPTC4K228GM3,ENGLISH,27,male,test,test_books,3986,1,1,1,0,Bookstore A.,Bookstores D and E.,Bookstore E.,mo-h,ms-l,mo-l,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A2KPTC4K228GM3,ENGLISH,27,male,test,test_hair,2259,1,1,1,0,Stylists D and E.,Stylist A.,Stylist E.,ms-l,mo-h,mo-l,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A2KPTC4K228GM3,ENGLISH,27,male,control,control_what,3283,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,1,0,1,0,0
+A2KPTC4K228GM3,ENGLISH,27,male,test,test_dentist,4633,1,1,1,0,Dentist E.,Dentists A and B.,Dentists D and E.,mo-l,ms-h,ms-l,0,0,1,1,1,0,1,0,0,1,1,1,0,0
+A2KPTC4K228GM3,ENGLISH,27,male,test,test_coffee,3876,1,1,1,0,Cafe F.,Cafes A and B.,Cafes D and E.,fa,ms-h,ms-l,0,0,0,1,1,0,1,0,0,0,1,1,0,0
+A2KPTC4K228GM3,ENGLISH,27,male,control,control_why,4514,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,0,0,0,1,1,0,0
+A2KPTC4K228GM3,ENGLISH,27,male,test,test_shoes,8993,1,1,1,0,"Stores A, B, C, D and E.",Store E.,Stores A and B.,exh,mo-l,ms-h,1,0,1,1,0,0,1,1,0,1,1,0,0,0
+A2KPTC4K228GM3,ENGLISH,27,male,control,control_when,3116,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,1,0,1,1,0,0,0
+A2KPTC4K228GM3,ENGLISH,27,male,test,test_yarn,9765,1,1,1,0,Stall E.,Stall F.,"Stalls A, B, C, D and E.",mo-l,fa,exh,1,0,1,0,0,0,1,1,0,1,0,0,0,0
+A2KPTC4K228GM3,ENGLISH,27,male,control,control_how,4404,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,0,1,1,0,1,0,0,0,0
+A2KPTC4K228GM3,ENGLISH,27,male,exit_quest,NA,406867,I CHOOSE NEARABLE HOTEL TO MY TRIP. I WILL EAT TASTY FOOD AND VARIETIES OF FOOD. SO I GO TO BEST HOTEL IN MY TRIP.%0A%0A,LITTLE DIFFICULT,NOTHING.THIS SURVEY IS VERY NICE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A38JCBX2DD2ILP,ENGLISH,28,female,consent,NA,14787,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A38JCBX2DD2ILP,ENGLISH,28,female,train,train_m,49514,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A38JCBX2DD2ILP,ENGLISH,28,female,train,train_f,3443,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A38JCBX2DD2ILP,ENGLISH,28,female,test,test_shoes,101551,1,1,1,0,Store A.,Stores A and B.,Stores D and E.,mo-h,ms-h,ms-l,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+A38JCBX2DD2ILP,ENGLISH,28,female,test,test_hair,32256,1,1,0,0,Stylists A and B.,Stylist E.,Stylist A.,ms-h,mo-l,mo-h,0,1,1,1,0,0,1,0,0,1,1,0,0,0
+A38JCBX2DD2ILP,ENGLISH,28,female,control,control_how,25688,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,0,1,1,0,0,0
+A38JCBX2DD2ILP,ENGLISH,28,female,test,test_yarn,10361,1,1,1,0,Stall E.,Stall F.,Stalls D and E.,mo-l,fa,ms-l,0,0,1,0,1,0,1,0,0,1,0,1,0,0
+A38JCBX2DD2ILP,ENGLISH,28,female,control,control_when,6634,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,1,0,1,0,0
+A38JCBX2DD2ILP,ENGLISH,28,female,test,test_dentist,7314,0,1,1,0,Dentists D and E.,Dentist A.,"Dentists A, B, C, D and E.",ms-l,mo-h,exh,1,1,0,0,1,0,1,1,1,0,0,0,0,0
+A38JCBX2DD2ILP,ENGLISH,28,female,test,test_books,36240,1,1,1,0,Bookstores D and E.,"Bookstores A, B, C, D and E.",Bookstores A and B.,ms-l,exh,ms-h,1,0,0,1,1,0,1,1,0,0,1,1,0,0
+A38JCBX2DD2ILP,ENGLISH,28,female,control,control_why,83931,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,1,0,0,1,1,0,0
+A38JCBX2DD2ILP,ENGLISH,28,female,test,test_coffee,3904,1,1,1,0,Cafe F.,Cafes D and E.,Cafes A and B.,fa,ms-l,ms-h,0,0,0,1,1,0,1,0,0,0,1,1,0,0
+A38JCBX2DD2ILP,ENGLISH,28,female,control,control_what,38728,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,0,0,0,1,1,0,0
+A38JCBX2DD2ILP,ENGLISH,28,female,exit_quest,NA,48955,I CHOOSE NEARABLE HOTEL. I WILL EAT TASTY FOOD AND VARIETIES OF FOOD. SO I GO TO BEST HOTEL IN MY TRIP.%0A%0A,DIFFICULT,NO,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1Q16A7AICS0C4,ENGLISH,27,female,consent,NA,38415,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1Q16A7AICS0C4,ENGLISH,27,female,train,train_m,259694,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1Q16A7AICS0C4,ENGLISH,27,female,train,train_f,549771,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1Q16A7AICS0C4,ENGLISH,27,female,test,test_dentist,151574,0,1,1,0,Dentists A and B.,Dentists D and E.,Dentist A.,ms-h,ms-l,mo-h,0,1,0,1,1,0,1,0,1,0,0,1,0,0
+A1Q16A7AICS0C4,ENGLISH,27,female,test,test_shoes,8175,0,0,1,0,Stores A and B.,Store F.,Store A.,ms-h,fa,mo-h,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+A1Q16A7AICS0C4,ENGLISH,27,female,control,control_why,3020,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,1,0,0,0,0,0
+A1Q16A7AICS0C4,ENGLISH,27,female,test,test_coffee,2594,0,1,0,0,Cafes A and B.,Cafe E.,Cafes D and E.,ms-h,mo-l,ms-l,0,0,1,1,1,0,1,0,0,1,0,0,0,0
+A1Q16A7AICS0C4,ENGLISH,27,female,control,control_what,2545,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,1,0,0,0,0
+A1Q16A7AICS0C4,ENGLISH,27,female,test,test_yarn,6102,1,1,0,0,Stalls D and E.,Stall E.,Stall F.,ms-l,mo-l,fa,0,0,1,0,1,0,1,0,0,1,0,1,0,0
+A1Q16A7AICS0C4,ENGLISH,27,female,test,test_books,2356,0,1,0,0,Bookstore E.,Bookstore A.,"Bookstores A, B, C, D and E.",mo-l,mo-h,exh,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+A1Q16A7AICS0C4,ENGLISH,27,female,control,control_when,4237,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,0,1,0,0,0,0,0
+A1Q16A7AICS0C4,ENGLISH,27,female,test,test_hair,23439,0,1,1,0,Stylist A.,Stylist F.,Stylist E.,mo-h,fa,mo-l,0,1,1,0,0,0,1,0,0,1,0,0,0,0
+A1Q16A7AICS0C4,ENGLISH,27,female,control,control_how,3510,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,0,0,1,0,0,0,0
+A1Q16A7AICS0C4,ENGLISH,27,female,exit_quest,NA,51474,I CHOOSE NEARABLE HOTEL. I WILL EAT TASTY FOOD AND VARIETIES OF FOOD. SO I GO TO BEST HOTEL IN MY TRIP.%0A%0A,DIFFICULT,NO,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1SHLWKA0UH1IS,english,53,female,consent,NA,556595,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1SHLWKA0UH1IS,english,53,female,train,train_f,47918,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1SHLWKA0UH1IS,english,53,female,train,train_m,103144,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1SHLWKA0UH1IS,english,53,female,test,test_dentist,63327,0,0,0,1,Dentists D and E.,Dentist F.,Dentist E.,ms-l,fa,mo-l,0,0,1,0,1,0,1,0,0,0,0,0,0,1
+A1SHLWKA0UH1IS,english,53,female,test,test_books,66542,0,0,1,0,Bookstore F.,Bookstore E.,Bookstores A and B.,fa,mo-l,ms-h,0,0,1,1,0,0,1,0,0,0,1,0,0,0
+A1SHLWKA0UH1IS,english,53,female,control,control_when,66608,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,0,0,0,1,0,0,0
+A1SHLWKA0UH1IS,english,53,female,test,test_yarn,33908,1,0,1,0,Stalls A and B.,Stall E.,Stall A.,ms-h,mo-l,mo-h,0,1,1,1,0,0,1,0,1,0,1,0,0,0
+A1SHLWKA0UH1IS,english,53,female,test,test_coffee,18606,0,1,1,0,Cafes D and E.,Cafes A and B.,Cafe A.,ms-l,ms-h,mo-h,0,1,0,1,1,0,1,0,1,0,1,0,0,0
+A1SHLWKA0UH1IS,english,53,female,control,control_what,23342,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,1,0,0,0
+A1SHLWKA0UH1IS,english,53,female,test,test_hair,28910,0,0,0,1,Stylist F.,"Stylists A, B, C, D and E.",Stylist E.,fa,exh,mo-l,1,0,1,0,0,0,1,0,0,0,0,0,0,1
+A1SHLWKA0UH1IS,english,53,female,control,control_how,132600,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,0,1,0,0,0,0,0,0,1
+A1SHLWKA0UH1IS,english,53,female,test,test_shoes,39869,0,1,1,0,Store F.,Store E.,"Stores A, B, C, D and E.",fa,mo-l,exh,1,0,1,0,0,0,1,1,0,1,0,0,0,0
+A1SHLWKA0UH1IS,english,53,female,control,control_why,30773,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,0,1,1,0,1,0,0,0,0
+A1SHLWKA0UH1IS,english,53,female,exit_quest,NA,229179,For question 1 I'd probably just give a list of all restaurants that serve brunch. For Q2 I'd give the restaurants that I thought served the best brunch. ,A little. A few times I questioned myself%2C thinking there could be more than one answer when I only ended up choosing one. Or choosing all of the sentences in one of the last exercises%2C when two sounded awkward but I could still imagine someone saying them and being understood. ,That was interesting. ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A23OS0HQ12VVOR,English,31,male,consent,NA,23430,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A23OS0HQ12VVOR,English,31,male,train,train_f,42628,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A23OS0HQ12VVOR,English,31,male,train,train_m,37544,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A23OS0HQ12VVOR,English,31,male,test,test_shoes,239716,0,1,0,0,Store F.,"Stores A, B, C, D and E.",Stores D and E.,fa,exh,ms-l,1,0,0,0,1,0,1,1,0,0,0,0,0,0
+A23OS0HQ12VVOR,English,31,male,control,control_why,28268,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,0,1,1,0,0,0,0,0,0
+A23OS0HQ12VVOR,English,31,male,test,test_coffee,305790,0,1,0,0,Cafe E.,Cafes A and B.,"Cafes A, B, C, D and E.",mo-l,ms-h,exh,1,0,1,1,0,0,1,0,0,0,1,0,0,0
+A23OS0HQ12VVOR,English,31,male,test,test_hair,64146,1,0,0,0,Stylist A.,Stylist E.,Stylists A and B.,mo-h,mo-l,ms-h,0,1,1,1,0,0,1,0,1,0,0,0,0,0
+A23OS0HQ12VVOR,English,31,male,control,control_how,25964,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,1,0,0,0,0,0
+A23OS0HQ12VVOR,English,31,male,test,test_dentist,11946,0,0,1,0,Dentists D and E.,Dentist F.,Dentist A.,ms-l,fa,mo-h,0,1,0,0,1,0,1,0,1,0,0,0,0,0
+A23OS0HQ12VVOR,English,31,male,control,control_what,17150,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,1,0,0,0,0,0
+A23OS0HQ12VVOR,English,31,male,test,test_books,11584,0,0,1,0,Bookstore E.,"Bookstores A, B, C, D and E.",Bookstores A and B.,mo-l,exh,ms-h,1,0,1,1,0,0,1,0,0,0,1,0,0,0
+A23OS0HQ12VVOR,English,31,male,test,test_yarn,11332,0,0,1,0,"Stalls A, B, C, D and E.",Stalls D and E.,Stall A.,exh,ms-l,mo-h,1,1,0,0,1,0,1,0,1,0,0,0,0,0
+A23OS0HQ12VVOR,English,31,male,control,control_when,19516,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,1,0,0,0,0,0
+A23OS0HQ12VVOR,English,31,male,exit_quest,NA,80280,No%2C it's the same question but phrased in a different way - they both have the same meaning.,Not really%2C some of the tasks were a bit tough but only because of how they were worded,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2JIY3NSLQJWAE,english,27,female,consent,NA,151345,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2JIY3NSLQJWAE,english,27,female,train,train_m,576383,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2JIY3NSLQJWAE,english,27,female,train,train_f,9018,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2JIY3NSLQJWAE,english,27,female,test,test_books,277159,0,1,1,0,Bookstore E.,"Bookstores A, B, C, D and E.",Bookstore A.,mo-l,exh,mo-h,1,1,1,0,0,0,1,1,1,0,0,0,0,0
+A2JIY3NSLQJWAE,english,27,female,control,control_when,95230,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,1,1,0,0,0,0,0
+A2JIY3NSLQJWAE,english,27,female,test,test_shoes,23047,1,1,1,0,Stores A and B.,Store F.,Store E.,ms-h,fa,mo-l,0,0,1,1,0,0,1,0,0,1,1,0,0,0
+A2JIY3NSLQJWAE,english,27,female,test,test_dentist,10306,1,1,1,0,Dentists D and E.,Dentists A and B.,Dentist A.,ms-l,ms-h,mo-h,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+A2JIY3NSLQJWAE,english,27,female,control,control_how,8549,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,1,1,0,0
+A2JIY3NSLQJWAE,english,27,female,test,test_yarn,5833,0,1,1,0,Stalls D and E.,Stall A.,Stall E.,ms-l,mo-h,mo-l,0,1,1,0,1,0,1,0,1,1,0,0,0,0
+A2JIY3NSLQJWAE,english,27,female,control,control_why,5186,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,1,0,0,0,0
+A2JIY3NSLQJWAE,english,27,female,test,test_coffee,6243,1,1,0,0,Cafe F.,"Cafes A, B, C, D and E.",Cafe A.,fa,exh,mo-h,1,1,0,0,0,0,1,1,0,0,0,0,0,0
+A2JIY3NSLQJWAE,english,27,female,test,test_hair,14323,0,1,1,0,Stylists A and B.,"Stylists A, B, C, D and E.",Stylist A.,ms-h,exh,mo-h,1,1,0,1,0,0,1,1,1,0,0,0,0,0
+A2JIY3NSLQJWAE,english,27,female,control,control_what,14161,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,1,1,0,0,0,0,0
+A2JIY3NSLQJWAE,english,27,female,exit_quest,NA,192748,We began with scones and also ordered pimiento cheese spread for the table—this is a Southern restaurant%2C after all. The pimiento cheese spread was perfectly presented—served in a mini mason jar atop a wooden rectangular cutting board with crackers%2Cits very interesting,nothing%2Cvery nice survey,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AZXTZQBZ1F4UV,english,27,male,consent,NA,206329,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AZXTZQBZ1F4UV,english,27,male,train,train_m,725328,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AZXTZQBZ1F4UV,english,27,male,train,train_f,234694,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AZXTZQBZ1F4UV,english,27,male,test,test_books,248751,1,1,1,0,Bookstores D and E.,Bookstores A and B.,Bookstore F.,ms-l,ms-h,fa,0,0,0,1,1,0,1,0,0,0,1,1,0,0
+AZXTZQBZ1F4UV,english,27,male,test,test_coffee,61874,1,1,1,0,Cafe E.,Cafe F.,Cafes D and E.,mo-l,fa,ms-l,0,0,1,0,1,0,1,0,0,1,0,1,0,0
+AZXTZQBZ1F4UV,english,27,male,control,control_how,59280,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,1,0,1,0,0
+AZXTZQBZ1F4UV,english,27,male,test,test_hair,93750,1,1,1,0,Stylist F.,"Stylists A, B, C, D and E.",Stylist A.,fa,exh,mo-h,1,1,0,0,0,0,1,1,1,0,0,0,0,0
+AZXTZQBZ1F4UV,english,27,male,control,control_what,11857,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,1,1,0,0,0,0,0
+AZXTZQBZ1F4UV,english,27,male,test,test_shoes,15639,1,1,1,0,"Stores A, B, C, D and E.",Store E.,Stores D and E.,exh,mo-l,ms-l,1,0,1,0,1,0,1,1,0,1,0,1,0,0
+AZXTZQBZ1F4UV,english,27,male,test,test_dentist,8606,1,1,1,0,Dentists A and B.,Dentists D and E.,"Dentists A, B, C, D and E.",ms-h,ms-l,exh,1,0,0,1,1,0,1,1,0,0,1,1,0,0
+AZXTZQBZ1F4UV,english,27,male,control,control_why,15549,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,1,0,0,1,1,0,0
+AZXTZQBZ1F4UV,english,27,male,test,test_yarn,4950,1,1,0,0,"Stalls A, B, C, D and E.",Stall A.,Stall E.,exh,mo-h,mo-l,1,1,1,0,0,0,1,1,1,0,0,0,0,0
+AZXTZQBZ1F4UV,english,27,male,control,control_when,5917,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,1,1,0,0,0,0,0
+AZXTZQBZ1F4UV,english,27,male,exit_quest,NA,45693,I CHOOSE NEARABLE HOTEL. I WILL EAT TASTY FOOD AND VARIETIES OF FOOD. SO I GO TO BEST HOTEL IN MY TRIP.%0A%0A,it's very difficult,no nothing,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A120PN22KW0VPY,English,64,female,consent,NA,109809,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A120PN22KW0VPY,English,64,female,train,train_m,108871,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A120PN22KW0VPY,English,64,female,train,train_f,51840,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A120PN22KW0VPY,English,64,female,test,test_hair,71354,0,0,0,1,Stylist E.,Stylist F.,Stylists D and E.,mo-l,fa,ms-l,0,0,1,0,1,0,1,0,0,0,0,0,0,1
+A120PN22KW0VPY,English,64,female,test,test_coffee,75091,0,0,1,0,Cafe E.,Cafes D and E.,Cafes A and B.,mo-l,ms-l,ms-h,0,0,1,1,1,0,1,0,0,0,1,0,0,0
+A120PN22KW0VPY,English,64,female,control,control_how,41956,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,1,0,0,0
+A120PN22KW0VPY,English,64,female,test,test_books,95739,0,0,0,1,Bookstore A.,Bookstore F.,Bookstore E.,mo-h,fa,mo-l,0,1,1,0,0,0,1,0,0,0,0,0,0,1
+A120PN22KW0VPY,English,64,female,control,control_what,60014,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,0,0,0,0,0,0,1
+A120PN22KW0VPY,English,64,female,test,test_shoes,62042,1,0,0,0,Stores A and B.,Store A.,"Stores A, B, C, D and E.",ms-h,mo-h,exh,1,1,0,1,0,0,1,0,0,0,1,0,0,0
+A120PN22KW0VPY,English,64,female,test,test_yarn,771113,0,0,1,0,Stall E.,Stalls D and E.,Stalls A and B.,mo-l,ms-l,ms-h,0,0,1,1,1,0,1,0,0,0,1,0,0,0
+A120PN22KW0VPY,English,64,female,control,control_when,56967,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,1,0,0,0
+A120PN22KW0VPY,English,64,female,test,test_dentist,149479,0,0,0,1,Dentists D and E.,"Dentists A, B, C, D and E.",Dentist F.,ms-l,exh,fa,1,0,0,0,1,0,1,0,0,0,0,0,0,1
+A120PN22KW0VPY,English,64,female,control,control_why,53882,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,0,1,0,0,0,0,0,0,1
+A120PN22KW0VPY,English,64,female,exit_quest,NA,143460,I don't think I'd answer differently because I know it's a restaurant. I would just just add more information%2C such as contents of the brunch%2C mapquest%2C and hours open.,I had to think carefully. Then I needed to re-read most of the ones given. ,My brain is tired. Just kidding. Thanks.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2JWHS06PQMJ1,English,30,female,consent,NA,113658,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2JWHS06PQMJ1,English,30,female,train,train_m,37652,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2JWHS06PQMJ1,English,30,female,train,train_f,110728,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2JWHS06PQMJ1,English,30,female,test,test_dentist,45710,0,0,0,1,Dentist F.,Dentists A and B.,Dentists D and E.,fa,ms-h,ms-l,0,0,0,1,1,0,1,0,0,0,0,0,0,1
+A2JWHS06PQMJ1,English,30,female,test,test_books,52738,0,0,1,0,Bookstores A and B.,Bookstore E.,"Bookstores A, B, C, D and E.",ms-h,mo-l,exh,1,0,1,1,0,0,1,1,0,0,0,0,0,0
+A2JWHS06PQMJ1,English,30,female,control,control_how,41842,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,1,0,0,0,0,0,0
+A2JWHS06PQMJ1,English,30,female,test,test_coffee,51193,1,0,1,0,Cafe A.,Cafe E.,Cafes A and B.,mo-h,mo-l,ms-h,0,1,1,1,0,0,1,0,1,0,1,0,0,0
+A2JWHS06PQMJ1,English,30,female,test,test_shoes,24954,1,0,0,0,"Stores A, B, C, D and E.",Stores D and E.,Store E.,exh,ms-l,mo-l,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+A2JWHS06PQMJ1,English,30,female,control,control_when,54110,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,1,0,0,0,0,0,0
+A2JWHS06PQMJ1,English,30,female,test,test_yarn,17145,0,0,0,1,Stall E.,"Stalls A, B, C, D and E.",Stalls A and B.,mo-l,exh,ms-h,1,0,1,1,0,0,1,0,0,0,0,0,0,1
+A2JWHS06PQMJ1,English,30,female,control,control_why,26415,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,0,0,0,0,0,0,1
+A2JWHS06PQMJ1,English,30,female,test,test_hair,16762,1,0,0,0,Stylist A.,Stylists A and B.,Stylists D and E.,mo-h,ms-h,ms-l,0,1,0,1,1,0,1,0,1,0,0,0,0,0
+A2JWHS06PQMJ1,English,30,female,control,control_what,22635,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,0,0,0,0
+A2JWHS06PQMJ1,English,30,female,exit_quest,NA,69954,I would not. Both questions would be answered with names of restaurants that serve brunch in town.,Some parts were almost like riddles. They were fun to try to solve.,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD6FEEQSW8PRE,ENGLISH,27,female,consent,NA,80558,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD6FEEQSW8PRE,ENGLISH,27,female,train,train_f,892505,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD6FEEQSW8PRE,ENGLISH,27,female,train,train_m,126543,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD6FEEQSW8PRE,ENGLISH,27,female,test,test_yarn,89383,0,0,1,0,Stall E.,Stalls A and B.,Stall F.,mo-l,ms-h,fa,0,0,1,1,0,0,1,0,0,0,0,0,0,0
+AD6FEEQSW8PRE,ENGLISH,27,female,test,test_hair,64464,1,0,0,0,"Stylists A, B, C, D and E.",Stylists A and B.,Stylist A.,exh,ms-h,mo-h,1,1,0,1,0,0,1,1,0,0,0,0,0,0
+AD6FEEQSW8PRE,ENGLISH,27,female,control,control_what,43347,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,1,0,0,0,0,0,0
+AD6FEEQSW8PRE,ENGLISH,27,female,test,test_books,41693,0,1,0,0,Bookstore F.,Bookstore E.,Bookstores A and B.,fa,mo-l,ms-h,0,0,1,1,0,0,1,0,0,1,0,0,0,0
+AD6FEEQSW8PRE,ENGLISH,27,female,test,test_coffee,3320,0,1,0,0,Cafe A.,Cafes D and E.,"Cafes A, B, C, D and E.",mo-h,ms-l,exh,1,1,0,0,1,0,1,0,0,0,0,1,0,0
+AD6FEEQSW8PRE,ENGLISH,27,female,control,control_why,4881,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,0,0,0,1,0,0
+AD6FEEQSW8PRE,ENGLISH,27,female,test,test_shoes,2777,0,1,0,0,Stores A and B.,Stores D and E.,Store A.,ms-h,ms-l,mo-h,0,1,0,1,1,0,1,0,0,0,0,1,0,0
+AD6FEEQSW8PRE,ENGLISH,27,female,control,control_when,3744,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,0,0,0,1,0,0
+AD6FEEQSW8PRE,ENGLISH,27,female,test,test_dentist,2342,0,0,1,0,Dentist A.,Dentists D and E.,Dentist F.,mo-h,ms-l,fa,0,1,0,0,1,0,1,0,0,0,0,0,0,0
+AD6FEEQSW8PRE,ENGLISH,27,female,control,control_how,2817,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,0,0,0,0,0,0
+AD6FEEQSW8PRE,ENGLISH,27,female,exit_quest,NA,96764,I CHOOSE NEARABLE HOTEL. I WILL EAT TASTY FOOD AND VARIETIES OF FOOD. SO I GO TO BEST HOTEL IN MY TRIP.%0A%0A,YES%2C DIFFICULT. VERY TOUGH TO UNDERSTAND.,NO,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2TNTYHHICCA3Z,ENGLISH,27,female,consent,NA,49571,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2TNTYHHICCA3Z,ENGLISH,27,female,train,train_m,682856,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2TNTYHHICCA3Z,ENGLISH,27,female,train,train_f,3906,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2TNTYHHICCA3Z,ENGLISH,27,female,test,test_yarn,41537,0,0,1,0,"Stalls A, B, C, D and E.",Stall A.,Stalls D and E.,exh,mo-h,ms-l,1,1,0,0,1,0,1,0,0,0,0,1,0,0
+A2TNTYHHICCA3Z,ENGLISH,27,female,test,test_coffee,1050099,1,1,1,0,Cafes D and E.,Cafe E.,"Cafes A, B, C, D and E.",ms-l,mo-l,exh,1,0,1,0,1,0,1,1,0,1,0,1,0,0
+A2TNTYHHICCA3Z,ENGLISH,27,female,control,control_how,71198,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,1,0,1,0,1,0,0
+A2TNTYHHICCA3Z,ENGLISH,27,female,test,test_dentist,46418,1,1,1,0,Dentists A and B.,Dentist A.,"Dentists A, B, C, D and E.",ms-h,mo-h,exh,1,1,0,1,0,0,1,1,1,0,1,0,0,0
+A2TNTYHHICCA3Z,ENGLISH,27,female,control,control_why,32819,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,1,1,0,1,0,0,0
+A2TNTYHHICCA3Z,ENGLISH,27,female,test,test_books,24617,0,0,1,0,Bookstore A.,Bookstore E.,Bookstores D and E.,mo-h,mo-l,ms-l,0,1,1,0,1,0,1,0,0,0,0,1,0,0
+A2TNTYHHICCA3Z,ENGLISH,27,female,test,test_shoes,9025,0,0,1,0,Stores D and E.,Store E.,"Stores A, B, C, D and E.",ms-l,mo-l,exh,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+A2TNTYHHICCA3Z,ENGLISH,27,female,control,control_what,11657,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,1,0,0,0,0,0,0
+A2TNTYHHICCA3Z,ENGLISH,27,female,test,test_hair,7880,1,1,1,0,Stylists A and B.,Stylists D and E.,Stylist E.,ms-h,ms-l,mo-l,0,0,1,1,1,0,1,0,0,1,1,1,0,0
+A2TNTYHHICCA3Z,ENGLISH,27,female,control,control_when,5871,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,1,1,1,0,0
+A2TNTYHHICCA3Z,ENGLISH,27,female,exit_quest,NA,134395,I CHOOSE NEARABLE HOTEL. I WILL EAT TASTY FOOD AND VARIETIES OF FOOD. SO I GO TO BEST HOTEL IN MY TRIP.%0A%0A,NO DIFFICULT TASK VERY EASY,VERY NICE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AT53IAFG8BTZO,English,43,female,consent,NA,90655,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AT53IAFG8BTZO,English,43,female,train,train_f,79174,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AT53IAFG8BTZO,English,43,female,train,train_m,60112,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AT53IAFG8BTZO,English,43,female,test,test_coffee,115216,0,1,1,0,Cafes D and E.,Cafe A.,"Cafes A, B, C, D and E.",ms-l,mo-h,exh,1,1,0,0,1,0,1,1,1,0,0,0,0,0
+AT53IAFG8BTZO,English,43,female,test,test_dentist,837879,0,0,0,1,Dentist A.,Dentist E.,"Dentists A, B, C, D and E.",mo-h,mo-l,exh,1,1,1,0,0,0,1,0,0,0,0,0,0,1
+AT53IAFG8BTZO,English,43,female,control,control_how,86583,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,0,0,0,0,0,0,1
+AT53IAFG8BTZO,English,43,female,test,test_books,59441,0,0,1,0,Bookstore F.,Bookstores D and E.,Bookstore A.,fa,ms-l,mo-h,0,1,0,0,1,0,1,0,1,0,0,0,0,0
+AT53IAFG8BTZO,English,43,female,test,test_shoes,56031,1,0,0,0,Stores A and B.,Stores D and E.,Store F.,ms-h,ms-l,fa,0,0,0,1,1,0,1,0,0,0,1,0,0,0
+AT53IAFG8BTZO,English,43,female,control,control_when,47803,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,0,0,0,1,0,0,0
+AT53IAFG8BTZO,English,43,female,test,test_yarn,48358,0,0,1,0,Stall F.,Stall E.,"Stalls A, B, C, D and E.",fa,mo-l,exh,1,0,1,0,0,0,1,1,0,0,0,0,0,0
+AT53IAFG8BTZO,English,43,female,control,control_why,34991,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,0,1,1,0,0,0,0,0,0
+AT53IAFG8BTZO,English,43,female,test,test_hair,73098,0,1,0,0,Stylist A.,"Stylists A, B, C, D and E.",Stylists A and B.,mo-h,exh,ms-h,1,1,0,1,0,0,1,1,0,0,0,0,0,0
+AT53IAFG8BTZO,English,43,female,control,control_what,40647,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,1,0,0,0,0,0,0
+AT53IAFG8BTZO,English,43,female,exit_quest,NA,169151,no%2C I would provide the same answer if either of the questions were asked%2C because they questions mean the same thing. If it was worried%2C which is the least expensive or which is the best brunch place%2C then that would be different.,I found it a little difficult%2C because the questions didn't make a whole lot of sense to me%2C well some of the scenerios,n/a,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2YCHYBHJESOUD,english,30,female,consent,NA,275518,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2YCHYBHJESOUD,english,30,female,train,train_m,54449,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2YCHYBHJESOUD,english,30,female,train,train_f,50184,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2YCHYBHJESOUD,english,30,female,test,test_shoes,67360,0,0,0,1,Stores D and E.,Stores A and B.,Store E.,ms-l,ms-h,mo-l,0,0,1,1,1,0,1,0,0,0,0,0,0,1
+A2YCHYBHJESOUD,english,30,female,test,test_hair,66389,0,0,0,1,Stylist A.,Stylist F.,Stylists A and B.,mo-h,fa,ms-h,0,1,0,1,0,0,1,0,0,0,0,0,0,1
+A2YCHYBHJESOUD,english,30,female,control,control_how,57514,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,1
+A2YCHYBHJESOUD,english,30,female,test,test_books,85360,0,0,0,1,Bookstores A and B.,"Bookstores A, B, C, D and E.",Bookstores D and E.,ms-h,exh,ms-l,1,0,0,1,1,0,1,0,0,0,0,0,0,1
+A2YCHYBHJESOUD,english,30,female,control,control_when,48422,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,0,0,0,0,0,0,1
+A2YCHYBHJESOUD,english,30,female,test,test_dentist,60657,0,0,0,1,"Dentists A, B, C, D and E.",Dentists D and E.,Dentists A and B.,exh,ms-l,ms-h,1,0,0,1,1,0,1,0,0,0,0,0,0,1
+A2YCHYBHJESOUD,english,30,female,test,test_coffee,69468,1,0,0,0,Cafe A.,Cafes D and E.,Cafe E.,mo-h,ms-l,mo-l,0,1,1,0,1,0,1,0,1,0,0,0,0,0
+A2YCHYBHJESOUD,english,30,female,control,control_what,38883,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,0,0,0,0,0
+A2YCHYBHJESOUD,english,30,female,test,test_yarn,294250,0,0,0,1,Stall A.,Stalls A and B.,Stall F.,mo-h,ms-h,fa,0,1,0,1,0,0,1,0,0,0,0,0,0,1
+A2YCHYBHJESOUD,english,30,female,control,control_why,156765,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,1
+A2YCHYBHJESOUD,english,30,female,exit_quest,NA,309578,i suggest then you can go to kenny's wood fried grill,nothing,nothing,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ADNSFH55XO2F8,English,45,male,consent,NA,37157,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ADNSFH55XO2F8,English,45,male,train,train_m,314858,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ADNSFH55XO2F8,English,45,male,train,train_f,116700,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ADNSFH55XO2F8,English,45,male,test,test_coffee,15317,1,0,0,0,Cafe E.,"Cafes A, B, C, D and E.",Cafes D and E.,mo-l,exh,ms-l,1,0,1,0,1,0,1,0,0,1,0,0,0,0
+ADNSFH55XO2F8,English,45,male,test,test_dentist,4920,1,0,0,0,Dentist A.,"Dentists A, B, C, D and E.",Dentist F.,mo-h,exh,fa,1,1,0,0,0,0,1,0,1,0,0,0,0,0
+ADNSFH55XO2F8,English,45,male,control,control_how,6094,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,1,0,0,0,0,0
+ADNSFH55XO2F8,English,45,male,test,test_yarn,3287,1,0,0,0,Stall E.,Stall A.,Stalls A and B.,mo-l,mo-h,ms-h,0,1,1,1,0,0,1,0,0,1,0,0,0,0
+ADNSFH55XO2F8,English,45,male,control,control_why,21615,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,0,1,0,0,0,0
+ADNSFH55XO2F8,English,45,male,test,test_books,6015,0,1,0,0,Bookstore A.,Bookstore E.,"Bookstores A, B, C, D and E.",mo-h,mo-l,exh,1,1,1,0,0,0,1,0,0,1,0,0,0,0
+ADNSFH55XO2F8,English,45,male,test,test_shoes,8713,1,0,0,0,Stores A and B.,Store A.,Stores D and E.,ms-h,mo-h,ms-l,0,1,0,1,1,0,1,0,0,0,1,0,0,0
+ADNSFH55XO2F8,English,45,male,control,control_what,9623,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,0,0,1,0,0,0
+ADNSFH55XO2F8,English,45,male,test,test_hair,855612,1,0,0,0,"Stylists A, B, C, D and E.",Stylist E.,Stylists D and E.,exh,mo-l,ms-l,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+ADNSFH55XO2F8,English,45,male,control,control_when,10002,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,1,0,0,0,0,0,0
+ADNSFH55XO2F8,English,45,male,exit_quest,NA,169144,KFC,NO,GOOD,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A157L6Z8QU3SDE,English,30,male,consent,NA,35517,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A157L6Z8QU3SDE,English,30,male,train,train_m,83241,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A157L6Z8QU3SDE,English,30,male,train,train_f,41424,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A157L6Z8QU3SDE,English,30,male,test,test_dentist,50399,0,0,0,1,Dentist E.,Dentist A.,Dentist F.,mo-l,mo-h,fa,0,1,1,0,0,0,1,0,0,0,0,0,0,1
+A157L6Z8QU3SDE,English,30,male,test,test_yarn,54343,0,0,0,1,"Stalls A, B, C, D and E.",Stall A.,Stall F.,exh,mo-h,fa,1,1,0,0,0,0,1,0,0,0,0,0,0,1
+A157L6Z8QU3SDE,English,30,male,control,control_why,28202,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0,0,0,0,0,1
+A157L6Z8QU3SDE,English,30,male,test,test_books,26243,0,0,0,1,Bookstore E.,Bookstore A.,Bookstore F.,mo-l,mo-h,fa,0,1,1,0,0,0,1,0,0,0,0,0,0,1
+A157L6Z8QU3SDE,English,30,male,test,test_hair,27477,0,0,0,1,Stylist A.,"Stylists A, B, C, D and E.",Stylists D and E.,mo-h,exh,ms-l,1,1,0,0,1,0,1,0,0,0,0,0,0,1
+A157L6Z8QU3SDE,English,30,male,control,control_when,53991,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,0,0,0,0,0,1
+A157L6Z8QU3SDE,English,30,male,test,test_shoes,33648,0,0,0,1,Stores A and B.,Stores D and E.,Store A.,ms-h,ms-l,mo-h,0,1,0,1,1,0,1,0,0,0,0,0,0,1
+A157L6Z8QU3SDE,English,30,male,control,control_what,25250,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,0,0,0,0,0,1
+A157L6Z8QU3SDE,English,30,male,test,test_coffee,25429,0,0,0,1,Cafes D and E.,Cafe E.,Cafe A.,ms-l,mo-l,mo-h,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+A157L6Z8QU3SDE,English,30,male,control,control_how,38422,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,0,0,0,0,0,1
+A157L6Z8QU3SDE,English,30,male,exit_quest,NA,174886,I would not answer differently as it is the same core question. ,It was not difficult but the questions were really open and by stretching your mind you can think different answers. I answered literally%2C if they knew the exact answer they were right and if they kind of knew I did not find it correct. ,No. ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2VRDE2FHCBMF8,Italian,39,male,consent,NA,28732,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2VRDE2FHCBMF8,Italian,39,male,train,train_m,69895,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2VRDE2FHCBMF8,Italian,39,male,train,train_f,50117,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2VRDE2FHCBMF8,Italian,39,male,test,test_yarn,45597,0,0,0,1,Stalls D and E.,Stalls A and B.,Stall E.,ms-l,ms-h,mo-l,0,0,1,1,1,0,1,0,0,0,0,0,0,1
+A2VRDE2FHCBMF8,Italian,39,male,test,test_dentist,33540,0,0,1,0,Dentist A.,Dentist F.,Dentists A and B.,mo-h,fa,ms-h,0,1,0,1,0,0,1,0,0,0,1,0,0,0
+A2VRDE2FHCBMF8,Italian,39,male,control,control_what,33710,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,0,0,1,0,0,0
+A2VRDE2FHCBMF8,Italian,39,male,test,test_coffee,30127,1,0,1,0,Cafe A.,Cafes D and E.,Cafes A and B.,mo-h,ms-l,ms-h,0,1,0,1,1,0,1,0,1,0,1,0,0,0
+A2VRDE2FHCBMF8,Italian,39,male,test,test_shoes,28997,1,1,0,0,Store A.,Stores A and B.,Store E.,mo-h,ms-h,mo-l,0,1,1,1,0,0,1,0,1,0,1,0,0,0
+A2VRDE2FHCBMF8,Italian,39,male,control,control_how,98102,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,1,0,1,0,0,0
+A2VRDE2FHCBMF8,Italian,39,male,test,test_hair,36862,0,1,0,0,Stylist E.,Stylist A.,Stylists D and E.,mo-l,mo-h,ms-l,0,1,1,0,1,0,1,0,1,0,0,0,0,0
+A2VRDE2FHCBMF8,Italian,39,male,control,control_when,56094,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,0,0,0,0,0
+A2VRDE2FHCBMF8,Italian,39,male,test,test_books,12158,1,1,0,0,Bookstore A.,Bookstores A and B.,Bookstore E.,mo-h,ms-h,mo-l,0,1,1,1,0,0,1,0,1,0,1,0,0,0
+A2VRDE2FHCBMF8,Italian,39,male,control,control_why,23583,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,1,0,1,0,0,0
+A2VRDE2FHCBMF8,Italian,39,male,exit_quest,NA,64246,I would answer in the same way,It wasn't difficult%2C even if I'm not a native speaker,Thank you very much for this HIT%2C and best of luck with your research,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A9EQ4FWCUQVBL,english,56,female,consent,NA,34466,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A9EQ4FWCUQVBL,english,56,female,train,train_f,69610,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A9EQ4FWCUQVBL,english,56,female,train,train_m,82299,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A9EQ4FWCUQVBL,english,56,female,test,test_coffee,79978,0,0,0,1,"Cafes A, B, C, D and E.",Cafes D and E.,Cafes A and B.,exh,ms-l,ms-h,1,0,0,1,1,0,1,0,0,0,0,0,0,1
+A9EQ4FWCUQVBL,english,56,female,control,control_what,61684,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,0,0,0,0,0,0,1
+A9EQ4FWCUQVBL,english,56,female,test,test_dentist,63563,1,0,0,0,Dentists A and B.,Dentists D and E.,Dentist E.,ms-h,ms-l,mo-l,0,0,1,1,1,0,1,0,0,0,1,0,0,0
+A9EQ4FWCUQVBL,english,56,female,test,test_yarn,55074,0,0,0,1,"Stalls A, B, C, D and E.",Stalls A and B.,Stall E.,exh,ms-h,mo-l,1,0,1,1,0,0,1,0,0,0,0,0,0,1
+A9EQ4FWCUQVBL,english,56,female,control,control_when,145969,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,0,0,0,0,0,0,1
+A9EQ4FWCUQVBL,english,56,female,test,test_hair,56397,0,0,0,1,Stylist E.,Stylists D and E.,Stylists A and B.,mo-l,ms-l,ms-h,0,0,1,1,1,0,1,0,0,0,0,0,0,1
+A9EQ4FWCUQVBL,english,56,female,control,control_how,82314,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,0,0,0,1
+A9EQ4FWCUQVBL,english,56,female,test,test_shoes,36126,0,0,0,1,Store A.,Stores A and B.,Store E.,mo-h,ms-h,mo-l,0,1,1,1,0,0,1,0,0,0,0,0,0,1
+A9EQ4FWCUQVBL,english,56,female,test,test_books,19953,1,1,1,0,Bookstores D and E.,Bookstore F.,Bookstore A.,ms-l,fa,mo-h,0,1,0,0,1,0,1,0,1,0,0,1,0,0
+A9EQ4FWCUQVBL,english,56,female,control,control_why,43998,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,1,0,0,1,0,0
+A9EQ4FWCUQVBL,english,56,female,exit_quest,NA,86326,yes i would answer different because i have many options to say in the second question.,no it was really fun and easy to understand ,no%2C thank you ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3908297ZI3LES,english,56,female,consent,NA,777808,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3908297ZI3LES,english,56,female,train,train_f,357813,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3908297ZI3LES,english,56,female,train,train_m,37197,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3908297ZI3LES,english,56,female,test,test_shoes,35877,0,0,1,0,Stores D and E.,Store F.,Stores A and B.,ms-l,fa,ms-h,0,0,0,1,1,0,1,0,0,0,1,0,0,0
+A3908297ZI3LES,english,56,female,test,test_books,19735,0,0,1,0,"Bookstores A, B, C, D and E.",Bookstore E.,Bookstores A and B.,exh,mo-l,ms-h,1,0,1,1,0,0,1,0,0,0,1,0,0,0
+A3908297ZI3LES,english,56,female,control,control_what,19014,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,0,0,0,1,0,0,0
+A3908297ZI3LES,english,56,female,test,test_yarn,19502,1,0,0,0,Stalls D and E.,Stall E.,Stall F.,ms-l,mo-l,fa,0,0,1,0,1,0,1,0,0,0,0,1,0,0
+A3908297ZI3LES,english,56,female,test,test_dentist,77278,0,0,0,1,Dentist F.,Dentist A.,Dentists D and E.,fa,mo-h,ms-l,0,1,0,0,1,0,1,0,0,0,0,0,0,1
+A3908297ZI3LES,english,56,female,control,control_how,1249686,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,0,0,0,0,0,1
+A3908297ZI3LES,english,56,female,test,test_hair,12829,0,1,0,0,"Stylists A, B, C, D and E.",Stylist A.,Stylists A and B.,exh,mo-h,ms-h,1,1,0,1,0,0,1,0,1,0,0,0,0,0
+A3908297ZI3LES,english,56,female,control,control_why,16951,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,1,0,0,0,0,0
+A3908297ZI3LES,english,56,female,test,test_coffee,82367,1,1,0,0,Cafe A.,"Cafes A, B, C, D and E.",Cafes D and E.,mo-h,exh,ms-l,1,1,0,0,1,0,1,1,1,0,0,0,0,0
+A3908297ZI3LES,english,56,female,control,control_when,77941,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,1,1,0,0,0,0,0
+A3908297ZI3LES,english,56,female,exit_quest,NA,80757,maybe if there was a bar or the hotel served brunch,medium%2C took some thought,thanx,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A6EJ7EU0KMGPL,English,32,male,consent,NA,89649,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A6EJ7EU0KMGPL,English,32,male,train,train_f,30037,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A6EJ7EU0KMGPL,English,32,male,train,train_m,29027,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A6EJ7EU0KMGPL,English,32,male,test,test_coffee,45184,1,0,1,0,Cafes A and B.,Cafes D and E.,Cafe A.,ms-h,ms-l,mo-h,0,1,0,1,1,0,1,0,1,0,1,0,0,0
+A6EJ7EU0KMGPL,English,32,male,control,control_why,21483,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,1,0,0,0
+A6EJ7EU0KMGPL,English,32,male,test,test_yarn,26630,0,0,1,0,Stalls D and E.,Stall E.,Stall A.,ms-l,mo-l,mo-h,0,1,1,0,1,0,1,0,1,0,0,0,0,0
+A6EJ7EU0KMGPL,English,32,male,test,test_hair,26493,0,0,1,0,Stylists D and E.,Stylist E.,Stylists A and B.,ms-l,mo-l,ms-h,0,0,1,1,1,0,1,0,0,0,1,0,0,0
+A6EJ7EU0KMGPL,English,32,male,control,control_when,34594,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,1,0,0,0
+A6EJ7EU0KMGPL,English,32,male,test,test_books,19325,0,0,1,0,Bookstores D and E.,Bookstore E.,Bookstores A and B.,ms-l,mo-l,ms-h,0,0,1,1,1,0,1,0,0,0,1,0,0,0
+A6EJ7EU0KMGPL,English,32,male,control,control_how,49395,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,1,0,0,0
+A6EJ7EU0KMGPL,English,32,male,test,test_dentist,20119,1,0,0,0,Dentists A and B.,"Dentists A, B, C, D and E.",Dentist F.,ms-h,exh,fa,1,0,0,1,0,0,1,0,0,0,1,0,0,0
+A6EJ7EU0KMGPL,English,32,male,test,test_shoes,38254,1,1,0,0,Stores A and B.,Store A.,Stores D and E.,ms-h,mo-h,ms-l,0,1,0,1,1,0,1,0,1,0,1,0,0,0
+A6EJ7EU0KMGPL,English,32,male,control,control_what,35914,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,1,0,0,0
+A6EJ7EU0KMGPL,English,32,male,exit_quest,NA,81060,No%2C they are both the same question asking about availability. Neither one ask for recommendations which is a different answer.,No. All of the text was self-explanatory.,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1IJ9VL8YPIE3T,English ,28,prefernot,consent,NA,1378718,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1IJ9VL8YPIE3T,English ,28,prefernot,train,train_f,78254,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1IJ9VL8YPIE3T,English ,28,prefernot,train,train_m,114814,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1IJ9VL8YPIE3T,English ,28,prefernot,test,test_coffee,209759,1,0,0,0,Cafes D and E.,Cafe F.,Cafes A and B.,ms-l,fa,ms-h,0,0,0,1,1,0,1,0,0,0,0,1,0,0
+A1IJ9VL8YPIE3T,English ,28,prefernot,test,test_dentist,41612,0,0,0,1,Dentist F.,Dentists D and E.,"Dentists A, B, C, D and E.",fa,ms-l,exh,1,0,0,0,1,0,1,0,0,0,0,0,0,1
+A1IJ9VL8YPIE3T,English ,28,prefernot,control,control_why,24679,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,0,1,0,0,0,0,0,0,1
+A1IJ9VL8YPIE3T,English ,28,prefernot,test,test_books,10313,0,1,0,0,Bookstore F.,Bookstore A.,Bookstores A and B.,fa,mo-h,ms-h,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+A1IJ9VL8YPIE3T,English ,28,prefernot,test,test_hair,16117,0,0,1,0,Stylists A and B.,Stylists D and E.,Stylist A.,ms-h,ms-l,mo-h,0,1,0,1,1,0,1,0,1,0,0,0,0,0
+A1IJ9VL8YPIE3T,English ,28,prefernot,control,control_when,34055,1,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,0,0,0,0
+A1IJ9VL8YPIE3T,English ,28,prefernot,test,test_shoes,8366,1,0,0,0,Store F.,Stores A and B.,"Stores A, B, C, D and E.",fa,ms-h,exh,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+A1IJ9VL8YPIE3T,English ,28,prefernot,control,control_what,39548,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,0,1,0,0,0,0,0,0,0
+A1IJ9VL8YPIE3T,English ,28,prefernot,test,test_yarn,8252,1,0,0,0,Stall E.,Stalls D and E.,Stalls A and B.,mo-l,ms-l,ms-h,0,0,1,1,1,0,1,0,0,1,0,0,0,0
+A1IJ9VL8YPIE3T,English ,28,prefernot,control,control_how,9007,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,1,0,0,0,0
+A1IJ9VL8YPIE3T,English ,28,prefernot,exit_quest,NA,93440,go to top rated restaurants ,no,good,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3IYDY7TO808Z3,English,32,female,consent,NA,74052,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3IYDY7TO808Z3,English,32,female,train,train_f,35808,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3IYDY7TO808Z3,English,32,female,train,train_m,37824,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3IYDY7TO808Z3,English,32,female,test,test_books,55769,0,0,0,1,Bookstores A and B.,Bookstore E.,Bookstores D and E.,ms-h,mo-l,ms-l,0,0,1,1,1,0,1,0,0,0,0,0,0,1
+A3IYDY7TO808Z3,English,32,female,test,test_coffee,27325,0,1,0,0,Cafe E.,Cafe A.,Cafe F.,mo-l,mo-h,fa,0,1,1,0,0,0,1,0,1,0,0,0,0,0
+A3IYDY7TO808Z3,English,32,female,control,control_how,31164,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,0,1,0,0,0,0,0
+A3IYDY7TO808Z3,English,32,female,test,test_dentist,25655,0,1,0,0,Dentist E.,Dentist A.,Dentist F.,mo-l,mo-h,fa,0,1,1,0,0,0,1,0,1,0,0,0,0,0
+A3IYDY7TO808Z3,English,32,female,test,test_shoes,23382,0,1,1,0,Store E.,Store A.,"Stores A, B, C, D and E.",mo-l,mo-h,exh,1,1,1,0,0,0,1,1,1,0,0,0,0,0
+A3IYDY7TO808Z3,English,32,female,control,control_why,32477,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,1,1,0,0,0,0,0
+A3IYDY7TO808Z3,English,32,female,test,test_yarn,38483,0,1,0,0,Stalls D and E.,Stall A.,Stall F.,ms-l,mo-h,fa,0,1,0,0,1,0,1,0,1,0,0,0,0,0
+A3IYDY7TO808Z3,English,32,female,control,control_what,20221,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,1,0,0,0,0,0
+A3IYDY7TO808Z3,English,32,female,test,test_hair,52007,0,0,1,0,Stylists A and B.,"Stylists A, B, C, D and E.",Stylist A.,ms-h,exh,mo-h,1,1,0,1,0,0,1,0,1,0,0,0,0,0
+A3IYDY7TO808Z3,English,32,female,control,control_when,40887,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,1,0,0,0,0,0
+A3IYDY7TO808Z3,English,32,female,exit_quest,NA,49559,No%2C because both are asking for where brunch is served in town,Yes%2C because it's hard to infer context in so few sentences,No.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3DEG7PE4RFCWB,ENGLISH,76,female,consent,NA,144168,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3DEG7PE4RFCWB,ENGLISH,76,female,train,train_f,112435,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3DEG7PE4RFCWB,ENGLISH,76,female,train,train_m,94331,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3DEG7PE4RFCWB,ENGLISH,76,female,test,test_books,161769,0,0,0,1,"Bookstores A, B, C, D and E.",Bookstore E.,Bookstores D and E.,exh,mo-l,ms-l,1,0,1,0,1,0,1,0,0,0,0,0,0,1
+A3DEG7PE4RFCWB,ENGLISH,76,female,test,test_hair,140383,1,0,0,0,Stylists D and E.,Stylist F.,Stylists A and B.,ms-l,fa,ms-h,0,0,0,1,1,0,1,0,0,0,0,1,0,0
+A3DEG7PE4RFCWB,ENGLISH,76,female,control,control_when,113751,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,0,0,0,0,1,0,0
+A3DEG7PE4RFCWB,ENGLISH,76,female,test,test_yarn,15501,0,1,0,0,Stalls D and E.,"Stalls A, B, C, D and E.",Stall F.,ms-l,exh,fa,1,0,0,0,1,0,1,1,0,0,0,0,0,0
+A3DEG7PE4RFCWB,ENGLISH,76,female,control,control_how,12907,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,0,1,1,0,0,0,0,0,0
+A3DEG7PE4RFCWB,ENGLISH,76,female,test,test_coffee,11227,0,1,0,0,"Cafes A, B, C, D and E.",Cafe A.,Cafe E.,exh,mo-h,mo-l,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+A3DEG7PE4RFCWB,ENGLISH,76,female,test,test_dentist,6453,0,1,0,0,Dentists A and B.,Dentist A.,Dentists D and E.,ms-h,mo-h,ms-l,0,1,0,1,1,0,1,0,1,0,0,0,0,0
+A3DEG7PE4RFCWB,ENGLISH,76,female,control,control_why,3331,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,0,0,0,0
+A3DEG7PE4RFCWB,ENGLISH,76,female,test,test_shoes,2778,0,1,0,0,Store E.,Store A.,"Stores A, B, C, D and E.",mo-l,mo-h,exh,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+A3DEG7PE4RFCWB,ENGLISH,76,female,control,control_what,3835,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,0,1,0,0,0,0,0
+A3DEG7PE4RFCWB,ENGLISH,76,female,exit_quest,NA,261219,we would go for the famous restaurant in this place for brunch in town.,Its very difficult to decide.,nice,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AHZ7C7ETHYX3N,English,60,male,consent,NA,19078,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AHZ7C7ETHYX3N,English,60,male,train,train_f,36576,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AHZ7C7ETHYX3N,English,60,male,train,train_m,24344,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AHZ7C7ETHYX3N,English,60,male,test,test_hair,52190,0,0,0,1,Stylists D and E.,"Stylists A, B, C, D and E.",Stylists A and B.,ms-l,exh,ms-h,1,0,0,1,1,0,1,0,0,0,0,0,0,1
+AHZ7C7ETHYX3N,English,60,male,test,test_coffee,50710,1,1,1,0,Cafe E.,Cafes A and B.,Cafe A.,mo-l,ms-h,mo-h,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+AHZ7C7ETHYX3N,English,60,male,control,control_how,26632,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,1,1,1,0,0,0
+AHZ7C7ETHYX3N,English,60,male,test,test_dentist,23448,0,0,0,1,Dentists A and B.,Dentist E.,Dentist A.,ms-h,mo-l,mo-h,0,1,1,1,0,0,1,0,0,0,0,0,0,1
+AHZ7C7ETHYX3N,English,60,male,control,control_why,13192,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,0,0,0,0,0,1
+AHZ7C7ETHYX3N,English,60,male,test,test_yarn,24292,1,1,1,0,Stalls A and B.,Stalls D and E.,"Stalls A, B, C, D and E.",ms-h,ms-l,exh,1,0,0,1,1,0,1,1,0,0,1,1,0,0
+AHZ7C7ETHYX3N,English,60,male,test,test_books,32230,1,1,1,0,Bookstore A.,"Bookstores A, B, C, D and E.",Bookstore E.,mo-h,exh,mo-l,1,1,1,0,0,0,1,1,1,1,0,0,0,0
+AHZ7C7ETHYX3N,English,60,male,control,control_what,18070,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,1,1,1,0,0,0,0
+AHZ7C7ETHYX3N,English,60,male,test,test_shoes,26118,1,1,1,0,Stores D and E.,Store E.,Stores A and B.,ms-l,mo-l,ms-h,0,0,1,1,1,0,1,0,0,1,1,1,0,0
+AHZ7C7ETHYX3N,English,60,male,control,control_when,29130,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,1,1,1,0,0
+AHZ7C7ETHYX3N,English,60,male,exit_quest,NA,67502,I would answer the same%2C it the same question asked in two different ways,not difficult but a little confusing,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AT13EK8JER5C3,ENGLISH,28,male,consent,NA,23313,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AT13EK8JER5C3,ENGLISH,28,male,train,train_m,14788,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AT13EK8JER5C3,ENGLISH,28,male,train,train_f,15600,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AT13EK8JER5C3,ENGLISH,28,male,test,test_hair,30595,0,0,0,1,Stylist E.,Stylists A and B.,Stylist A.,mo-l,ms-h,mo-h,0,1,1,1,0,0,1,0,0,0,0,0,0,1
+AT13EK8JER5C3,ENGLISH,28,male,test,test_dentist,10910,0,0,0,1,Dentists A and B.,Dentist E.,Dentist A.,ms-h,mo-l,mo-h,0,1,1,1,0,0,1,0,0,0,0,0,0,1
+AT13EK8JER5C3,ENGLISH,28,male,control,control_when,10835,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,0,0,0,0,0,1
+AT13EK8JER5C3,ENGLISH,28,male,test,test_shoes,4197,0,0,1,0,Stores A and B.,Stores D and E.,Store E.,ms-h,ms-l,mo-l,0,0,1,1,1,0,1,0,0,1,0,0,0,0
+AT13EK8JER5C3,ENGLISH,28,male,control,control_what,4574,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,1,0,0,0,0
+AT13EK8JER5C3,ENGLISH,28,male,test,test_yarn,5252,0,1,0,0,"Stalls A, B, C, D and E.",Stall A.,Stall E.,exh,mo-h,mo-l,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+AT13EK8JER5C3,ENGLISH,28,male,test,test_books,3094,0,1,0,0,Bookstore A.,Bookstores A and B.,Bookstores D and E.,mo-h,ms-h,ms-l,0,1,0,1,1,0,1,0,0,0,1,0,0,0
+AT13EK8JER5C3,ENGLISH,28,male,control,control_how,2655,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,0,0,1,0,0,0
+AT13EK8JER5C3,ENGLISH,28,male,test,test_coffee,5226,0,0,1,0,Cafes D and E.,Cafe E.,Cafe A.,ms-l,mo-l,mo-h,0,1,1,0,1,0,1,0,1,0,0,0,0,0
+AT13EK8JER5C3,ENGLISH,28,male,control,control_why,2203,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,0,0,0,0,0
+AT13EK8JER5C3,ENGLISH,28,male,exit_quest,NA,5965,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1AWHHBTJF1XCH,ENGLISH,44,female,consent,NA,44657,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1AWHHBTJF1XCH,ENGLISH,44,female,train,train_f,63943,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1AWHHBTJF1XCH,ENGLISH,44,female,train,train_m,102078,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1AWHHBTJF1XCH,ENGLISH,44,female,test,test_yarn,93175,0,0,0,1,Stall A.,Stall E.,Stalls D and E.,mo-h,mo-l,ms-l,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+A1AWHHBTJF1XCH,ENGLISH,44,female,test,test_coffee,67021,0,0,0,1,Cafes D and E.,Cafe A.,Cafe E.,ms-l,mo-h,mo-l,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+A1AWHHBTJF1XCH,ENGLISH,44,female,control,control_what,41136,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,0,0,0,0,0,1
+A1AWHHBTJF1XCH,ENGLISH,44,female,test,test_shoes,98068,0,0,0,1,Store A.,Store F.,Stores A and B.,mo-h,fa,ms-h,0,1,0,1,0,0,1,0,0,0,0,0,0,1
+A1AWHHBTJF1XCH,ENGLISH,44,female,control,control_how,67003,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,1
+A1AWHHBTJF1XCH,ENGLISH,44,female,test,test_dentist,21467,0,0,0,1,Dentists D and E.,Dentists A and B.,"Dentists A, B, C, D and E.",ms-l,ms-h,exh,1,0,0,1,1,0,1,0,0,0,0,0,0,1
+A1AWHHBTJF1XCH,ENGLISH,44,female,test,test_books,23856,0,0,0,1,Bookstore F.,Bookstores D and E.,Bookstores A and B.,fa,ms-l,ms-h,0,0,0,1,1,0,1,0,0,0,0,0,0,1
+A1AWHHBTJF1XCH,ENGLISH,44,female,control,control_why,30954,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,0,0,0,0,0,0,1
+A1AWHHBTJF1XCH,ENGLISH,44,female,test,test_hair,20441,0,0,0,1,Stylist F.,Stylists D and E.,Stylist E.,fa,ms-l,mo-l,0,0,1,0,1,0,1,0,0,0,0,0,0,1
+A1AWHHBTJF1XCH,ENGLISH,44,female,control,control_when,47466,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,0,0,0,0,1
+A1AWHHBTJF1XCH,ENGLISH,44,female,exit_quest,NA,583555,No. I think they both would have the same answer.,No. Not difficult just time consuming for such little pay.,Yes. This survey takes way to long for the amount of pay. It took me 20 minutes (another 6 mins writing this) to take it so would only pay $3.00 an hour which is not appropriate pay obviously. You should state that in your hit information before we start so we can choose whether to waste our time or not beforehand. You also misrepresent the hit saying we only have to read one story and answer questions about it when really it is a whole series of STORIES and questions. BE HONEST from the start or you will get bad reviews from the workers. Also put a bar across the top telling us our progress so we can see how much longer the hit will take. Once we start we never know when it will end so just keep doing it hoping this is the last question but surveys like these never are and next thing you know its been 20 minutes and you don't want to stop after all the time invested and not get paid anything at all  so just keep going to only get paid a whole dollar. YAY! NOT!! :(,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3OB6REG5CGHK1,English,56,male,consent,NA,24100,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3OB6REG5CGHK1,English,56,male,train,train_f,23818,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3OB6REG5CGHK1,English,56,male,train,train_m,30059,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3OB6REG5CGHK1,English,56,male,test,test_dentist,66628,0,0,0,1,Dentist E.,Dentists D and E.,"Dentists A, B, C, D and E.",mo-l,ms-l,exh,1,0,1,0,1,0,1,0,0,0,0,0,0,1
+A3OB6REG5CGHK1,English,56,male,test,test_yarn,17871,0,0,0,1,Stall E.,Stalls A and B.,Stalls D and E.,mo-l,ms-h,ms-l,0,0,1,1,1,0,1,0,0,0,0,0,0,1
+A3OB6REG5CGHK1,English,56,male,control,control_how,21136,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,0,0,0,1
+A3OB6REG5CGHK1,English,56,male,test,test_books,14226,0,0,1,0,Bookstore A.,Bookstore E.,Bookstores A and B.,mo-h,mo-l,ms-h,0,1,1,1,0,0,1,0,0,0,1,0,0,0
+A3OB6REG5CGHK1,English,56,male,test,test_shoes,14519,0,0,0,1,Stores A and B.,Stores D and E.,Store E.,ms-h,ms-l,mo-l,0,0,1,1,1,0,1,0,0,0,0,0,0,1
+A3OB6REG5CGHK1,English,56,male,control,control_why,22173,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,0,0,0,1
+A3OB6REG5CGHK1,English,56,male,test,test_hair,10424,0,0,0,1,Stylist A.,Stylist F.,Stylists D and E.,mo-h,fa,ms-l,0,1,0,0,1,0,1,0,0,0,0,0,0,1
+A3OB6REG5CGHK1,English,56,male,control,control_what,12067,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,0,0,0,0,0,1
+A3OB6REG5CGHK1,English,56,male,test,test_coffee,13655,0,0,1,0,Cafe E.,Cafe F.,Cafe A.,mo-l,fa,mo-h,0,1,1,0,0,0,1,0,1,0,0,0,0,0
+A3OB6REG5CGHK1,English,56,male,control,control_when,21824,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,0,1,0,0,0,0,0
+A3OB6REG5CGHK1,English,56,male,exit_quest,NA,21148,No%2C sounds like the same question,no,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A255V2M0CC1G8L,ENGLISH,28,male,consent,NA,41692,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A255V2M0CC1G8L,ENGLISH,28,male,train,train_m,5457758,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A255V2M0CC1G8L,ENGLISH,28,male,train,train_f,13955,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A255V2M0CC1G8L,ENGLISH,28,male,test,test_dentist,35245,0,1,0,0,Dentists A and B.,Dentist A.,"Dentists A, B, C, D and E.",ms-h,mo-h,exh,1,1,0,1,0,0,1,0,1,0,0,0,0,0
+A255V2M0CC1G8L,ENGLISH,28,male,test,test_shoes,5820,0,1,0,0,Stores D and E.,Stores A and B.,Store A.,ms-l,ms-h,mo-h,0,1,0,1,1,0,1,0,0,0,1,0,0,0
+A255V2M0CC1G8L,ENGLISH,28,male,control,control_why,11886,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,0,0,1,0,0,0
+A255V2M0CC1G8L,ENGLISH,28,male,test,test_yarn,3644,0,1,0,0,Stalls A and B.,"Stalls A, B, C, D and E.",Stall E.,ms-h,exh,mo-l,1,0,1,1,0,0,1,1,0,0,0,0,0,0
+A255V2M0CC1G8L,ENGLISH,28,male,test,test_books,5918,0,1,0,0,"Bookstores A, B, C, D and E.",Bookstore E.,Bookstores D and E.,exh,mo-l,ms-l,1,0,1,0,1,0,1,0,0,1,0,0,0,0
+A255V2M0CC1G8L,ENGLISH,28,male,control,control_how,1981,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,1,0,0,0,0
+A255V2M0CC1G8L,ENGLISH,28,male,test,test_hair,2445,0,1,0,0,Stylist F.,Stylist A.,"Stylists A, B, C, D and E.",fa,mo-h,exh,1,1,0,0,0,0,1,0,1,0,0,0,0,0
+A255V2M0CC1G8L,ENGLISH,28,male,control,control_what,1806,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,1,0,0,0,0,0
+A255V2M0CC1G8L,ENGLISH,28,male,test,test_coffee,2710,0,0,1,0,Cafes D and E.,Cafe E.,Cafe A.,ms-l,mo-l,mo-h,0,1,1,0,1,0,1,0,1,0,0,0,0,0
+A255V2M0CC1G8L,ENGLISH,28,male,control,control_when,1910,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,0,0,0,0,0
+A255V2M0CC1G8L,ENGLISH,28,male,exit_quest,NA,105142,WHERE CAN I GO BRUNCH IN TOWN,NO,NOTHING,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3RL02A3JRAUS4,English,39,female,consent,NA,29816,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3RL02A3JRAUS4,English,39,female,train,train_f,74578,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3RL02A3JRAUS4,English,39,female,train,train_m,53590,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A3RL02A3JRAUS4,English,39,female,test,test_dentist,81511,1,0,0,0,Dentists A and B.,Dentist A.,Dentist E.,ms-h,mo-h,mo-l,0,1,1,1,0,0,1,0,0,0,1,0,0,0
+A3RL02A3JRAUS4,English,39,female,test,test_yarn,37119,1,1,1,0,Stalls A and B.,Stall A.,Stall E.,ms-h,mo-h,mo-l,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+A3RL02A3JRAUS4,English,39,female,control,control_how,65792,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,1,1,1,0,0,0
+A3RL02A3JRAUS4,English,39,female,test,test_books,65970,0,0,0,1,Bookstore E.,Bookstores D and E.,Bookstore A.,mo-l,ms-l,mo-h,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+A3RL02A3JRAUS4,English,39,female,control,control_when,51514,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,0,0,0,0,0,1
+A3RL02A3JRAUS4,English,39,female,test,test_shoes,31433,0,0,0,1,Store A.,Stores A and B.,Store E.,mo-h,ms-h,mo-l,0,1,1,1,0,0,1,0,0,0,0,0,0,1
+A3RL02A3JRAUS4,English,39,female,test,test_coffee,68729,1,1,1,0,Cafe F.,Cafes A and B.,Cafe E.,fa,ms-h,mo-l,0,0,1,1,0,0,1,0,0,1,1,0,0,0
+A3RL02A3JRAUS4,English,39,female,control,control_why,38923,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,0,0,1,1,0,0,0
+A3RL02A3JRAUS4,English,39,female,test,test_hair,14764,0,0,1,0,Stylist E.,Stylist A.,"Stylists A, B, C, D and E.",mo-l,mo-h,exh,1,1,1,0,0,0,1,1,0,0,0,0,0,0
+A3RL02A3JRAUS4,English,39,female,control,control_what,35092,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,1,0,0,0,0,0,0
+A3RL02A3JRAUS4,English,39,female,exit_quest,NA,113420,No%2C they both mean the same thing in the end being both questions are asking where brunch is served.,Some questions were more difficult than others as the info was a bit confusing.,N/A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A13FUEPWBCLBUY,English,34,male,consent,NA,30291,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A13FUEPWBCLBUY,English,34,male,train,train_m,61218,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A13FUEPWBCLBUY,English,34,male,train,train_f,68106,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A13FUEPWBCLBUY,English,34,male,test,test_coffee,70141,1,1,1,0,Cafe A.,"Cafes A, B, C, D and E.",Cafe F.,mo-h,exh,fa,1,1,0,0,0,0,1,1,1,0,0,0,0,0
+A13FUEPWBCLBUY,English,34,male,test,test_yarn,34604,1,1,1,0,Stalls D and E.,Stall E.,Stall F.,ms-l,mo-l,fa,0,0,1,0,1,0,1,0,0,1,0,1,0,0
+A13FUEPWBCLBUY,English,34,male,control,control_when,43593,1,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,1,0,1,0,0
+A13FUEPWBCLBUY,English,34,male,test,test_hair,22535,1,1,1,0,Stylist A.,Stylists A and B.,Stylists D and E.,mo-h,ms-h,ms-l,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+A13FUEPWBCLBUY,English,34,male,test,test_shoes,74997,1,1,1,0,Store E.,Stores A and B.,Stores D and E.,mo-l,ms-h,ms-l,0,0,1,1,1,0,1,0,0,1,1,1,0,0
+A13FUEPWBCLBUY,English,34,male,control,control_why,29740,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,1,1,1,0,0
+A13FUEPWBCLBUY,English,34,male,test,test_dentist,39383,1,1,1,0,Dentists A and B.,Dentist A.,Dentist F.,ms-h,mo-h,fa,0,1,0,1,0,0,1,0,1,0,1,0,0,0
+A13FUEPWBCLBUY,English,34,male,control,control_how,44760,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,1,0,1,0,0,0
+A13FUEPWBCLBUY,English,34,male,test,test_books,28581,1,1,1,0,Bookstores A and B.,Bookstore A.,Bookstore E.,ms-h,mo-h,mo-l,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+A13FUEPWBCLBUY,English,34,male,control,control_what,23516,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,1,1,1,0,0,0
+A13FUEPWBCLBUY,English,34,male,exit_quest,NA,144983,No%2C this is asking for the same information but just worded differently.,No%2C the answers all seemed like common sense.,Fun task!,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1V2H0UF94ATWY,English,59,male,consent,NA,30217,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1V2H0UF94ATWY,English,59,male,train,train_m,31974,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1V2H0UF94ATWY,English,59,male,train,train_f,38111,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1V2H0UF94ATWY,English,59,male,test,test_yarn,59358,1,0,0,0,Stall A.,Stalls D and E.,Stall F.,mo-h,ms-l,fa,0,1,0,0,1,0,1,0,1,0,0,0,0,0
+A1V2H0UF94ATWY,English,59,male,test,test_coffee,22277,1,0,1,0,Cafe A.,Cafes D and E.,Cafes A and B.,mo-h,ms-l,ms-h,0,1,0,1,1,0,1,0,1,0,1,0,0,0
+A1V2H0UF94ATWY,English,59,male,control,control_when,75895,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,1,0,0,0
+A1V2H0UF94ATWY,English,59,male,test,test_shoes,32372,1,0,0,0,Store A.,Stores D and E.,Store F.,mo-h,ms-l,fa,0,1,0,0,1,0,1,0,1,0,0,0,0,0
+A1V2H0UF94ATWY,English,59,male,control,control_what,26574,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,1,0,0,0,0,0
+A1V2H0UF94ATWY,English,59,male,test,test_books,18182,1,0,0,0,Bookstores A and B.,Bookstore F.,Bookstore E.,ms-h,fa,mo-l,0,0,1,1,0,0,1,0,0,0,1,0,0,0
+A1V2H0UF94ATWY,English,59,male,test,test_dentist,15062,0,0,0,1,Dentist F.,Dentists D and E.,Dentist E.,fa,ms-l,mo-l,0,0,1,0,1,0,1,0,0,0,0,0,0,1
+A1V2H0UF94ATWY,English,59,male,control,control_how,47351,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,0,0,0,0,1
+A1V2H0UF94ATWY,English,59,male,test,test_hair,81854,1,1,0,0,Stylists A and B.,"Stylists A, B, C, D and E.",Stylists D and E.,ms-h,exh,ms-l,1,0,0,1,1,0,1,1,0,0,1,0,0,0
+A1V2H0UF94ATWY,English,59,male,control,control_why,63229,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,1,0,0,1,0,0,0
+A1V2H0UF94ATWY,English,59,male,exit_quest,NA,201039,"Yes. ""Where can I go for brunch in town?"" implies ""Where should I go for brunch in town?"" because of the type of website the question is being asked on. ""Which restaurants serve brunch in town?"" just means which restaurants are open for brunch.",I found it a little confusing and ambiguous%2C especially the Star Wars questions.,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2BZY06YRWGEDL,English,29,male,consent,NA,58308,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2BZY06YRWGEDL,English,29,male,train,train_f,33781,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2BZY06YRWGEDL,English,29,male,train,train_m,32109,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A2BZY06YRWGEDL,English,29,male,test,test_shoes,29996,1,1,1,0,Store E.,Store A.,Store F.,mo-l,mo-h,fa,0,1,1,0,0,0,1,0,1,1,0,0,0,0
+A2BZY06YRWGEDL,English,29,male,test,test_books,25908,1,1,1,0,Bookstores D and E.,Bookstore E.,Bookstore A.,ms-l,mo-l,mo-h,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A2BZY06YRWGEDL,English,29,male,control,control_when,34165,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,1,0,1,0,0
+A2BZY06YRWGEDL,English,29,male,test,test_yarn,32325,1,1,1,0,Stall F.,Stalls A and B.,Stalls D and E.,fa,ms-h,ms-l,0,0,0,1,1,0,1,0,0,0,1,1,0,0
+A2BZY06YRWGEDL,English,29,male,control,control_how,45421,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,0,0,0,1,1,0,0
+A2BZY06YRWGEDL,English,29,male,test,test_coffee,25949,1,1,1,0,Cafe A.,Cafe F.,Cafes A and B.,mo-h,fa,ms-h,0,1,0,1,0,0,1,0,1,0,1,0,0,0
+A2BZY06YRWGEDL,English,29,male,test,test_hair,34413,1,1,1,0,Stylist E.,Stylists A and B.,Stylist F.,mo-l,ms-h,fa,0,0,1,1,0,0,1,0,0,1,1,0,0,0
+A2BZY06YRWGEDL,English,29,male,control,control_why,28782,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,0,0,1,1,0,0,0
+A2BZY06YRWGEDL,English,29,male,test,test_dentist,21500,1,1,1,0,Dentists D and E.,Dentist A.,"Dentists A, B, C, D and E.",ms-l,mo-h,exh,1,1,0,0,1,0,1,1,1,0,0,1,0,0
+A2BZY06YRWGEDL,English,29,male,control,control_what,8119,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,1,1,0,0,1,0,0
+A2BZY06YRWGEDL,English,29,male,exit_quest,NA,25158,It would be the same thing really. You are looking for brunch. ,No. It was just reading an answering questions,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1EQ1LHEEIQ3UA,English,26,male,consent,NA,21578,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1EQ1LHEEIQ3UA,English,26,male,train,train_m,47039,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1EQ1LHEEIQ3UA,English,26,male,train,train_f,29468,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1EQ1LHEEIQ3UA,English,26,male,test,test_coffee,37061,0,0,0,1,Cafe A.,Cafe E.,Cafe F.,mo-h,mo-l,fa,0,1,1,0,0,0,1,0,0,0,0,0,0,1
+A1EQ1LHEEIQ3UA,English,26,male,test,test_shoes,52019,0,0,0,1,Stores D and E.,Store F.,Stores A and B.,ms-l,fa,ms-h,0,0,0,1,1,0,1,0,0,0,0,0,0,1
+A1EQ1LHEEIQ3UA,English,26,male,control,control_when,23139,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,0,0,0,0,0,0,1
+A1EQ1LHEEIQ3UA,English,26,male,test,test_books,32705,0,0,0,1,Bookstores D and E.,Bookstore E.,Bookstores A and B.,ms-l,mo-l,ms-h,0,0,1,1,1,0,1,0,0,0,0,0,0,1
+A1EQ1LHEEIQ3UA,English,26,male,test,test_yarn,63726,0,0,0,1,Stalls D and E.,Stall F.,Stalls A and B.,ms-l,fa,ms-h,0,0,0,1,1,0,1,0,0,0,0,0,0,1
+A1EQ1LHEEIQ3UA,English,26,male,control,control_why,35144,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,0,0,0,0,0,0,1
+A1EQ1LHEEIQ3UA,English,26,male,test,test_dentist,15950,0,0,0,1,Dentist A.,Dentists A and B.,Dentists D and E.,mo-h,ms-h,ms-l,0,1,0,1,1,0,1,0,0,0,0,0,0,1
+A1EQ1LHEEIQ3UA,English,26,male,control,control_what,24030,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,0,0,0,0,0,1
+A1EQ1LHEEIQ3UA,English,26,male,test,test_hair,38336,1,1,1,0,Stylist A.,Stylists D and E.,Stylist E.,mo-h,ms-l,mo-l,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A1EQ1LHEEIQ3UA,English,26,male,control,control_how,50780,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,1,0,1,0,0
+A1EQ1LHEEIQ3UA,English,26,male,exit_quest,NA,75870,No%2C she's basically asking the same question.,"A little bit. I wasn't quite sure the answers you were looking for. Most of the questions didn't actually specify where the person went to get something%2C only their recommendations%2C so I usually chose the ""No one"" option.",,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AJFVK3O1D7SPE,English,37,female,consent,NA,67636,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AJFVK3O1D7SPE,English,37,female,train,train_f,37657,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AJFVK3O1D7SPE,English,37,female,train,train_m,31131,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AJFVK3O1D7SPE,English,37,female,test,test_dentist,54676,0,0,0,1,Dentist F.,"Dentists A, B, C, D and E.",Dentists D and E.,fa,exh,ms-l,1,0,0,0,1,0,1,0,0,0,0,0,0,1
+AJFVK3O1D7SPE,English,37,female,test,test_shoes,33010,0,0,1,0,Store E.,Stores D and E.,Store A.,mo-l,ms-l,mo-h,0,1,1,0,1,0,1,0,1,0,0,0,0,0
+AJFVK3O1D7SPE,English,37,female,control,control_when,48108,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,0,0,0,0,0
+AJFVK3O1D7SPE,English,37,female,test,test_books,22869,0,0,0,1,"Bookstores A, B, C, D and E.",Bookstores D and E.,Bookstore E.,exh,ms-l,mo-l,1,0,1,0,1,0,1,0,0,0,0,0,0,1
+AJFVK3O1D7SPE,English,37,female,control,control_how,44871,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,0,0,0,0,1
+AJFVK3O1D7SPE,English,37,female,test,test_yarn,24014,0,0,1,0,Stall F.,Stalls A and B.,Stall A.,fa,ms-h,mo-h,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+AJFVK3O1D7SPE,English,37,female,test,test_hair,19283,1,0,0,0,Stylist A.,Stylists A and B.,Stylist E.,mo-h,ms-h,mo-l,0,1,1,1,0,0,1,0,1,0,0,0,0,0
+AJFVK3O1D7SPE,English,37,female,control,control_what,25686,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,1,0,0,0,0,0
+AJFVK3O1D7SPE,English,37,female,test,test_coffee,23097,1,1,0,0,Cafes A and B.,Cafe A.,Cafe E.,ms-h,mo-h,mo-l,0,1,1,1,0,0,1,0,1,0,1,0,0,0
+AJFVK3O1D7SPE,English,37,female,control,control_why,47463,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,1,0,1,0,0,0
+AJFVK3O1D7SPE,English,37,female,exit_quest,NA,158367,No%2C if answer the same because I'm assuming in both instances she's asking for a good place to have brunch and if want to recommend the best I know.,A little. Some of the questions were ambiguous and it was tough to decide whether to go with the answer that was probably closer to reality or the options that were technically correct.,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A10T7GP0TH27RB,english,28,male,consent,NA,24331,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A10T7GP0TH27RB,english,28,male,train,train_f,10007,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A10T7GP0TH27RB,english,28,male,train,train_m,3179,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A10T7GP0TH27RB,english,28,male,test,test_dentist,6165,0,1,0,0,Dentists A and B.,Dentist E.,Dentist A.,ms-h,mo-l,mo-h,0,1,1,1,0,0,1,0,0,1,0,0,0,0
+A10T7GP0TH27RB,english,28,male,test,test_books,3753,0,1,0,0,Bookstore F.,Bookstores D and E.,Bookstore E.,fa,ms-l,mo-l,0,0,1,0,1,0,1,0,0,0,0,1,0,0
+A10T7GP0TH27RB,english,28,male,control,control_why,3169,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,0,0,1,0,0
+A10T7GP0TH27RB,english,28,male,test,test_yarn,4389,0,1,0,0,Stalls A and B.,Stall A.,Stall F.,ms-h,mo-h,fa,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+A10T7GP0TH27RB,english,28,male,control,control_how,3595,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,1,0,0,0,0,0
+A10T7GP0TH27RB,english,28,male,test,test_coffee,4231,0,1,0,0,Cafe A.,Cafes A and B.,"Cafes A, B, C, D and E.",mo-h,ms-h,exh,1,1,0,1,0,0,1,0,0,0,1,0,0,0
+A10T7GP0TH27RB,english,28,male,test,test_hair,2920,0,1,0,0,Stylists D and E.,"Stylists A, B, C, D and E.",Stylist A.,ms-l,exh,mo-h,1,1,0,0,1,0,1,1,0,0,0,0,0,0
+A10T7GP0TH27RB,english,28,male,control,control_what,3488,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,1,0,0,0,0,0,0
+A10T7GP0TH27RB,english,28,male,test,test_shoes,6068,1,0,0,0,Store F.,Store A.,Stores A and B.,fa,mo-h,ms-h,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+A10T7GP0TH27RB,english,28,male,control,control_when,3947,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0
+A10T7GP0TH27RB,english,28,male,exit_quest,NA,7591,no,no,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1GV1POLY1EHJV,english,27,female,consent,NA,20849,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1GV1POLY1EHJV,english,27,female,train,train_m,28215,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1GV1POLY1EHJV,english,27,female,train,train_f,10524,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A1GV1POLY1EHJV,english,27,female,test,test_books,7973,1,1,1,0,Bookstore F.,Bookstore E.,Bookstores A and B.,fa,mo-l,ms-h,0,0,1,1,0,0,1,0,0,1,1,0,0,0
+A1GV1POLY1EHJV,english,27,female,control,control_what,5460,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,0,1,0,0,1,1,0,0,0
+A1GV1POLY1EHJV,english,27,female,test,test_shoes,5149,1,1,1,0,Stores A and B.,Store A.,Store E.,ms-h,mo-h,mo-l,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+A1GV1POLY1EHJV,english,27,female,test,test_dentist,3059,1,1,0,0,Dentists A and B.,Dentists D and E.,Dentist A.,ms-h,ms-l,mo-h,0,1,0,1,1,0,1,0,0,0,1,1,0,0
+A1GV1POLY1EHJV,english,27,female,control,control_why,4822,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,0,0,1,1,0,0
+A1GV1POLY1EHJV,english,27,female,test,test_hair,5180,1,1,0,0,Stylist A.,Stylists D and E.,"Stylists A, B, C, D and E.",mo-h,ms-l,exh,1,1,0,0,1,0,1,0,1,0,0,1,0,0
+A1GV1POLY1EHJV,english,27,female,control,control_how,5439,1,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,1,0,0,1,0,0
+A1GV1POLY1EHJV,english,27,female,test,test_coffee,4777,1,1,1,0,Cafes A and B.,Cafe A.,Cafe E.,ms-h,mo-h,mo-l,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+A1GV1POLY1EHJV,english,27,female,test,test_yarn,5007,1,1,1,0,Stall E.,Stalls D and E.,Stall A.,mo-l,ms-l,mo-h,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+A1GV1POLY1EHJV,english,27,female,control,control_when,4298,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,1,0,1,0,0
+A1GV1POLY1EHJV,english,27,female,exit_quest,NA,24951,restruant,yes,nope,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A36IYIE23IO4HE,English,42,female,consent,NA,35913,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A36IYIE23IO4HE,English,42,female,train,train_m,66815,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A36IYIE23IO4HE,English,42,female,train,train_f,40182,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A36IYIE23IO4HE,English,42,female,test,test_dentist,84955,0,0,1,0,Dentists A and B.,Dentists D and E.,Dentist A.,ms-h,ms-l,mo-h,0,1,0,1,1,0,1,0,1,0,0,0,0,0
+A36IYIE23IO4HE,English,42,female,test,test_books,35554,1,0,0,0,Bookstore A.,Bookstore E.,"Bookstores A, B, C, D and E.",mo-h,mo-l,exh,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+A36IYIE23IO4HE,English,42,female,control,control_when,57646,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,0,1,0,0,0,0,0
+A36IYIE23IO4HE,English,42,female,test,test_coffee,55757,1,1,1,0,Cafe A.,Cafes A and B.,"Cafes A, B, C, D and E.",mo-h,ms-h,exh,1,1,0,1,0,0,1,1,1,0,1,0,0,0
+A36IYIE23IO4HE,English,42,female,control,control_what,31505,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,1,1,0,1,0,0,0
+A36IYIE23IO4HE,English,42,female,test,test_hair,22466,0,0,0,1,Stylist E.,Stylist F.,Stylists D and E.,mo-l,fa,ms-l,0,0,1,0,1,0,1,0,0,0,0,0,0,1
+A36IYIE23IO4HE,English,42,female,test,test_yarn,15165,1,0,0,0,"Stalls A, B, C, D and E.",Stall E.,Stalls D and E.,exh,mo-l,ms-l,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+A36IYIE23IO4HE,English,42,female,control,control_why,25788,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,1,0,0,0,0,0,0
+A36IYIE23IO4HE,English,42,female,test,test_shoes,10231,0,1,0,0,Stores D and E.,Stores A and B.,"Stores A, B, C, D and E.",ms-l,ms-h,exh,1,0,0,1,1,0,1,0,0,0,1,0,0,0
+A36IYIE23IO4HE,English,42,female,control,control_how,38442,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,0,1,0,0,0,1,0,0,0
+A36IYIE23IO4HE,English,42,female,exit_quest,NA,52553,no because it is basically asking the same question,a little  it was hard to figure out some,have a great day,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+APLBF6JY2C1QZ,English,50,female,consent,NA,111334,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+APLBF6JY2C1QZ,English,50,female,train,train_f,35642,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+APLBF6JY2C1QZ,English,50,female,train,train_m,36793,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+APLBF6JY2C1QZ,English,50,female,test,test_hair,221678,1,1,1,0,Stylist E.,Stylists D and E.,Stylist A.,mo-l,ms-l,mo-h,0,1,1,0,1,0,1,0,1,1,0,1,0,0
+APLBF6JY2C1QZ,English,50,female,test,test_coffee,25194,0,1,1,0,Cafe F.,Cafes A and B.,Cafe A.,fa,ms-h,mo-h,0,1,0,1,0,0,1,0,1,0,1,0,0,0
+APLBF6JY2C1QZ,English,50,female,control,control_when,96625,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,1,0,1,0,1,0,0,0
+APLBF6JY2C1QZ,English,50,female,test,test_shoes,20552,0,1,0,0,Store E.,Store A.,Stores D and E.,mo-l,mo-h,ms-l,0,1,1,0,1,0,1,0,1,0,0,0,0,0
+APLBF6JY2C1QZ,English,50,female,test,test_dentist,27240,0,0,0,1,Dentists D and E.,Dentist E.,"Dentists A, B, C, D and E.",ms-l,mo-l,exh,1,0,1,0,1,0,1,0,0,0,0,0,0,1
+APLBF6JY2C1QZ,English,50,female,control,control_what,15157,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,0,0,0,0,1
+APLBF6JY2C1QZ,English,50,female,test,test_books,35189,0,0,1,0,Bookstore E.,Bookstore F.,Bookstore A.,mo-l,fa,mo-h,0,1,1,0,0,0,1,0,1,0,0,0,0,0
+APLBF6JY2C1QZ,English,50,female,control,control_why,26484,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,0,1,0,0,0,0,0
+APLBF6JY2C1QZ,English,50,female,test,test_yarn,20754,0,0,1,0,Stall E.,Stalls D and E.,Stall A.,mo-l,ms-l,mo-h,0,1,1,0,1,0,1,0,1,0,0,0,0,0
+APLBF6JY2C1QZ,English,50,female,control,control_how,30325,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,0,0,0,0,0
+APLBF6JY2C1QZ,English,50,female,exit_quest,NA,50821,I would answer the same for both questions as it is obvious the traveler is asking for recommendations of where to go eat brunch in both questions.,It was a little long for the pay and there is no progress bar to know how much is left. ,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AZTHBV93S8U3T,English,28,male,consent,NA,895280,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AZTHBV93S8U3T,English,28,male,train,train_m,625734,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AZTHBV93S8U3T,English,28,male,train,train_f,812656,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AZTHBV93S8U3T,English,28,male,test,test_yarn,180353,0,0,0,1,Stall A.,Stall F.,"Stalls A, B, C, D and E.",mo-h,fa,exh,1,1,0,0,0,0,1,0,0,0,0,0,0,1
+AZTHBV93S8U3T,English,28,male,control,control_how,51870,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0,0,0,0,0,1
+AZTHBV93S8U3T,English,28,male,test,test_dentist,23543,1,0,0,0,"Dentists A, B, C, D and E.",Dentist E.,Dentists D and E.,exh,mo-l,ms-l,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+AZTHBV93S8U3T,English,28,male,test,test_hair,29816,0,0,1,0,Stylists D and E.,Stylists A and B.,Stylist A.,ms-l,ms-h,mo-h,0,1,0,1,1,0,1,0,1,0,0,0,0,0
+AZTHBV93S8U3T,English,28,male,control,control_what,25947,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,0,0,0,0
+AZTHBV93S8U3T,English,28,male,test,test_books,23777,0,0,1,0,Bookstores D and E.,Bookstores A and B.,Bookstore A.,ms-l,ms-h,mo-h,0,1,0,1,1,0,1,0,1,0,0,0,0,0
+AZTHBV93S8U3T,English,28,male,control,control_why,34369,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,0,0,0,0
+AZTHBV93S8U3T,English,28,male,test,test_shoes,10589,0,1,0,0,Store E.,Store A.,Stores A and B.,mo-l,mo-h,ms-h,0,1,1,1,0,0,1,0,1,0,0,0,0,0
+AZTHBV93S8U3T,English,28,male,test,test_coffee,5689,1,0,0,0,Cafe A.,Cafes D and E.,Cafe E.,mo-h,ms-l,mo-l,0,1,1,0,1,0,1,0,1,0,0,0,0,0
+AZTHBV93S8U3T,English,28,male,control,control_when,18293,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,0,1,0,1,0,0,0,0,0
+AZTHBV93S8U3T,English,28,male,exit_quest,NA,44745,No%2C for both questions I would think of restaurants. ,It didn't involve too much critical thinking,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AY43RJRF8IEBN,English,36,female,consent,NA,28631,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AY43RJRF8IEBN,English,36,female,train,train_f,25645,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AY43RJRF8IEBN,English,36,female,train,train_m,38557,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AY43RJRF8IEBN,English,36,female,test,test_shoes,44004,0,0,0,1,Stores A and B.,Stores D and E.,Store A.,ms-h,ms-l,mo-h,0,1,0,1,1,0,1,0,0,0,0,0,0,1
+AY43RJRF8IEBN,English,36,female,test,test_coffee,17380,0,0,0,1,Cafe E.,"Cafes A, B, C, D and E.",Cafes D and E.,mo-l,exh,ms-l,1,0,1,0,1,0,1,0,0,0,0,0,0,1
+AY43RJRF8IEBN,English,36,female,control,control_what,18670,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,0,1,0,0,0,0,0,0,1
+AY43RJRF8IEBN,English,36,female,test,test_hair,21860,0,0,0,1,Stylist A.,Stylist E.,"Stylists A, B, C, D and E.",mo-h,mo-l,exh,1,1,1,0,0,0,1,0,0,0,0,0,0,1
+AY43RJRF8IEBN,English,36,female,control,control_how,34494,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,1,0,0,0,0,0,0,1
+AY43RJRF8IEBN,English,36,female,test,test_books,18901,0,0,0,1,Bookstore A.,Bookstores D and E.,"Bookstores A, B, C, D and E.",mo-h,ms-l,exh,1,1,0,0,1,0,1,0,0,0,0,0,0,1
+AY43RJRF8IEBN,English,36,female,test,test_dentist,13732,0,0,0,1,Dentists A and B.,Dentist E.,Dentist A.,ms-h,mo-l,mo-h,0,1,1,1,0,0,1,0,0,0,0,0,0,1
+AY43RJRF8IEBN,English,36,female,control,control_why,19679,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,0,1,0,0,0,0,0,0,1
+AY43RJRF8IEBN,English,36,female,test,test_yarn,17857,0,0,0,1,Stall F.,Stalls D and E.,Stall A.,fa,ms-l,mo-h,0,1,0,0,1,0,1,0,0,0,0,0,0,1
+AY43RJRF8IEBN,English,36,female,control,control_when,23998,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,0,0,0,0,0,1
+AY43RJRF8IEBN,English,36,female,exit_quest,NA,60709,"Yes. ""Where can I go"" is asking for the best ones. ""Which restaurants"" is factual.",Very. I was never sure what I was supposed to answer.,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A35KO5LPASBFI9,English,24,female,consent,NA,25316,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A35KO5LPASBFI9,English,24,female,train,train_m,33578,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A35KO5LPASBFI9,English,24,female,train,train_f,29929,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A35KO5LPASBFI9,English,24,female,test,test_coffee,56081,1,1,1,0,Cafes A and B.,Cafes D and E.,Cafe A.,ms-h,ms-l,mo-h,0,1,0,1,1,0,1,0,1,0,1,1,0,0
+A35KO5LPASBFI9,English,24,female,test,test_yarn,25844,0,1,0,0,Stall F.,Stall A.,Stalls D and E.,fa,mo-h,ms-l,0,1,0,0,1,0,1,0,1,0,0,0,0,0
+A35KO5LPASBFI9,English,24,female,control,control_why,19141,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,1,0,0,0,0,0
+A35KO5LPASBFI9,English,24,female,test,test_shoes,22659,0,1,0,0,Stores D and E.,Store A.,Store F.,ms-l,mo-h,fa,0,1,0,0,1,0,1,0,1,0,0,0,0,0
+A35KO5LPASBFI9,English,24,female,test,test_books,21627,1,1,1,0,Bookstore E.,Bookstore F.,"Bookstores A, B, C, D and E.",mo-l,fa,exh,1,0,1,0,0,0,1,1,0,1,0,0,0,0
+A35KO5LPASBFI9,English,24,female,control,control_what,19715,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,0,1,1,0,1,0,0,0,0
+A35KO5LPASBFI9,English,24,female,test,test_hair,14741,0,0,0,1,Stylist E.,Stylists A and B.,Stylists D and E.,mo-l,ms-h,ms-l,0,0,1,1,1,0,1,0,0,0,0,0,0,1
+A35KO5LPASBFI9,English,24,female,control,control_how,28636,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,1,0,0,0,0,0,0,1
+A35KO5LPASBFI9,English,24,female,test,test_dentist,14282,0,0,0,1,Dentist A.,"Dentists A, B, C, D and E.",Dentists D and E.,mo-h,exh,ms-l,1,1,0,0,1,0,1,0,0,0,0,0,0,1
+A35KO5LPASBFI9,English,24,female,control,control_when,30800,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,0,0,0,0,0,0,1
+A35KO5LPASBFI9,English,24,female,exit_quest,NA,46578,No%2C I think they would be responded to in a similar manner.,No,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

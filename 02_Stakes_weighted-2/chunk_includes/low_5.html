@@ -1,0 +1,116 @@
+<style>
+    label {
+        display: inline-block;
+        margin-bottom: 8px;
+    }
+    a.left {
+        padding-right: 5px;
+    }
+    a.right {
+        padding-left: 5px;
+    }
+    body {
+        font-size: 18px;
+    }
+</style>
+<div align="center">
+    <div id="trialDiv">
+
+<div id="storyDiv", style="width: 40em;">
+    <p>Bruce is visiting his family in Pennsylvania and wants to visit the local Amish market. 
+      He is most interested in artisanal woodworking.
+      Some stalls in the market have won prizes for their pieces, while others have not:</p>
+    <ul style="list-style: none">
+      <li>Artisan stall C is the most popular, and has won 5 awards,</li>
+      <li>Stall D has won 4,</li>
+      <li>Stall A has 3,</li>
+      <li>Stall F has 2,</li>
+      <li>Stall B has 1, and</li>
+      <li>Stall E has not won any awards.</li>
+    </ul>
+
+<p>Bruce asks his brothers, "Where should we go for woodwork?"</p>
+</div>
+
+        <table cellpadding="10" cellspacing="4">
+        <tr>
+          <td align="center">Who knows where to go for woodwork? (Choose all that apply)</td><br>
+        </tr>
+        <tr class="bordered">
+        <td align="center">
+            <label for="brother_a"><input type="checkbox" id="brother_a" name="brother_A_chosen" value="Brother A" ><span>Brother 1</span></label>
+            <label for="brother_b"><input type="checkbox" id="brother_b" name="brother_B_chosen" value="Brother B" ><span>Brother 2</span></label>
+            <label for="brother_c"><input type="checkbox" id="brother_c" name="brother_C_chosen" value="Brother C" ><span>Brother 3</span></label>
+            <label for="no_one"><input type="checkbox" id="no_one" name="no_one_chosen" value="No one"><span>No one</span></label>
+        </td>
+
+    </tr>
+
+</table>
+</div>
+</div>
+
+<div id = "answer_report_div" style="visibility: hidden">
+</div>
+<!--end html-->
+
+<script type="text/javascript">
+
+
+
+    String.prototype.format = function() {
+    var s = this,
+        i = arguments.length;
+
+    while (i--) {
+        s = s.replace(new RegExp('\\{' + i + '\\}', 'gm'), arguments[i]);
+    }
+    return s;
+    };
+
+   var storyDiv = document.getElementById('storyDiv');
+
+   // the array of possible answers
+   var answers = Array('Stalls C, D, A, F and B.', 'Stall C.', 
+                  'Stalls C and D.', 'Stalls A and B.', 'Stall B.', 'Stall E.');
+
+   var weights = Array(10,20,20,20,20,10);
+   
+   var answers_array = Array();
+
+   for ( i = 0; i < 3; i++) {
+       answers_array.push(pickUsingWeightsAndRemove(answers,weights));
+   }
+   
+   var brother_A_answer = 'Brother 1 says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   var brother_B_answer = 'Brother 2 says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   var brother_C_answer = 'Brother 3 says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   //
+   var answer1 = document.createElement('p');
+   var ans1node = document.createTextNode(brother_A_answer);
+   answer1.appendChild(ans1node);
+   storyDiv.appendChild(answer1);
+
+   var answer2 = document.createElement('p');
+   var ans2node = document.createTextNode(brother_B_answer);
+   answer2.appendChild(ans2node);
+   storyDiv.appendChild(answer2);
+
+   var answer3 = document.createElement('p');
+   var ans3node = document.createTextNode(brother_C_answer);
+   answer3.appendChild(ans3node);
+   storyDiv.appendChild(answer3);
+
+   // create a textarea element that will hold the answer values for this trial
+   var answer_report = document.createElement('textarea');
+   answer_report.id = "answer_report";
+   answer_report.setAttribute("name","answers_reported")
+   answer_report.setAttribute("placeholder","{0},{1},{2}".format(brother_A_answer,brother_B_answer,brother_C_answer));
+
+   // append it to the hidden answer_report div in the body HTML
+   document.getElementById("answer_report_div").appendChild(answer_report);
+   document.getElementById("answer_report").append("placeholder","{0},{1},{2}".format(brother_A_answer,brother_B_answer,brother_C_answer));
+
+
+
+</script>

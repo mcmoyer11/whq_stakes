@@ -1,0 +1,116 @@
+<style>
+    label {
+        display: inline-block;
+        margin-bottom: 8px;
+    }
+    a.left {
+        padding-right: 5px;
+    }
+    a.right {
+        padding-left: 5px;
+    }
+    body {
+        font-size: 18px;
+    }
+</style>
+<div align="center">
+    <div id="trialDiv">
+
+<div id="storyDiv", style="width: 40em;">
+    <p>Liz just moved to Los Angeles.
+      She loves exploring classic diners.
+      The New City Go-er's Guide to LA reviewed several diners, based on customer satisfaction.
+      Six classic diners were ranked:</p>
+    <ul style="list-style: none">
+    <li>Diner C was voted best,</li>
+    <li>followed by Diner F at second,</li>
+    <li>Diner A was third,</li>
+    <li>Diner D fourth,</li>
+    <li>Diner E fifth, and</li>
+    <li>Diner B was voted sixth.</li></ul>
+
+<p>Liz asks three of her local friends, "Where should I go to eat out?"</p>
+</div>
+
+        <table cellpadding="10" cellspacing="4">
+        <tr>
+          <td align="center">Who knows where to eat out in LA? (Choose all that apply)</td> <br>
+        </tr>
+        <tr class="bordered">
+        <td align="center">
+            <label for="friend_a"><input type="checkbox" id="friend_a" name="la_friend_A_chosen" value="Friend A" ><span>Friend 1</span></label>
+            <label for="friend_b"><input type="checkbox" id="friend_b" name="la_friend_B_chosen" value="Friend B" ><span>Friend 2</span></label>
+            <label for="friend_c"><input type="checkbox" id="friend_c" name="la_friend_C_chosen" value="Friend C" ><span>Friend 3</span></label>
+            <label for="no_one"><input type="checkbox" id="no_one" name="no_one_chosen" value="No one"><span>No one</span></label>
+        </td>
+
+    </tr>
+
+</table>
+</div>
+</div>
+
+<div id = "answer_report_div" style="visibility: hidden">
+</div>
+<!--end html-->
+
+<script type="text/javascript">
+
+
+
+    String.prototype.format = function() {
+    var s = this,
+        i = arguments.length;
+
+    while (i--) {
+        s = s.replace(new RegExp('\\{' + i + '\\}', 'gm'), arguments[i]);
+    }
+    return s;
+    };
+
+   var storyDiv = document.getElementById('storyDiv');
+
+      // the array of possible answers
+   var answers = Array('Diners C, F, A, D, and E.', 'Diner C.', 
+                  'Diners C and F.', 'Diners A and E.', 'Diner E.', 'Diner B.');
+
+   var weights = Array(10,20,20,20,20,10);
+   
+   var answers_array = Array();
+
+   for ( i = 0; i < 3; i++) {
+       answers_array.push(pickUsingWeightsAndRemove(answers,weights));
+   }
+   
+   var friend_A_answer = 'Friend 1 says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   var friend_B_answer = 'Friend 2 says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   var friend_C_answer = 'Friend 3 says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   //
+   var answer1 = document.createElement('p');
+   var ans1node = document.createTextNode(friend_A_answer);
+   answer1.appendChild(ans1node);
+   storyDiv.appendChild(answer1);
+
+   var answer2 = document.createElement('p');
+   var ans2node = document.createTextNode(friend_B_answer);
+   answer2.appendChild(ans2node);
+   storyDiv.appendChild(answer2);
+
+   var answer3 = document.createElement('p');
+   var ans3node = document.createTextNode(friend_C_answer);
+   answer3.appendChild(ans3node);
+   storyDiv.appendChild(answer3);
+
+   // create a textarea element that will hold the answer values for this trial
+   var answer_report = document.createElement('textarea');
+   answer_report.id = "answer_report";
+   answer_report.setAttribute("name","answers_reported")
+   answer_report.setAttribute("placeholder","{0},{1},{2}".format(friend_A_answer,friend_B_answer,friend_C_answer));
+
+   // append it to the hidden answer_report div in the body HTML
+   document.getElementById("answer_report_div").appendChild(answer_report);
+   document.getElementById("answer_report").append("placeholder","{0},{1},{2}".format(friend_A_answer,friend_B_answer,friend_C_answer));
+
+
+
+</script>

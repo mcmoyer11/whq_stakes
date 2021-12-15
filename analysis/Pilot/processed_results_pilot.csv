@@ -1,0 +1,165 @@
+10066,21,female,instructions,"('dummy_checkbox_', 'yes')","('_REACTION_TIME_', '26324')",,,,
+10066,21,female,train,"('control_A_chosen', 'no')","('control_B_chosen', 'no')","('control_C_chosen', 'no')","('none_chosen', 'yes')","('_REACTION_TIME_', '79787')",
+10066,21,female,train,"('control_A_chosen', 'no')","('control_B_chosen', 'no')","('control_C_chosen', 'no')","('none_chosen', 'yes')","('_REACTION_TIME_', '77355')",
+10066,21,female,train_end,"('dummy_checkbox_', 'yes')","('_REACTION_TIME_', '2446')",,,,
+10066,21,female,high,"('answers_reported', '')","('firefighter_A_chosen', 'yes')","('firefighter_B_chosen', 'yes')","('firefighter_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '106578')"
+10066,21,female,low,"('answers_reported', '')","('friend_A_chosen', 'yes')","('friend_B_chosen', 'yes')","('friend_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '69715')"
+10066,21,female,high,"('answers_reported', '')","('tourist_A_chosen', 'yes')","('tourist_B_chosen', 'yes')","('tourist_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '78643')"
+10066,21,female,control,"('control_A_chosen', 'no')","('control_B_chosen', 'yes')","('control_C_chosen', 'yes')","('none_chosen', 'no')","('_REACTION_TIME_', '86219')",
+10066,21,female,low,"('answers_reported', '')","('friend_A_chosen', 'yes')","('friend_B_chosen', 'yes')","('friend_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '52548')"
+10066,21,female,high,"('answers_reported', '')","('inspector_A_chosen', 'yes')","('inspector_B_chosen', 'yes')","('inspector_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '72683')"
+10066,21,female,control,"('control_A_chosen', 'yes')","('control_B_chosen', 'no')","('control_C_chosen', 'no')","('none_chosen', 'no')","('_REACTION_TIME_', '62364')",
+10066,21,female,low,"('answers_reported', '')","('friend_A_chosen', 'yes')","('friend_B_chosen', 'yes')","('friend_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '58212')"
+10066,21,female,high,"('answers_reported', '')","('advisor_A_chosen', 'yes')","('advisor_B_chosen', 'yes')","('advisor_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '132247')"
+10066,21,female,low,"('answers_reported', '')","('consultant_A_chosen', 'yes')","('consultant_B_chosen', 'yes')","('consultant_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '39182')"
+10066,21,female,control,"('control_A_chosen', 'no')","('control_B_chosen', 'no')","('control_C_chosen', 'no')","('none_chosen', 'yes')","('_REACTION_TIME_', '41685')",
+10066,21,female,high,"('answers_reported', '')","('investigator_A_chosen', 'yes')","('investigator_B_chosen', 'no')","('investigator_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '77611')"
+10066,21,female,low,"('answers_reported', '')","('friend_A_chosen', 'yes')","('friend_B_chosen', 'yes')","('friend_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '30748')"
+10066,21,female,control,"('control_A_chosen', 'no')","('control_B_chosen', 'no')","('control_C_chosen', 'no')","('none_chosen', 'yes')","('_REACTION_TIME_', '66292')",
+11356,20,female,instructions,"('dummy_checkbox_', 'yes')","('_REACTION_TIME_', '28240')",,,,
+11356,20,female,train,"('control_A_chosen', 'no')","('control_B_chosen', 'yes')","('control_C_chosen', 'yes')","('none_chosen', 'no')","('_REACTION_TIME_', '58076')",
+11356,20,female,train,"('control_A_chosen', 'no')","('control_B_chosen', 'no')","('control_C_chosen', 'no')","('none_chosen', 'yes')","('_REACTION_TIME_', '40956')",
+11356,20,female,train_end,"('dummy_checkbox_', 'yes')","('_REACTION_TIME_', '2205')",,,,
+11356,20,female,low,"('answers_reported', '')","('friend_A_chosen', 'yes')","('friend_B_chosen', 'yes')","('friend_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '50683')"
+11356,20,female,high,"('answers_reported', '')","('firefighter_A_chosen', 'no')","('firefighter_B_chosen', 'yes')","('firefighter_C_chosen', 'no')","('no_one_chosen', 'no')","('_REACTION_TIME_', '85098')"
+11356,20,female,low,"('answers_reported', '')","('friend_A_chosen', 'no')","('friend_B_chosen', 'yes')","('friend_C_chosen', 'no')","('no_one_chosen', 'no')","('_REACTION_TIME_', '33298')"
+11356,20,female,control,"('control_A_chosen', 'yes')","('control_B_chosen', 'no')","('control_C_chosen', 'no')","('none_chosen', 'no')","('_REACTION_TIME_', '24964')",
+11356,20,female,high,"('answers_reported', '')","('inspector_A_chosen', 'yes')","('inspector_B_chosen', 'yes')","('inspector_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '43436')"
+11356,20,female,low,"('answers_reported', '')","('consultant_A_chosen', 'yes')","('consultant_B_chosen', 'yes')","('consultant_C_chosen', 'no')","('no_one_chosen', 'no')","('_REACTION_TIME_', '25547')"
+11356,20,female,control,"('control_A_chosen', 'no')","('control_B_chosen', 'no')","('control_C_chosen', 'yes')","('none_chosen', 'no')","('_REACTION_TIME_', '48012')",
+11356,20,female,high,"('answers_reported', '')","('investigator_A_chosen', 'yes')","('investigator_B_chosen', 'yes')","('investigator_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '39436')"
+11356,20,female,low,"('answers_reported', '')","('friend_A_chosen', 'yes')","('friend_B_chosen', 'no')","('friend_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '38323')"
+11356,20,female,high,"('answers_reported', '')","('advisor_A_chosen', 'no')","('advisor_B_chosen', 'yes')","('advisor_C_chosen', 'no')","('no_one_chosen', 'no')","('_REACTION_TIME_', '34588')"
+11356,20,female,control,"('control_A_chosen', 'yes')","('control_B_chosen', 'yes')","('control_C_chosen', 'no')","('none_chosen', 'no')","('_REACTION_TIME_', '31021')",
+11356,20,female,low,"('answers_reported', '')","('friend_A_chosen', 'yes')","('friend_B_chosen', 'no')","('friend_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '31012')"
+11356,20,female,high,"('answers_reported', '')","('tourist_A_chosen', 'yes')","('tourist_B_chosen', 'yes')","('tourist_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '56164')"
+11356,20,female,control,"('control_A_chosen', 'no')","('control_B_chosen', 'yes')","('control_C_chosen', 'yes')","('none_chosen', 'no')","('_REACTION_TIME_', '43708')",
+12049,20,female,instructions,"('dummy_checkbox_', 'yes')","('_REACTION_TIME_', '20533')",,,,
+12049,20,female,train,"('control_A_chosen', 'no')","('control_B_chosen', 'yes')","('control_C_chosen', 'no')","('none_chosen', 'no')","('_REACTION_TIME_', '26036')",
+12049,20,female,train,"('control_A_chosen', 'no')","('control_B_chosen', 'no')","('control_C_chosen', 'no')","('none_chosen', 'yes')","('_REACTION_TIME_', '37132')",
+12049,20,female,train_end,"('dummy_checkbox_', 'yes')","('_REACTION_TIME_', '3717')",,,,
+12049,20,female,low,"('answers_reported', '')","('friend_A_chosen', 'yes')","('friend_B_chosen', 'yes')","('friend_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '36380')"
+12049,20,female,high,"('answers_reported', '')","('investigator_A_chosen', 'yes')","('investigator_B_chosen', 'yes')","('investigator_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '38108')"
+12049,20,female,control,"('control_A_chosen', 'yes')","('control_B_chosen', 'yes')","('control_C_chosen', 'yes')","('none_chosen', 'no')","('_REACTION_TIME_', '29940')",
+12049,20,female,low,"('answers_reported', '')","('friend_A_chosen', 'yes')","('friend_B_chosen', 'yes')","('friend_C_chosen', 'no')","('no_one_chosen', 'no')","('_REACTION_TIME_', '19013')"
+12049,20,female,high,"('answers_reported', '')","('inspector_A_chosen', 'no')","('inspector_B_chosen', 'no')","('inspector_C_chosen', 'no')","('no_one_chosen', 'yes')","('_REACTION_TIME_', '24299')"
+12049,20,female,control,"('control_A_chosen', 'yes')","('control_B_chosen', 'yes')","('control_C_chosen', 'no')","('none_chosen', 'no')","('_REACTION_TIME_', '34717')",
+12049,20,female,low,"('answers_reported', '')","('friend_A_chosen', 'yes')","('friend_B_chosen', 'yes')","('friend_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '14332')"
+12049,20,female,high,"('answers_reported', '')","('advisor_A_chosen', 'no')","('advisor_B_chosen', 'no')","('advisor_C_chosen', 'no')","('no_one_chosen', 'yes')","('_REACTION_TIME_', '20252')"
+12049,20,female,low,"('answers_reported', '')","('consultant_A_chosen', 'yes')","('consultant_B_chosen', 'yes')","('consultant_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '20373')"
+12049,20,female,control,"('control_A_chosen', 'no')","('control_B_chosen', 'no')","('control_C_chosen', 'yes')","('none_chosen', 'no')","('_REACTION_TIME_', '33628')",
+12049,20,female,high,"('answers_reported', '')","('firefighter_A_chosen', 'no')","('firefighter_B_chosen', 'no')","('firefighter_C_chosen', 'no')","('no_one_chosen', 'yes')","('_REACTION_TIME_', '12173')"
+12049,20,female,low,"('answers_reported', '')","('friend_A_chosen', 'yes')","('friend_B_chosen', 'yes')","('friend_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '9172')"
+12049,20,female,high,"('answers_reported', '')","('tourist_A_chosen', 'no')","('tourist_B_chosen', 'no')","('tourist_C_chosen', 'no')","('no_one_chosen', 'yes')","('_REACTION_TIME_', '22244')"
+12049,20,female,control,"('control_A_chosen', 'no')","('control_B_chosen', 'no')","('control_C_chosen', 'yes')","('none_chosen', 'no')","('_REACTION_TIME_', '38004')",
+11437,28,male,instructions,"('dummy_checkbox_', 'yes')","('_REACTION_TIME_', '13767')",,,,
+11437,28,male,train,"('control_A_chosen', 'no')","('control_B_chosen', 'yes')","('control_C_chosen', 'yes')","('none_chosen', 'no')","('_REACTION_TIME_', '30259')",
+11437,28,male,train,"('control_A_chosen', 'no')","('control_B_chosen', 'no')","('control_C_chosen', 'no')","('none_chosen', 'yes')","('_REACTION_TIME_', '39140')",
+11437,28,male,train_end,"('dummy_checkbox_', 'yes')","('_REACTION_TIME_', '2062')",,,,
+11437,28,male,low,"('answers_reported', '')","('friend_A_chosen', 'no')","('friend_B_chosen', 'yes')","('friend_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '42231')"
+11437,28,male,high,"('answers_reported', '')","('firefighter_A_chosen', 'yes')","('firefighter_B_chosen', 'no')","('firefighter_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '61232')"
+11437,28,male,low,"('answers_reported', '')","('consultant_A_chosen', 'yes')","('consultant_B_chosen', 'yes')","('consultant_C_chosen', 'no')","('no_one_chosen', 'no')","('_REACTION_TIME_', '29164')"
+11437,28,male,control,"('control_A_chosen', 'no')","('control_B_chosen', 'no')","('control_C_chosen', 'no')","('none_chosen', 'yes')","('_REACTION_TIME_', '37914')",
+11437,28,male,high,"('answers_reported', '')","('tourist_A_chosen', 'yes')","('tourist_B_chosen', 'no')","('tourist_C_chosen', 'no')","('no_one_chosen', 'no')","('_REACTION_TIME_', '44326')"
+11437,28,male,low,"('answers_reported', '')","('friend_A_chosen', 'yes')","('friend_B_chosen', 'no')","('friend_C_chosen', 'no')","('no_one_chosen', 'no')","('_REACTION_TIME_', '25882')"
+11437,28,male,control,"('control_A_chosen', 'no')","('control_B_chosen', 'yes')","('control_C_chosen', 'yes')","('none_chosen', 'no')","('_REACTION_TIME_', '44029')",
+11437,28,male,high,"('answers_reported', '')","('advisor_A_chosen', 'yes')","('advisor_B_chosen', 'no')","('advisor_C_chosen', 'no')","('no_one_chosen', 'no')","('_REACTION_TIME_', '30402')"
+11437,28,male,low,"('answers_reported', '')","('friend_A_chosen', 'yes')","('friend_B_chosen', 'yes')","('friend_C_chosen', 'no')","('no_one_chosen', 'no')","('_REACTION_TIME_', '33524')"
+11437,28,male,high,"('answers_reported', '')","('inspector_A_chosen', 'no')","('inspector_B_chosen', 'no')","('inspector_C_chosen', 'no')","('no_one_chosen', 'yes')","('_REACTION_TIME_', '30204')"
+11437,28,male,control,"('control_A_chosen', 'yes')","('control_B_chosen', 'yes')","('control_C_chosen', 'no')","('none_chosen', 'no')","('_REACTION_TIME_', '37412')",
+11437,28,male,low,"('answers_reported', '')","('friend_A_chosen', 'yes')","('friend_B_chosen', 'yes')","('friend_C_chosen', 'no')","('no_one_chosen', 'no')","('_REACTION_TIME_', '24005')"
+11437,28,male,high,"('answers_reported', '')","('investigator_A_chosen', 'no')","('investigator_B_chosen', 'yes')","('investigator_C_chosen', 'no')","('no_one_chosen', 'no')","('_REACTION_TIME_', '28516')"
+11437,28,male,control,"('control_A_chosen', 'no')","('control_B_chosen', 'no')","('control_C_chosen', 'no')","('none_chosen', 'yes')","('_REACTION_TIME_', '24765')",
+dsaf,23,female,instructions,"('dummy_checkbox_', 'yes')","('_REACTION_TIME_', '3185')",,,,
+dsaf,23,female,train,"('control_A_chosen', 'no')","('control_B_chosen', 'no')","('control_C_chosen', 'yes')","('none_chosen', 'no')","('_REACTION_TIME_', '4604')",
+dsaf,23,female,train,"('control_A_chosen', 'no')","('control_B_chosen', 'yes')","('control_C_chosen', 'no')","('none_chosen', 'no')","('_REACTION_TIME_', '1985')",
+dsaf,23,female,train_end,"('dummy_checkbox_', 'yes')","('_REACTION_TIME_', '34437')",,,,
+dsaf,23,female,low,"('answers_reported', 'placeholderFriend 1 says%2C ""Diner C.""%2CFriend 2 says%2C ""Diners A and E.""%2CFriend 3 says%2C ""Diners C and F.""')","('friend_A_chosen', 'no')","('friend_B_chosen', 'no')","('friend_C_chosen', 'no')","('no_one_chosen', 'yes')","('_REACTION_TIME_', '3159')"
+dsaf,23,female,high,"('answers_reported', 'placeholderAdvisor 1 says%2C ""Stores A and F.""%2CAdvisor 2 says%2C ""Store E.""%2CAdvisor 3 says%2C ""Store F.""')","('advisor_A_chosen', 'no')","('advisor_B_chosen', 'no')","('advisor_C_chosen', 'no')","('no_one_chosen', 'yes')","('_REACTION_TIME_', '5337')"
+dsaf,23,female,low,"('answers_reported', 'placeholderBrother 1 says%2C ""Market C.""%2CBrother 2 says%2C ""Markets A and B.""%2CBrother 3 says%2C ""Markets C and D.""')","('friend_A_chosen', 'no')","('friend_B_chosen', 'yes')","('friend_C_chosen', 'no')","('no_one_chosen', 'no')","('_REACTION_TIME_', '3396')"
+dsaf,23,female,control,"('control_A_chosen', 'no')","('control_B_chosen', 'yes')","('control_C_chosen', 'no')","('none_chosen', 'no')","('_REACTION_TIME_', '6098')",
+dsaf,23,female,high,"('answers_reported', 'placeholderFirefighter 1 says%2C ""The fifth floor.""%2CFirefighter 2 says%2C ""The fourth and sixth floors.""%2CFirefighter 3 says%2C ""The fifth and second floors.""')","('firefighter_A_chosen', 'no')","('firefighter_B_chosen', 'no')","('firefighter_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '1651')"
+dsaf,23,female,low,"('answers_reported', 'placeholderClassmate 1 says%2C ""Cafes E and B.""%2CClassmate 2 says%2C ""Cafes F and D.""%2CClassmate 3 says%2C ""Cafes E%2C B%2C F%2C C and D.""')","('friend_A_chosen', 'yes')","('friend_B_chosen', 'no')","('friend_C_chosen', 'no')","('no_one_chosen', 'no')","('_REACTION_TIME_', '1617')"
+dsaf,23,female,control,"('control_A_chosen', 'no')","('control_B_chosen', 'no')","('control_C_chosen', 'no')","('none_chosen', 'yes')","('_REACTION_TIME_', '1803')",
+dsaf,23,female,high,"('answers_reported', 'placeholderInspector 1 says%2C ""Restaurant A.""%2CInspector 2 says%2C ""Restaurants A and B.""%2CInspector 3 says%2C ""Restaurants C and E.""')","('inspector_A_chosen', 'no')","('inspector_B_chosen', 'yes')","('inspector_C_chosen', 'no')","('no_one_chosen', 'no')","('_REACTION_TIME_', '1879')"
+dsaf,23,female,low,"('answers_reported', 'placeholderCousin 1 says%2C ""Locations A and D.""%2CCousin 2 says%2C ""Location A.""%2CCousin 3 says%2C ""Locations D and F.""')","('friend_A_chosen', 'no')","('friend_B_chosen', 'yes')","('friend_C_chosen', 'no')","('no_one_chosen', 'no')","('_REACTION_TIME_', '9875')"
+dsaf,23,female,high,"('answers_reported', 'placeholderInvestigator 1 says%2C ""Place F.""%2CInvestigator 2 says%2C ""Places F%2C A%2C B%2C C and E.""%2CInvestigator 3 says%2C ""Places F and A.""')","('investigator_A_chosen', 'yes')","('investigator_B_chosen', 'yes')","('investigator_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '3648')"
+dsaf,23,female,control,"('control_A_chosen', 'no')","('control_B_chosen', 'no')","('control_C_chosen', 'no')","('none_chosen', 'yes')","('_REACTION_TIME_', '2401')",
+dsaf,23,female,low,"('answers_reported', 'placeholderCoworker 1 says%2C ""Studios F and E.""%2CCoworker 2 says%2C ""Studio B.""%2CCoworker 3 says%2C ""Studio F.""')","('consultant_A_chosen', 'no')","('consultant_B_chosen', 'no')","('consultant_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '1934')"
+dsaf,23,female,high,"('answers_reported', 'placeholderOperative 1 says%2C ""The Northeast and Southwest districts.""%2COperative 2 says%2C ""The Northeast%2C Southwest%2C South%2C Southeast and North districts.""%2COperative 3 says%2C ""The South and North districts.""')","('tourist_A_chosen', 'no')","('tourist_B_chosen', 'no')","('tourist_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '1549')"
+dsaf,23,female,control,"('control_A_chosen', 'no')","('control_B_chosen', 'yes')","('control_C_chosen', 'yes')","('none_chosen', 'no')","('_REACTION_TIME_', '4031')",
+jrs465,21,male,instructions,"('dummy_checkbox_', 'yes')","('_REACTION_TIME_', '14863')",,,,
+jrs465,21,male,train,"('control_A_chosen', 'no')","('control_B_chosen', 'no')","('control_C_chosen', 'no')","('none_chosen', 'yes')","('_REACTION_TIME_', '50108')",
+jrs465,21,male,train,"('control_A_chosen', 'no')","('control_B_chosen', 'yes')","('control_C_chosen', 'yes')","('none_chosen', 'no')","('_REACTION_TIME_', '64652')",
+jrs465,21,male,train_end,"('dummy_checkbox_', 'yes')","('_REACTION_TIME_', '1997')",,,,
+jrs465,21,male,low,"('answers_reported', '')","('consultant_A_chosen', 'yes')","('consultant_B_chosen', 'yes')","('consultant_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '38043')"
+jrs465,21,male,high,"('answers_reported', '')","('tourist_A_chosen', 'yes')","('tourist_B_chosen', 'yes')","('tourist_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '73162')"
+jrs465,21,male,low,"('answers_reported', '')","('friend_A_chosen', 'yes')","('friend_B_chosen', 'yes')","('friend_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '43002')"
+jrs465,21,male,control,"('control_A_chosen', 'no')","('control_B_chosen', 'yes')","('control_C_chosen', 'no')","('none_chosen', 'no')","('_REACTION_TIME_', '73945')",
+jrs465,21,male,high,"('answers_reported', '')","('firefighter_A_chosen', 'yes')","('firefighter_B_chosen', 'yes')","('firefighter_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '45596')"
+jrs465,21,male,low,"('answers_reported', '')","('friend_A_chosen', 'yes')","('friend_B_chosen', 'yes')","('friend_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '31081')"
+jrs465,21,male,control,"('control_A_chosen', 'yes')","('control_B_chosen', 'yes')","('control_C_chosen', 'no')","('none_chosen', 'no')","('_REACTION_TIME_', '41279')",
+jrs465,21,male,high,"('answers_reported', '')","('investigator_A_chosen', 'yes')","('investigator_B_chosen', 'yes')","('investigator_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '33756')"
+jrs465,21,male,low,"('answers_reported', '')","('friend_A_chosen', 'yes')","('friend_B_chosen', 'yes')","('friend_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '27044')"
+jrs465,21,male,high,"('answers_reported', '')","('inspector_A_chosen', 'no')","('inspector_B_chosen', 'yes')","('inspector_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '95002')"
+jrs465,21,male,control,"('control_A_chosen', 'yes')","('control_B_chosen', 'yes')","('control_C_chosen', 'no')","('none_chosen', 'no')","('_REACTION_TIME_', '29532')",
+jrs465,21,male,low,"('answers_reported', '')","('friend_A_chosen', 'yes')","('friend_B_chosen', 'yes')","('friend_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '30740')"
+jrs465,21,male,high,"('answers_reported', '')","('advisor_A_chosen', 'yes')","('advisor_B_chosen', 'yes')","('advisor_C_chosen', 'no')","('no_one_chosen', 'no')","('_REACTION_TIME_', '29084')"
+jrs465,21,male,control,"('control_A_chosen', 'yes')","('control_B_chosen', 'no')","('control_C_chosen', 'no')","('none_chosen', 'no')","('_REACTION_TIME_', '21245')",
+11026,23,female,instructions,"('dummy_checkbox_', 'yes')","('_REACTION_TIME_', '25533')",,,,
+11026,23,female,train,"('control_A_chosen', 'no')","('control_B_chosen', 'no')","('control_C_chosen', 'no')","('none_chosen', 'yes')","('_REACTION_TIME_', '54019')",
+11026,23,female,train,"('control_A_chosen', 'no')","('control_B_chosen', 'no')","('control_C_chosen', 'yes')","('none_chosen', 'no')","('_REACTION_TIME_', '38436')",
+11026,23,female,train_end,"('dummy_checkbox_', 'yes')","('_REACTION_TIME_', '3910')",,,,
+11026,23,female,high,"('answers_reported', '')","('inspector_A_chosen', 'yes')","('inspector_B_chosen', 'no')","('inspector_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '106051')"
+11026,23,female,low,"('answers_reported', '')","('friend_A_chosen', 'yes')","('friend_B_chosen', 'no')","('friend_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '48460')"
+11026,23,female,control,"('control_A_chosen', 'yes')","('control_B_chosen', 'no')","('control_C_chosen', 'no')","('none_chosen', 'no')","('_REACTION_TIME_', '56548')",
+11026,23,female,high,"('answers_reported', '')","('tourist_A_chosen', 'no')","('tourist_B_chosen', 'yes')","('tourist_C_chosen', 'no')","('no_one_chosen', 'no')","('_REACTION_TIME_', '106939')"
+11026,23,female,low,"('answers_reported', '')","('friend_A_chosen', 'no')","('friend_B_chosen', 'no')","('friend_C_chosen', 'no')","('no_one_chosen', 'yes')","('_REACTION_TIME_', '69259')"
+11026,23,female,control,"('control_A_chosen', 'no')","('control_B_chosen', 'yes')","('control_C_chosen', 'no')","('none_chosen', 'no')","('_REACTION_TIME_', '72476')",
+11026,23,female,high,"('answers_reported', '')","('investigator_A_chosen', 'no')","('investigator_B_chosen', 'no')","('investigator_C_chosen', 'no')","('no_one_chosen', 'yes')","('_REACTION_TIME_', '69659')"
+11026,23,female,low,"('answers_reported', '')","('friend_A_chosen', 'no')","('friend_B_chosen', 'yes')","('friend_C_chosen', 'no')","('no_one_chosen', 'no')","('_REACTION_TIME_', '33820')"
+11026,23,female,high,"('answers_reported', '')","('firefighter_A_chosen', 'no')","('firefighter_B_chosen', 'no')","('firefighter_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '42244')"
+11026,23,female,control,"('control_A_chosen', 'yes')","('control_B_chosen', 'no')","('control_C_chosen', 'no')","('none_chosen', 'no')","('_REACTION_TIME_', '42053')",
+11026,23,female,low,"('answers_reported', '')","('friend_A_chosen', 'no')","('friend_B_chosen', 'no')","('friend_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '28420')"
+11026,23,female,high,"('answers_reported', '')","('advisor_A_chosen', 'yes')","('advisor_B_chosen', 'no')","('advisor_C_chosen', 'no')","('no_one_chosen', 'no')","('_REACTION_TIME_', '25469')"
+11026,23,female,low,"('answers_reported', '')","('consultant_A_chosen', 'yes')","('consultant_B_chosen', 'no')","('consultant_C_chosen', 'no')","('no_one_chosen', 'no')","('_REACTION_TIME_', '39404')"
+11026,23,female,control,"('control_A_chosen', 'no')","('control_B_chosen', 'yes')","('control_C_chosen', 'no')","('none_chosen', 'no')","('_REACTION_TIME_', '60252')",
+11026,23,female,exit_quest,"('know_conditons', 'Somebody knows something if they list the correct response first.\xc2\xa0')","('difficult', 'I found this task a bit difficult just because of the scenarios where people would list all the answers. Of course during a fire%2C the firefighters would want to search every building. However%2C when it came to drinking coffee at a good coffee shop%2C the person would not technically go to every coffee shop but the best one.\xc2\xa0')","('anything_else', '')","('dummy_checkbox_', 'yes')","('_REACTION_TIME_', '385694')",
+2017-102,21,female,instructions,"('dummy_checkbox_', 'yes')","('_REACTION_TIME_', '12614')",,,,
+2017-102,21,female,train,"('control_A_chosen', 'no')","('control_B_chosen', 'no')","('control_C_chosen', 'no')","('none_chosen', 'yes')","('_REACTION_TIME_', '48707')",
+2017-102,21,female,train,"('control_A_chosen', 'no')","('control_B_chosen', 'yes')","('control_C_chosen', 'yes')","('none_chosen', 'no')","('_REACTION_TIME_', '65868')",
+2017-102,21,female,train_end,"('dummy_checkbox_', 'yes')","('_REACTION_TIME_', '3686')",,,,
+2017-102,21,female,low,"('answers_reported', '')","('friend_A_chosen', 'yes')","('friend_B_chosen', 'yes')","('friend_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '51972')"
+2017-102,21,female,high,"('answers_reported', '')","('investigator_A_chosen', 'yes')","('investigator_B_chosen', 'yes')","('investigator_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '38628')"
+2017-102,21,female,control,"('control_A_chosen', 'no')","('control_B_chosen', 'no')","('control_C_chosen', 'no')","('none_chosen', 'yes')","('_REACTION_TIME_', '84939')",
+2017-102,21,female,low,"('answers_reported', '')","('friend_A_chosen', 'yes')","('friend_B_chosen', 'yes')","('friend_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '39876')"
+2017-102,21,female,high,"('answers_reported', '')","('tourist_A_chosen', 'yes')","('tourist_B_chosen', 'yes')","('tourist_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '72099')"
+2017-102,21,female,control,"('control_A_chosen', 'yes')","('control_B_chosen', 'yes')","('control_C_chosen', 'no')","('none_chosen', 'no')","('_REACTION_TIME_', '65996')",
+2017-102,21,female,low,"('answers_reported', '')","('friend_A_chosen', 'yes')","('friend_B_chosen', 'yes')","('friend_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '31324')"
+2017-102,21,female,high,"('answers_reported', '')","('advisor_A_chosen', 'yes')","('advisor_B_chosen', 'yes')","('advisor_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '31277')"
+2017-102,21,female,low,"('answers_reported', '')","('consultant_A_chosen', 'yes')","('consultant_B_chosen', 'yes')","('consultant_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '27500')"
+2017-102,21,female,control,"('control_A_chosen', 'yes')","('control_B_chosen', 'yes')","('control_C_chosen', 'yes')","('none_chosen', 'no')","('_REACTION_TIME_', '68812')",
+2017-102,21,female,high,"('answers_reported', '')","('inspector_A_chosen', 'yes')","('inspector_B_chosen', 'yes')","('inspector_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '17132')"
+2017-102,21,female,low,"('answers_reported', '')","('friend_A_chosen', 'yes')","('friend_B_chosen', 'yes')","('friend_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '19972')"
+2017-102,21,female,high,"('answers_reported', '')","('firefighter_A_chosen', 'yes')","('firefighter_B_chosen', 'yes')","('firefighter_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '31940')"
+2017-102,21,female,control,"('control_A_chosen', 'yes')","('control_B_chosen', 'yes')","('control_C_chosen', 'no')","('none_chosen', 'no')","('_REACTION_TIME_', '37573')",
+2017-102,21,female,exit_quest,"('know_conditons', 'if the person could provide correct details of the thing')","('difficult', 'no. But the questions and options are a bit vague\xc2\xa0')","('anything_else', 'none\xc2\xa0')","('dummy_checkbox_', 'yes')","('_REACTION_TIME_', '79980')",
+10021,27,male,instructions,"('dummy_checkbox_', 'yes')","('_REACTION_TIME_', '29716')",,,,
+10021,27,male,train,"('train_f_A_chosen', 'no')","('train_f_B_chosen', 'no')","('train_f_C_chosen', 'no')","('none_chosen', 'yes')","('_REACTION_TIME_', '72352')",
+10021,27,male,train,"('train_m_A_chosen', 'no')","('train_m_B_chosen', 'no')","('train_m_C_chosen', 'no')","('none_chosen', 'yes')","('_REACTION_TIME_', '155059')",
+10021,27,male,train_end,"('dummy_checkbox_', 'yes')","('_REACTION_TIME_', '2439')",,,,
+10021,27,male,high,"('answers_reported', '')","('firefighter_A_chosen', 'yes')","('firefighter_B_chosen', 'yes')","('firefighter_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '147159')"
+10021,27,male,low,"('answers_reported', '')","('coffee_classmate_A_chosen', 'yes')","('coffee_classmate_B_chosen', 'yes')","('coffee_classmate_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '68983')"
+10021,27,male,control,"('what_A_chosen', 'yes')","('what_B_chosen', 'yes')","('what_C_chosen', 'no')","('none_chosen', 'no')","('_REACTION_TIME_', '41378')",
+10021,27,male,high,"('answers_reported', '')","('operative_A_chosen', 'yes')","('operative_B_chosen', 'yes')","('operative_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '104569')"
+10021,27,male,low,"('answers_reported', '')","('pic_cousin_A_chosen', 'yes')","('pic_cousin_B_chosen', 'no')","('pic_cousin_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '63981')"
+10021,27,male,control,"('when_A_chosen', 'no')","('when_B_chosen', 'no')","('when_C_chosen', 'yes')","('none_chosen', 'no')","('_REACTION_TIME_', '97118')",
+10021,27,male,high,"('answers_reported', '')","('fbi_investigator_A_chosen', 'no')","('fbi_investigator_B_chosen', 'yes')","('fbi_investigator_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '88642')"
+10021,27,male,low,"('answers_reported', '')","('brother_A_chosen', 'yes')","('brother_B_chosen', 'yes')","('brother_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '50398')"
+10021,27,male,high,"('answers_reported', '')","('inspector_A_chosen', 'yes')","('inspector_B_chosen', 'yes')","('inspector_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '94180')"
+10021,27,male,control,"('why_A_chosen', 'yes')","('why_B_chosen', 'yes')","('why_C_chosen', 'no')","('none_chosen', 'no')","('_REACTION_TIME_', '79702')",
+10021,27,male,low,"('answers_reported', '')","('la_friend_A_chosen', 'yes')","('la_friend_B_chosen', 'yes')","('la_friend_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '46884')"
+10021,27,male,high,"('answers_reported', '')","('terrorism_advisor_A_chosen', 'yes')","('terrorism_advisor_B_chosen', 'yes')","('terrorism_advisor_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '94525')"
+10021,27,male,low,"('answers_reported', '')","('yoga_coworker_A_chosen', 'yes')","('yoga_coworker_B_chosen', 'yes')","('yoga_coworker_C_chosen', 'yes')","('no_one_chosen', 'no')","('_REACTION_TIME_', '38143')"
+10021,27,male,control,"('how_guest_A_chosen', 'no')","('how_guest_B_chosen', 'yes')","('how_guest_C_chosen', 'yes')","('none_chosen', 'no')","('_REACTION_TIME_', '93564')",
+10021,27,male,exit_quest,"('know_conditons', 'When their statement is true or partially true.')","('difficult', 'Some questions seemed more difficult than others because specific contexts and their hypothetical consequences carry different weights and implications. \xc2\xa0')","('anything_else', 'N/A')","('dummy_checkbox_', 'yes')","('_REACTION_TIME_', '274808')",

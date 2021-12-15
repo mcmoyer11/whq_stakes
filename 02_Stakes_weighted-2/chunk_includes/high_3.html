@@ -1,0 +1,121 @@
+<style>
+    label {
+        display: inline-block;
+        margin-bottom: 8px;
+    }
+    a.left {
+        padding-right: 5px;
+    }
+    a.right {
+        padding-left: 5px;
+    }
+    body {
+        font-size: 18px;
+    }
+</style>
+<div align="center">
+    <div id="trialDiv">
+
+<div id="storyDiv", style="width: 40em;">
+    <p>Violent protests have erupted throughout the city due to recent legislation from the corrupt government.
+      Several intellectuals have been seized and unlawfully detained for questioning in several parts of the city.
+      In actuality, the following list shows where captured intellectuals are held within the city.
+  </p>
+
+    <ul style="list-style: none">
+        <li>The Northeast district houses the most, at 10 captured intellectuals,</li>
+        <li>the Southwest district houses 8,</li>
+        <li>the South district houses 5,</li>
+        <li>the Southeast district, 2,</li>
+        <li>the North district has the least, only a single captured intellectual, and finally</li>
+        <li>the West district has none.</li>
+    </ul>
+
+<p>An anti-government group plans to break the captured intellectuals free before they are tried and inevitably executed.
+  The leader asks three of her top operatives, "Where should we go to rescue these prisoners?"</p>
+
+</div>
+
+        <table cellpadding="10" cellspacing="4">
+        <tr>
+          <td align="center">Who knows where to rescue the prisoners? (Choose all that apply)</td><br>
+        </tr>
+        <tr class="bordered">
+        <td align="center">
+            <label for="operative_a"><input type="checkbox" id="operative_a" name="operative_A_chosen" value="Tourist A" ><span>Operative 1</span></label>
+            <label for="operative_b"><input type="checkbox" id="operative_b" name="operative_B_chosen" value="Tourist B" ><span>Operative 2</span></label>
+            <label for="operative_c"><input type="checkbox" id="operative_c" name="operative_C_chosen" value="Tourist C" ><span>Operative 3</span></label>
+            <label for="no_one"><input type="checkbox" id="no_one" name="no_one_chosen" value="No one"><span>No one</span></label>
+        </td>
+
+    </tr>
+
+</table>
+</div>
+</div>
+
+<div id = "answer_report_div" style="visibility: hidden">
+</div>
+
+<!--end html-->
+
+<script type="text/javascript">
+
+
+
+    String.prototype.format = function() {
+    var s = this,
+        i = arguments.length;
+
+    while (i--) {
+        s = s.replace(new RegExp('\\{' + i + '\\}', 'gm'), arguments[i]);
+    }
+    return s;
+    };
+
+   var storyDiv = document.getElementById('storyDiv');
+
+   // the array of possible answers
+   var answers = Array('The Northeast, Southwest, South, Southeast and North districts.', 'The Northeast district.',
+                  'The Northeast and Southwest districts.', 'The South and North districts.', 'The North district.', 'The West district.');
+
+   var weights = Array(10,20,20,20,20,10);
+   
+   var answers_array = Array();
+
+   for ( i = 0; i < 3; i++) {
+       answers_array.push(pickUsingWeightsAndRemove(answers,weights));
+   }
+     
+   var operative_A_answer = 'Operative 1 says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   var operative_B_answer = 'Operative 2 says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   var operative_C_answer = 'Operative 3 says, "{0}{1}'.format(answers_array.splice(Math.floor(Math.random()*answers_array.length),1),'"')
+   //
+   var answer1 = document.createElement('p');
+   var ans1node = document.createTextNode(operative_A_answer);
+   answer1.appendChild(ans1node);
+   storyDiv.appendChild(answer1);
+
+   var answer2 = document.createElement('p');
+   var ans2node = document.createTextNode(operative_B_answer);
+   answer2.appendChild(ans2node);
+   storyDiv.appendChild(answer2);
+
+   var answer3 = document.createElement('p');
+   var ans3node = document.createTextNode(operative_C_answer);
+   answer3.appendChild(ans3node);
+   storyDiv.appendChild(answer3);
+
+   // create a textarea element that will hold the answer values for this trial
+   var answer_report = document.createElement('textarea');
+   answer_report.id = "answer_report";
+   answer_report.setAttribute("name","answers_reported")
+   answer_report.setAttribute("placeholder","{0},{1},{2}".format(operative_A_answer,operative_B_answer,operative_C_answer));
+
+   // append it to the hidden answer_report div in the body HTML
+   document.getElementById("answer_report_div").appendChild(answer_report);
+   document.getElementById("answer_report").append("placeholder","{0},{1},{2}".format(operative_A_answer,operative_B_answer,operative_C_answer));
+
+
+
+</script>
